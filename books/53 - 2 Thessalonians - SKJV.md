@@ -6,13 +6,13 @@
 
 2 Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 
-3 We are bound to thank God always for you, brethren, as it is meet, because that your faith grows exceedingly, and the love of every one of you all toward each other abounds;
+3 We are bound to thank God always for you, brothers, as it is meet, because that your faith grows exceedingly, and the love of every one of you all toward each other abounds;
 
-4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that you endure:
+4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and sufferings that you endure:
 
 5 Which is a manif token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
 
-6 Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;
+6 Seeing it is a righteous thing with God to repay suffering to them that trouble you;
 
 7 And to you who are troubled r with us, when the Lord Jesus will be revealed from heaven with his mighty angels,
 
@@ -28,7 +28,7 @@
 
 ## 2 Thessalonians Chapter 2
 
-1 Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together to him,
+1 Now we urge you, brothers, by the coming of our Lord Jesus Christ, and by our gathering together to him,
 
 2 That you be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
 
@@ -52,19 +52,19 @@
 
 12 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-13 But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
+13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
 
 14 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
-15 Therefore, brethren, stand fast, and hold the traditions which you have been taught, whether by word, or our epistle.
+15 Therefore, brothers, stand fast, and hold the traditions which you have been taught, whether by word, or our epistle.
 
-16 Now our Lord Jesus Christ himself, and God, even our Father, which has loved us, and has given us everlasting consolation and good hope through grace,
+16 Now our Lord Jesus Christ himself, and God, even our Father, which has loved us, and has given us everlasting comfort and good hope through grace,
 
 17 Comfort your hearts, and stablish you in every good word and work.
 
 ## 2 Thessalonians Chapter 3
 
-1 Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
+1 Finally, brothers, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
 
 2 And that we may be delivered from unreasonable and wicked men: for all men have not faith.
 
@@ -74,21 +74,21 @@
 
 5 And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
 
-6 Now we command you, brethren, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother that walks disorderly, and not after the tradition which he received of us.
+6 Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother that walks disorderly, and not after the tradition which he received of us.
 
 7 For yourselves know how you ought to follow us: for we behaved not ourselves disorderly among you;
 
 8 Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
 
-9 Not because we have not power, but to make ourselves an ensample to you to follow us.
+9 Not because we have not power, but to make ourselves an example to you to follow us.
 
 10 For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 
 11 For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
 
-12 Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
+12 Now them that are such we command and encourage by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
-13 But you, brethren, be not weary in well doing.
+13 But you, brothers, be not weary in well doing.
 
 14 And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.
 
@@ -96,7 +96,7 @@
 
 16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 
-17 The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
+17 The greeting of Paul with mine own hand, which is the token in every epistle: so I write.
 
 18 The grace of our Lord Jesus Christ be with you all. Amen.
 

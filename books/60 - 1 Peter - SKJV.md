@@ -12,7 +12,7 @@
 
 5 Who are kept by the power of God through faith to salvation ready to be revealed in the last time.
 
-6 Wherein you greatly rejoice, though now for a season, if need be, you are in heaviness through manifold temptations:
+6 In which you greatly rejoice, though now for a season, if need be, you are in heaviness through manifold temptations:
 
 7 That the trial of your faith, being much more precious than of gold that perishs, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
 
@@ -34,29 +34,29 @@
 
 16 Because it is written, Be you holy; for I am holy.
 
-17 And if you call on the Father, who without respect of persons judgs according to every man's work, pass the time of your sojourning here in fear:
+17 And if you call on the Father, who without respect of persons judges according to every man's work, pass the time of your sojourning here in fear:
 
-18 Forasmuch as you know that you were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
+18 Since as you know that you were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
 
 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
-20 Who verily was foreordained before the foundation of the world, but was manif in these last times for you,
+20 Who truly was foreordained before the foundation of the world, but was manif in these last times for you,
 
 21 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 
-22 Seeing you have purified your souls in obeying the truth through the Spirit to unfeigned love of the brethren, see that you love one another with a pure heart fervently:
+22 Seeing you have purified your souls in obeying the truth through the Spirit to unfeigned love of the brothers, see that you love one another with a pure heart fervently:
 
-23 Being born again, not of corruptible seed, but of incorruptible, by the word of God, which livs and abids for ever.
+23 Being born again, not of corruptible seed, but of incorruptible, by the word of God, which lives and abides for ever.
 
-24 For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers, and the flower thereof falls away:
+24 For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers, and the flower of it falls away:
 
-25 But the word of the Lord endurs for ever. And this is the word which by the gospel is preached to you.
+25 But the word of the Lord endures for ever. And this is the word which by the gospel is preached to you.
 
 ## 1 Peter Chapter 2
 
 1 therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 
-2 As newborn babes, desire the sincere milk of the word, that you may grow thereby:
+2 As newborn babes, desire the sincere milk of the word, that you may grow by that:
 
 3 If so be you have tasted that the Lord is gracious.
 
@@ -64,17 +64,17 @@
 
 5 you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
-6 therefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believs on him will not be confounded.
+6 therefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believes on him will not be confounded.
 
 7 to you therefore which believe he is precious: but to them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 
 8 And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.
 
-9 But you are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that you should shew forth the praises of him who has called you out of darkness into his marvellous light;
+9 But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should shew forth the praises of him who has called you out of darkness into his marvellous light;
 
 10 Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
 
-11 Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
+11 Dearly beloved, I urge you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
 12 Having your conversation hon among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will behold, glorify God in the day of visitation.
 
@@ -88,17 +88,17 @@
 
 17 Honour all men. Love the brotherhood. Fear God. Honour the king.
 
-18 Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.
+18 Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the stubborn.
 
 19 For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.
 
 20 For what glory is it, if, when you be buffeted for your faults, you will take it patiently? but if, when you do well, and suffer for it, you take it patiently, this is acceptable with God.
 
-21 For even hereunto were you called: because Christ also suffered for us, leaving us an example, that you should follow his steps:
+21 For even for this purpose were you called: because Christ also suffered for us, leaving us an example, that you should follow his steps:
 
 22 Who did no sin, neither was guile found in his mouth:
 
-23 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgs righteously:
+23 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judges righteously:
 
 24 He personally carried our sins in His own body on the cross, so that we, having died to sin, can live for righteousness—by His wounds you were healed.
 
@@ -122,7 +122,7 @@
 
 7 Likewise, you husbands, dwell with them according to knowledge, giving honour to the wife, as to the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
-8 Finally, be you all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:
+8 Finally, be you all of one mind, having compassion one of another, love as brothers, be pitiful, be courteous:
 
 9 Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that you are thereunto called, that you should inherit a blessing.
 
@@ -146,7 +146,7 @@
 
 19 By which also he went and preached to the spirits in prison;
 
-20 Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
+20 Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, in which few, that is, eight souls were saved by water.
 
 21 The like figure whereunto even baptism does also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
@@ -154,13 +154,13 @@
 
 ## 1 Peter Chapter 4
 
-1 Forasmuch then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
+1 Since then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
 
 2 That he no longer should live the r of his time in the flesh to the lusts of men, but to the will of God.
 
 3 For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 
-4 Wherein they think it strange that you run not with them to the same excess of riot, speaking evil of you:
+4 In which they think it strange that you run not with them to the same excess of riot, speaking evil of you:
 
 5 Who will give account to him that is ready to judge the quick and the dead.
 
@@ -174,11 +174,11 @@
 
 10 As every man has received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
 
-11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God givs: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
+11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
 
 12 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened to you:
 
-13 But rejoice, inasmuch as you are partakers of Christ's sufferings; that, when his glory will be revealed, you may be glad also with exceeding joy.
+13 But rejoice, since as you are partakers of Christ's sufferings; that, when his glory will be revealed, you may be glad also with exceeding joy.
 
 14 If you be reproached for the name of Christ, happy are you; for the spirit of glory and of God rests upon you: on their part he is evil spoken of, but on your part he is glorified.
 
@@ -194,15 +194,15 @@
 
 ## 1 Peter Chapter 5
 
-1 The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:
+1 The elders which are among you I encourage, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:
 
-2 Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
+2 Feed the flock of God which is among you, taking the oversight of it, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
 
 3 Neither as being lords over God's heritage, but being examples to the flock.
 
 4 And when the chief Shepherd will appear, you will receive a crown of glory that fads not away.
 
-5 Likewise, you younger, submit yourselves to the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resists the proud, and givs grace to the humble.
+5 Likewise, you younger, submit yourselves to the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
 
 6 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 
@@ -210,13 +210,13 @@
 
 8 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour:
 
-9 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
+9 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brothers that are in the world.
 
 10 But the God of all grace, who has called us to his eternal glory by Christ Jesus, after that you have suffered a while, make you perfect, stablish, strengthen, settle you.
 
 11 To him be glory and dominion for ever and ever. Amen.
 
-12 By Silvanus, a faithful brother to you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein you stand.
+12 By Silvanus, a faithful brother to you, as I suppose, I have written briefly, encouraging, and testifying that this is the true grace of God in which you stand.
 
 13 The church that is at Babylon, elected together with you, saluts you; and so does Marcus my son.
 

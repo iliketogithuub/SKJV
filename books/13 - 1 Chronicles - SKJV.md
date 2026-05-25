@@ -20,13 +20,13 @@
 
 9 And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.
 
-10 And Cush begat Nimrod: he began to be mighty upon the earth.
+10 And Cush fathered Nimrod: he began to be mighty upon the earth.
 
-11 And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
+11 And Mizraim fathered Ludim, and Anamim, and Lehabim, and Naphtuhim,
 
 12 And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.
 
-13 And Canaan begat Zidon his firstborn, and Hs,
+13 And Canaan fathered Zidon his firstborn, and Hs,
 
 14 The Jebusite also, and the Amorite, and the Girgashite,
 
@@ -36,11 +36,11 @@
 
 17 The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 
-18 And Arphaxad begat Shelah, and Shelah begat Eber.
+18 And Arphaxad fathered Shelah, and Shelah fathered Eber.
 
 19 And to Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother's name was Joktan.
 
-20 And Joktan begat Almodad, and Sheleph, and Hazarmavs, and Jerah,
+20 And Joktan fathered Almodad, and Sheleph, and Hazarmavs, and Jerah,
 
 21 Hadoram also, and Uzal, and Diklah,
 
@@ -68,7 +68,7 @@
 
 33 And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah.
 
-34 And Abraham begat Isaac. The sons of Isaac; Esau and Israel.
+34 And Abraham fathered Isaac. The sons of Isaac; Esau and Israel.
 
 35 The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 
@@ -92,7 +92,7 @@
 
 45 And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.
 
-46 And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
+46 And when Husham was dead, Hadad the son of Bedad, which struck Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
 
 47 And when Hadad was dead, Samlah of Masrekah reigned in his stead.
 
@@ -124,19 +124,19 @@
 
 6 And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.
 
-7 And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.
+7 And the sons of Carmi; Achar, the troubler of Israel, who sinned in the thing accursed.
 
 8 And the sons of Ethan; Azariah.
 
 9 The sons also of Hezron, that were born to him; Jerahmeel, and Ram, and Chelubai.
 
-10 And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;
+10 And Ram fathered Amminadab; and Amminadab fathered Nahshon, prince of the children of Judah;
 
-11 And Nahshon begat Salma, and Salma begat Boaz,
+11 And Nahshon fathered Salma, and Salma fathered Boaz,
 
-12 And Boaz begat Obed, and Obed begat Jesse,
+12 And Boaz fathered Obed, and Obed fathered Jesse,
 
-13 And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
+13 And Jesse fathered his firstborn Eliab, and Abinadab the second, and Shimma the third,
 
 14 Nethaneel the fourth, Raddai the fifth,
 
@@ -146,17 +146,17 @@
 
 17 And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite.
 
-18 And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon.
+18 And Caleb the son of Hezron fathered children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon.
 
 19 And when Azubah was dead, Caleb took to him Ephrath, which bare him Hur.
 
-20 And Hur begat Uri, and Uri begat Bezaleel.
+20 And Hur fathered Uri, and Uri fathered Bezaleel.
 
 21 And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub.
 
-22 And Segub begat Jair, who had three and twenty cities in the land of Gilead.
+22 And Segub fathered Jair, who had three and twenty cities in the land of Gilead.
 
-23 And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead.
+23 And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns of it, even threescore cities. All these belonged to the sons of Machir the father of Gilead.
 
 24 And after that Hezron was dead in Calebephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa.
 
@@ -182,27 +182,27 @@
 
 35 And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.
 
-36 And Attai begat Nathan, and Nathan begat Zabad,
+36 And Attai fathered Nathan, and Nathan fathered Zabad,
 
-37 And Zabad begat Ephlal, and Ephlal begat Obed,
+37 And Zabad fathered Ephlal, and Ephlal fathered Obed,
 
-38 And Obed begat Jehu, and Jehu begat Azariah,
+38 And Obed fathered Jehu, and Jehu fathered Azariah,
 
-39 And Azariah begat Helez, and Helez begat Eleasah,
+39 And Azariah fathered Helez, and Helez fathered Eleasah,
 
-40 And Eleasah begat Sisamai, and Sisamai begat Shallum,
+40 And Eleasah fathered Sisamai, and Sisamai fathered Shallum,
 
-41 And Shallum begat Jekamiah, and Jekamiah begat Elishama.
+41 And Shallum fathered Jekamiah, and Jekamiah fathered Elishama.
 
 42 Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.
 
 43 And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 
-44 And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.
+44 And Shema fathered Raham, the father of Jorkoam: and Rekem fathered Shammai.
 
 45 And the son of Shammai was Maon: and Maon was the father of Bethzur.
 
-46 And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.
+46 And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran fathered Gazez.
 
 47 And the sons of Jahdai; Regem, and Jotham, and Gesham, and Pelet, and Ephah, and Shaaph.
 
@@ -276,7 +276,7 @@
 
 1 The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
 
-2 And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites.
+2 And Reaiah the son of Shobal fathered Jahath; and Jahath fathered Ahumai, and Lahad. These are the families of the Zorathites.
 
 3 And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi:
 
@@ -288,19 +288,19 @@
 
 7 And the sons of Helah were, Zers, and Jezoar, and Ethnan.
 
-8 And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.
+8 And Coz fathered Anub, and Zobebah, and the families of Aharhel the son of Harum.
 
-9 And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.
+9 And Jabez was more honourable than his brothers: and his mother called his name Jabez, saying, Because I bare him with sorrow.
 
 10 And Jabez called on the God of Israel, saying, Oh that you would bless me indeed, and enlarge my coast, and that your hand might be with me, and that you would keep me from evil, that it may not grieve me! And God granted him that which he requested.
 
-11 And Chelub the brother of Shuah begat Mehir, which was the father of Eshton.
+11 And Chelub the brother of Shuah fathered Mehir, which was the father of Eshton.
 
-12 And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These are the men of Rechah.
+12 And Eshton fathered Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These are the men of Rechah.
 
 13 And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
 
-14 And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.
+14 And Meonothai fathered Ophrah: and Seraiah fathered Joab, the father of the valley of Charashim; for they were craftsmen.
 
 15 And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.
 
@@ -326,7 +326,7 @@
 
 26 And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.
 
-27 And Shimei had sixteen sons and six daughters: but his brethren had not many children, neither did all their family multiply, like to the children of Judah.
+27 And Shimei had sixteen sons and six daughters: but his brothers had not many children, neither did all their family multiply, like to the children of Judah.
 
 28 And they dwelt at Beersheba, and Moladah, and Hazarshual,
 
@@ -354,17 +354,17 @@
 
 40 And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old.
 
-41 And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly to this day, and dwelt in their rooms: because there was pasture there for their flocks.
+41 And these written by name came in the days of Hezekiah king of Judah, and struck their tents, and the habitations that were found there, and destroyed them utterly to this day, and dwelt in their rooms: because there was pasture there for their flocks.
 
 42 And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
 
-43 And they smote the r of the Amalekites that were escaped, and dwelt there to this day.
+43 And they struck the r of the Amalekites that were escaped, and dwelt there to this day.
 
 ## 1 Chronicles Chapter 5
 
-1 Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but forasmuch as he defiled his father's bed, his birthright was given to the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
+1 Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but since as he defiled his father's bed, his birthright was given to the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 
-2 For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)
+2 For Judah prevailed above his brothers, and of him came the chief ruler; but the birthright was Joseph's:)
 
 3 The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi.
 
@@ -374,7 +374,7 @@
 
 6 Beerah his son, whom Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites.
 
-7 And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,
+7 And his brothers by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,
 
 8 And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even to Nebo and Baalmeon:
 
@@ -386,7 +386,7 @@
 
 12 Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.
 
-13 And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.
+13 And their brothers of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.
 
 14 These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;
 
@@ -410,7 +410,7 @@
 
 24 And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers.
 
-25 And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.
+25 And they sinned against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.
 
 26 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them to Halah, and Habor, and Hara, and to the river Gozan, to this day.
 
@@ -422,27 +422,27 @@
 
 3 And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 
-4 Eleazar begat Phinehas, Phinehas begat Abishua,
+4 Eleazar fathered Phinehas, Phinehas fathered Abishua,
 
-5 And Abishua begat Bukki, and Bukki begat Uzzi,
+5 And Abishua fathered Bukki, and Bukki fathered Uzzi,
 
-6 And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,
+6 And Uzzi fathered Zerahiah, and Zerahiah fathered Meraioth,
 
-7 Meraioth begat Amariah, and Amariah begat Ahitub,
+7 Meraioth fathered Amariah, and Amariah fathered Ahitub,
 
-8 And Ahitub begat Zadok, and Zadok begat Ahimaaz,
+8 And Ahitub fathered Zadok, and Zadok fathered Ahimaaz,
 
-9 And Ahimaaz begat Azariah, and Azariah begat Johanan,
+9 And Ahimaaz fathered Azariah, and Azariah fathered Johanan,
 
-10 And Johanan begat Azariah, (he it is that executed the pri's office in the temple that Solomon built in Jerusalem:)
+10 And Johanan fathered Azariah, (he it is that executed the pri's office in the temple that Solomon built in Jerusalem:)
 
-11 And Azariah begat Amariah, and Amariah begat Ahitub,
+11 And Azariah fathered Amariah, and Amariah fathered Ahitub,
 
-12 And Ahitub begat Zadok, and Zadok begat Shallum,
+12 And Ahitub fathered Zadok, and Zadok fathered Shallum,
 
-13 And Shallum begat Hilkiah, and Hilkiah begat Azariah,
+13 And Shallum fathered Hilkiah, and Hilkiah fathered Azariah,
 
-14 And Azariah begat Seraiah, and Seraiah begat Jehozadak,
+14 And Azariah fathered Seraiah, and Seraiah fathered Jehozadak,
 
 15 And Jehozadak went into captivity, when the Lord carried away Judah and Jerusalem by the hand of Nebuchadnezzar.
 
@@ -502,7 +502,7 @@
 
 43 The son of Jahath, the son of Gershom, the son of Levi.
 
-44 And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+44 And their brothers the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
 
 45 The son of Hashabiah, the son of Amaziah, the son of Hilkiah,
 
@@ -510,7 +510,7 @@
 
 47 The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 
-48 Their brethren also the Levites were appointed to all manner of service of the tabernacle of the house of God.
+48 Their brothers also the Levites were appointed to all manner of service of the tabernacle of the house of God.
 
 49 But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 
@@ -524,9 +524,9 @@
 
 54 Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.
 
-55 And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.
+55 And they gave them Hebron in the land of Judah, and the suburbs of it round about it.
 
-56 But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
+56 But the fields of the city, and the villages of it, they gave to Caleb the son of Jephunneh.
 
 57 And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,
 
@@ -588,7 +588,7 @@
 
 4 And with them, by their generations, after the house of their fathers, were bands of soldiers for war, six and thirty thousand men: for they had many wives and sons.
 
-5 And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
+5 And their brothers among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
 
 6 The sons of Benjamin; Bela, and Becher, and Jediael, three.
 
@@ -622,7 +622,7 @@
 
 21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land slew, because they came down to take away their cattle.
 
-22 And Ephraim their father mourned many days, and his brethren came to comfort him.
+22 And Ephraim their father mourned many days, and his brothers came to comfort him.
 
 23 And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.
 
@@ -634,7 +634,7 @@
 
 27 Non his son, Jehoshuah his son.
 
-28 And their possessions and habitations were, Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, to Gaza and the towns thereof:
+28 And their possessions and habitations were, Bethel and the towns of it, and eastward Naaran, and westward Gezer, with the towns of it; Shechem also and the towns of it, to Gaza and the towns of it:
 
 29 And by the borders of the children of Manasseh, Bethshean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.
 
@@ -642,7 +642,7 @@
 
 31 And the sons of Beriah; Heber, and Malchiel, who is the father of Birzavith.
 
-32 And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.
+32 And Heber fathered Japhlet, and Shomer, and Hotham, and Shua their sister.
 
 33 And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These are the children of Japhlet.
 
@@ -662,7 +662,7 @@
 
 ## 1 Chronicles Chapter 8
 
-1 Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
+1 Now Benjamin fathered Bela his firstborn, Ashbel the second, and Aharah the third,
 
 2 Nohah the fourth, and Rapha the fifth.
 
@@ -674,17 +674,17 @@
 
 6 And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:
 
-7 And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud.
+7 And Naaman, and Ahiah, and Gera, he removed them, and fathered Uzza, and Ahihud.
 
-8 And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
+8 And Shaharaim fathered children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
 
-9 And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,
+9 And he fathered of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,
 
 10 And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers.
 
-11 And of Hushim he begat Abitub, and Elpaal.
+11 And of Hushim he fathered Abitub, and Elpaal.
 
-12 The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:
+12 The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns of it:
 
 13 Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
 
@@ -724,17 +724,17 @@
 
 31 And Gedor, and Ahio, and Zacher.
 
-32 And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
+32 And Mikloth fathered Shimeah. And these also dwelt with their brothers in Jerusalem, over against them.
 
-33 And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+33 And Ner fathered Kish, and Kish fathered Saul, and Saul fathered Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 
-34 And the son of Jonathan was Meribbaal; and Meribbaal begat Micah.
+34 And the son of Jonathan was Meribbaal; and Meribbaal fathered Micah.
 
 35 And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 
-36 And Ahaz begat Jehoadah; and Jehoadah begat Alems, and Azmavs, and Zimri; and Zimri begat Moza,
+36 And Ahaz fathered Jehoadah; and Jehoadah fathered Alems, and Azmavs, and Zimri; and Zimri fathered Moza,
 
-37 And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:
+37 And Moza fathered Binea: Rapha was his son, Eleasah his son, Azel his son:
 
 38 And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel.
 
@@ -744,7 +744,7 @@
 
 ## 1 Chronicles Chapter 9
 
-1 So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.
+1 So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their sin.
 
 2 Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims.
 
@@ -754,13 +754,13 @@
 
 5 And of the Shilonites; Asaiah the firstborn, and his sons.
 
-6 And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.
+6 And of the sons of Zerah; Jeuel, and their brothers, six hundred and ninety.
 
 7 And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,
 
 8 And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
 
-9 And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers.
+9 And their brothers, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers.
 
 10 And of the priests; Jedaiah, and Jehoiarib, and Jachin,
 
@@ -768,7 +768,7 @@
 
 12 And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
 
-13 And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
+13 And their brothers, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
 
 14 And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
 
@@ -776,11 +776,11 @@
 
 16 And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.
 
-17 And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief;
+17 And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brothers: Shallum was the chief;
 
-18 Who hitherto waited in the king's gate eastward: they were porters in the companies of the children of Levi.
+18 Who until now waited in the king's gate eastward: they were porters in the companies of the children of Levi.
 
-19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the Lord, were keepers of the entry.
+19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brothers, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the Lord, were keepers of the entry.
 
 20 And Phinehas the son of Eleazar was the ruler over them in time past, and the Lord was with him.
 
@@ -792,11 +792,11 @@
 
 24 In four quarters were the porters, toward the east, w, north, and south.
 
-25 And their brethren, which were in their villages, were to come after seven days from time to time with them.
+25 And their brothers, which were in their villages, were to come after seven days from time to time with them.
 
 26 For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God.
 
-27 And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them.
+27 And they lodged round about the house of God, because the charge was upon them, and the opening of it every morning pertained to them.
 
 28 And certain of them had the charge of the ministering vessels, that they should bring them in and out by tale.
 
@@ -806,7 +806,7 @@
 
 31 And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.
 
-32 And other of their brethren, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.
+32 And other of their brothers, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.
 
 33 And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night.
 
@@ -818,17 +818,17 @@
 
 37 And Gedor, and Ahio, and Zechariah, and Mikloth.
 
-38 And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.
+38 And Mikloth fathered Shimeam. And they also dwelt with their brothers at Jerusalem, over against their brothers.
 
-39 And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+39 And Ner fathered Kish; and Kish fathered Saul; and Saul fathered Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 
-40 And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.
+40 And the son of Jonathan was Meribbaal: and Meribbaal fathered Micah.
 
 41 And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.
 
-42 And Ahaz begat Jarah; and Jarah begat Alems, and Azmavs, and Zimri; and Zimri begat Moza;
+42 And Ahaz fathered Jarah; and Jarah fathered Alems, and Azmavs, and Zimri; and Zimri fathered Moza;
 
-43 And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.
+43 And Moza fathered Binea; and Rephaiah his son, Eleasah his son, Azel his son.
 
 44 And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
 
@@ -840,7 +840,7 @@
 
 3 And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.
 
-4 Then said Saul to his armourbearer, Draw your sword, and thrust me through therewith; otherwise these uncircumcised come and abuse me. But his armourbearer would not; for he was sore afraid. So Saul took a sword, and fell upon it.
+4 Then said Saul to his armourbearer, Draw your sword, and thrust me through with it; otherwise these uncircumcised come and abuse me. But his armourbearer would not; for he was sore afraid. So Saul took a sword, and fell upon it.
 
 5 And when his armourbearer saw that Saul was dead, he fell likewise on the sword, and died.
 
@@ -858,7 +858,7 @@
 
 12 They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days.
 
-13 So Saul died for his transgression which he committed against the Lord, even against the word of the Lord, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;
+13 So Saul died for his sin which he committed against the Lord, even against the word of the Lord, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;
 
 14 And enquired not of the Lord: therefore he slew him, and turned the kingdom to David the son of Jesse.
 
@@ -872,7 +872,7 @@
 
 4 And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.
 
-5 And the inhabitants of Jebus said to David, you will not come hither. Nevertheless David took the castle of Zion, which is the city of David.
+5 And the inhabitants of Jebus said to David, you will not come here. Nevertheless David took the castle of Zion, which is the city of David.
 
 6 And David said, Whosoever smits the Jebusites first will be chief and captain. So Joab the son of Zeruiah went first up, and was chief.
 
@@ -880,7 +880,7 @@
 
 8 And he built the city round about, even from Millo round about: and Joab repaired the r of the city.
 
-9 So David waxed greater and greater: for the Lord of hosts was with him.
+9 So David grew greater and greater: for the Lord of hosts was with him.
 
 10 These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the Lord concerning Israel.
 
@@ -904,7 +904,7 @@
 
 20 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.
 
-21 Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three.
+21 Of the three, he was more honourable than the two; for he was their captain: however he attained not to the first three.
 
 22 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.
 
@@ -962,7 +962,7 @@
 
 1 Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.
 
-2 They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin.
+2 They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brothers of Benjamin.
 
 3 The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmavs; and Berachah, and Jehu the Antothite.
 
@@ -1016,13 +1016,13 @@
 
 28 And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.
 
-29 And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the great part of them had kept the ward of the house of Saul.
+29 And of the children of Benjamin, the kindred of Saul, three thousand: for until now the great part of them had kept the ward of the house of Saul.
 
 30 And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.
 
 31 And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.
 
-32 And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.
+32 And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brothers were at their commandment.
 
 33 Of Zebulun, such as went forth to battle, expert in war, with all instruments of war, fifty thousand, which could keep rank: they were not of double heart.
 
@@ -1036,15 +1036,15 @@
 
 38 All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the r also of Israel were of one heart to make David king.
 
-39 And there they were with David three days, eating and drinking: for their brethren had prepared for them.
+39 And there they were with David three days, eating and drinking: for their brothers had prepared for them.
 
-40 Moreover they that were nigh them, even to Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.
+40 Moreover they that were near them, even to Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.
 
 ## 1 Chronicles Chapter 13
 
 1 And David consulted with the captains of thousands and hundreds, and with every leader.
 
-2 And David said to all the congregation of Israel, If it seem good to you, and that it be of the Lord our God, let us send abroad to our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves to us:
+2 And David said to all the congregation of Israel, If it seem good to you, and that it be of the Lord our God, let us send abroad to our brothers every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves to us:
 
 3 And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.
 
@@ -1052,7 +1052,7 @@
 
 5 So David gathered all Israel together, from Shihor of Egypt even to the entering of Hemath, to bring the ark of God from Kirjathjearim.
 
-6 And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the Lord, that dwells between the cherubims, whose name is called on it.
+6 And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up from there the ark of God the Lord, that dwells between the cherubims, whose name is called on it.
 
 7 And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.
 
@@ -1060,7 +1060,7 @@
 
 9 And when they came to the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
 
-10 And the anger of the Lord was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.
+10 And the anger of the Lord was kindled against Uzza, and he struck him, because he put his hand to the ark: and there he died before God.
 
 11 And David was displeased, because the Lord had made a breach upon Uzza: therefore that place is called Perezuzza to this day.
 
@@ -1076,7 +1076,7 @@
 
 2 And David perceived that the Lord had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel.
 
-3 And David took more wives at Jerusalem: and David begat more sons and daughters.
+3 And David took more wives at Jerusalem: and David fathered more sons and daughters.
 
 4 Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,
 
@@ -1092,7 +1092,7 @@
 
 10 And David enquired of God, saying, will I go up against the Philistines? And will you deliver them into mine hand? And the Lord said to him, Go up; for I will deliver them into your hand.
 
-11 So they came up to Baalperazim; and David smote them there. Then David said, God has broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
+11 So they came up to Baalperazim; and David struck them there. Then David said, God has broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
 
 12 And when they had left their gods there, David gave a commandment, and they were burned with fire.
 
@@ -1102,7 +1102,7 @@
 
 15 And it will be, when you will hear a sound of going in the tops of the mulberry trees, that then you will go out to battle: for God is gone forth before you to smite the host of the Philistines.
 
-16 David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.
+16 David therefore did as God commanded him: and they struck the host of the Philistines from Gibeon even to Gazer.
 
 17 And the fame of David went out into all lands; and the Lord brought the fear of him upon all nations.
 
@@ -1116,21 +1116,21 @@
 
 4 And David assembled the children of Aaron, and the Levites:
 
-5 Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:
+5 Of the sons of Kohath; Uriel the chief, and his brothers an hundred and twenty:
 
-6 Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:
+6 Of the sons of Merari; Asaiah the chief, and his brothers two hundred and twenty:
 
-7 Of the sons of Gershom; Joel the chief and his brethren an hundred and thirty:
+7 Of the sons of Gershom; Joel the chief and his brothers an hundred and thirty:
 
-8 Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:
+8 Of the sons of Elizaphan; Shemaiah the chief, and his brothers two hundred:
 
-9 Of the sons of Hebron; Eliel the chief, and his brethren fourscore:
+9 Of the sons of Hebron; Eliel the chief, and his brothers fourscore:
 
-10 Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.
+10 Of the sons of Uzziel; Amminadab the chief, and his brothers an hundred and twelve.
 
 11 And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
 
-12 And said to them, you are the chief of the fathers of the Levites: sanctify yourselves, both you and your brethren, that you may bring up the ark of the Lord God of Israel to the place that I have prepared for it.
+12 And said to them, you are the chief of the fathers of the Levites: sanctify yourselves, both you and your brothers, that you may bring up the ark of the Lord God of Israel to the place that I have prepared for it.
 
 13 For because you did it not at the first, the Lord our God made a breach upon us, for that we sought him not after the due order.
 
@@ -1138,11 +1138,11 @@
 
 15 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the Lord.
 
-16 And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
+16 And David spake to the chief of the Levites to appoint their brothers to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
 
-17 So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
+17 So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah;
 
-18 And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters.
+18 And with them their brothers of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters.
 
 19 So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;
 
@@ -1180,7 +1180,7 @@
 
 6 Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
 
-7 Then on that day David delivered first this psalm to thank the Lord into the hand of Asaph and his brethren.
+7 Then on that day David delivered first this psalm to thank the Lord into the hand of Asaph and his brothers.
 
 8 Give thanks to the Lord, call upon his name, make known his deeds among the people.
 
@@ -1208,7 +1208,7 @@
 
 20 And when they went from nation to nation, and from one kingdom to another people;
 
-21 He suffered no man to do them wrong: yea, he reproved kings for their sakes,
+21 He suffered no man to do them wrong: yea, he corrected kings for their sakes,
 
 22 Saying, Touch not mine anointed, and do my prophets no harm.
 
@@ -1230,25 +1230,25 @@
 
 31 Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The Lord reigns.
 
-32 Let the sea roar, and the fulness thereof: let the fields rejoice, and all that is therein.
+32 Let the sea roar, and the fulness of it: let the fields rejoice, and all that is in it.
 
-33 Then will the trees of the wood sing out at the presence of the Lord, because he coms to judge the earth.
+33 Then will the trees of the wood sing out at the presence of the Lord, because he comes to judge the earth.
 
-34 O give thanks to the Lord; for he is good; for his mercy endurs for ever.
+34 O give thanks to the Lord; for he is good; for his mercy endures for ever.
 
 35 And say you, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to your holy name, and glory in your praise.
 
 36 Blessed be the Lord God of Israel for ever and ever. And all the people said, Amen, and praised the Lord.
 
-37 So he left there before the ark of the covenant of the Lord Asaph and his brethren, to minister before the ark continually, as every day's work required:
+37 So he left there before the ark of the covenant of the Lord Asaph and his brothers, to minister before the ark continually, as every day's work required:
 
-38 And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:
+38 And Obededom with their brothers, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:
 
-39 And Zadok the pri, and his brethren the priests, before the tabernacle of the Lord in the high place that was at Gibeon,
+39 And Zadok the pri, and his brothers the priests, before the tabernacle of the Lord in the high place that was at Gibeon,
 
 40 To offer burnt offerings to the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;
 
-41 And with them Heman and Jeduthun, and the r that were chosen, who were expressed by name, to give thanks to the Lord, because his mercy endurs for ever;
+41 And with them Heman and Jeduthun, and the r that were chosen, who were expressed by name, to give thanks to the Lord, because his mercy endures for ever;
 
 42 And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.
 
@@ -1262,13 +1262,13 @@
 
 3 And it came to pass the same night, that the word of God came to Nathan, saying,
 
-4 Go and tell David my servant, Thus saith the Lord, you will not build me an house to dwell in:
+4 Go and tell David my servant, Thus says the Lord, you will not build me an house to dwell in:
 
 5 For I have not dwelt in an house since the day that I brought up Israel to this day; but have gone from tent to tent, and from one tabernacle to another.
 
 6 Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have you not built me an house of cedars?
 
-7 Now therefore thus will you say to my servant David, Thus saith the Lord of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
+7 Now therefore thus will you say to my servant David, Thus says the Lord of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
 
 8 And I have been with you whithersoever you have walked, and have cut off all your enemies from before you, and have made you a name like the name of the great men that are in the earth.
 
@@ -1286,7 +1286,7 @@
 
 15 According to all these words, and according to all this vision, so did Nathan speak to David.
 
-16 And David the king came and sat before the Lord, and said, Who am I, O Lord God, and what is mine house, that you have brought me hitherto?
+16 And David the king came and sat before the Lord, and said, Who am I, O Lord God, and what is mine house, that you have brought me until now?
 
 17 And yet this was a small thing in your eyes, O God; for you have also spoken of your servant's house for a great while to come, and have regarded me according to the estate of a man of high degree, O Lord God.
 
@@ -1298,7 +1298,7 @@
 
 21 And what one nation in the earth is like your people Israel, whom God went to redeem to be his own people, to make you a name of greatness and terribleness, by driving out nations from before your people whom you have redeemed out of Egypt?
 
-22 For your people Israel didst you make your own people for ever; and you, Lord, becam their God.
+22 For your people Israel did you make your own people for ever; and you, Lord, becam their God.
 
 23 Therefore now, Lord, let the thing that you have spoken concerning your servant and concerning his house be established for ever, and do as you have said.
 
@@ -1312,11 +1312,11 @@
 
 ## 1 Chronicles Chapter 18
 
-1 Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
+1 Now after this it came to pass, that David struck the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
 
-2 And he smote Moab; and the Moabites became David's servants, and brought gifts.
+2 And he struck Moab; and the Moabites became David's servants, and brought gifts.
 
-3 And David smote Hadarezer king of Zobah to Hamath, as he went to stablish his dominion by the river Euphrates.
+3 And David struck Hadarezer king of Zobah to Hamath, as he went to stablish his dominion by the river Euphrates.
 
 4 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.
 
@@ -1326,7 +1326,7 @@
 
 7 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
 
-8 Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.
+8 Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, with what Solomon made the brasen sea, and the pillars, and the vessels of brass.
 
 9 Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;
 
@@ -1374,7 +1374,7 @@
 
 13 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the Lord do that which is good in his sight.
 
-14 So Joab and the people that were with him drew nigh before the Syrians to the battle; and they fled before him.
+14 So Joab and the people that were with him drew near before the Syrians to the battle; and they fled before him.
 
 15 And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem.
 
@@ -1388,7 +1388,7 @@
 
 ## 1 Chronicles Chapter 20
 
-1 And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
+1 And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab struck Rabbah, and destroyed it.
 
 2 And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David's head: and he brought also exceeding much spoil out of the city.
 
@@ -1418,15 +1418,15 @@
 
 6 But Levi and Benjamin counted he not among them: for the king's word was abominable to Joab.
 
-7 And God was displeased with this thing; therefore he smote Israel.
+7 And God was displeased with this thing; therefore he struck Israel.
 
-8 And David said to God, I have sinned greatly, because I have done this thing: but now, I beseech you, do away the iniquity of your servant; for I have done very foolishly.
+8 And David said to God, I have sinned greatly, because I have done this thing: but now, I urge you, do away the iniquity of your servant; for I have done very foolishly.
 
 9 And the Lord spake to Gad, David's seer, saying,
 
-10 Go and tell David, saying, Thus saith the Lord, I offer you three things: choose you one of them, that I may do it to you.
+10 Go and tell David, saying, Thus says the Lord, I offer you three things: choose you one of them, that I may do it to you.
 
-11 So Gad came to David, and said to him, Thus saith the Lord, Choose you
+11 So Gad came to David, and said to him, Thus says the Lord, Choose you
 
 12 Either three years' famine; or three months to be destroyed before your foes, while that the sword of your enemies overtaks you; or else three days the sword of the Lord, even the pestilence, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I will bring again to him that sent me.
 
@@ -1448,17 +1448,17 @@
 
 21 And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with his face to the ground.
 
-22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein to the Lord: you will grant it me for the full price: that the plague may be stayed from the people.
+22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar in it to the Lord: you will grant it me for the full price: that the plague may be stayed from the people.
 
 23 And Ornan said to David, Take it to you, and let my lord the king do that which is good in his eyes: lo, I give you the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
 
-24 And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is your for the Lord, nor offer burnt offerings without cost.
+24 And king David said to Ornan, Nay; but I will truly buy it for the full price: for I will not take that which is your for the Lord, nor offer burnt offerings without cost.
 
 25 So David gave to Ornan for the place six hundred shekels of gold by weight.
 
 26 And David built there an altar to the Lord, and offered burnt offerings and peace offerings, and called upon the Lord; and he answered him from heaven by fire upon the altar of burnt offering.
 
-27 And the Lord commanded the angel; and he put up his sword again into the sheath thereof.
+27 And the Lord commanded the angel; and he put up his sword again into the sheath of it.
 
 28 At that time when David saw that the Lord had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.
 
@@ -1494,7 +1494,7 @@
 
 13 Then will you prosper, if you tak heed to fulfil the statutes and judgments which the Lord charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.
 
-14 Now, behold, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add thereto.
+14 Now, behold, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add to it.
 
 15 Moreover there are workmen with you in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.
 
@@ -1516,7 +1516,7 @@
 
 4 Of which, twenty and four thousand were to set forward the work of the house of the Lord; and six thousand were officers and judges:
 
-5 Moreover four thousand were porters; and four thousand praised the Lord with the instruments which I made, said David, to praise therewith.
+5 Moreover four thousand were porters; and four thousand praised the Lord with the instruments which I made, said David, to praise with it.
 
 6 And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.
 
@@ -1550,7 +1550,7 @@
 
 21 The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.
 
-22 And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.
+22 And Eleazar died, and had no sons, but daughters: and their brothers the sons of Kish took them.
 
 23 The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 
@@ -1558,7 +1558,7 @@
 
 25 For David said, The Lord God of Israel has given r to his people, that they may dwell in Jerusalem for ever:
 
-26 And also to the Levites; they will no more carry the tabernacle, nor any vessels of it for the service thereof.
+26 And also to the Levites; they will no more carry the tabernacle, nor any vessels of it for the service of it.
 
 27 For by the last words of David the Levites were numbered from twenty years old and above:
 
@@ -1570,7 +1570,7 @@
 
 31 And to offer all burnt sacrifices to the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded to them, continually before the Lord:
 
-32 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the Lord.
+32 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brothers, in the service of the house of the Lord.
 
 ## 1 Chronicles Chapter 24
 
@@ -1634,7 +1634,7 @@
 
 30 The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers.
 
-31 These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
+31 These likewise cast lots over against their brothers the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brothers.
 
 ## 1 Chronicles Chapter 25
 
@@ -1650,55 +1650,55 @@
 
 6 All these were under the hands of their father for song in the house of the Lord, with cymbals, psalteries, and harps, for the service of the house of God, according to the king's order to Asaph, Jeduthun, and Heman.
 
-7 So the number of them, with their brethren that were instructed in the songs of the Lord, even all that were cunning, was two hundred fourscore and eight.
+7 So the number of them, with their brothers that were instructed in the songs of the Lord, even all that were cunning, was two hundred fourscore and eight.
 
 8 And they cast lots, ward against ward, as well the small as the great, the teacher as the scholar.
 
-9 Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons were twelve:
+9 Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brothers and sons were twelve:
 
-10 The third to Zaccur, he, his sons, and his brethren, were twelve:
+10 The third to Zaccur, he, his sons, and his brothers, were twelve:
 
-11 The fourth to Izri, he, his sons, and his brethren, were twelve:
+11 The fourth to Izri, he, his sons, and his brothers, were twelve:
 
-12 The fifth to Nethaniah, he, his sons, and his brethren, were twelve:
+12 The fifth to Nethaniah, he, his sons, and his brothers, were twelve:
 
-13 The sixth to Bukkiah, he, his sons, and his brethren, were twelve:
+13 The sixth to Bukkiah, he, his sons, and his brothers, were twelve:
 
-14 The seventh to Jesharelah, he, his sons, and his brethren, were twelve:
+14 The seventh to Jesharelah, he, his sons, and his brothers, were twelve:
 
-15 The eighth to Jeshaiah, he, his sons, and his brethren, were twelve:
+15 The eighth to Jeshaiah, he, his sons, and his brothers, were twelve:
 
-16 The ninth to Mattaniah, he, his sons, and his brethren, were twelve:
+16 The ninth to Mattaniah, he, his sons, and his brothers, were twelve:
 
-17 The tenth to Shimei, he, his sons, and his brethren, were twelve:
+17 The tenth to Shimei, he, his sons, and his brothers, were twelve:
 
-18 The eleventh to Azareel, he, his sons, and his brethren, were twelve:
+18 The eleventh to Azareel, he, his sons, and his brothers, were twelve:
 
-19 The twelfth to Hashabiah, he, his sons, and his brethren, were twelve:
+19 The twelfth to Hashabiah, he, his sons, and his brothers, were twelve:
 
-20 The thirteenth to Shubael, he, his sons, and his brethren, were twelve:
+20 The thirteenth to Shubael, he, his sons, and his brothers, were twelve:
 
-21 The fourteenth to Mattithiah, he, his sons, and his brethren, were twelve:
+21 The fourteenth to Mattithiah, he, his sons, and his brothers, were twelve:
 
-22 The fifteenth to Jeremoth, he, his sons, and his brethren, were twelve:
+22 The fifteenth to Jeremoth, he, his sons, and his brothers, were twelve:
 
-23 The sixteenth to Hananiah, he, his sons, and his brethren, were twelve:
+23 The sixteenth to Hananiah, he, his sons, and his brothers, were twelve:
 
-24 The seventeenth to Joshbekashah, he, his sons, and his brethren, were twelve:
+24 The seventeenth to Joshbekashah, he, his sons, and his brothers, were twelve:
 
-25 The eighteenth to Hanani, he, his sons, and his brethren, were twelve:
+25 The eighteenth to Hanani, he, his sons, and his brothers, were twelve:
 
-26 The nineteenth to Mallothi, he, his sons, and his brethren, were twelve:
+26 The nineteenth to Mallothi, he, his sons, and his brothers, were twelve:
 
-27 The twentis to Eliathah, he, his sons, and his brethren, were twelve:
+27 The twentis to Eliathah, he, his sons, and his brothers, were twelve:
 
-28 The one and twentis to Hothir, he, his sons, and his brethren, were twelve:
+28 The one and twentis to Hothir, he, his sons, and his brothers, were twelve:
 
-29 The two and twentis to Giddalti, he, his sons, and his brethren, were twelve:
+29 The two and twentis to Giddalti, he, his sons, and his brothers, were twelve:
 
-30 The three and twentis to Mahazioth, he, his sons, and his brethren, were twelve:
+30 The three and twentis to Mahazioth, he, his sons, and his brothers, were twelve:
 
-31 The four and twentis to Romamtiezer, he, his sons, and his brethren, were twelve.
+31 The four and twentis to Romamtiezer, he, his sons, and his brothers, were twelve.
 
 ## 1 Chronicles Chapter 26
 
@@ -1714,15 +1714,15 @@
 
 6 Also to Shemaiah his son were sons born, that ruled throughout the house of their father: for they were mighty men of valour.
 
-7 The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah.
+7 The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brothers were strong men, Elihu, and Semachiah.
 
-8 All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obededom.
+8 All these of the sons of Obededom: they and their sons and their brothers, able men for strength for the service, were threescore and two of Obededom.
 
-9 And Meshelemiah had sons and brethren, strong men, eighteen.
+9 And Meshelemiah had sons and brothers, strong men, eighteen.
 
 10 Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;)
 
-11 Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.
+11 Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brothers of Hosah were thirteen.
 
 12 Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the Lord.
 
@@ -1750,21 +1750,21 @@
 
 24 And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
 
-25 And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
+25 And his brothers by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
 
-26 Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
+26 Which Shelomith and his brothers were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
 
 27 Out of the spoils won in battles did they dedicate to maintain the house of the Lord.
 
-28 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren.
+28 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brothers.
 
 29 Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges.
 
-30 And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the Lord, and in the service of the king.
+30 And of the Hebronites, Hashabiah and his brothers, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the Lord, and in the service of the king.
 
 31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortis year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 
-32 And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
+32 And his brothers, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
 
 ## 1 Chronicles Chapter 27
 
@@ -1802,7 +1802,7 @@
 
 17 Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:
 
-18 Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:
+18 Of Judah, Elihu, one of the brothers of David: of Issachar, Omri the son of Michael:
 
 19 Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:
 
@@ -1840,11 +1840,11 @@
 
 1 And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, to Jerusalem.
 
-2 Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of r for the ark of the covenant of the Lord, and for the footstool of our God, and had made ready for the building:
+2 Then David the king stood up upon his feet, and said, Hear me, my brothers, and my people: As for me, I had in mine heart to build an house of r for the ark of the covenant of the Lord, and for the footstool of our God, and had made ready for the building:
 
 3 But God said to me, you will not build an house for my name, because you have been a man of war, and have shed blood.
 
-4 Howbeit the Lord God of Israel chose me before all the house of my father to be king over Israel for ever: for he has chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:
+4 However the Lord God of Israel chose me before all the house of my father to be king over Israel for ever: for he has chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:
 
 5 And of all my sons, (for the Lord has given me many sons,) he has chosen Solomon my son to sit upon the throne of the kingdom of the Lord over Israel.
 
@@ -1858,7 +1858,7 @@
 
 10 Take heed now; for the Lord has chosen you to build an house for the sanctuary: be strong, and do it.
 
-11 Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,
+11 Then David gave to Solomon his son the pattern of the porch, and of the houses of it, and of the treasuries of it, and of the upper chambers of it, and of the inner parlours of it, and of the place of the mercy seat,
 
 12 And the pattern of all that he had by the spirit, of the courts of the house of the Lord, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:
 
@@ -1866,7 +1866,7 @@
 
 14 He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:
 
-15 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps thereof, according to the use of every candlestick.
+15 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps of it: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps of it, according to the use of every candlestick.
 
 16 And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver:
 
@@ -1884,11 +1884,11 @@
 
 1 Furthermore David the king said to all the congregation, Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the Lord God.
 
-2 Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of divers colours, and all manner of precious stones, and marble stones in abundance.
+2 Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of various colours, and all manner of precious stones, and marble stones in abundance.
 
 3 Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house.
 
-4 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal:
+4 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses also:
 
 5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day to the Lord?
 
@@ -1912,7 +1912,7 @@
 
 15 For we are strangers before you, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
 
-16 O Lord our God, all this store that we have prepared to build you an house for your holy name coms of your hand, and is all your own.
+16 O Lord our God, all this store that we have prepared to build you an house for your holy name comes of your hand, and is all your own.
 
 17 I know also, my God, that you tri the heart, and have pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy your people, which are present here, to offer willingly to you.
 

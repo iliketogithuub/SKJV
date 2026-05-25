@@ -14,7 +14,7 @@
 
 6 For a nation is come up upon my land, strong, and without number, whose tes are the tes of a lion, and he has the cheek tes of a great lion.
 
-7 He has laid my vine waste, and barked my fig tree: he has made it clean bare, and cast it away; the branches thereof are made white.
+7 He has laid my vine waste, and barked my fig tree: he has made it clean bare, and cast it away; the branches of it are made white.
 
 8 Lament like a virgin girded with sackcloth for the husband of her youth.
 
@@ -22,7 +22,7 @@
 
 10 The field is wasted, the land mourns; for the corn is wasted: the new wine is dried up, the oil languishs.
 
-11 Be you ashamed, O you husbandmen; howl, O you vinedressers, for the wheat and for the barley; because the harv of the field is perished.
+11 Be you ashamed, O you farmers; howl, O you vinedressers, for the wheat and for the barley; because the harv of the field is perished.
 
 12 The vine is dried up, and the fig tree languishs; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.
 
@@ -44,7 +44,7 @@
 
 ## Joel Chapter 2
 
-1 Blow you the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the Lord coms, for it is nigh at hand;
+1 Blow you the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the Lord comes, for it is near at hand;
 
 2 A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there has not been ever the like, neither will be any more after it, even to the years of many generations.
 
@@ -66,7 +66,7 @@
 
 11 And the Lord will utter his voice before his army: for his camp is very great: for he is strong that executs his word: for the day of the Lord is great and very terrible; and who can abide it?
 
-12 Therefore also now, saith the Lord, turn you even to me with all your heart, and with fasting, and with weeping, and with mourning:
+12 Therefore also now, says the Lord, turn you even to me with all your heart, and with fasting, and with weeping, and with mourning:
 
 13 And rend your heart, and not your garments, and turn to the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repents him of the evil.
 
@@ -80,7 +80,7 @@
 
 18 Then will the Lord be jealous for his land, and pity his people.
 
-19 Yea, the Lord will answer and say to his people, Behold, I will send you corn, and wine, and oil, and you will be satisfied therewith: and I will no more make you a reproach among the heathen:
+19 Yea, the Lord will answer and say to his people, Behold, I will send you corn, and wine, and oil, and you will be satisfied with it: and I will no more make you a reproach among the heathen:
 
 20 But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink will come up, and his ill savour will come up, because he has done great things.
 
@@ -116,13 +116,13 @@
 
 3 And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
 
-4 Yea, and what have you to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will you render me a recompence? and if you recompense me, swiftly and speedily will I return your recompence upon your own head;
+4 Yea, and what have you to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will you render me a recompence? and if you repay me, swiftly and speedily will I return your recompence upon your own head;
 
 5 Because you have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
 
 6 The children also of Judah and the children of Jerusalem have you sold to the Grecians, that you might remove them far from their border.
 
-7 Behold, I will raise them out of the place whither you have sold them, and will return your recompence upon your own head:
+7 Behold, I will raise them out of the place where you have sold them, and will return your recompence upon your own head:
 
 8 And I will sell your sons and your daughters into the hand of the children of Judah, and they will sell them to the Sabeans, to a people far off: for the Lord has spoken it.
 
@@ -130,7 +130,7 @@
 
 10 Beat your plowshares into swords and your pruninghooks into spears: let the weak say, I am strong.
 
-11 Assemble yourselves, and come, all you heathen, and gather yourselves together round about: thither cause your mighty ones to come down, O Lord.
+11 Assemble yourselves, and come, all you heathen, and gather yourselves together round about: there cause your mighty ones to come down, O Lord.
 
 12 Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
 

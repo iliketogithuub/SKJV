@@ -4,7 +4,7 @@
 
 1 Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
-2 Thus saith Cyrus king of Persia, The Lord God of heaven has given me all the kingdoms of the earth; and he has charged me to build him an house at Jerusalem, which is in Judah.
+2 Thus says Cyrus king of Persia, The Lord God of heaven has given me all the kingdoms of the earth; and he has charged me to build him an house at Jerusalem, which is in Judah.
 
 3 Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the Lord God of Israel, (he is the God,) which is in Jerusalem.
 
@@ -170,7 +170,7 @@
 
 1 And when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.
 
-2 Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.
+2 Then stood up Jeshua the son of Jozadak, and his brothers the priests, and Zerubbabel the son of Shealtiel, and his brothers, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.
 
 3 And they set the altar upon his bases; for fear was upon them because of the people of those countries: and they offered burnt offerings thereon to the Lord, even burnt offerings morning and evening.
 
@@ -182,13 +182,13 @@
 
 7 They gave money also to the masons, and to the carpenters; and meat, and drink, and oil, to them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia.
 
-8 Now in the second year of their coming to the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity to Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the Lord.
+8 Now in the second year of their coming to the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brothers the priests and the Levites, and all they that were come out of the captivity to Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the Lord.
 
-9 Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.
+9 Then stood Jeshua with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brothers the Levites.
 
 10 And when the builders laid the foundation of the temple of the Lord, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the Lord, after the ordinance of David king of Israel.
 
-11 And they sang together by course in praising and giving thanks to the Lord; because he is good, for his mercy endurs for ever toward Israel. And all the people shouted with a great shout, when they praised the Lord, because the foundation of the house of the Lord was laid.
+11 And they sang together by course in praising and giving thanks to the Lord; because he is good, for his mercy endures for ever toward Israel. And all the people shouted with a great shout, when they praised the Lord, because the foundation of the house of the Lord was laid.
 
 12 But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 
@@ -198,7 +198,7 @@
 
 1 Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple to the Lord God of Israel;
 
-2 Then they came to Zerubbabel, and to the chief of the fathers, and said to them, Let us build with you: for we seek your God, as you do; and we do sacrifice to him since the days of Esarhaddon king of Assur, which brought us up hither.
+2 Then they came to Zerubbabel, and to the chief of the fathers, and said to them, Let us build with you: for we seek your God, as you do; and we do sacrifice to him since the days of Esarhaddon king of Assur, which brought us up here.
 
 3 But Zerubbabel, and Jeshua, and the r of the chief of the fathers of Israel, said to them, you have nothing to do with us to build an house to our God; but we ourselves together will build to the Lord God of Israel, as king Cyrus the king of Persia has commanded us.
 
@@ -218,7 +218,7 @@
 
 11 This is the copy of the letter that they sent to him, even to Artaxerxes the king; your servants the men on this side the river, and at such a time.
 
-12 Be it known to the king, that the Jews which came up from you to us are come to Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations.
+12 Be it known to the king, that the Jews which came up from you to us are come to Jerusalem, building the rebellious and the bad city, and have set up the walls of it, and joined the foundations.
 
 13 Be it known now to the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so you will endamage the revenue of the kings.
 
@@ -226,13 +226,13 @@
 
 15 That search may be made in the book of the records of your fathers: so will you find in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed.
 
-16 We certify the king that, if this city be builded again, and the walls thereof set up, by this means you will have no portion on this side the river.
+16 We certify the king that, if this city be builded again, and the walls of it set up, by this means you will have no portion on this side the river.
 
 17 Then sent the king an answer to Rehum the chancellor, and to Shimshai the scribe, and to the r of their companions that dwell in Samaria, and to the r beyond the river, Peace, and at such a time.
 
 18 The letter which you sent to us has been plainly read before me.
 
-19 And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and sedition have been made therein.
+19 And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and sedition have been made in it.
 
 20 There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid to them.
 
@@ -258,7 +258,7 @@
 
 6 The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai and his companions the Apharsachites, which were on this side the river, sent to Darius the king:
 
-7 They sent a letter to him, wherein was written thus; to Darius the king, all peace.
+7 They sent a letter to him, in which was written thus; to Darius the king, all peace.
 
 8 Be it known to the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goes fast on, and prospers in their hands.
 
@@ -284,15 +284,15 @@
 
 1 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 
-2 And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written:
+2 And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and in it was a record thus written:
 
-3 In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, and the breadth thereof threescore cubits;
+3 In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations of it be strongly laid; the height of it threescore cubits, and the breadth of it threescore cubits;
 
 4 With three rows of great stones, and a row of new timber: and let the expenses be given out of the king's house:
 
 5 And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought to Babylon, be restored, and brought again to the temple which is at Jerusalem, every one to his place, and place them in the house of God.
 
-6 Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be you far from thence:
+6 Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be you far from from there:
 
 7 Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 
@@ -320,7 +320,7 @@
 
 19 And the children of the captivity kept the passover upon the fourteenth day of the first month.
 
-20 For the priests and the Levites were purified together, all of them were pure, and killed the passover for all the children of the captivity, and for their brethren the priests, and for themselves.
+20 For the priests and the Levites were purified together, all of them were pure, and killed the passover for all the children of the captivity, and for their brothers the priests, and for themselves.
 
 21 And the children of Israel, which were come again out of captivity, and all such as had separated themselves to them from the filthiness of the heathen of the land, to seek the Lord God of Israel, did eat,
 
@@ -354,15 +354,15 @@
 
 13 I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with you.
 
-14 Forasmuch as you are sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of your God which is in your hand;
+14 Since as you are sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of your God which is in your hand;
 
 15 And to carry the silver and gold, which the king and his counsellors have freely offered to the God of Israel, whose habitation is in Jerusalem,
 
-16 And all the silver and gold that you canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:
+16 And all the silver and gold that you can find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:
 
 17 That you may buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.
 
-18 And whatsoever will seem good to you, and to your brethren, to do with the r of the silver and the gold, that do after the will of your God.
+18 And whatsoever will seem good to you, and to your brothers, to do with the r of the silver and the gold, that do after the will of your God.
 
 19 The vessels also that are given you for the service of the house of your God, those deliver you before the God of Jerusalem.
 
@@ -414,15 +414,15 @@
 
 14 Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.
 
-15 And I gathered them together to the river that runns to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
+15 And I gathered them together to the river that runns to Ahava; and there stayed we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
 
 16 Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
 
-17 And I sent them with commandment to Iddo the chief at the place Casiphia, and I told them what they should say to Iddo, and to his brethren the Nethinims, at the place Casiphia, that they should bring to us ministers for the house of our God.
+17 And I sent them with commandment to Iddo the chief at the place Casiphia, and I told them what they should say to Iddo, and to his brothers the Nethinims, at the place Casiphia, that they should bring to us ministers for the house of our God.
 
-18 And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;
+18 And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brothers, eighteen;
 
-19 And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;
+19 And Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty;
 
 20 Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
 
@@ -430,9 +430,9 @@
 
 22 For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken to the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.
 
-23 So we fasted and besought our God for this: and he was intreated of us.
+23 So we fasted and urged our God for this: and he was intreated of us.
 
-24 Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
+24 Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brothers with them,
 
 25 And weighed to them the silver, and the gold, and the vessels, even the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel there present, had offered:
 
@@ -448,7 +448,7 @@
 
 31 Then we departed from the river of Ahava on the twelfth day of the first month, to go to Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.
 
-32 And we came to Jerusalem, and abode there three days.
+32 And we came to Jerusalem, and stayed there three days.
 
 33 Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the pri; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
 
@@ -466,7 +466,7 @@
 
 3 And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
 
-4 Then were assembled to me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
+4 Then were assembled to me every one that trembled at the words of the God of Israel, because of the sin of those that had been carried away; and I sat astonied until the evening sacrifice.
 
 5 And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands to the Lord my God,
 
@@ -476,7 +476,7 @@
 
 8 And now for a little space grace has been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 
-9 For we were bondmen; yet our God has not forsaken us in our bondage, but has extended mercy to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
+9 For we were bondmen; yet our God has not forsaken us in our bondage, but has extended mercy to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations of it, and to give us a wall in Judah and in Jerusalem.
 
 10 And now, O our God, what will we say after this? for we have forsaken your commandments,
 
@@ -502,7 +502,7 @@
 
 5 Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.
 
-6 Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.
+6 Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came there, he did eat no bread, nor drink water: for he mourned because of the sin of them that had been carried away.
 
 7 And they made proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem;
 
@@ -510,15 +510,15 @@
 
 9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within three days. It was the ninth month, on the twentis day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
-10 And Ezra the pri stood up, and said to them, you have transgressed, and have taken strange wives, to increase the trespass of Israel.
+10 And Ezra the pri stood up, and said to them, you have sinned, and have taken strange wives, to increase the trespass of Israel.
 
 11 Now therefore make confession to the Lord God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
 
 12 Then all the congregation answered and said with a loud voice, As you have said, so must we do.
 
-13 But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing.
+13 But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have sinned in this thing.
 
-14 Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
+14 Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges of it, until the fierce wrath of our God for this matter be turned from us.
 
 15 Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
 
@@ -526,7 +526,7 @@
 
 17 And they made an end with all the men that had taken strange wives by the first day of the first month.
 
-18 And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
+18 And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brothers; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 
 19 And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass.
 

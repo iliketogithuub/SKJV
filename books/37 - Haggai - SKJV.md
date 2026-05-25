@@ -10,15 +10,15 @@
 
 4 Is it time for you, O you, to dwell in your cieled houses, and this house lie waste?
 
-5 Now therefore thus saith the Lord of hosts; Consider your ways.
+5 Now therefore thus says the Lord of hosts; Consider your ways.
 
 6 you have sown much, and bring in little; you eat, but you have not enough; you drink, but you are not filled with drink; you clothe you, but there is none warm; and he that earns wages earns wages to put it into a bag with holes.
 
-7 Thus saith the Lord of hosts; Consider your ways.
+7 Thus says the Lord of hosts; Consider your ways.
 
-8 Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.
+8 Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, says the Lord.
 
-9 you looked for much, and, lo it came to little; and when you brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and you run every man to his own house.
+9 you looked for much, and, lo it came to little; and when you brought it home, I did blow upon it. Why? says the Lord of hosts. Because of mine house that is waste, and you run every man to his own house.
 
 10 Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.
 
@@ -26,7 +26,7 @@
 
 12 Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high pri, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.
 
-13 Then spake Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, saith the Lord.
+13 Then spake Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, says the Lord.
 
 14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high pri, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
 
@@ -40,33 +40,33 @@
 
 3 Who is left among you that saw this house in her first glory? and how do you see it now? is it not in your eyes in comparison of it as nothing?
 
-4 Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high pri; and be strong, all you people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:
+4 Yet now be strong, O Zerubbabel, says the Lord; and be strong, O Joshua, son of Josedech, the high pri; and be strong, all you people of the land, says the Lord, and work: for I am with you, says the Lord of hosts:
 
 5 According to the word that I covenanted with you when you came out of Egypt, so my spirit remains among you: fear you not.
 
-6 For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
+6 For thus says the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
 
-7 And I will shake all nations, and the desire of all nations will come: and I will fill this house with glory, saith the Lord of hosts.
+7 And I will shake all nations, and the desire of all nations will come: and I will fill this house with glory, says the Lord of hosts.
 
-8 The silver is mine, and the gold is mine, saith the Lord of hosts.
+8 The silver is mine, and the gold is mine, says the Lord of hosts.
 
-9 The glory of this latter house will be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.
+9 The glory of this latter house will be greater than of the former, says the Lord of hosts: and in this place will I give peace, says the Lord of hosts.
 
 10 In the four and twentis day of the ninth month, in the second year of Darius, came the word of the Lord by Haggai the prophet, saying,
 
-11 Thus saith the Lord of hosts; Ask now the priests concerning the law, saying,
+11 Thus says the Lord of hosts; Ask now the priests concerning the law, saying,
 
 12 If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, will it be holy? And the priests answered and said, No.
 
 13 Then said Haggai, If one that is unclean by a dead body touch any of these, will it be unclean? And the priests answered and said, It will be unclean.
 
-14 Then answered Haggai, and said, So is this people, and so is this nation before me, saith the Lord; and so is every work of their hands; and that which they offer there is unclean.
+14 Then answered Haggai, and said, So is this people, and so is this nation before me, says the Lord; and so is every work of their hands; and that which they offer there is unclean.
 
 15 And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the Lord:
 
 16 Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty.
 
-17 I smote you with blasting and with mildew and with hail in all the labours of your hands; yet you turned not to me, saith the Lord.
+17 I struck you with blasting and with mildew and with hail in all the labours of your hands; yet you turned not to me, says the Lord.
 
 18 Consider now from this day and upward, from the four and twentis day of the ninth month, even from the day that the foundation of the Lord's temple was laid, consider it.
 
@@ -78,7 +78,7 @@
 
 22 And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders will come down, every one by the sword of his brother.
 
-23 In that day, saith the Lord of hosts, will I take you, O Zerubbabel, my servant, the son of Shealtiel, saith the Lord, and will make you as a signet: for I have chosen you, saith the Lord of hosts.
+23 In that day, says the Lord of hosts, will I take you, O Zerubbabel, my servant, the son of Shealtiel, says the Lord, and will make you as a signet: for I have chosen you, says the Lord of hosts.
 
 
 ## eof

@@ -14,9 +14,9 @@
 
 6 Being confident of this very thing, that he which has begun a good work in you will perform it until the day of Jesus Christ:
 
-7 Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, you all are partakers of my grace.
+7 Even as it is meet for me to think this of you all, because I have you in my heart; since as both in my bonds, and in the defence and confirmation of the gospel, you all are partakers of my grace.
 
-8 For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
+8 For God is my record, how greatly I long after you all in the deep affection of Jesus Christ.
 
 9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment;
 
@@ -24,11 +24,11 @@
 
 11 Being filled with the fruits of righteousness, which are by Jesus Christ, to the glory and praise of God.
 
-12 But I would you should understand, brethren, that the things which happened to me have fallen out rather to the furtherance of the gospel;
+12 But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the gospel;
 
 13 So that my bonds in Christ are manif in all the palace, and in all other places;
 
-14 And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
+14 And many of the brothers in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 
 15 Some indeed preach Christ even of envy and strife; and some also of good will:
 
@@ -36,7 +36,7 @@
 
 17 But the other of love, knowing that I am set for the defence of the gospel.
 
-18 What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
+18 What then? nevertheless, every way, whether in pretence, or in truth, Christ is preached; and I in it do rejoice, yea, and will rejoice.
 
 19 For I know that this will turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
 
@@ -46,7 +46,7 @@
 
 22 But if I live in the flesh, this is the fruit of my labour: yet what I will choose I wot not.
 
-23 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
+23 For I am in a strait between two, having a desire to depart, and to be with Christ; which is far better:
 
 24 Nevertheless to abide in the flesh is more needful for you.
 
@@ -54,7 +54,7 @@
 
 26 That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
 
-27 Only let your conversation be as it becoms the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
+27 Only let your conversation be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
 
 28 And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
 
@@ -64,7 +64,7 @@
 
 ## Philippians Chapter 2
 
-1 If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
+1 If there be therefore any comfort in Christ, if any comfort of love, if any fellowship of the Spirit, if any deep affection and mercies,
 
 2 Fulfil you my joy, that you be likeminded, having the same love, being of one accord, of one mind.
 
@@ -112,21 +112,21 @@
 
 24 But I trust in the Lord that I also myself will come shortly.
 
-25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
+25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellow soldier, but your messenger, and he that ministered to my wants.
 
 26 For he longed after you all, and was full of heaviness, because that you had heard that he had been sick.
 
-27 For indeed he was sick nigh to death: but God had mercy on him; and not on him only, but on me also, otherwise I should have sorrow upon sorrow.
+27 For indeed he was sick near to death: but God had mercy on him; and not on him only, but on me also, otherwise I should have sorrow upon sorrow.
 
 28 I sent him therefore the more carefully, that, when you see him again, you may rejoice, and that I may be the less sorrowful.
 
 29 Receive him therefore in the Lord with all gladness; and hold such in reputation:
 
-30 Because for the work of Christ he was nigh to death, not regarding his life, to supply your lack of service toward me.
+30 Because for the work of Christ he was near to death, not regarding his life, to supply your lack of service toward me.
 
 ## Philippians Chapter 3
 
-1 Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.
+1 Finally, my brothers, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.
 
 2 Beware of dogs, beware of evil workers, beware of the concision.
 
@@ -138,9 +138,9 @@
 
 6 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.
 
-7 But what things were gain to me, those I counted loss for Christ.
+7 But what things were gain to me, those I counted looses for Christ.
 
-8 Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
+8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the looses of all things, and do count them but dung, that I may win Christ,
 
 9 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 
@@ -150,7 +150,7 @@
 
 12 Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
 
-13 Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth to those things which are before,
+13 Brothers, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth to those things which are before,
 
 14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
 
@@ -158,45 +158,45 @@
 
 16 Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
 
-17 Brethren, be followers together of me, and mark them which walk so as you have us for an ensample.
+17 Brothers, be followers together of me, and mark them which walk so as you have us for an example.
 
 18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
-20 For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
+20 For our conversation is in heaven; from from where also we look for the Saviour, the Lord Jesus Christ:
 
 21 Who will change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself.
 
 ## Philippians Chapter 4
 
-1 Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.
+1 Therefore, my brothers dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.
 
-2 I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
+2 I urge Euodias, and urge Syntyche, that they be of the same mind in the Lord.
 
-3 And I intreat you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.
+3 And I intreat you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my co-workers, whose names are in the book of life.
 
 4 Rejoice in the Lord always: and again I say, Rejoice.
 
 5 Let your moderation be known to all men. The Lord is at hand.
 
-6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known to God.
+6 Be careful for nothing; but in every thing by prayer and prayer with thanksgiving let your requests be made known to God.
 
 7 And the peace of God, which passs all understanding, will keep your hearts and minds through Christ Jesus.
 
-8 Finally, brethren, whatsoever things are true, whatsoever things are hon, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+8 Finally, brothers, whatsoever things are true, whatsoever things are hon, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 9 Those things, which you have both learned, and received, and heard, and seen in me, do: and the God of peace will be with you.
 
-10 But I rejoiced in the Lord greatly, that now at the last your care of me has flourished again; wherein you were also careful, but you lacked opportunity.
+10 But I rejoiced in the Lord greatly, that now at the last your care of me has flourished again; in which you were also careful, but you lacked opportunity.
 
-11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
+11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, with it to be content.
 
 12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 
 13 I can do all things through Christ which strengthens me.
 
-14 Notwithstanding you have well done, that you did communicate with my affliction.
+14 Nevertheless you have well done, that you did communicate with my affliction.
 
 15 Now you Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but you only.
 
@@ -210,9 +210,9 @@
 
 20 Now to God and our Father be glory for ever and ever. Amen.
 
-21 Salute every saint in Christ Jesus. The brethren which are with me greet you.
+21 Greet every saint in Christ Jesus. The brothers which are with me greet you.
 
-22 All the saints salute you, chiefly they that are of Caesar's household.
+22 All the saints greet you, chiefly they that are of Caesar's household.
 
 23 The grace of our Lord Jesus Christ be with you all. Amen.
 

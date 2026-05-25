@@ -8,7 +8,7 @@
 
 3 To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 
-4 And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, you have heard of me.
+4 And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, says he, you have heard of me.
 
 5 For John truly baptized with water; but you will be baptized with the Holy Spirit not many days hence.
 
@@ -26,21 +26,21 @@
 
 12 Then returned they to Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.
 
-13 And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.
+13 And when they were come in, they went up into an upper room, where stayed both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.
 
-14 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
+14 These all continued with one accord in prayer and prayer, with the women, and Mary the mother of Jesus, and with his brothers.
 
 15 And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
 
-16 Men and brethren, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+16 Men and brothers, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
 
 17 For he was numbered with us, and had obtained part of this ministry.
 
-18 Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+18 Now this man purchased a field with the reward of iniquity; and falling headlong, he burst apart in the midst, and all his insides gushed out.
 
-19 And it was known to all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
+19 And it was known to all the dwellers at Jerusalem; so much so as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
 
-20 For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
+20 For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell in it: and his position of leadership let another take.
 
 21 therefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
 
@@ -50,7 +50,7 @@
 
 24 And they prayed, and said, you, Lord, which know the hearts of all men, shew whether of these two you have chosen,
 
-25 That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
+25 That he may take part of this ministry and apostleship, from which Judas by sin fell, that he might go to his own place.
 
 26 And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 
@@ -72,7 +72,7 @@
 
 7 And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans?
 
-8 And how hear we every man in our own tongue, wherein we were born?
+8 And how hear we every man in our own tongue, in which we were born?
 
 9 Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
 
@@ -84,13 +84,13 @@
 
 13 Others mocking said, These men are full of new wine.
 
-14 But Peter, standing up with the eleven, lifted up his voice, and said to them, you men of Judaea, and all you that dwell at Jerusalem, be this known to you, and hearken to my words:
+14 But Peter, standing up with the eleven, lifted up his voice, and said to them, you men of Judaea, and all you that dwell at Jerusalem, be this known to you, and listen to my words:
 
 15 For these are not drunken, as you suppose, seeing it is but the third hour of the day.
 
 16 But this is that which was spoken by the prophet Joel;
 
-17 And it will come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters will prophesy, and your young men will see visions, and your old men will dream dreams:
+17 And it will come to pass in the last days, says God, I will pour out of my Spirit upon all flesh: and your sons and your daughters will prophesy, and your young men will see visions, and your old men will dream dreams:
 
 18 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they will prophesy:
 
@@ -114,7 +114,7 @@
 
 28 you have made known to me the ways of life; you will make me full of joy with your countenance.
 
-29 Men and brethren, let me freely speak to you of the patriarch David, that he is both dead and buried, and his sepulchre is with us to this day.
+29 Men and brothers, let me freely speak to you of the patriarch David, that he is both dead and buried, and his tomb is with us to this day.
 
 30 Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
 
@@ -124,7 +124,7 @@
 
 33 Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Spirit, he has shed forth this, which you now see and hear.
 
-34 For David is not ascended into the heavens: but he saith himself, The Lord said to my Lord, Sit you on my right hand,
+34 For David is not ascended into the heavens: but he says himself, The Lord said to my Lord, Sit you on my right hand,
 
 35 Until I make your foes your footstool.
 
@@ -136,7 +136,7 @@
 
 39 Because this promise is directly for you, for your children, and for everyone far away—as many as the Lord our God will call.”
 
-40 And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.
+40 And with many other words did he testify and encourage, saying, Save yourselves from this untoward generation.
 
 41 Then they that gladly received his word were baptized: and the same day there were added to them about three thousand souls.
 
@@ -152,7 +152,7 @@
 
 47 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 
-[Operational Insight: Notice the immediate shift in verse 38. Peter doesn't give them an abstract theological theory; he gives a direct, multi-step action plan. The archaic text used 'remission of sins' and 'Holy Ghost'—terms that distance modern readers. The SKJV downloads this straight into your present reality: forgiveness of sins and the gift of the Holy Spirit. Verse 39 explicitly locks you into the contract: this promise wasn't just for ancient Israel; it is addressed directly to you right now.]
+[Operational Insight: Notice the immediate shift in verse 38. Peter doesn't give them an abstract theological theory; he gives a direct, multi-step action plan. The archaic text used 'forgiveness of sins' and 'Holy Ghost'—terms that distance modern readers. The SKJV downloads this straight into your present reality: forgiveness of sins and the gift of the Holy Spirit. Verse 39 explicitly locks you into the contract: this promise wasn't just for ancient Israel; it is addressed directly to you right now.]
 
 ## Acts Chapter 3
 
@@ -188,7 +188,7 @@
 
 16 And his name through faith in his name has made this man strong, whom you see and know: yea, the faith which is by him has given him this perfect soundness in the presence of you all.
 
-17 And now, brethren, I wot that through ignorance you did it, as did also your rulers.
+17 And now, brothers, I wot that through ignorance you did it, as did also your rulers.
 
 18 But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he has so fulfilled.
 
@@ -198,7 +198,7 @@
 
 21 Whom the heaven must receive until the times of restitution of all things, which God has spoken by the mouth of all his holy prophets since the world began.
 
-22 For Moses truly said to the fathers, A prophet will the Lord your God raise up to you of your brethren, like to me; him will you hear in all things whatsoever he will say to you.
+22 For Moses truly said to the fathers, A prophet will the Lord your God raise up to you of your brothers, like to me; him will you hear in all things whatsoever he will say to you.
 
 23 And it will come to pass, that every soul, which will not hear that prophet, will be destroyed from among the people.
 
@@ -214,9 +214,9 @@
 
 2 Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.
 
-3 And they laid hands on them, and put them in hold to the next day: for it was now eventide.
+3 And they laid hands on them, and put them in hold to the next day: for it was now evening.
 
-4 Howbeit many of them which heard the word believed; and the number of the men was about five thousand.
+4 However many of them which heard the word believed; and the number of the men was about five thousand.
 
 5 And it came to pass on the morrow, that their rulers, and elders, and scribes,
 
@@ -242,11 +242,11 @@
 
 16 Saying, What will we do to these men? for that indeed a notable miracle has been done by them is manif to all them that dwell in Jerusalem; and we cannot deny it.
 
-17 But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.
+17 But that it spread no further among the people, let us straitly threaten them, that they speak from now on to no man in this name.
 
 18 And they called them, and commanded them not to speak at all nor teach in the name of Jesus.
 
-19 But Peter and John answered and said to them, Whether it be right in the sight of God to hearken to you more than to God, judge you.
+19 But Peter and John answered and said to them, Whether it be right in the sight of God to listen to you more than to God, judge you.
 
 20 For we cannot but speak the things which we have seen and heard.
 
@@ -280,7 +280,7 @@
 
 35 And laid them down at the apostles' feet: and distribution was made to every man according as he had need.
 
-36 And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,
+36 And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of comfort,) a Levite, and of the country of Cyprus,
 
 37 Having land, sold it, and brought the money, and laid it at the apostles' feet.
 
@@ -304,7 +304,7 @@
 
 9 Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried your husband are at the door, and will carry you out.
 
-10 Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
+10 Then fell she down immediately at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
 
 11 And great fear came upon all the church, and upon as many as heard these things.
 
@@ -314,7 +314,7 @@
 
 14 And believers were the more added to the Lord, multitudes both of men and women.)
 
-15 Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.
+15 So much so that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.
 
 16 There came also a multitude out of the cities round about to Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
 
@@ -362,7 +362,7 @@
 
 38 And now I say to you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
 
-39 But if it be of God, you cannot overthrow it; otherwise haply you be found even to fight against God.
+39 But if it be of God, you cannot overthrow it; otherwise perhaps you be found even to fight against God.
 
 40 And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.
 
@@ -376,7 +376,7 @@
 
 2 Then the twelve called the multitude of the disciples to them, and said, It is not reason that we should leave the word of God, and serve tables.
 
-3 therefore, brethren, look you out among you seven men of hon report, full of the Holy Spirit and wisdom, whom we may appoint over this business.
+3 therefore, brothers, look you out among you seven men of hon report, full of the Holy Spirit and wisdom, whom we may appoint over this business.
 
 4 But we will give ourselves continually to prayer, and to the ministry of the word.
 
@@ -406,19 +406,19 @@
 
 1 Then said the high pri, Are these things so?
 
-2 And he said, Men, brethren, and fathers, hearken; The God of glory appeared to our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
+2 And he said, Men, brothers, and fathers, listen; The God of glory appeared to our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 
 3 And said to him, Get you out of your country, and from your kindred, and come into the land which I will shew you.
 
-4 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein you now dwell.
+4 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from from there, when his father was dead, he removed him into this land, in which you now dwell.
 
 5 And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
 
-6 And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.
+6 And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and plead with them evil four hundred years.
 
 7 And the nation to whom they will be in bondage will I judge, said God: and after that will they come forth, and serve me in this place.
 
-8 And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
+8 And he gave him the covenant of circumcision: and so Abraham fathered Isaac, and circumcised him the eighth day; and Isaac fathered Jacob; and Jacob fathered the twelve patriarchs.
 
 9 And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
 
@@ -428,15 +428,15 @@
 
 12 But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
 
-13 And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known to Pharaoh.
+13 And at the second time Joseph was made known to his brothers; and Joseph's kindred was made known to Pharaoh.
 
 14 Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.
 
 15 So Jacob went down into Egypt, and died, he, and our fathers,
 
-16 And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
+16 And were carried over into Sychem, and laid in the tomb that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
 
-17 But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,
+17 But when the time of the promise drew near, which God had sworn to Abraham, the people grew and multiplied in Egypt,
 
 18 Till another king arose, which knew not Joseph.
 
@@ -448,19 +448,19 @@
 
 22 And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
 
-23 And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
+23 And when he was full forty years old, it came into his heart to visit his brothers the children of Israel.
 
-24 And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:
+24 And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and struck the Egyptian:
 
-25 For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
+25 For he supposed his brothers would have understood how that God by his hand would deliver them: but they understood not.
 
-26 And the next day he shewed himself to them as they strove, and would have set them at one again, saying, Sirs, you are brethren; why do you wrong one to another?
+26 And the next day he shewed himself to them as they strove, and would have set them at one again, saying, Sirs, you are brothers; why do you wrong one to another?
 
 27 But he that did his neighbour wrong thrust him away, saying, Who made you a ruler and a judge over us?
 
 28 will you kill me, as you didd the Egyptian yesterday?
 
-29 Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
+29 Then fled Moses at this saying, and was a stranger in the land of Madian, where he fathered two sons.
 
 30 And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 
@@ -476,7 +476,7 @@
 
 36 He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
 
-37 This is that Moses, which said to the children of Israel, A prophet will the Lord your God raise up to you of your brethren, like to me; him will you hear.
+37 This is that Moses, which said to the children of Israel, A prophet will the Lord your God raise up to you of your brothers, like to me; him will you hear.
 
 38 This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
 
@@ -498,9 +498,9 @@
 
 47 But Solomon built him an house.
 
-48 Howbeit the most High dwells not in temples made with hands; as saith the prophet,
+48 However the most High dwells not in temples made with hands; as says the prophet,
 
-49 Heaven is my throne, and earth is my footstool: what house will you build me? saith the Lord: or what is the place of my r?
+49 Heaven is my throne, and earth is my footstool: what house will you build me? says the Lord: or what is the place of my r?
 
 50 has not my hand made all these things?
 
@@ -584,7 +584,7 @@
 
 29 Then the Spirit said to Philip, Go near, and join thyself to this chariot.
 
-30 And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understand you what you read?
+30 And Philip ran there to him, and heard him read the prophet Esaias, and said, Understand you what you read?
 
 31 And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
@@ -646,9 +646,9 @@
 
 19 And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.
 
-20 And straightway he preached Christ in the synagogues, that he is the Son of God.
+20 And immediately he preached Christ in the synagogues, that he is the Son of God.
 
-21 But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound to the chief priests?
+21 But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came here for that intent, that he might bring them bound to the chief priests?
 
 22 But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
 
@@ -666,7 +666,7 @@
 
 29 And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
 
-30 Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
+30 Which when the brothers knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 
 31 Then had the churches r throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied.
 
@@ -674,7 +674,7 @@
 
 33 And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.
 
-34 And Peter said to him, Aeneas, Jesus Christ maks you whole: arise, and make your bed. And he arose immediately.
+34 And Peter said to him, Aeneas, Jesus Christ makes you whole: arise, and make your bed. And he arose immediately.
 
 35 And all that dwelt at Lydda and Saron saw him, and turned to the Lord.
 
@@ -682,7 +682,7 @@
 
 37 And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber.
 
-38 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him that he would not delay to come to them.
+38 And since as Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him that he would not delay to come to them.
 
 39 Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
 
@@ -712,13 +712,13 @@
 
 8 And when he had declared all these things to them, he sent them to Joppa.
 
-9 On the morrow, as they went on their journey, and drew nigh to the city, Peter went up upon the housetop to pray about the sixth hour:
+9 On the morrow, as they went on their journey, and drew near to the city, Peter went up upon the housetop to pray about the sixth hour:
 
 10 And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
 
 11 And saw heaven opened, and a certain vessel descending upon him, as it had been a great sheet knit at the four corners, and let down to the earth:
 
-12 Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
+12 In which were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
 
 13 And there came a voice to him, Rise, Peter; kill, and eat.
 
@@ -740,7 +740,7 @@
 
 22 And they said, Cornelius the centurion, a just man, and one that fears God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for you into his house, and to hear words of you.
 
-23 Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
+23 Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brothers from Joppa accompanied him.
 
 24 And the morrow after they entered into Caesarea. And Cornelius waited for them, and he had called together his kinsmen and near friends.
 
@@ -752,13 +752,13 @@
 
 28 And he said to them, you know how that it is an unlawful thing for a man that is a Jew to keep company, or come to one of another nation; but God has shewed me that I should not call any man common or unclean.
 
-29 Therefore came I to you without gainsaying, as soon as I was sent for: I ask therefore for what intent you have sent for me?
+29 Therefore came I to you without rebellion, as soon as I was sent for: I ask therefore for what intent you have sent for me?
 
 30 And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,
 
 31 And said, Cornelius, your prayer is heard, and your alms are had in remembrance in the sight of God.
 
-32 Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he coms, will speak to you.
+32 Send therefore to Joppa, and call here Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he comes, will speak to you.
 
 33 Immediately therefore I sent to you; and you have well done that you are come. Now therefore are we all here present before God, to hear all things that are commanded you of God.
 
@@ -780,7 +780,7 @@
 
 42 And he commanded us to preach to the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.
 
-43 To him give all the prophets witness, that through his name whosoever believs in him will receive remission of sins.
+43 To him give all the prophets witness, that through his name whosoever believes in him will receive forgiveness of sins.
 
 44 While Peter yet spake these words, the Holy Spirit fell on all them which heard the word.
 
@@ -794,11 +794,11 @@
 
 ## Acts Chapter 11
 
-1 And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.
+1 And the apostles and brothers that were in Judaea heard that the Gentiles had also received the word of God.
 
 2 And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,
 
-3 Saying, you went in to men uncircumcised, and didst eat with them.
+3 Saying, you went in to men uncircumcised, and did eat with them.
 
 4 But Peter rehearsed the matter from the beginning, and expounded it by order to them, saying,
 
@@ -816,7 +816,7 @@
 
 11 And, behold, immediately there were three men already come to the house where I was, sent from Caesarea to me.
 
-12 And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:
+12 And the Spirit bade me go with them, nothing doubting. Moreover these six brothers accompanied me, and we entered into the man's house:
 
 13 And he shewed us how he had seen an angel in his house, which stood and said to him, Send men to Joppa, and call for Simon, whose surname is Peter;
 
@@ -826,7 +826,7 @@
 
 16 Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but you will be baptized with the Holy Spirit.
 
-17 Forasmuch then as God gave them the like gift as he did to us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
+17 Since then as God gave them the like gift as he did to us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
 
 18 When they heard these things, they held their peace, and glorified God, saying, Then has God also to the Gentiles granted repentance to life.
 
@@ -838,7 +838,7 @@
 
 22 Then tidings of these things came to the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
 
-23 Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave to the Lord.
+23 Who, when he came, and had seen the grace of God, was glad, and encouraged them all, that with purpose of heart they would cleave to the Lord.
 
 24 For he was a good man, and full of the Holy Spirit and of faith: and much people was added to the Lord.
 
@@ -850,7 +850,7 @@
 
 28 And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
 
-29 Then the disciples, every man according to his ability, determined to send relief to the brethren which dwelt in Judaea:
+29 Then the disciples, every man according to his ability, determined to send relief to the brothers which dwelt in Judaea:
 
 30 Which also they did, and sent it to the elders by the hands of Barnabas and Saul.
 
@@ -868,11 +868,11 @@
 
 6 And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.
 
-7 And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
+7 And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he struck Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
 
-8 And the angel said to him, Gird thyself, and bind on your sandals. And so he did. And he saith to him, Cast your garment about you, and follow me.
+8 And the angel said to him, Gird thyself, and bind on your sandals. And so he did. And he says to him, Cast your garment about you, and follow me.
 
-9 And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.
+9 And he went out, and followed him; and knew not that it was true which was done by the angel; but thought he saw a vision.
 
 10 When they were past the first and the second ward, they came to the iron gate that leads to the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.
 
@@ -880,7 +880,7 @@
 
 12 And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.
 
-13 And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
+13 And as Peter knocked at the door of the gate, a young woman came to listen, named Rhoda.
 
 14 And when she knew Peter's voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
 
@@ -888,19 +888,19 @@
 
 16 But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
 
-17 But he, beckoning to them with the hand to hold their peace, declared to them how the Lord had brought him out of the prison. And he said, Go shew these things to James, and to the brethren. And he departed, and went into another place.
+17 But he, beckoning to them with the hand to hold their peace, declared to them how the Lord had brought him out of the prison. And he said, Go shew these things to James, and to the brothers. And he departed, and went into another place.
 
 18 Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.
 
-19 And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode.
+19 And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there stayed.
 
-20 And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king's chamberlain their friend, desired peace; because their country was nourished by the king's country.
+20 And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king's court official their friend, desired peace; because their country was nourished by the king's country.
 
 21 And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration to them.
 
 22 And the people gave a shout, saying, It is the voice of a god, and not of a man.
 
-23 And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
+23 And immediately the angel of the Lord struck him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
 
 24 But the word of God grew and multiplied.
 
@@ -914,7 +914,7 @@
 
 3 And when they had fasted and prayed, and laid their hands on them, they sent them away.
 
-4 So they, being sent forth by the Holy Spirit, departed to Seleucia; and from thence they sailed to Cyprus.
+4 So they, being sent forth by the Holy Spirit, departed to Seleucia; and from from there they sailed to Cyprus.
 
 5 And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.
 
@@ -936,7 +936,7 @@
 
 14 But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down.
 
-15 And after the reading of the law and the prophets the rulers of the synagogue sent to them, saying, you men and brethren, if you have any word of exhortation for the people, say on.
+15 And after the reading of the law and the prophets the rulers of the synagogue sent to them, saying, you men and brothers, if you have any word of encouragement for the people, say on.
 
 16 Then Paul stood up, and beckoning with his hand said, Men of Israel, and you that fear God, give audience.
 
@@ -956,15 +956,15 @@
 
 24 When John had first preached before his coming the baptism of repentance to all the people of Israel.
 
-25 And as John fulfilled his course, he said, Whom think you that I am? I am not he. But, behold, there coms one after me, whose shoes of his feet I am not worthy to loose.
+25 And as John fulfilled his course, he said, Whom think you that I am? I am not he. But, behold, there comes one after me, whose shoes of his feet I am not worthy to loose.
 
-26 Men and brethren, children of the stock of Abraham, and whosoever among you fears God, to you is the word of this salvation sent.
+26 Men and brothers, children of the stock of Abraham, and whosoever among you fears God, to you is the word of this salvation sent.
 
 27 For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him.
 
 28 And though they found no cause of death in him, yet desired they Pilate that he should be slain.
 
-29 And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre.
+29 And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a tomb.
 
 30 But God raised him from the dead:
 
@@ -976,13 +976,13 @@
 
 34 And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
 
-35 therefore he saith also in another psalm, you will not suffer your Holy One to see corruption.
+35 therefore he says also in another psalm, you will not suffer your Holy One to see corruption.
 
 36 For David, after he had served his own generation by the will of God, fell on sleep, and was laid to his fathers, and saw corruption:
 
 37 But he, whom God raised again, saw no corruption.
 
-38 Be it known to you therefore, men and brethren, that through this man is preached to you the forgiveness of sins:
+38 Be it known to you therefore, men and brothers, that through this man is preached to you the forgiveness of sins:
 
 39 And by him all that believe are justified from all things, from which you could not be justified by the law of Moses.
 
@@ -990,7 +990,7 @@
 
 41 Behold, you despisers, and wonder, and perish: for I work a work in your days, a work which you will in no wise believe, though a man declare it to you.
 
-42 And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.
+42 And when the Jews were gone out of the synagogue, the Gentiles urged that these words might be preached to them the next sabbath.
 
 43 Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.
 
@@ -998,7 +998,7 @@
 
 45 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
 
-46 Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
+46 Then Paul and Barnabas grew bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 
 47 For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation to the ends of the earth.
 
@@ -1016,9 +1016,9 @@
 
 1 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 
-2 But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.
+2 But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brothers.
 
-3 Long time therefore abode they speaking boldly in the Lord, which gave testimony to the word of his grace, and granted signs and wonders to be done by their hands.
+3 Long time therefore stayed they speaking boldly in the Lord, which gave testimony to the word of his grace, and granted signs and wonders to be done by their hands.
 
 4 But the multitude of the city was divided: and part held with the Jews, and part with the apostles.
 
@@ -1042,7 +1042,7 @@
 
 14 Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,
 
-15 And saying, Sirs, why do you these things? We also are men of like passions with you, and preach to you that you should turn from these vanities to the living God, which made heaven, and earth, and the sea, and all things that are therein:
+15 And saying, Sirs, why do you these things? We also are men of like passions with you, and preach to you that you should turn from these vanities to the living God, which made heaven, and earth, and the sea, and all things that are in it:
 
 16 Who in times past suffered all nations to walk in their own ways.
 
@@ -1050,13 +1050,13 @@
 
 18 And with these sayings scarce restrained they the people, that they had not done sacrifice to them.
 
-19 And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead.
+19 And there came there certain Jews from Antioch and Iconium, who persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead.
 
-20 Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
+20 However, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
 
 21 And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
 
-22 Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
+22 Confirming the souls of the disciples, and encouraging them to continue in the faith, and that we must through much suffering enter into the kingdom of God.
 
 23 And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.
 
@@ -1064,19 +1064,19 @@
 
 25 And when they had preached the word in Perga, they went down into Attalia:
 
-26 And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.
+26 And from there sailed to Antioch, from from where they had been recommended to the grace of God for the work which they fulfilled.
 
 27 And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith to the Gentiles.
 
-28 And there they abode long time with the disciples.
+28 And there they stayed long time with the disciples.
 
 ## Acts Chapter 15
 
-1 And certain men which came down from Judaea taught the brethren, and said, Except you be circumcised after the manner of Moses, you cannot be saved.
+1 And certain men which came down from Judaea taught the brothers, and said, Except you be circumcised after the manner of Moses, you cannot be saved.
 
 2 When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem to the apostles and elders about this question.
 
-3 And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy to all the brethren.
+3 And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy to all the brothers.
 
 4 And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them.
 
@@ -1084,7 +1084,7 @@
 
 6 And the apostles and elders came together for to consider of this matter.
 
-7 And when there had been much disputing, Peter rose up, and said to them, Men and brethren, you know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
+7 And when there had been much disputing, Peter rose up, and said to them, Men and brothers, you know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 
 8 And God, which knows the hearts, bare them witness, giving them the Holy Spirit, even as he did to us;
 
@@ -1096,15 +1096,15 @@
 
 12 Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.
 
-13 And after they had held their peace, James answered, saying, Men and brethren, hearken to me:
+13 And after they had held their peace, James answered, saying, Men and brothers, listen to me:
 
 14 Simeon has declared how God at the first did visit the Gentiles, to take out of them a people for his name.
 
 15 And to this agree the words of the prophets; as it is written,
 
-16 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
+16 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins of it, and I will set it up:
 
-17 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who dos all these things.
+17 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, says the Lord, who does all these things.
 
 18 Known to God are all his works from the beginning of the world.
 
@@ -1114,11 +1114,11 @@
 
 21 For Moses of old time has in every city them that preach him, being read in the synagogues every sabbath day.
 
-22 Then pleased it the apostles and elders with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brethren:
+22 Then pleased it the apostles and elders with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brothers:
 
-23 And they wrote letters by them after this manner; The apostles and elders and brethren send greeting to the brethren which are of the Gentiles in Antioch and Syria and Cilicia.
+23 And they wrote letters by them after this manner; The apostles and elders and brothers send greeting to the brothers which are of the Gentiles in Antioch and Syria and Cilicia.
 
-24 Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, you must be circumcised, and keep the law: to whom we gave no such commandment:
+24 Since as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, you must be circumcised, and keep the law: to whom we gave no such commandment:
 
 25 It seemed good to us, being assembled with one accord, to send chosen men to you with our beloved Barnabas and Paul,
 
@@ -1132,25 +1132,25 @@
 
 30 So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
 
-31 Which when they had read, they rejoiced for the consolation.
+31 Which when they had read, they rejoiced for the comfort.
 
-32 And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them.
+32 And Judas and Silas, being prophets also themselves, encouraged the brothers with many words, and confirmed them.
 
-33 And after they had tarried there a space, they were let go in peace from the brethren to the apostles.
+33 And after they had tarried there a space, they were let go in peace from the brothers to the apostles.
 
-34 Notwithstanding it pleased Silas to abide there still.
+34 Nevertheless it pleased Silas to abide there still.
 
 35 Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.
 
-36 And some days after Paul said to Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
+36 And some days after Paul said to Barnabas, Let us go again and visit our brothers in every city where we have preached the word of the Lord, and see how they do.
 
 37 And Barnabas determined to take with them John, whose surname was Mark.
 
 38 But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.
 
-39 And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed to Cyprus;
+39 And the contention was so sharp between them, that they departed apart one from the other: and so Barnabas took Mark, and sailed to Cyprus;
 
-40 And Paul chose Silas, and departed, being recommended by the brethren to the grace of God.
+40 And Paul chose Silas, and departed, being recommended by the brothers to the grace of God.
 
 41 And he went through Syria and Cilicia, confirming the churches.
 
@@ -1158,7 +1158,7 @@
 
 1 Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
 
-2 Which was well reported of by the brethren that were at Lystra and Iconium.
+2 Which was well reported of by the brothers that were at Lystra and Iconium.
 
 3 Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.
 
@@ -1178,15 +1178,15 @@
 
 11 Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;
 
-12 And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
+12 And from from there to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 
-13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake to the women which resorted thither.
+13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake to the women which resorted there.
 
 14 And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended to the things which were spoken of Paul.
 
-15 And when she was baptized, and her household, she besought us, saying, If you have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us.
+15 And when she was baptized, and her household, she urged us, saying, If you have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us.
 
-16 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
+16 And it came to pass, as we went to prayer, a certain young woman possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
 
 17 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew to us the way of salvation.
 
@@ -1220,7 +1220,7 @@
 
 32 And they spake to him the word of the Lord, and to all that were in his house.
 
-33 And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway.
+33 And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, immediately.
 
 34 And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 
@@ -1228,13 +1228,13 @@
 
 36 And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace.
 
-37 But Paul said to them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out.
+37 But Paul said to them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out secretly? nay truly; but let them come themselves and fetch us out.
 
 38 And the serjeants told these words to the magistrates: and they feared, when they heard that they were Romans.
 
-39 And they came and besought them, and brought them out, and desired them to depart out of the city.
+39 And they came and urged them, and brought them out, and desired them to depart out of the city.
 
-40 And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed.
+40 And they went out of the prison, and entered into the house of Lydia: and when they had seen the brothers, they comforted them, and departed.
 
 ## Acts Chapter 17
 
@@ -1248,7 +1248,7 @@
 
 5 But the Jews which believed not, moved with envy, took to them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.
 
-6 And when they found them not, they drew Jason and certain brethren to the rulers of the city, crying, These that have turned the world upside down are come hither also;
+6 And when they found them not, they drew Jason and certain brothers to the rulers of the city, crying, These that have turned the world upside down are come here also;
 
 7 Whom Jason has received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.
 
@@ -1256,15 +1256,15 @@
 
 9 And when they had taken security of Jason, and of the other, they let them go.
 
-10 And the brethren immediately sent away Paul and Silas by night to Berea: who coming thither went into the synagogue of the Jews.
+10 And the brothers immediately sent away Paul and Silas by night to Berea: who coming there went into the synagogue of the Jews.
 
 11 These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
 
 12 Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.
 
-13 But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.
+13 But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came there also, and stirred up the people.
 
-14 And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.
+14 And then immediately the brothers sent away Paul to go as it were to the sea: but Silas and Timotheus stayed there still.
 
 15 And they that conducted Paul brought him to Athens: and receiving a commandment to Silas and Timotheus for to come to him with all speed, they departed.
 
@@ -1284,17 +1284,17 @@
 
 23 For as I passed by, and beheld your devotions, I found an altar with this inscription, To The Unknown God. Whom therefore you ignorantly worship, him declare I to you.
 
-24 God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;
+24 God that made the world and all things in it, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;
 
-25 Neither is worshipped with men's hands, as though he needed any thing, seeing he givs to all life, and breath, and all things;
+25 Neither is worshipped with men's hands, as though he needed any thing, seeing he gives to all life, and breath, and all things;
 
 26 And has made of one blood all nations of men for to dwell on all the face of the earth, and has determined the times before appointed, and the bounds of their habitation;
 
-27 That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:
+27 That they should seek the Lord, if perhaps they might feel after him, and find him, though he be not far from every one of us:
 
 28 For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 
-29 Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, graven by are and man's device.
+29 Since then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, graven by are and man's device.
 
 30 And the times of this ignorance God winked at; but now commands all men every where to repent:
 
@@ -1304,7 +1304,7 @@
 
 33 So Paul departed from among them.
 
-34 Howbeit certain men clave to him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
+34 However certain men clave to him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
 
 ## Acts Chapter 18
 
@@ -1312,15 +1312,15 @@
 
 2 And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came to them.
 
-3 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+3 And because he was of the same craft, he stayed with them, and wrought: for by their occupation they were tentmakers.
 
 4 And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 5 And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
 
-6 And when they opposed themselves, and blasphemed, he shook his raiment, and said to them, Your blood be upon your own heads; I am clean; from henceforth I will go to the Gentiles.
+6 And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from from now on I will go to the Gentiles.
 
-7 And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
+7 And he departed from there, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
 
 8 And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
@@ -1342,15 +1342,15 @@
 
 17 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
 
-18 And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
+18 And Paul after this tarried there yet a good while, and then took his leave of the brothers, and sailed from there into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
 
 19 And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.
 
 20 When they desired him to tarry longer time with them, he consented not;
 
-21 But bade them farewell, saying, I must by all means keep this feast that coms in Jerusalem: but I will return again to you, if God will. And he sailed from Ephesus.
+21 But bade them farewell, saying, I must by all means keep this feast that comes in Jerusalem: but I will return again to you, if God will. And he sailed from Ephesus.
 
-22 And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.
+22 And when he had landed at Caesarea, and gone up, and greeted the church, he went down to Antioch.
 
 23 And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples.
 
@@ -1360,7 +1360,7 @@
 
 26 And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him to them, and expounded to him the way of God more perfectly.
 
-27 And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:
+27 And when he was disposed to pass into Achaia, the brothers wrote, encouraging the disciples to receive him: who, when he was come, helped them much which had believed through grace:
 
 28 For he mightily convinced the Jews, and that publicly, shewing by the scriptures that Jesus was Christ.
 
@@ -1372,7 +1372,7 @@
 
 3 And he said to them, to what then were you baptized? And they said, to John's baptism.
 
-4 Then said Paul, John verily baptized with the baptism of repentance, saying to the people, that they should believe on him which should come after him, that is, on Christ Jesus.
+4 Then said Paul, John truly baptized with the baptism of repentance, saying to the people, that they should believe on him which should come after him, that is, on Christ Jesus.
 
 5 When they heard this, they were baptized in the name of the Lord Jesus.
 
@@ -1382,7 +1382,7 @@
 
 8 And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.
 
-9 But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
+9 But when various were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
 
 10 And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 
@@ -1438,7 +1438,7 @@
 
 36 Seeing then that these things cannot be spoken against, you ought to be quiet, and to do nothing rashly.
 
-37 For you have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.
+37 For you have brought here these men, which are neither robbers of churches, nor yet blasphemers of your goddess.
 
 38 therefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.
 
@@ -1452,15 +1452,15 @@
 
 1 And after the uproar was ceased, Paul called to him the disciples, and embraced them, and departed for to go into Macedonia.
 
-2 And when he had gone over those parts, and had given them much exhortation, he came into Greece,
+2 And when he had gone over those parts, and had given them much encouragement, he came into Greece,
 
-3 And there abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.
+3 And there stayed three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.
 
 4 And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 
 5 These going before tarried for us at Troas.
 
-6 And we sailed away from Philippi after the days of unleavened bread, and came to them to Troas in five days; where we abode seven days.
+6 And we sailed away from Philippi after the days of unleavened bread, and came to them to Troas in five days; where we stayed seven days.
 
 7 And upon the first day of the week, when the disciples came together to break bread, Paul preached to them, ready to depart on the morrow; and continued his speech until midnight.
 
@@ -1478,7 +1478,7 @@
 
 14 And when he met with us at Assos, we took him in, and came to Mitylene.
 
-15 And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
+15 And we sailed from there, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
 
 16 For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
 
@@ -1512,7 +1512,7 @@
 
 31 Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
-32 And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
+32 And now, brothers, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
 
 33 I have coveted no man's silver, or gold, or apparel.
 
@@ -1528,7 +1528,7 @@
 
 ## Acts Chapter 21
 
-1 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course to Coos, and the day following to Rhodes, and from thence to Patara:
+1 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course to Coos, and the day following to Rhodes, and from from there to Patara:
 
 2 And finding a ship sailing over to Phenicia, we went aboard, and set forth.
 
@@ -1540,17 +1540,17 @@
 
 6 And when we had taken our leave one of another, we took ship; and they returned home again.
 
-7 And when we had finished our course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.
+7 And when we had finished our course from Tyre, we came to Ptolemais, and greeted the brothers, and stayed with them one day.
 
-8 And the next day we that were of Paul's company departed, and came to Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him.
+8 And the next day we that were of Paul's company departed, and came to Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and stayed with him.
 
 9 And the same man had four daughters, virgins, which did prophesy.
 
 10 And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.
 
-11 And when he was come to us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Spirit, So will the Jews at Jerusalem bind the man that owns this girdle, and will deliver him into the hands of the Gentiles.
+11 And when he was come to us, he took Paul's belt, and bound his own hands and feet, and said, Thus says the Holy Spirit, So will the Jews at Jerusalem bind the man that owns this belt, and will deliver him into the hands of the Gentiles.
 
-12 And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.
+12 And when we heard these things, both we, and they of that place, urged him not to go up to Jerusalem.
 
 13 Then Paul answered, What mean you to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
 
@@ -1560,11 +1560,11 @@
 
 16 There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
 
-17 And when we were come to Jerusalem, the brethren received us gladly.
+17 And when we were come to Jerusalem, the brothers received us gladly.
 
 18 And the day following Paul went in with us to James; and all the elders were present.
 
-19 And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
+19 And when he had greeted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
 
 20 And when they heard it, they glorified the Lord, and said to him, you se, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
 
@@ -1594,7 +1594,7 @@
 
 33 Then the chief captain came near, and took him, and commanded him to be bound with two chains; and demanded who he was, and what he had done.
 
-34 And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.
+34 And some cried one thing, some another, among the multitude: and when he could not know the certainty for the uproar, he commanded him to be carried into the castle.
 
 35 And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.
 
@@ -1604,23 +1604,23 @@
 
 38 are not you that Egyptian, which before these days mad an uproar, and ledd out into the wilderness four thousand men that were murderers?
 
-39 But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech you, suffer me to speak to the people.
+39 But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I urge you, suffer me to speak to the people.
 
 40 And when he had given him licence, Paul stood on the stairs, and beckoned with the hand to the people. And when there was made a great silence, he spake to them in the Hebrew tongue, saying,
 
 ## Acts Chapter 22
 
-1 Men, brethren, and fathers, hear you my defence which I make now to you.
+1 Men, brothers, and fathers, hear you my defence which I make now to you.
 
-2 (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)
+2 (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he says,)
 
-3 I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
+3 I am truly a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
 
 4 And I persecuted this way to the death, binding and delivering into prisons both men and women.
 
-5 As also the high pri does bear me witness, and all the estate of the elders: from whom also I received letters to the brethren, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
+5 As also the high pri does bear me witness, and all the estate of the elders: from whom also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
 
-6 And it came to pass, that, as I made my journey, and was come nigh to Damascus about noon, suddenly there shone from heaven a great light round about me.
+6 And it came to pass, that, as I made my journey, and was come near to Damascus about noon, suddenly there shone from heaven a great light round about me.
 
 7 And I fell to the ground, and heard a voice saying to me, Saul, Saul, why persecut you me?
 
@@ -1648,7 +1648,7 @@
 
 19 And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on you:
 
-20 And when the blood of your martyr Stephen was shed, I also was standing by, and consenting to his death, and kept the raiment of them that slew him.
+20 And when the blood of your martyr Stephen was shed, I also was standing by, and consenting to his death, and kept the clothing of them that slew him.
 
 21 And he said to me, Depart: for I will send you far hence to the Gentiles.
 
@@ -1666,13 +1666,13 @@
 
 28 And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born.
 
-29 Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
+29 Then immediately they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
 
 30 On the morrow, because he would have known the certainty therefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.
 
 ## Acts Chapter 23
 
-1 And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day.
+1 And Paul, earnestly beholding the council, said, Men and brothers, I have lived in all good conscience before God until this day.
 
 2 And the high pri Ananias commanded them that stood by him to smite him on the mouth.
 
@@ -1680,9 +1680,9 @@
 
 4 And they that stood by said, Revil you God's high pri?
 
-5 Then said Paul, I wist not, brethren, that he was the high pri: for it is written, you will not speak evil of the ruler of your people.
+5 Then said Paul, I knew not, brothers, that he was the high pri: for it is written, you will not speak evil of the ruler of your people.
 
-6 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+6 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brothers, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 
 7 And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
 
@@ -1730,7 +1730,7 @@
 
 29 Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.
 
-30 And when it was told me how that the Jews laid wait for the man, I sent straightway to you, and gave commandment to his accusers also to say before you what they had against him. Farewell.
+30 And when it was told me how that the Jews laid wait for the man, I sent immediately to you, and gave commandment to his accusers also to say before you what they had against him. Farewell.
 
 31 Then the soldiers, as it was commanded them, took Paul, and brought him by night to Antipatris.
 
@@ -1750,7 +1750,7 @@
 
 3 We accept it always, and in all places, most noble Felix, with all thankfulness.
 
-4 Notwithstanding, that I be not further tedious to you, I pray you that you would hear us of your clemency a few words.
+4 Nevertheless, that I be not further tedious to you, I pray you that you would hear us of your clemency a few words.
 
 5 For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:
 
@@ -1762,7 +1762,7 @@
 
 9 And the Jews also assented, saying that these things were so.
 
-10 Then Paul, after that the governor had beckoned to him to speak, answered, Forasmuch as I know that you have been of many years a judge to this nation, I do the more cheerfully answer for myself:
+10 Then Paul, after that the governor had beckoned to him to speak, answered, Since as I know that you have been of many years a judge to this nation, I do the more cheerfully answer for myself:
 
 11 Because that you may understand, that there are yet but twelve days since I went up to Jerusalem for to worship.
 
@@ -1774,11 +1774,11 @@
 
 15 And have hope toward God, which they themselves also allow, that there will be a resurrection of the dead, both of the just and unjust.
 
-16 And herein do I exercise myself, to have always a conscience void to offence toward God, and toward men.
+16 And in this do I exercise myself, to have always a conscience void to offence toward God, and toward men.
 
 17 Now after many years I came to bring alms to my nation, and offerings.
 
-18 Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult.
+18 Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with uproar.
 
 19 Who ought to have been here before you, and object, if they had ought against me.
 
@@ -1802,11 +1802,11 @@
 
 1 Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 
-2 Then the high pri and the chief of the Jews informed him against Paul, and besought him,
+2 Then the high pri and the chief of the Jews informed him against Paul, and urged him,
 
 3 And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
 
-4 But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.
+4 But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly there.
 
 5 Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him.
 
@@ -1824,7 +1824,7 @@
 
 12 Then Festus, when he had conferred with the council, answered, have you appealed to Caesar? to Caesar will you go.
 
-13 And after certain days king Agrippa and Bernice came to Caesarea to salute Festus.
+13 And after certain days king Agrippa and Bernice came to Caesarea to greet Festus.
 
 14 And when they had been there many days, Festus declared Paul's cause to the king, saying, There is a certain man left in bonds by Felix:
 
@@ -1832,7 +1832,7 @@
 
 16 To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
 
-17 Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
+17 Therefore, when they were come here, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
 
 18 Against whom when the accusers stood up, they brought none accusation of such things as I supposed:
 
@@ -1852,7 +1852,7 @@
 
 26 Of whom I have no certain thing to write to my lord. therefore I have brought him forth before you, and specially before you, O king Agrippa, that, after examination had, I might have somewhat to write.
 
-27 For it seems to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him.
+27 For it seems to me unreasonable to send a prisoner, and not also to signify the crimes laid against him.
 
 ## Acts Chapter 26
 
@@ -1860,7 +1860,7 @@
 
 2 I think myself happy, king Agrippa, because I will answer for myself this day before you touching all the things whereof I am accused of the Jews:
 
-3 Especially because I know you to be expert in all customs and questions which are among the Jews: therefore I beseech you to hear me patiently.
+3 Especially because I know you to be expert in all customs and questions which are among the Jews: therefore I urge you to hear me patiently.
 
 4 My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
 
@@ -1872,7 +1872,7 @@
 
 8 Why should it be thought a thing incredible with you, that God should raise the dead?
 
-9 I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazars.
+9 I truly thought with myself, that I ought to do many things contrary to the name of Jesus of Nazars.
 
 10 Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.
 
@@ -1916,7 +1916,7 @@
 
 30 And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:
 
-31 And when they were gone aside, they talked between themselves, saying, This man dos nothing worthy of death or of bonds.
+31 And when they were gone aside, they talked between themselves, saying, This man does nothing worthy of death or of bonds.
 
 32 Then said Agrippa to Festus, This man might have been set at liberty, if he had not appealed to Caesar.
 
@@ -1928,15 +1928,15 @@
 
 3 And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go to his friends to refresh himself.
 
-4 And when we had launched from thence, we sailed under Cyprus, because the winds were contrary.
+4 And when we had launched from from there, we sailed under Cyprus, because the winds were contrary.
 
 5 And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia.
 
-6 And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
+6 And there the centurion found a ship of Alexandria sailing into Italy; and he put us in it.
 
 7 And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;
 
-8 And, hardly passing it, came to a place which is called The fair havens; nigh whereunto was the city of Lasea.
+8 And, hardly passing it, came to a place which is called The fair havens; near whereunto was the city of Lasea.
 
 9 Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished them,
 
@@ -1944,9 +1944,9 @@
 
 11 Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.
 
-12 And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lis toward the south w and north w.
+12 And because the haven was not commodious to winter in, the more part advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lis toward the south w and north w.
 
-13 And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete.
+13 And when the south wind blew softly, supposing that they had obtained their purpose, loosing from there, they sailed close by Crete.
 
 14 But not long after there arose against it a tempestuous wind, called Euroclydon.
 
@@ -1962,9 +1962,9 @@
 
 20 And when neither sun nor stars in many days appeared, and no small temp lay on us, all hope that we should be saved was then taken away.
 
-21 But after long abstinence Paul stood forth in the midst of them, and said, Sirs, you should have hearkened to me, and not have loosed from Crete, and to have gained this harm and loss.
+21 But after long abstinence Paul stood forth in the midst of them, and said, Sirs, you should have listened to me, and not have loosed from Crete, and to have gained this harm and looses.
 
-22 And now I exhort you to be of good cheer: for there will be no loss of any man's life among you, but of the ship.
+22 And now I encourage you to be of good cheer: for there will be no looses of any man's life among you, but of the ship.
 
 23 For there stood by me this night the angel of God, whose I am, and whom I serve,
 
@@ -1972,7 +1972,7 @@
 
 25 therefore, sirs, be of good cheer: for I believe God, that it will be even as it was told me.
 
-26 Howbeit we must be cast upon a certain island.
+26 However we must be cast upon a certain island.
 
 27 But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;
 
@@ -1986,7 +1986,7 @@
 
 32 Then the soldiers cut off the ropes of the boat, and let her fall off.
 
-33 And while the day was coming on, Paul besought them all to take meat, saying, This day is the fourteenth day that you have tarried and continued fasting, having taken nothing.
+33 And while the day was coming on, Paul urged them all to take meat, saying, This day is the fourteenth day that you have tarried and continued fasting, having taken nothing.
 
 34 therefore I pray you to take some meat: for this is for your health: for there will not an hair fall from the head of any of you.
 
@@ -2022,7 +2022,7 @@
 
 5 And he shook off the beast into the fire, and felt no harm.
 
-6 Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.
+6 However they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.
 
 7 In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.
 
@@ -2036,15 +2036,15 @@
 
 12 And landing at Syracuse, we tarried there three days.
 
-13 And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
+13 And from from there we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
 
-14 Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.
+14 Where we found brothers, and were desired to tarry with them seven days: and so we went toward Rome.
 
-15 And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
+15 And from from there, when the brothers heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
 
 16 And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.
 
-17 And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said to them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
+17 And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said to them, Men and brothers, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
 
 18 Who, when they had examined me, would have let me go, because there was no cause of death in me.
 
@@ -2052,7 +2052,7 @@
 
 20 For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.
 
-21 And they said to him, We neither received letters out of Judaea concerning you, neither any of the brethren that came shewed or spake any harm of you.
+21 And they said to him, We neither received letters out of Judaea concerning you, neither any of the brothers that came shewed or spake any harm of you.
 
 22 But we desire to hear of you what you think: for as concerning this sect, we know that every where it is spoken against.
 
@@ -2064,7 +2064,7 @@
 
 26 Saying, Go to this people, and say, Hearing you will hear, and will not understand; and seeing you will see, and not perceive:
 
-27 For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; otherwise they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
+27 For the heart of this people is grew gross, and their ears are dull of hearing, and their eyes have they closed; otherwise they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
 
 28 Be it known therefore to you, that the salvation of God is sent to the Gentiles, and that they will hear it.
 

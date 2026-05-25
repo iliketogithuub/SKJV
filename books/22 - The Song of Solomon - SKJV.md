@@ -14,7 +14,7 @@
 
 6 Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
 
-7 Tell me, O you whom my soul lovs, where you feed, where you mak your flock to r at noon: for why should I be as one that turns aside by the flocks of your companions?
+7 Tell me, O you whom my soul loves, where you feed, where you mak your flock to r at noon: for why should I be as one that turns aside by the flocks of your companions?
 
 8 If you know not, O you fair among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
 
@@ -24,9 +24,9 @@
 
 11 We will make you borders of gold with studs of silver.
 
-12 While the king sitts at his table, my spikenard sends forth the smell thereof.
+12 While the king sitts at his table, my spikenard sends forth the smell of it.
 
-13 A bundle of myrrh is my well-beloved to me; he will lie all night betwixt my breasts.
+13 A bundle of myrrh is my well-beloved to me; he will lie all night between my breasts.
 
 14 My beloved is to me as a cluster of camphire in the vineyards of Engedi.
 
@@ -52,7 +52,7 @@
 
 7 I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love, till he please.
 
-8 The voice of my beloved! behold, he coms leaping upon the mountains, skipping upon the hills.
+8 The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills.
 
 9 My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, shewing himself through the lattice.
 
@@ -74,17 +74,17 @@
 
 ## Song of Solomon Chapter 3
 
-1 By night on my bed I sought him whom my soul lovs: I sought him, but I found him not.
+1 By night on my bed I sought him whom my soul loves: I sought him, but I found him not.
 
-2 I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul lovs: I sought him, but I found him not.
+2 I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loves: I sought him, but I found him not.
 
-3 The watchmen that go about the city found me: to whom I said, Saw you him whom my soul lovs?
+3 The watchmen that go about the city found me: to whom I said, Saw you him whom my soul loves?
 
-4 It was but a little that I passed from them, but I found him whom my soul lovs: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
+4 It was but a little that I passed from them, but I found him whom my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
 
 5 I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love, till he please.
 
-6 Who is this that coms out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
+6 Who is this that comes out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
 
 7 Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
 
@@ -92,9 +92,9 @@
 
 9 King Solomon made himself a chariot of the wood of Lebanon.
 
-10 He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.
+10 He made the pillars of it of silver, the bottom of it of gold, the covering of it of purple, the midst of it being paved with love, for the daughters of Jerusalem.
 
-11 Go forth, O you daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
+11 Go forth, O you daughters of Zion, and behold king Solomon with the crown with what his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
 
 ## Song of Solomon Chapter 4
 
@@ -128,7 +128,7 @@
 
 15 A fountain of gardens, a well of living waters, and streams from Lebanon.
 
-16 Awake, O north wind; and come, you south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
+16 Awake, O north wind; and come, you south; blow upon my garden, that the spices of it may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
 
 ## Song of Solomon Chapter 5
 
@@ -138,13 +138,13 @@
 
 3 I have put off my coat; how will I put it on? I have washed my feet; how will I defile them?
 
-4 My beloved put in his hand by the hole of the door, and my bowels were moved for him.
+4 My beloved put in his hand by the hole of the door, and my heart were moved for him.
 
 5 I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.
 
 6 I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.
 
-7 The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
+7 The watchmen that went about the city found me, they struck me, they wounded me; the keepers of the walls took away my veil from me.
 
 8 I charge you, O daughters of Jerusalem, if you find my beloved, that you tell him, that I am sick of love.
 
@@ -166,7 +166,7 @@
 
 ## Song of Solomon Chapter 6
 
-1 Whither is your beloved gone, O you fair among women? whither is your beloved turned aside? that we may seek him with you.
+1 Where is your beloved gone, O you fair among women? where is your beloved turned aside? that we may seek him with you.
 
 2 My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
 
@@ -208,7 +208,7 @@
 
 7 This your stature is like to a palm tree, and your breasts to clusters of grapes.
 
-8 I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also your breasts will be as clusters of the vine, and the smell of your nose like apples;
+8 I said, I will go up to the palm tree, I will take hold of the boughs of it: now also your breasts will be as clusters of the vine, and the smell of your nose like apples;
 
 9 And the roof of your mouth like the b wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak.
 
@@ -230,9 +230,9 @@
 
 4 I charge you, O daughters of Jerusalem, that you stir not up, nor awake my love, until he please.
 
-5 Who is this that coms up from the wilderness, leaning upon her beloved? I raised you up under the apple tree: there your mother brought you forth: there she brought you forth that bare you.
+5 Who is this that comes up from the wilderness, leaning upon her beloved? I raised you up under the apple tree: there your mother brought you forth: there she brought you forth that bare you.
 
-6 Set me as a seal upon your heart, as a seal upon your arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which has a most vehement flame.
+6 Set me as a seal upon your heart, as a seal upon your arm: for love is strong as death; jealousy is cruel as the grave: the coals of it are coals of fire, which has a most vehement flame.
 
 7 Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
 
@@ -242,11 +242,11 @@
 
 10 I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.
 
-11 Solomon had a vineyard at Baalhamon; he let out the vineyard to keepers; every one for the fruit thereof was to bring a thousand pieces of silver.
+11 Solomon had a vineyard at Baalhamon; he let out the vineyard to keepers; every one for the fruit of it was to bring a thousand pieces of silver.
 
-12 My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
+12 My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit of it two hundred.
 
-13 you that dwell in the gardens, the companions hearken to your voice: cause me to hear it.
+13 you that dwell in the gardens, the companions listen to your voice: cause me to hear it.
 
 14 Make haste, my beloved, and be you like to a roe or to a young hart upon the mountains of spices.
 

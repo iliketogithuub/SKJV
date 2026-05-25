@@ -18,7 +18,7 @@
 
 8 But a lover of hospitality, a lover of good men, sober, just, holy, temperate;
 
-9 Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
+9 Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to encourage and to convince the gainsayers.
 
 10 For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
 
@@ -40,19 +40,19 @@
 
 2 That the aged men be sober, grave, temperate, sound in faith, in love, in patience.
 
-3 The aged women likewise, that they be in behaviour as becoms holiness, not false accusers, not given to much wine, teachers of good things;
+3 The aged women likewise, that they be in behaviour as becomes holiness, not false accusers, not given to much wine, teachers of good things;
 
 4 That they may teach the young women to be sober, to love their husbands, to love their children,
 
 5 To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 
-6 Young men likewise exhort to be sober minded.
+6 Young men likewise encourage to be sober minded.
 
 7 In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
 
 8 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
-9 Exhort servants to be obedient to their own masters, and to please them well in all things; not answering again;
+9 Encourage servants to be obedient to their own masters, and to please them well in all things; not answering again;
 
 10 Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 
@@ -62,9 +62,9 @@
 
 13 Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
 
-14 Who gave himself for us, that he might redeem us from all iniquity, and purify to himself a peculiar people, zealous of good works.
+14 Who gave himself for us, that he might redeem us from all iniquity, and purify to himself a treasured people, zealous of good works.
 
-15 These things speak, and exhort, and rebuke with all authority. Let no man despise you.
+15 These things speak, and encourage, and rebuke with all authority. Let no man despise you.
 
 ## Titus Chapter 3
 
@@ -72,7 +72,7 @@
 
 2 To speak evil of no man, to be no brawlers, but gentle, shewing all meekness to all men.
 
-3 For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.
+3 For we ourselves also were sometimes foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.
 
 4 But after that the kindness and love of God our Saviour toward man appeared,
 
@@ -96,7 +96,7 @@
 
 14 And let our's also learn to maintain good works for necessary uses, that they be not unfruitful.
 
-15 All that are with me salute you. Greet them that love us in the faith. Grace be with you all. Amen.
+15 All that are with me greet you. Greet them that love us in the faith. Grace be with you all. Amen.
 
 
 ## eof

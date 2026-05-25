@@ -6,9 +6,9 @@
 
 2 The Lord has been sore displeased with your fathers.
 
-3 Therefore say you to them, Thus saith the Lord of hosts; Turn you to me, saith the Lord of hosts, and I will turn to you, saith the Lord of hosts.
+3 Therefore say you to them, Thus says the Lord of hosts; Turn you to me, says the Lord of hosts, and I will turn to you, says the Lord of hosts.
 
-4 Be you not as your fathers, to whom the former prophets have cried, saying, Thus saith the Lord of hosts; Turn you now from your evil ways, and from your evil doings: but they did not hear, nor hearken to me, saith the Lord.
+4 Be you not as your fathers, to whom the former prophets have cried, saying, Thus says the Lord of hosts; Turn you now from your evil ways, and from your evil doings: but they did not hear, nor listen to me, says the Lord.
 
 5 Your fathers, where are they? and the prophets, do they live for ever?
 
@@ -28,13 +28,13 @@
 
 13 And the Lord answered the angel that talked with me with good words and comfortable words.
 
-14 So the angel that communed with me said to me, Cry you, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
+14 So the angel that communed with me said to me, Cry you, saying, Thus says the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
 
 15 And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.
 
-16 Therefore thus saith the Lord; I am returned to Jerusalem with mercies: my house will be built in it, saith the Lord of hosts, and a line will be stretched forth upon Jerusalem.
+16 Therefore thus says the Lord; I am returned to Jerusalem with mercies: my house will be built in it, says the Lord of hosts, and a line will be stretched forth upon Jerusalem.
 
-17 Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity will yet be spread abroad; and the Lord will yet comfort Zion, and will yet choose Jerusalem.
+17 Cry yet, saying, Thus says the Lord of hosts; My cities through prosperity will yet be spread abroad; and the Lord will yet comfort Zion, and will yet choose Jerusalem.
 
 18 Then lifted I up mine eyes, and saw, and behold four horns.
 
@@ -48,23 +48,23 @@
 
 1 I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
 
-2 Then said I, Whither go you? And he said to me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.
+2 Then said I, Where go you? And he said to me, To measure Jerusalem, to see what is the breadth of it, and what is the length of it.
 
 3 And, behold, the angel that talked with me went forth, and another angel went out to meet him,
 
-4 And said to him, Run, speak to this young man, saying, Jerusalem will be inhabited as towns without walls for the multitude of men and cattle therein:
+4 And said to him, Run, speak to this young man, saying, Jerusalem will be inhabited as towns without walls for the multitude of men and cattle in it:
 
-5 For I, saith the Lord, will be to her a wall of fire round about, and will be the glory in the midst of her.
+5 For I, says the Lord, will be to her a wall of fire round about, and will be the glory in the midst of her.
 
-6 Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
+6 Ho, ho, come forth, and flee from the land of the north, says the Lord: for I have spread you abroad as the four winds of the heaven, says the Lord.
 
 7 Deliver thyself, O Zion, that dwell with the daughter of Babylon.
 
-8 For thus saith the Lord of hosts; After the glory has he sent me to the nations which spoiled you: for he that touchs you touchs the apple of his eye.
+8 For thus says the Lord of hosts; After the glory has he sent me to the nations which spoiled you: for he that touchs you touchs the apple of his eye.
 
 9 For, behold, I will shake mine hand upon them, and they will be a spoil to their servants: and you will know that the Lord of hosts has sent me.
 
-10 Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of you, saith the Lord.
+10 Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of you, says the Lord.
 
 11 And many nations will be joined to the Lord in that day, and will be my people: and I will dwell in the midst of you, and you will know that the Lord of hosts has sent me to you.
 
@@ -80,35 +80,35 @@
 
 3 Now Joshua was clothed with filthy garments, and stood before the angel.
 
-4 And he answered and spake to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Behold, I have caused your iniquity to pass from you, and I will clothe you with change of raiment.
+4 And he answered and spake to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Behold, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
 
 5 And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the Lord stood by.
 
 6 And the angel of the Lord protested to Joshua, saying,
 
-7 Thus saith the Lord of hosts; If you will walk in my ways, and if you will keep my charge, then you will also judge my house, and will also keep my courts, and I will give you places to walk among these that stand by.
+7 Thus says the Lord of hosts; If you will walk in my ways, and if you will keep my charge, then you will also judge my house, and will also keep my courts, and I will give you places to walk among these that stand by.
 
 8 Hear now, O Joshua the high pri, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the Branch.
 
-9 For behold the stone that I have laid before Joshua; upon one stone will be seven eyes: behold, I will engrave the graving thereof, saith the Lord of hosts, and I will remove the iniquity of that land in one day.
+9 For behold the stone that I have laid before Joshua; upon one stone will be seven eyes: behold, I will engrave the graving of it, says the Lord of hosts, and I will remove the iniquity of that land in one day.
 
-10 In that day, saith the Lord of hosts, will you call every man his neighbour under the vine and under the fig tree.
+10 In that day, says the Lord of hosts, will you call every man his neighbour under the vine and under the fig tree.
 
 ## Zechariah Chapter 4
 
 1 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.
 
-2 And said to me, What se you? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof:
+2 And said to me, What se you? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top of it:
 
-3 And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof.
+3 And two olive trees by it, one upon the right side of the bowl, and the other upon the left side of it.
 
 4 So I answered and spake to the angel that talked with me, saying, What are these, my lord?
 
 5 Then the angel that talked with me answered and said to me, Know you not what these be? And I said, No, my lord.
 
-6 Then he answered and spake to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
+6 Then he answered and spake to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my spirit, says the Lord of hosts.
 
-7 Who are you, O great mountain? before Zerubbabel you will become a plain: and he will bring forth the headstone thereof with shoutings, crying, Grace, grace to it.
+7 Who are you, O great mountain? before Zerubbabel you will become a plain: and he will bring forth the headstone of it with shoutings, crying, Grace, grace to it.
 
 8 Moreover the word of the Lord came to me, saying,
 
@@ -116,7 +116,7 @@
 
 10 For who has despised the day of small things? for they will rejoice, and will see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the Lord, which run to and fro through the whole earth.
 
-11 Then answered I, and said to him, What are these two olive trees upon the right side of the candlestick and upon the left side thereof?
+11 Then answered I, and said to him, What are these two olive trees upon the right side of the candlestick and upon the left side of it?
 
 12 And I answered again, and said to him, What be these two olive branches which through the two golden pipes empty the golden oil out of themselves?
 
@@ -128,11 +128,11 @@
 
 1 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 
-2 And he said to me, What se you? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits.
+2 And he said to me, What se you? And I answered, I see a flying roll; the length of it is twenty cubits, and the breadth of it ten cubits.
 
 3 Then said he to me, This is the curse that goes forth over the face of the whole earth: for every one that steals will be cut off as on this side according to it; and every one that swears will be cut off as on that side according to it.
 
-4 I will bring it forth, saith the Lord of hosts, and it will enter into the house of the thief, and into the house of him that swears falsely by my name: and it will remain in the midst of his house, and will consume it with the timber thereof and the stones thereof.
+4 I will bring it forth, says the Lord of hosts, and it will enter into the house of the thief, and into the house of him that swears falsely by my name: and it will remain in the midst of his house, and will consume it with the timber of it and the stones of it.
 
 5 Then the angel that talked with me went forth, and said to me, Lift up now your eyes, and see what is this that goes forth.
 
@@ -140,11 +140,11 @@
 
 7 And, behold, there was lifted up a talent of lead: and this is a woman that sitts in the midst of the ephah.
 
-8 And he said, This is wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth thereof.
+8 And he said, This is wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth of it.
 
 9 Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind was in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
 
-10 Then said I to the angel that talked with me, Whither do these bear the ephah?
+10 Then said I to the angel that talked with me, Where do these bear the ephah?
 
 11 And he said to me, To build it an house in the land of Shinar: and it will be established, and set there upon her own base.
 
@@ -160,7 +160,7 @@
 
 5 And the angel answered and said to me, These are the four spirits of the heavens, which go forth from standing before the Lord of all the earth.
 
-6 The black horses which are therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
+6 The black horses which are in it go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
 
 7 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
 
@@ -194,7 +194,7 @@
 
 6 And when you did eat, and when you did drink, did not you eat for yourselves, and drink for yourselves?
 
-7 Should you not hear the words which the Lord has cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
+7 Should you not hear the words which the Lord has cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities of it round about her, when men inhabited the south and the plain?
 
 8 And the word of the Lord came to Zechariah, saying,
 
@@ -202,11 +202,11 @@
 
 10 And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
 
-11 But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.
+11 But they refused to listen, and pulled away the shoulder, and stopped their ears, that they should not hear.
 
 12 Yea, they made their hearts as an adamant stone, otherwise they should hear the law, and the words which the Lord of hosts has sent in his spirit by the former prophets: therefore came a great wrath from the Lord of hosts.
 
-13 Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the Lord of hosts:
+13 Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, says the Lord of hosts:
 
 14 But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
 
@@ -214,55 +214,55 @@
 
 1 Again the word of the Lord of hosts came to me, saying,
 
-2 Thus saith the Lord of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.
+2 Thus says the Lord of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.
 
-3 Thus saith the Lord; I am returned to Zion, and will dwell in the midst of Jerusalem: and Jerusalem will be called a city of truth; and the mountain of the Lord of hosts the holy mountain.
+3 Thus says the Lord; I am returned to Zion, and will dwell in the midst of Jerusalem: and Jerusalem will be called a city of truth; and the mountain of the Lord of hosts the holy mountain.
 
-4 Thus saith the Lord of hosts; There will yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.
+4 Thus says the Lord of hosts; There will yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.
 
-5 And the streets of the city will be full of boys and girls playing in the streets thereof.
+5 And the streets of the city will be full of boys and girls playing in the streets of it.
 
-6 Thus saith the Lord of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the Lord of hosts.
+6 Thus says the Lord of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? says the Lord of hosts.
 
-7 Thus saith the Lord of hosts; Behold, I will save my people from the east country, and from the w country;
+7 Thus says the Lord of hosts; Behold, I will save my people from the east country, and from the w country;
 
 8 And I will bring them, and they will dwell in the midst of Jerusalem: and they will be my people, and I will be their God, in truth and in righteousness.
 
-9 Thus saith the Lord of hosts; Let your hands be strong, you that hear in these days these words by the mouth of the prophets, which were in the day that the foundation of the house of the Lord of hosts was laid, that the temple might be built.
+9 Thus says the Lord of hosts; Let your hands be strong, you that hear in these days these words by the mouth of the prophets, which were in the day that the foundation of the house of the Lord of hosts was laid, that the temple might be built.
 
 10 For before these days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.
 
-11 But now I will not be to the residue of this people as in the former days, saith the Lord of hosts.
+11 But now I will not be to the residue of this people as in the former days, says the Lord of hosts.
 
 12 For the seed will be prosperous; the vine will give her fruit, and the ground will give her increase, and the heavens will give their dew; and I will cause the remnant of this people to possess all these things.
 
 13 And it will come to pass, that as you were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and you will be a blessing: fear not, but let your hands be strong.
 
-14 For thus saith the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the Lord of hosts, and I repented not:
+14 For thus says the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, says the Lord of hosts, and I repented not:
 
 15 So again have I thought in these days to do well to Jerusalem and to the house of Judah: fear you not.
 
 16 These are the things that you will do; Speak you every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 
-17 And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these are things that I hate, saith the Lord.
+17 And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these are things that I hate, says the Lord.
 
 18 And the word of the Lord of hosts came to me, saying,
 
-19 Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, will be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
+19 Thus says the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, will be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
 
-20 Thus saith the Lord of hosts; It will yet come to pass, that there will come people, and the inhabitants of many cities:
+20 Thus says the Lord of hosts; It will yet come to pass, that there will come people, and the inhabitants of many cities:
 
 21 And the inhabitants of one city will go to another, saying, Let us go speedily to pray before the Lord, and to seek the Lord of hosts: I will go also.
 
 22 Yea, many people and strong nations will come to seek the Lord of hosts in Jerusalem, and to pray before the Lord.
 
-23 Thus saith the Lord of hosts; In those days it will come to pass, that ten men will take hold out of all languages of the nations, even will take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.
+23 Thus says the Lord of hosts; In those days it will come to pass, that ten men will take hold out of all languages of the nations, even will take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.
 
 ## Zechariah Chapter 9
 
-1 The burden of the word of the Lord in the land of Hadrach, and Damascus will be the r thereof: when the eyes of man, as of all the tribes of Israel, will be toward the Lord.
+1 The burden of the word of the Lord in the land of Hadrach, and Damascus will be the r of it: when the eyes of man, as of all the tribes of Israel, will be toward the Lord.
 
-2 And Hamath also will border thereby; Tyrus, and Zidon, though it be very wise.
+2 And Hamath also will border by that; Tyrus, and Zidon, though it be very wise.
 
 3 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
 
@@ -276,11 +276,11 @@
 
 8 And I will encamp about mine house because of the army, because of him that passs by, and because of him that returns: and no oppressor will pass through them any more: for now have I seen with mine eyes.
 
-9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, your King coms to you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, your King comes to you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 
 10 And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow will be cut off: and he will speak peace to the heathen: and his dominion will be from sea even to sea, and from the river even to the ends of the earth.
 
-11 As for you also, by the blood of your covenant I have sent forth your prisoners out of the pit wherein is no water.
+11 As for you also, by the blood of your covenant I have sent forth your prisoners out of the pit in which is no water.
 
 12 Turn you to the strong hold, you prisoners of hope: even to day do I declare that I will render double to you;
 
@@ -318,7 +318,7 @@
 
 11 And he will pass through the sea with affliction, and will smite the waves in the sea, and all the deeps of the river will dry up: and the pride of Assyria will be brought down, and the sceptre of Egypt will depart away.
 
-12 And I will strengthen them in the Lord; and they will walk up and down in his name, saith the Lord.
+12 And I will strengthen them in the Lord; and they will walk up and down in his name, says the Lord.
 
 ## Zechariah Chapter 11
 
@@ -328,19 +328,19 @@
 
 3 There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.
 
-4 Thus saith the Lord my God; Feed the flock of the slaughter;
+4 Thus says the Lord my God; Feed the flock of the slaughter;
 
 5 Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
-6 For I will no more pity the inhabitants of the land, saith the Lord: but, lo, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they will smite the land, and out of their hand I will not deliver them.
+6 For I will no more pity the inhabitants of the land, says the Lord: but, lo, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they will smite the land, and out of their hand I will not deliver them.
 
 7 And I will feed the flock of slaughter, even you, O poor of the flock. And I took to me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 
-8 Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
+8 Three shepherds also I cut off in one month; and my soul lothed them, and their soul also despised me.
 
-9 Then said I, I will not feed you: that that dis, let it die; and that that is to be cut off, let it be cut off; and let the r eat every one the flesh of another.
+9 Then said I, I will not feed you: that that dies, let it die; and that that is to be cut off, let it be cut off; and let the r eat every one the flesh of another.
 
-10 And I took my staff, even Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.
+10 And I took my staff, even Beauty, and cut it apart, that I might break my covenant which I had made with all the people.
 
 11 And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the Lord.
 
@@ -348,7 +348,7 @@
 
 13 And the Lord said to me, Cast it to the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
 
-14 Then I cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.
+14 Then I cut apart mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.
 
 15 And the Lord said to me, Take to you yet the instruments of a foolish shepherd.
 
@@ -358,13 +358,13 @@
 
 ## Zechariah Chapter 12
 
-1 The burden of the word of the Lord for Israel, saith the Lord, which stretchs forth the heavens, and lays the foundation of the earth, and forms the spirit of man within him.
+1 The burden of the word of the Lord for Israel, says the Lord, which stretchs forth the heavens, and lays the foundation of the earth, and forms the spirit of man within him.
 
 2 Behold, I will make Jerusalem a cup of trembling to all the people round about, when they will be in the siege both against Judah and against Jerusalem.
 
 3 And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it will be cut in pieces, though all the people of the earth be gathered together against it.
 
-4 In that day, saith the Lord, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
+4 In that day, says the Lord, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
 
 5 And the governors of Judah will say in their heart, The inhabitants of Jerusalem will be my strength in the Lord of hosts their God.
 
@@ -376,7 +376,7 @@
 
 9 And it will come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.
 
-10 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they will look upon me whom they have pierced, and they will mourn for him, as one mourns for his only son, and will be in bitterness for him, as one that is in bitterness for his firstborn.
+10 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of prayers: and they will look upon me whom they have pierced, and they will mourn for him, as one mourns for his only son, and will be in bitterness for him, as one that is in bitterness for his firstborn.
 
 11 In that day will there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 
@@ -390,31 +390,31 @@
 
 1 In that day there will be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 
-2 And it will come to pass in that day, saith the Lord of hosts, that I will cut off the names of the idols out of the land, and they will no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
+2 And it will come to pass in that day, says the Lord of hosts, that I will cut off the names of the idols out of the land, and they will no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
 
-3 And it will come to pass, that when any will yet prophesy, then his father and his mother that begat him will say to him, you will not live; for you speak lies in the name of the Lord: and his father and his mother that begat him will thrust him through when he prophesis.
+3 And it will come to pass, that when any will yet prophesy, then his father and his mother that fathered him will say to him, you will not live; for you speak lies in the name of the Lord: and his father and his mother that fathered him will thrust him through when he prophesis.
 
 4 And it will come to pass in that day, that the prophets will be ashamed every one of his vision, when he has prophesied; neither will they wear a rough garment to deceive:
 
-5 But he will say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.
+5 But he will say, I am no prophet, I am an farmer; for man taught me to keep cattle from my youth.
 
 6 And one will say to him, What are these wounds in your hands? Then he will answer, Those with which I was wounded in the house of my friends.
 
-7 Awake, O sword, against my shepherd, and against the man that is my fellow, saith the Lord of hosts: smite the shepherd, and the sheep will be scattered: and I will turn mine hand upon the little ones.
+7 Awake, O sword, against my shepherd, and against the man that is my fellow, says the Lord of hosts: smite the shepherd, and the sheep will be scattered: and I will turn mine hand upon the little ones.
 
-8 And it will come to pass, that in all the land, saith the Lord, two parts therein will be cut off and die; but the third will be left therein.
+8 And it will come to pass, that in all the land, says the Lord, two parts in it will be cut off and die; but the third will be left in it.
 
 9 And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they will call on my name, and I will hear them: I will say, It is my people: and they will say, The Lord is my God.
 
 ## Zechariah Chapter 14
 
-1 Behold, the day of the Lord coms, and your spoil will be divided in the midst of you.
+1 Behold, the day of the Lord comes, and your spoil will be divided in the midst of you.
 
 2 For I will gather all nations against Jerusalem to battle; and the city will be taken, and the houses rifled, and the women ravished; and half of the city will go forth into captivity, and the residue of the people will not be cut off from the city.
 
 3 Then will the Lord go forth, and fight against those nations, as when he fought in the day of battle.
 
-4 And his feet will stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives will cleave in the midst thereof toward the east and toward the w, and there will be a very great valley; and half of the mountain will remove toward the north, and half of it toward the south.
+4 And his feet will stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives will cleave in the midst of it toward the east and toward the w, and there will be a very great valley; and half of the mountain will remove toward the north, and half of it toward the south.
 
 5 And you will flee to the valley of the mountains; for the valley of the mountains will reach to Azal: yea, you will flee, like as you fled from before the earthquake in the days of Uzziah king of Judah: and the Lord my God will come, and all the saints with you.
 
@@ -430,9 +430,9 @@
 
 11 And men will dwell in it, and there will be no more utter destruction; but Jerusalem will be safely inhabited.
 
-12 And this will be the plague wherewith the Lord will smite all the people that have fought against Jerusalem; Their flesh will consume away while they stand upon their feet, and their eyes will consume away in their holes, and their tongue will consume away in their mouth.
+12 And this will be the plague with what the Lord will smite all the people that have fought against Jerusalem; Their flesh will consume away while they stand upon their feet, and their eyes will consume away in their holes, and their tongue will consume away in their mouth.
 
-13 And it will come to pass in that day, that a great tumult from the Lord will be among them; and they will lay hold every one on the hand of his neighbour, and his hand will rise up against the hand of his neighbour.
+13 And it will come to pass in that day, that a great uproar from the Lord will be among them; and they will lay hold every one on the hand of his neighbour, and his hand will rise up against the hand of his neighbour.
 
 14 And Judah also will fight at Jerusalem; and the wealth of all the heathen round about will be gathered together, gold, and silver, and apparel, in great abundance.
 
@@ -442,13 +442,13 @@
 
 17 And it will be, that whoso will not come up of all the families of the earth to Jerusalem to worship the King, the Lord of hosts, even upon them will be no rain.
 
-18 And if the family of Egypt go not up, and come not, that have no rain; there will be the plague, wherewith the Lord will smite the heathen that come not up to keep the feast of tabernacles.
+18 And if the family of Egypt go not up, and come not, that have no rain; there will be the plague, with what the Lord will smite the heathen that come not up to keep the feast of tabernacles.
 
 19 This will be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.
 
 20 In that day will there be upon the bells of the horses, Holiness to The Lord; and the pots in the Lord's house will be like the bowls before the altar.
 
-21 Yea, every pot in Jerusalem and in Judah will be holiness to the Lord of hosts: and all they that sacrifice will come and take of them, and seethe therein: and in that day there will be no more the Canaanite in the house of the Lord of hosts.
+21 Yea, every pot in Jerusalem and in Judah will be holiness to the Lord of hosts: and all they that sacrifice will come and take of them, and seethe in it: and in that day there will be no more the Canaanite in the house of the Lord of hosts.
 
 
 ## eof

@@ -22,7 +22,7 @@
 
 10 My son, if sinners entice you, consent you not.
 
-11 If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:
+11 If they say, Come with us, let us lay wait for blood, let us lurk secretly for the innocent without cause:
 
 12 Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
 
@@ -36,9 +36,9 @@
 
 17 Surely in vain the net is spread in the sight of any bird.
 
-18 And they lay wait for their own blood; they lurk privily for their own lives.
+18 And they lay wait for their own blood; they lurk secretly for their own lives.
 
-19 So are the ways of every one that is greedy of gain; which taks away the life of the owners thereof.
+19 So are the ways of every one that is greedy of gain; which takes away the life of the owners of it.
 
 20 Wisdom cris without; she utters her voice in the streets:
 
@@ -52,9 +52,9 @@
 
 25 But you have set at nought all my counsel, and would none of my reproof:
 
-26 I also will laugh at your calamity; I will mock when your fear coms;
+26 I also will laugh at your calamity; I will mock when your fear comes;
 
-27 When your fear coms as desolation, and your destruction coms as a whirlwind; when distress and anguish coms upon you.
+27 When your fear comes as desolation, and your destruction comes as a whirlwind; when distress and anguish comes upon you.
 
 28 Then will they call upon me, but I will not answer; they will seek me early, but they will not find me:
 
@@ -80,11 +80,11 @@
 
 5 Then will you understand the fear of the Lord, and find the knowledge of God.
 
-6 For the Lord givs wisdom: out of his mouth coms knowledge and understanding.
+6 For the Lord gives wisdom: out of his mouth comes knowledge and understanding.
 
 7 He lays up sound wisdom for the righteous: he is a buckler to them that walk uprightly.
 
-8 He keeps the paths of judgment, and preservs the way of his saints.
+8 He keeps the paths of judgment, and preserves the way of his saints.
 
 9 Then will you understand righteousness, and judgment, and equity; yea, every good path.
 
@@ -92,13 +92,13 @@
 
 11 Discretion will preserve you, understanding will keep you:
 
-12 To deliver you from the way of the evil man, from the man that speaks froward things;
+12 To deliver you from the way of the evil man, from the man that speaks stubborn things;
 
 13 Who leave the paths of uprightness, to walk in the ways of darkness;
 
 14 Who rejoice to do evil, and delight in the frowardness of the wicked;
 
-15 Whose ways are crooked, and they froward in their paths:
+15 Whose ways are crooked, and they stubborn in their paths:
 
 16 To deliver you from the strange woman, even from the stranger which flatters with her words;
 
@@ -112,7 +112,7 @@
 
 21 For the upright will dwell in the land, and the perfect will remain in it.
 
-22 But the wicked will be cut off from the earth, and the transgressors will be rooted out of it.
+22 But the wicked will be cut off from the earth, and the sinners will be rooted out of it.
 
 ## Proverbs Chapter 3
 
@@ -138,13 +138,13 @@
 
 11 My son, despise not the chastening of the Lord; neither be weary of his correction:
 
-12 For whom the Lord lovs he corrects; even as a father the son in whom he delights.
+12 For whom the Lord loves he corrects; even as a father the son in whom he delights.
 
 13 Happy is the man that finds wisdom, and the man that getts understanding.
 
-14 For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.
+14 For the merchandise of it is better than the merchandise of silver, and the gain of it than fine gold.
 
-15 She is more precious than rubies: and all the things you canst desire are not to be compared to her.
+15 She is more precious than rubies: and all the things you can desire are not to be compared to her.
 
 16 Length of days is in her right hand; and in her left hand riches and honour.
 
@@ -164,7 +164,7 @@
 
 24 When you li down, you will not be afraid: yea, you will lie down, and your sleep will be sweet.
 
-25 Be not afraid of sudden fear, neither of the desolation of the wicked, when it coms.
+25 Be not afraid of sudden fear, neither of the desolation of the wicked, when it comes.
 
 26 For the Lord will be your confidence, and will keep your foot from being taken.
 
@@ -178,11 +178,11 @@
 
 31 Envy you not the oppressor, and choose none of his ways.
 
-32 For the froward is abomination to the Lord: but his secret is with the righteous.
+32 For the stubborn is abomination to the Lord: but his secret is with the righteous.
 
 33 The curse of the Lord is in the house of the wicked: but he blesss the habitation of the just.
 
-34 Surely he scorns the scorners: but he givs grace to the lowly.
+34 Surely he scorns the scorners: but he gives grace to the lowly.
 
 35 The wise will inherit glory: but shame will be the promotion of fools.
 
@@ -234,7 +234,7 @@
 
 23 Keep your heart with all diligence; for out of it are the issues of life.
 
-24 Put away from you a froward mouth, and perverse lips put far from you.
+24 Put away from you a stubborn mouth, and perverse lips put far from you.
 
 25 Let your eyes look right on, and let your eyelids look straight before you.
 
@@ -254,11 +254,11 @@
 
 5 Her feet go down to death; her steps take hold on hell.
 
-6 otherwise you should ponder the path of life, her ways are moveable, that you canst not know them.
+6 otherwise you should ponder the path of life, her ways are moveable, that you can not know them.
 
 7 Hear me now therefore, O you children, and depart not from the words of my mouth.
 
-8 Remove your way far from her, and come not nigh the door of her house:
+8 Remove your way far from her, and come not near the door of her house:
 
 9 otherwise you give your honour to others, and your years to the cruel:
 
@@ -306,7 +306,7 @@
 
 7 Which having no guide, overseer, or ruler,
 
-8 Provids her meat in the summer, and gathers her food in the harv.
+8 provides her meat in the summer, and gathers her food in the harv.
 
 9 How long will you sleep, O sluggard? when will you arise out of your sleep?
 
@@ -314,7 +314,7 @@
 
 11 So will your poverty come as one that travells, and your want as an armed man.
 
-12 A naughty person, a wicked man, walks with a froward mouth.
+12 A naughty person, a wicked man, walks with a stubborn mouth.
 
 13 He winks with his eyes, he speaks with his feet, he teachs with his fingers;
 
@@ -328,7 +328,7 @@
 
 18 An heart that deviss wicked imaginations, feet that be swift in running to mischief,
 
-19 A false witness that speaks lies, and he that sows discord among brethren.
+19 A false witness that speaks lies, and he that sows discord among brothers.
 
 20 My son, keep your father's commandment, and forsake not the law of your mother:
 
@@ -354,7 +354,7 @@
 
 31 But if he be found, he will restore sevenfold; he will give all the substance of his house.
 
-32 But whoso committs adultery with a woman lacks understanding: he that dos it destroys his own soul.
+32 But whoso committs adultery with a woman lacks understanding: he that does it destroys his own soul.
 
 33 A wound and dishonour will he get; and his reproach will not be wiped away.
 
@@ -406,11 +406,11 @@
 
 21 With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
 
-22 He goes after her straightway, as an ox goes to the slaughter, or as a fool to the correction of the stocks;
+22 He goes after her immediately, as an ox goes to the slaughter, or as a fool to the correction of the stocks;
 
 23 Till a dart strike through his liver; as a bird hasts to the snare, and knows not that it is for his life.
 
-24 Hearken to me now therefore, O you children, and attend to the words of my mouth.
+24 Listen to me now therefore, O you children, and attend to the words of my mouth.
 
 25 Let not your heart decline to her ways, go not astray in her paths.
 
@@ -434,7 +434,7 @@
 
 7 For my mouth will speak truth; and wickedness is an abomination to my lips.
 
-8 All the words of my mouth are in righteousness; there is nothing froward or perverse in them.
+8 All the words of my mouth are in righteousness; there is nothing stubborn or perverse in them.
 
 9 They are all plain to him that understands, and right to them that find knowledge.
 
@@ -444,7 +444,7 @@
 
 12 I wisdom dwell with prudence, and find out knowledge of witty inventions.
 
-13 The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
+13 The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the stubborn mouth, do I hate.
 
 14 Counsel is mine, and sound wisdom: I am understanding; I have strength.
 
@@ -482,7 +482,7 @@
 
 31 Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
 
-32 Now therefore hearken to me, O you children: for blessed are they that keep my ways.
+32 Now therefore listen to me, O you children: for blessed are they that keep my ways.
 
 33 Hear instruction, and be wise, and refuse it not.
 
@@ -500,7 +500,7 @@
 
 3 She has sent forth her maidens: she cris upon the high places of the city,
 
-4 Whoso is simple, let him turn in hither: as for him that wants understanding, she saith to him,
+4 Whoso is simple, let him turn in here: as for him that wants understanding, she says to him,
 
 5 Come, eat of my bread, and drink of the wine which I have mingled.
 
@@ -508,7 +508,7 @@
 
 7 He that reprovs a scorner getts to himself shame: and he that rebuks a wicked man getts himself a blot.
 
-8 Reprove not a scorner, otherwise he hate you: rebuke a wise man, and he will love you.
+8 Correct not a scorner, otherwise he hate you: rebuke a wise man, and he will love you.
 
 9 Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.
 
@@ -524,7 +524,7 @@
 
 15 To call passengers who go right on their ways:
 
-16 Whoso is simple, let him turn in hither: and as for him that wants understanding, she saith to him,
+16 Whoso is simple, let him turn in here: and as for him that wants understanding, she says to him,
 
 17 Stolen waters are sweet, and bread eaten in secret is pleasant.
 
@@ -532,15 +532,15 @@
 
 ## Proverbs Chapter 10
 
-1 The proverbs of Solomon. A wise son maks a glad father: but a foolish son is the heaviness of his mother.
+1 The proverbs of Solomon. A wise son makes a glad father: but a foolish son is the heaviness of his mother.
 
 2 Treasures of wickedness profit nothing: but righteousness delivers from death.
 
 3 The Lord will not suffer the soul of the righteous to famish: but he casts away the substance of the wicked.
 
-4 He becoms poor that deals with a slack hand: but the hand of the diligent maks rich.
+4 He becomes poor that deals with a slack hand: but the hand of the diligent makes rich.
 
-5 He that gathers in summer is a wise son: but he that sleeps in harv is a son that causs shame.
+5 He that gathers in summer is a wise son: but he that sleeps in harv is a son that causes shame.
 
 6 Blessings are upon the head of the just: but violence covers the mouth of the wicked.
 
@@ -550,7 +550,7 @@
 
 9 He that walks uprightly walks surely: but he that perverts his ways will be known.
 
-10 He that winks with the eye causs sorrow: but a prating fool will fall.
+10 He that winks with the eye causes sorrow: but a prating fool will fall.
 
 11 The mouth of a righteous man is a well of life: but violence covers the mouth of the wicked.
 
@@ -566,7 +566,7 @@
 
 17 He is in the way of life that keeps instruction: but he that refuss reproof errs.
 
-18 He that hids hatred with lying lips, and he that utters a slander, is a fool.
+18 He that hides hatred with lying lips, and he that utters a slander, is a fool.
 
 19 In the multitude of words there wants not sin: but he that refrains his lips is wise.
 
@@ -574,7 +574,7 @@
 
 21 The lips of the righteous feed many: but fools die for want of wisdom.
 
-22 The blessing of the Lord, it maks rich, and he adds no sorrow with it.
+22 The blessing of the Lord, it makes rich, and he adds no sorrow with it.
 
 23 It is as sport to a fool to do mischief: but a man of understanding has wisdom.
 
@@ -592,7 +592,7 @@
 
 30 The righteous will never be removed: but the wicked will not inhabit the earth.
 
-31 The mouth of the just brings forth wisdom: but the froward tongue will be cut out.
+31 The mouth of the just brings forth wisdom: but the stubborn tongue will be cut out.
 
 32 The lips of the righteous know what is acceptable: but the mouth of the wicked speaks frowardness.
 
@@ -600,19 +600,19 @@
 
 1 A false balance is abomination to the Lord: but a just weight is his delight.
 
-2 When pride coms, then coms shame: but with the lowly is wisdom.
+2 When pride comes, then comes shame: but with the lowly is wisdom.
 
-3 The integrity of the upright will guide them: but the perverseness of transgressors will destroy them.
+3 The integrity of the upright will guide them: but the perverseness of sinners will destroy them.
 
 4 Riches profit not in the day of wrath: but righteousness delivers from death.
 
 5 The righteousness of the perfect will direct his way: but the wicked will fall by his own wickedness.
 
-6 The righteousness of the upright will deliver them: but transgressors will be taken in their own naughtiness.
+6 The righteousness of the upright will deliver them: but sinners will be taken in their own naughtiness.
 
-7 When a wicked man dis, his expectation will perish: and the hope of unjust men perishs.
+7 When a wicked man dies, his expectation will perish: and the hope of unjust men perishs.
 
-8 The righteous is delivered out of trouble, and the wicked coms in his stead.
+8 The righteous is delivered out of trouble, and the wicked comes in his stead.
 
 9 An hypocrite with his mouth destroys his neighbour: but through knowledge will the just be delivered.
 
@@ -626,17 +626,17 @@
 
 14 Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
 
-15 He that is surety for a stranger will smart for it: and he that hats suretiship is sure.
+15 He that is surety for a stranger will smart for it: and he that hates suretiship is sure.
 
 16 A gracious woman retains honour: and strong men retain riches.
 
-17 The merciful man dos good to his own soul: but he that is cruel troubls his own flesh.
+17 The merciful man does good to his own soul: but he that is cruel troubls his own flesh.
 
 18 The wicked works a deceitful work: but to him that sows righteousness will be a sure reward.
 
 19 As righteousness tends to life: so he that pursus evil pursus it to his own death.
 
-20 They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight.
+20 They that are of a stubborn heart are abomination to the Lord: but such as are upright in their way are his delight.
 
 21 Though hand join in hand, the wicked will not be unpunished: but the seed of the righteous will be delivered.
 
@@ -650,7 +650,7 @@
 
 26 He that withholds corn, the people will curse him: but blessing will be upon the head of him that sells it.
 
-27 He that diligently seeks good procurs favour: but he that seeks mischief, it will come to him.
+27 He that diligently seeks good procures favour: but he that seeks mischief, it will come to him.
 
 28 He that trusts in his riches will fall; but the righteous will flourish as a branch.
 
@@ -662,13 +662,13 @@
 
 ## Proverbs Chapter 12
 
-1 Whoso lovs instruction lovs knowledge: but he that hats reproof is brutish.
+1 Whoso loves instruction loves knowledge: but he that hates reproof is brutish.
 
 2 A good man obtains favour of the Lord: but a man of wicked devices will he condemn.
 
 3 A man will not be established by wickedness: but the root of the righteous will not be moved.
 
-4 A virtuous woman is a crown to her husband: but she that maks ashamed is as rottenness in his bones.
+4 A virtuous woman is a crown to her husband: but she that makes ashamed is as rottenness in his bones.
 
 5 The thoughts of the righteous are right: but the counsels of the wicked are deceit.
 
@@ -684,9 +684,9 @@
 
 11 He that tills his land will be satisfied with bread: but he that follows vain persons is void of understanding.
 
-12 The wicked desirs the net of evil men: but the root of the righteous yields fruit.
+12 The wicked desires the net of evil men: but the root of the righteous yields fruit.
 
-13 The wicked is snared by the transgression of his lips: but the just will come out of trouble.
+13 The wicked is snared by the sin of his lips: but the just will come out of trouble.
 
 14 A man will be satisfied with good by the fruit of his mouth: and the recompence of a man's hands will be rendered to him.
 
@@ -710,45 +710,45 @@
 
 24 The hand of the diligent will bear rule: but the slothful will be under tribute.
 
-25 Heaviness in the heart of man maks it stoop: but a good word maks it glad.
+25 Heaviness in the heart of man makes it stoop: but a good word makes it glad.
 
 26 The righteous is more excellent than his neighbour: but the way of the wicked seducs them.
 
 27 The slothful man roasts not that which he took in hunting: but the substance of a diligent man is precious.
 
-28 In the way of righteousness is life: and in the pathway thereof there is no death.
+28 In the way of righteousness is life: and in the pathway of it there is no death.
 
 ## Proverbs Chapter 13
 
 1 A wise son hears his father's instruction: but a scorner hears not rebuke.
 
-2 A man will eat good by the fruit of his mouth: but the soul of the transgressors will eat violence.
+2 A man will eat good by the fruit of his mouth: but the soul of the sinners will eat violence.
 
 3 He that keeps his mouth keeps his life: but he that opens wide his lips will have destruction.
 
-4 The soul of the sluggard desirs, and has nothing: but the soul of the diligent will be made fat.
+4 The soul of the sluggard desires, and has nothing: but the soul of the diligent will be made fat.
 
-5 A righteous man hats lying: but a wicked man is loathsome, and coms to shame.
+5 A righteous man hates lying: but a wicked man is loathsome, and comes to shame.
 
 6 Righteousness keeps him that is upright in the way: but wickedness overthrows the sinner.
 
-7 There is that maks himself rich, yet has nothing: there is that maks himself poor, yet has great riches.
+7 There is that makes himself rich, yet has nothing: there is that makes himself poor, yet has great riches.
 
 8 The ransom of a man's life are his riches: but the poor hears not rebuke.
 
 9 The light of the righteous rejoics: but the lamp of the wicked will be put out.
 
-10 Only by pride coms contention: but with the well advised is wisdom.
+10 Only by pride comes contention: but with the well advised is wisdom.
 
 11 Wealth gotten by vanity will be diminished: but he that gathers by labour will increase.
 
-12 Hope deferred maks the heart sick: but when the desire coms, it is a tree of life.
+12 Hope deferred makes the heart sick: but when the desire comes, it is a tree of life.
 
 13 Whoso despiss the word will be destroyed: but he that fears the commandment will be rewarded.
 
 14 The law of the wise is a fountain of life, to depart from the snares of death.
 
-15 Good understanding givs favour: but the way of transgressors is hard.
+15 Good understanding gives favour: but the way of sinners is hard.
 
 16 Every prudent man deals with knowledge: but a fool lays open his folly.
 
@@ -766,7 +766,7 @@
 
 23 Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.
 
-24 He that spars his rod hats his son: but he that lovs him chastens him betimes.
+24 He that spars his rod hates his son: but he that loves him chastens him betimes.
 
 25 The righteous eats to the satisfying of his soul: but the belly of the wicked will want.
 
@@ -794,13 +794,13 @@
 
 11 The house of the wicked will be overthrown: but the tabernacle of the upright will flourish.
 
-12 There is a way which seems right to a man, but the end thereof are the ways of death.
+12 There is a way which seems right to a man, but the end of it are the ways of death.
 
 13 Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.
 
 14 The backslider in heart will be filled with his own ways: and a good man will be satisfied from himself.
 
-15 The simple believs every word: but the prudent man looks well to his going.
+15 The simple believes every word: but the prudent man looks well to his going.
 
 16 A wise man fears, and departs from evil: but the fool rags, and is confident.
 
@@ -840,49 +840,49 @@
 
 34 Righteousness exalts a nation: but sin is a reproach to any people.
 
-35 The king's favour is toward a wise servant: but his wrath is against him that causs shame.
+35 The king's favour is toward a wise servant: but his wrath is against him that causes shame.
 
 ## Proverbs Chapter 15
 
 1 A soft answer turns away wrath: but grievous words stir up anger.
 
-2 The tongue of the wise uss knowledge aright: but the mouth of fools pours out foolishness.
+2 The tongue of the wise uses knowledge aright: but the mouth of fools pours out foolishness.
 
 3 The eyes of the Lord are in every place, beholding the evil and the good.
 
-4 A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
+4 A wholesome tongue is a tree of life: but perverseness in it is a breach in the spirit.
 
 5 A fool despiss his father's instruction: but he that regards reproof is prudent.
 
 6 In the house of the righteous is much treasure: but in the revenues of the wicked is trouble.
 
-7 The lips of the wise disperse knowledge: but the heart of the foolish dos not so.
+7 The lips of the wise disperse knowledge: but the heart of the foolish does not so.
 
 8 The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.
 
-9 The way of the wicked is an abomination to the Lord: but he lovs him that follows after righteousness.
+9 The way of the wicked is an abomination to the Lord: but he loves him that follows after righteousness.
 
-10 Correction is grievous to him that forsaks the way: and he that hats reproof will die.
+10 Correction is grievous to him that forsaks the way: and he that hates reproof will die.
 
 11 Hell and destruction are before the Lord: how much more then the hearts of the children of men?
 
-12 A scorner lovs not one that reprovs him: neither will he go to the wise.
+12 A scorner loves not one that reprovs him: neither will he go to the wise.
 
-13 A merry heart maks a cheerful countenance: but by sorrow of the heart the spirit is broken.
+13 A merry heart makes a cheerful countenance: but by sorrow of the heart the spirit is broken.
 
 14 The heart of him that has understanding seeks knowledge: but the mouth of fools feeds on foolishness.
 
 15 All the days of the afflicted are evil: but he that is of a merry heart has a continual feast.
 
-16 Better is little with the fear of the Lord than great treasure and trouble therewith.
+16 Better is little with the fear of the Lord than great treasure and trouble with it.
 
-17 Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.
+17 Better is a dinner of herbs where love is, than a stalled ox and hatred with it.
 
 18 A wrathful man stirrs up strife: but he that is slow to anger appeass strife.
 
 19 The way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain.
 
-20 A wise son maks a glad father: but a foolish man despiss his mother.
+20 A wise son makes a glad father: but a foolish man despiss his mother.
 
 21 Folly is joy to him that is destitute of wisdom: but a man of understanding walks uprightly.
 
@@ -896,15 +896,15 @@
 
 26 The thoughts of the wicked are an abomination to the Lord: but the words of the pure are pleasant words.
 
-27 He that is greedy of gain troubls his own house; but he that hats gifts will live.
+27 He that is greedy of gain troubls his own house; but he that hates gifts will live.
 
 28 The heart of the righteous studis to answer: but the mouth of the wicked pours out evil things.
 
 29 The Lord is far from the wicked: but he hears the prayer of the righteous.
 
-30 The light of the eyes rejoics the heart: and a good report maks the bones fat.
+30 The light of the eyes rejoics the heart: and a good report makes the bones fat.
 
-31 The ear that hears the reproof of life abids among the wise.
+31 The ear that hears the reproof of life abides among the wise.
 
 32 He that refuss instruction despiss his own soul: but he that hears reproof getts understanding.
 
@@ -924,7 +924,7 @@
 
 6 By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
 
-7 When a man's ways please the Lord, he maks even his enemies to be at peace with him.
+7 When a man's ways please the Lord, he makes even his enemies to be at peace with him.
 
 8 Better is a little with righteousness than great revenues without right.
 
@@ -944,7 +944,7 @@
 
 16 How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!
 
-17 The highway of the upright is to depart from evil: he that keeps his way preservs his soul.
+17 The highway of the upright is to depart from evil: he that keeps his way preserves his soul.
 
 18 Pride goes before destruction, and an haughty spirit before a fall.
 
@@ -960,43 +960,43 @@
 
 24 Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.
 
-25 There is a way that seems right to a man, but the end thereof are the ways of death.
+25 There is a way that seems right to a man, but the end of it are the ways of death.
 
 26 He that labours labours for himself; for his mouth cravs it of him.
 
 27 An ungodly man diggs up evil: and in his lips there is as a burning fire.
 
-28 A froward man sows strife: and a whisperer separats chief friends.
+28 A stubborn man sows strife: and a whisperer separats chief friends.
 
 29 A violent man entics his neighbour, and leads him into the way that is not good.
 
-30 He shutts his eyes to devise froward things: moving his lips he brings evil to pass.
+30 He shutts his eyes to devise stubborn things: moving his lips he brings evil to pass.
 
 31 The hoary head is a crown of glory, if it be found in the way of righteousness.
 
-32 He that is slow to anger is better than the mighty; and he that ruls his spirit than he that taks a city.
+32 He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city.
 
-33 The lot is cast into the lap; but the whole disposing thereof is of the Lord.
+33 The lot is cast into the lap; but the whole disposing of it is of the Lord.
 
 ## Proverbs Chapter 17
 
-1 Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
+1 Better is a dry morsel, and quietness with it, than an house full of sacrifices with strife.
 
-2 A wise servant will have rule over a son that causs shame, and will have part of the inheritance among the brethren.
+2 A wise servant will have rule over a son that causes shame, and will have part of the inheritance among the brothers.
 
 3 The fining pot is for silver, and the furnace for gold: but the Lord tris the hearts.
 
-4 A wicked doer givs heed to false lips; and a liar givs ear to a naughty tongue.
+4 A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue.
 
 5 Whoso mocks the poor reproachs his Maker: and he that is glad at calamities will not be unpunished.
 
 6 Children's children are the crown of old men; and the glory of children are their fathers.
 
-7 Excellent speech becoms not a fool: much less do lying lips a prince.
+7 Excellent speech becomes not a fool: much less do lying lips a prince.
 
 8 A gift is as a precious stone in the eyes of him that has it: whithersoever it turns, it prospers.
 
-9 He that covers a transgression seeks love; but he that repeats a matter separats very friends.
+9 He that covers a sin seeks love; but he that repeats a matter separats very friends.
 
 10 A reproof enters more into a wise man than an hundred stripes into a fool.
 
@@ -1012,19 +1012,19 @@
 
 16 therefore is there a price in the hand of a fool to get wisdom, seeing he has no heart to it?
 
-17 A friend lovs at all times, and a brother is born for adversity.
+17 A friend loves at all times, and a brother is born for adversity.
 
-18 A man void of understanding striks hands, and becoms surety in the presence of his friend.
+18 A man void of understanding striks hands, and becomes surety in the presence of his friend.
 
-19 He lovs transgression that lovs strife: and he that exalts his gate seeks destruction.
+19 He loves sin that loves strife: and he that exalts his gate seeks destruction.
 
-20 He that has a froward heart finds no good: and he that has a perverse tongue falls into mischief.
+20 He that has a stubborn heart finds no good: and he that has a perverse tongue falls into mischief.
 
-21 He that begetts a fool dos it to his sorrow: and the father of a fool has no joy.
+21 He that begetts a fool does it to his sorrow: and the father of a fool has no joy.
 
-22 A merry heart dos good like a medicine: but a broken spirit dris the bones.
+22 A merry heart does good like a medicine: but a broken spirit dris the bones.
 
-23 A wicked man taks a gift out of the bosom to pervert the ways of judgment.
+23 A wicked man takes a gift out of the bosom to pervert the ways of judgment.
 
 24 Wisdom is before him that has understanding; but the eyes of a fool are in the ends of the earth.
 
@@ -1042,7 +1042,7 @@
 
 2 A fool has no delight in understanding, but that his heart may discover itself.
 
-3 When the wicked coms, then coms also contempt, and with ignominy reproach.
+3 When the wicked comes, then comes also contempt, and with ignominy reproach.
 
 4 The words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook.
 
@@ -1068,21 +1068,21 @@
 
 15 The heart of the prudent getts knowledge; and the ear of the wise seeks knowledge.
 
-16 A man's gift maks room for him, and brings him before great men.
+16 A man's gift makes room for him, and brings him before great men.
 
-17 He that is first in his own cause seems just; but his neighbour coms and searchs him.
+17 He that is first in his own cause seems just; but his neighbour comes and searchs him.
 
-18 The lot causs contentions to cease, and parts between the mighty.
+18 The lot causes contentions to cease, and parts between the mighty.
 
 19 A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.
 
 20 A man's belly will be satisfied with the fruit of his mouth; and with the increase of his lips will he be filled.
 
-21 Death and life are in the power of the tongue: and they that love it will eat the fruit thereof.
+21 Death and life are in the power of the tongue: and they that love it will eat the fruit of it.
 
 22 Whoso finds a wife finds a good thing, and obtains favour of the Lord.
 
-23 The poor uss intreaties; but the rich answers roughly.
+23 The poor uses intreaties; but the rich answers roughly.
 
 24 A man that has friends must shew himself friendly: and there is a friend that sticks closer than a brother.
 
@@ -1094,21 +1094,21 @@
 
 3 The foolishness of man perverts his way: and his heart fretts against the Lord.
 
-4 Wealth maks many friends; but the poor is separated from his neighbour.
+4 Wealth makes many friends; but the poor is separated from his neighbour.
 
 5 A false witness will not be unpunished, and he that speaks lies will not escape.
 
-6 Many will intreat the favour of the prince: and every man is a friend to him that givs gifts.
+6 Many will intreat the favour of the prince: and every man is a friend to him that gives gifts.
 
-7 All the brethren of the poor do hate him: how much more do his friends go far from him? he pursus them with words, yet they are wanting to him.
+7 All the brothers of the poor do hate him: how much more do his friends go far from him? he pursus them with words, yet they are wanting to him.
 
-8 He that getts wisdom lovs his own soul: he that keeps understanding will find good.
+8 He that getts wisdom loves his own soul: he that keeps understanding will find good.
 
 9 A false witness will not be unpunished, and he that speaks lies will perish.
 
 10 Delight is not seemly for a fool; much less for a servant to have rule over princes.
 
-11 The discretion of a man deferrs his anger; and it is his glory to pass over a transgression.
+11 The discretion of a man deferrs his anger; and it is his glory to pass over a sin.
 
 12 The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.
 
@@ -1134,13 +1134,13 @@
 
 23 The fear of the Lord tends to life: and he that has it will abide satisfied; he will not be visited with evil.
 
-24 A slothful man hids his hand in his bosom, and will not so much as bring it to his mouth again.
+24 A slothful man hides his hand in his bosom, and will not so much as bring it to his mouth again.
 
-25 Smite a scorner, and the simple will beware: and reprove one that has understanding, and he will understand knowledge.
+25 Smite a scorner, and the simple will beware: and correct one that has understanding, and he will understand knowledge.
 
-26 He that wasts his father, and chass away his mother, is a son that causs shame, and brings reproach.
+26 He that wasts his father, and chass away his mother, is a son that causes shame, and brings reproach.
 
-27 Cease, my son, to hear the instruction that causs to err from the words of knowledge.
+27 Cease, my son, to hear the instruction that causes to err from the words of knowledge.
 
 28 An ungodly witness scorns judgment: and the mouth of the wicked devours iniquity.
 
@@ -1148,7 +1148,7 @@
 
 ## Proverbs Chapter 20
 
-1 Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
+1 Wine is a mocker, strong drink is raging: and whosoever is deceived by that is not wise.
 
 2 The fear of a king is as the roaring of a lion: whoso provoks him to anger sinns against his own soul.
 
@@ -1166,7 +1166,7 @@
 
 9 Who can say, I have made my heart clean, I am pure from my sin?
 
-10 Divers weights, and divers measures, both of them are alike abomination to the Lord.
+10 Various weights, and various measures, both of them are alike abomination to the Lord.
 
 11 Even a child is known by his doings, whether his work be pure, and whether it be right.
 
@@ -1174,7 +1174,7 @@
 
 13 Love not sleep, otherwise you come to poverty; open your eyes, and you will be satisfied with bread.
 
-14 It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasts.
+14 It is naught, it is naught, says the buyer: but when he is gone his way, then he boasts.
 
 15 There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.
 
@@ -1188,11 +1188,11 @@
 
 20 Whoso curss his father or his mother, his lamp will be put out in obscure darkness.
 
-21 An inheritance may be gotten hastily at the beginning; but the end thereof will not be blessed.
+21 An inheritance may be gotten hastily at the beginning; but the end of it will not be blessed.
 
-22 Say not you, I will recompense evil; but wait on the Lord, and he will save you.
+22 Say not you, I will repay evil; but wait on the Lord, and he will save you.
 
-23 Divers weights are an abomination to the Lord; and a false balance is not good.
+23 Various weights are an abomination to the Lord; and a false balance is not good.
 
 24 Man's goings are of the Lord; how can a man then understand his own way?
 
@@ -1224,13 +1224,13 @@
 
 7 The robbery of the wicked will destroy them; because they refuse to do judgment.
 
-8 The way of man is froward and strange: but as for the pure, his work is right.
+8 The way of man is stubborn and strange: but as for the pure, his work is right.
 
 9 It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.
 
-10 The soul of the wicked desirs evil: his neighbour finds no favour in his eyes.
+10 The soul of the wicked desires evil: his neighbour finds no favour in his eyes.
 
-11 When the scorner is punished, the simple is made wise: and when the wise is instructed, he receivs knowledge.
+11 When the scorner is punished, the simple is made wise: and when the wise is instructed, he receives knowledge.
 
 12 The righteous man wisely considers the house of the wicked: but God overthrows the wicked for their wickedness.
 
@@ -1242,7 +1242,7 @@
 
 16 The man that wanders out of the way of understanding will remain in the congregation of the dead.
 
-17 He that lovs pleasure will be a poor man: he that lovs wine and oil will not be rich.
+17 He that loves pleasure will be a poor man: he that loves wine and oil will not be rich.
 
 18 The wicked will be a ransom for the righteous, and the transgressor for the upright.
 
@@ -1252,7 +1252,7 @@
 
 21 He that follows after righteousness and mercy finds life, righteousness, and honour.
 
-22 A wise man scals the city of the mighty, and casts down the strength of the confidence thereof.
+22 A wise man scals the city of the mighty, and casts down the strength of the confidence of it.
 
 23 Whoso keeps his mouth and his tongue keeps his soul from troubles.
 
@@ -1260,7 +1260,7 @@
 
 25 The desire of the slothful kills him; for his hands refuse to labour.
 
-26 He covets greedily all the day long: but the righteous givs and spars not.
+26 He covets greedily all the day long: but the righteous gives and spars not.
 
 27 The sacrifice of the wicked is abomination: how much more, when he brings it with a wicked mind?
 
@@ -1278,37 +1278,37 @@
 
 2 The rich and poor meet together: the Lord is the maker of them all.
 
-3 A prudent man foreses the evil, and hids himself: but the simple pass on, and are punished.
+3 A prudent man foreses the evil, and hides himself: but the simple pass on, and are punished.
 
 4 By humility and the fear of the Lord are riches, and honour, and life.
 
-5 Thorns and snares are in the way of the froward: he that does keep his soul will be far from them.
+5 Thorns and snares are in the way of the stubborn: he that does keep his soul will be far from them.
 
 6 Train up a child in the way he should go: and when he is old, he will not depart from it.
 
-7 The rich ruls over the poor, and the borrower is servant to the lender.
+7 The rich rules over the poor, and the borrower is servant to the lender.
 
 8 He that sows iniquity will reap vanity: and the rod of his anger will fail.
 
-9 He that has a bountiful eye will be blessed; for he givs of his bread to the poor.
+9 He that has a bountiful eye will be blessed; for he gives of his bread to the poor.
 
 10 Cast out the scorner, and contention will go out; yea, strife and reproach will cease.
 
-11 He that lovs pureness of heart, for the grace of his lips the king will be his friend.
+11 He that loves pureness of heart, for the grace of his lips the king will be his friend.
 
 12 The eyes of the Lord preserve knowledge, and he overthrows the words of the transgressor.
 
-13 The slothful man saith, There is a lion without, I will be slain in the streets.
+13 The slothful man says, There is a lion without, I will be slain in the streets.
 
-14 The mouth of strange women is a deep pit: he that is abhorred of the Lord will fall therein.
+14 The mouth of strange women is a deep pit: he that is despised of the Lord will fall in it.
 
 15 Foolishness is bound in the heart of a child; but the rod of correction will drive it far from him.
 
-16 He that oppresss the poor to increase his riches, and he that givs to the rich, will surely come to want.
+16 He that oppresss the poor to increase his riches, and he that gives to the rich, will surely come to want.
 
 17 Bow down your ear, and hear the words of the wise, and apply your heart to my knowledge.
 
-18 For it is a pleasant thing if you keep them within you; they will withal be fitted in your lips.
+18 For it is a pleasant thing if you keep them within you; they will also be fitted in your lips.
 
 19 That your trust may be in the Lord, I have made known to you this day, even to you.
 
@@ -1346,7 +1346,7 @@
 
 6 Eat you not the bread of him that has an evil eye, neither desire you his dainty meats:
 
-7 For as he thinks in his heart, so is he: Eat and drink, saith he to you; but his heart is not with you.
+7 For as he thinks in his heart, so is he: Eat and drink, says he to you; but his heart is not with you.
 
 8 The morsel which you have eaten will you vomit up, and lose your sweet words.
 
@@ -1376,7 +1376,7 @@
 
 21 For the drunkard and the glutton will come to poverty: and drowsiness will clothe a man with rags.
 
-22 Hearken to your father that begat you, and despise not your mother when she is old.
+22 Listen to your father that fathered you, and despise not your mother when she is old.
 
 23 Buy the truth, and sell it not; also wisdom, and instruction, and understanding.
 
@@ -1388,13 +1388,13 @@
 
 27 For a whore is a deep ditch; and a strange woman is a narrow pit.
 
-28 She also lis in wait as for a prey, and increass the transgressors among men.
+28 She also lis in wait as for a prey, and increass the sinners among men.
 
 29 Who has woe? who has sorrow? who has contentions? who has babbling? who has wounds without cause? who has redness of eyes?
 
 30 They that tarry long at the wine; they that go to seek mixed wine.
 
-31 Look not you upon the wine when it is red, when it givs his colour in the cup, when it movs itself aright.
+31 Look not you upon the wine when it is red, when it gives his colour in the cup, when it moves itself aright.
 
 32 At the last it bits like a serpent, and stings like an adder.
 
@@ -1452,11 +1452,11 @@
 
 23 These things also belong to the wise. It is not good to have respect of persons in judgment.
 
-24 He that saith to the wicked, you are righteous; him will the people curse, nations will abhor him:
+24 He that says to the wicked, you are righteous; him will the people curse, nations will despise him:
 
 25 But to them that rebuke him will be delight, and a good blessing will come upon them.
 
-26 Every man will kiss his lips that givs a right answer.
+26 Every man will kiss his lips that gives a right answer.
 
 27 Prepare your work without, and make it fit for thyself in the field; and afterwards build your house.
 
@@ -1466,7 +1466,7 @@
 
 30 I went by the field of the slothful, and by the vineyard of the man void of understanding;
 
-31 And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.
+31 And, lo, it was all grown over with thorns, and nettles had covered the face of it, and the stone wall of it was broken down.
 
 32 Then I saw, and considered it well: I looked upon it, and received instruction.
 
@@ -1488,9 +1488,9 @@
 
 6 Put not forth thyself in the presence of the king, and stand not in the place of great men:
 
-7 For better it is that it be said to you, Come up hither; than that you should be put lower in the presence of the prince whom your eyes have seen.
+7 For better it is that it be said to you, Come up here; than that you should be put lower in the presence of the prince whom your eyes have seen.
 
-8 Go not forth hastily to strive, otherwise you know not what to do in the end thereof, when your neighbour has put you to shame.
+8 Go not forth hastily to strive, otherwise you know not what to do in the end of it, when your neighbour has put you to shame.
 
 9 Debate your cause with your neighbour himself; and discover not a secret to another:
 
@@ -1506,7 +1506,7 @@
 
 15 By long forbearing is a prince persuaded, and a soft tongue breaks the bone.
 
-16 have you found honey? eat so much as is sufficient for you, otherwise you be filled therewith, and vomit it.
+16 have you found honey? eat so much as is sufficient for you, otherwise you be filled with it, and vomit it.
 
 17 Withdraw your foot from your neighbour's house; otherwise he be weary of you, and so hate you.
 
@@ -1514,13 +1514,13 @@
 
 19 Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.
 
-20 As he that taks away a garment in cold weather, and as vinegar upon nitre, so is he that sings songs to an heavy heart.
+20 As he that takes away a garment in cold weather, and as vinegar upon nitre, so is he that sings songs to an heavy heart.
 
 21 If your enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:
 
 22 For you will heap coals of fire upon his head, and the Lord will reward you.
 
-23 The north wind drivs away rain: so does an angry countenance a backbiting tongue.
+23 The north wind drives away rain: so does an angry countenance a backbiting tongue.
 
 24 It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.
 
@@ -1548,29 +1548,29 @@
 
 7 The legs of the lame are not equal: so is a parable in the mouth of fools.
 
-8 As he that binds a stone in a sling, so is he that givs honour to a fool.
+8 As he that binds a stone in a sling, so is he that gives honour to a fool.
 
 9 As a thorn goes up into the hand of a drunkard, so is a parable in the mouths of fools.
 
-10 The great God that formed all things both rewards the fool, and rewards transgressors.
+10 The great God that formed all things both rewards the fool, and rewards sinners.
 
 11 As a dog returns to his vomit, so a fool returns to his folly.
 
 12 Se you a man wise in his own conceit? there is more hope of a fool than of him.
 
-13 The slothful man saith, There is a lion in the way; a lion is in the streets.
+13 The slothful man says, There is a lion in the way; a lion is in the streets.
 
 14 As the door turns upon his hinges, so does the slothful upon his bed.
 
-15 The slothful hids his hand in his bosom; it grievs him to bring it again to his mouth.
+15 The slothful hides his hand in his bosom; it grievs him to bring it again to his mouth.
 
 16 The sluggard is wiser in his own conceit than seven men that can render a reason.
 
-17 He that passs by, and meddls with strife belonging not to him, is like one that taks a dog by the ears.
+17 He that passs by, and meddls with strife belonging not to him, is like one that takes a dog by the ears.
 
 18 As a mad man who casts firebrands, arrows, and death,
 
-19 So is the man that deceivs his neighbour, and saith, Am not I in sport?
+19 So is the man that deceivs his neighbour, and says, Am not I in sport?
 
 20 Where no wood is, there the fire goes out: so where there is no talebearer, the strife ceass.
 
@@ -1580,15 +1580,15 @@
 
 23 Burning lips and a wicked heart are like a potsherd covered with silver dross.
 
-24 He that hats dissembls with his lips, and lays up deceit within him;
+24 He that hates dissembls with his lips, and lays up deceit within him;
 
 25 When he speaks fair, believe him not: for there are seven abominations in his heart.
 
 26 Whose hatred is covered by deceit, his wickedness will be shewed before the whole congregation.
 
-27 Whoso diggs a pit will fall therein: and he that rolls a stone, it will return upon him.
+27 Whoso diggs a pit will fall in it: and he that rolls a stone, it will return upon him.
 
-28 A lying tongue hats those that are afflicted by it; and a flattering mouth works ruin.
+28 A lying tongue hates those that are afflicted by it; and a flattering mouth works ruin.
 
 ## Proverbs Chapter 27
 
@@ -1614,7 +1614,7 @@
 
 11 My son, be wise, and make my heart glad, that I may answer him that reproachs me.
 
-12 A prudent man foreses the evil, and hids himself; but the simple pass on, and are punished.
+12 A prudent man foreses the evil, and hides himself; but the simple pass on, and are punished.
 
 13 Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.
 
@@ -1622,11 +1622,11 @@
 
 15 A continual dropping in a very rainy day and a contentious woman are alike.
 
-16 Whosoever hids her hids the wind, and the ointment of his right hand, which bewrays itself.
+16 Whosoever hides her hides the wind, and the ointment of his right hand, which bewrays itself.
 
 17 Iron sharpens iron; so a man sharpens the countenance of his friend.
 
-18 Whoso keeps the fig tree will eat the fruit thereof: so he that waits on his master will be honoured.
+18 Whoso keeps the fig tree will eat the fruit of it: so he that waits on his master will be honoured.
 
 19 As in water face answers to face, so the heart of man to man.
 
@@ -1650,7 +1650,7 @@
 
 1 The wicked flee when no man pursus: but the righteous are bold as a lion.
 
-2 For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof will be prolonged.
+2 For the sin of a land many are the princes of it: but by a man of understanding and knowledge the state of it will be prolonged.
 
 3 A poor man that oppresss the poor is like a sweeping rain which leavs no food.
 
@@ -1666,7 +1666,7 @@
 
 9 He that turns away his ear from hearing the law, even his prayer will be abomination.
 
-10 Whoso causs the righteous to go astray in an evil way, he will fall himself into his own pit: but the upright will have good things in possession.
+10 Whoso causes the righteous to go astray in an evil way, he will fall himself into his own pit: but the upright will have good things in possession.
 
 11 The rich man is wise in his own conceit; but the poor that has understanding searchs him out.
 
@@ -1678,15 +1678,15 @@
 
 15 As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.
 
-16 The prince that wants understanding is also a great oppressor: but he that hats covetousness will prolong his days.
+16 The prince that wants understanding is also a great oppressor: but he that hates covetousness will prolong his days.
 
-17 A man that dos violence to the blood of any person will flee to the pit; let no man stay him.
+17 A man that does violence to the blood of any person will flee to the pit; let no man stay him.
 
 18 Whoso walks uprightly will be saved: but he that is perverse in his ways will fall at once.
 
 19 He that tills his land will have plenty of bread: but he that follows after vain persons will have poverty enough.
 
-20 A faithful man will abound with blessings: but he that maks haste to be rich will not be innocent.
+20 A faithful man will abound with blessings: but he that makes haste to be rich will not be innocent.
 
 21 To have respect of persons is not good: for for a piece of bread that man will transgress.
 
@@ -1694,29 +1694,29 @@
 
 23 He that rebuks a man afterwards will find more favour than he that flatters with the tongue.
 
-24 Whoso robbs his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.
+24 Whoso robbs his father or his mother, and says, It is no sin; the same is the companion of a destroyer.
 
 25 He that is of a proud heart stirrs up strife: but he that putts his trust in the Lord will be made fat.
 
 26 He that trusts in his own heart is a fool: but whoso walks wisely, he will be delivered.
 
-27 He that givs to the poor will not lack: but he that hids his eyes will have many a curse.
+27 He that gives to the poor will not lack: but he that hides his eyes will have many a curse.
 
 28 When the wicked rise, men hide themselves: but when they perish, the righteous increase.
 
 ## Proverbs Chapter 29
 
-1 He, that being often reproved hardens his neck, will suddenly be destroyed, and that without remedy.
+1 He, that being often corrected hardens his neck, will suddenly be destroyed, and that without remedy.
 
 2 When the righteous are in authority, the people rejoice: but when the wicked bears rule, the people mourn.
 
-3 Whoso lovs wisdom rejoics his father: but he that keeps company with harlots spends his substance.
+3 Whoso loves wisdom rejoics his father: but he that keeps company with harlots spends his substance.
 
-4 The king by judgment establishs the land: but he that receivs gifts overthrows it.
+4 The king by judgment establishs the land: but he that receives gifts overthrows it.
 
 5 A man that flatters his neighbour spreads a net for his feet.
 
-6 In the transgression of an evil man there is a snare: but the righteous does sing and rejoice.
+6 In the sin of an evil man there is a snare: but the righteous does sing and rejoice.
 
 7 The righteous considers the cause of the poor: but the wicked regards not to know it.
 
@@ -1728,15 +1728,15 @@
 
 11 A fool utters all his mind: but a wise man keeps it in till afterwards.
 
-12 If a ruler hearken to lies, all his servants are wicked.
+12 If a ruler listen to lies, all his servants are wicked.
 
 13 The poor and the deceitful man meet together: the Lord lightens both their eyes.
 
-14 The king that faithfully judgs the poor, his throne will be established for ever.
+14 The king that faithfully judges the poor, his throne will be established for ever.
 
 15 The rod and reproof give wisdom: but a child left to himself brings his mother to shame.
 
-16 When the wicked are multiplied, transgression increass: but the righteous will see their fall.
+16 When the wicked are multiplied, sin increass: but the righteous will see their fall.
 
 17 Correct your son, and he will give you r; yea, he will give delight to your soul.
 
@@ -1748,15 +1748,15 @@
 
 21 He that delicately brings up his servant from a child will have him become his son at the length.
 
-22 An angry man stirrs up strife, and a furious man abounds in transgression.
+22 An angry man stirrs up strife, and a furious man abounds in sin.
 
 23 A man's pride will bring him low: but honour will uphold the humble in spirit.
 
-24 Whoso is partner with a thief hats his own soul: he hears cursing, and bewrays it not.
+24 Whoso is partner with a thief hates his own soul: he hears cursing, and bewrays it not.
 
 25 The fear of man brings a snare: but whoso putts his trust in the Lord will be safe.
 
-26 Many seek the ruler's favour; but every man's judgment coms from the Lord.
+26 Many seek the ruler's favour; but every man's judgment comes from the Lord.
 
 27 An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
 
@@ -1768,11 +1768,11 @@
 
 3 I neither learned wisdom, nor have the knowledge of the holy.
 
-4 Who has ascended up into heaven, or descended? who has gathered the wind in his fists? who has bound the waters in a garment? who has established all the ends of the earth? what is his name, and what is his son's name, if you canst tell?
+4 Who has ascended up into heaven, or descended? who has gathered the wind in his fists? who has bound the waters in a garment? who has established all the ends of the earth? what is his name, and what is his son's name, if you can tell?
 
 5 Every word of God is pure: he is a shield to them that put their trust in him.
 
-6 Add you not to his words, otherwise he reprove you, and you be found a liar.
+6 Add you not to his words, otherwise he correct you, and you be found a liar.
 
 7 Two things have I required of you; deny me them not before I die:
 
@@ -1792,7 +1792,7 @@
 
 15 The horseleach has two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
 
-16 The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.
+16 The grave; and the barren womb; the earth that is not filled with water; and the fire that says not, It is enough.
 
 17 The eye that mocks at his father, and despiss to obey his mother, the ravens of the valley will pick it out, and the young eagles will eat it.
 
@@ -1800,7 +1800,7 @@
 
 19 The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
 
-20 Such is the way of an adulterous woman; she eats, and wips her mouth, and saith, I have done no wickedness.
+20 Such is the way of an adulterous woman; she eats, and wips her mouth, and says, I have done no wickedness.
 
 21 For three things the earth is disquieted, and for four which it cannot bear:
 
@@ -1816,7 +1816,7 @@
 
 27 The locusts have no king, yet go they forth all of them by bands;
 
-28 The spider taks hold with her hands, and is in kings' palaces.
+28 The spider takes hold with her hands, and is in kings' palaces.
 
 29 There be three things which go well, yea, four are comely in going:
 
@@ -1858,13 +1858,13 @@
 
 14 She is like the merchants' ships; she brings her food from afar.
 
-15 She riss also while it is yet night, and givs meat to her household, and a portion to her maidens.
+15 She riss also while it is yet night, and gives meat to her household, and a portion to her maidens.
 
 16 She considers a field, and buys it: with the fruit of her hands she plants a vineyard.
 
 17 She girds her loins with strength, and strengthens her arms.
 
-18 She perceivs that her merchandise is good: her candle goes not out by night.
+18 She perceives that her merchandise is good: her candle goes not out by night.
 
 19 She lays her hands to the spindle, and her hands hold the distaff.
 
@@ -1872,11 +1872,11 @@
 
 21 She is not afraid of the snow for her household: for all her household are clothed with scarlet.
 
-22 She maks herself coverings of tapestry; her clothing is silk and purple.
+22 She makes herself coverings of tapestry; her clothing is silk and purple.
 
 23 Her husband is known in the gates, when he sitts among the elders of the land.
 
-24 She maks fine linen, and sells it; and delivers girdles to the merchant.
+24 She makes fine linen, and sells it; and delivers girdles to the merchant.
 
 25 Strength and honour are her clothing; and she will rejoice in time to come.
 

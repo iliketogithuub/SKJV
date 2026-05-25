@@ -26,7 +26,7 @@
 
 12 are you not from everlasting, O Lord my God, mine Holy One? we will not die. O Lord, you have ordained them for judgment; and, O mighty God, you have established them for correction.
 
-13 you are of purer eyes than to behold evil, and canst not look on iniquity: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
+13 you are of purer eyes than to behold evil, and can not look on iniquity: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
 
 14 And mak men as the fishes of the sea, as the creeping things, that have no ruler over them?
 
@@ -38,7 +38,7 @@
 
 ## Habakkuk Chapter 2
 
-1 I will stand upon my watch, and set me upon the tower, and will watch to see what he will say to me, and what I will answer when I am reproved.
+1 I will stand upon my watch, and set me upon the tower, and will watch to see what he will say to me, and what I will answer when I am corrected.
 
 2 And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that reads it.
 
@@ -52,7 +52,7 @@
 
 7 will they not rise up suddenly that will bite you, and awake that will vex you, and you will be for booties to them?
 
-8 Because you have spoiled many nations, all the remnant of the people will spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.
+8 Because you have spoiled many nations, all the remnant of the people will spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell in it.
 
 9 Woe to him that covets an evil covetousness to his house, that he may set his n on high, that he may be delivered from the power of evil!
 
@@ -66,15 +66,15 @@
 
 14 For the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea.
 
-15 Woe to him that givs his neighbour drink, that putt your bottle to him, and mak him drunken also, that you may look on their nakedness!
+15 Woe to him that gives his neighbour drink, that putt your bottle to him, and mak him drunken also, that you may look on their nakedness!
 
 16 you are filled with shame for glory: drink you also, and let your foreskin be uncovered: the cup of the Lord's right hand will be turned to you, and shameful spewing will be on your glory.
 
-17 For the violence of Lebanon will cover you, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.
+17 For the violence of Lebanon will cover you, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell in it.
 
-18 What profits the graven image that the maker thereof has graven it; the molten image, and a teacher of lies, that the maker of his work trusts therein, to make dumb idols?
+18 What profits the graven image that the maker of it has graven it; the melted image, and a teacher of lies, that the maker of his work trusts in it, to make dumb idols?
 
-19 Woe to him that saith to the wood, Awake; to the dumb stone, Arise, it will teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.
+19 Woe to him that says to the wood, Awake; to the dumb stone, Arise, it will teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.
 
 20 But the Lord is in his holy temple: let all the earth keep silence before him.
 
@@ -90,27 +90,27 @@
 
 5 Before him went the pestilence, and burning coals went forth at his feet.
 
-6 He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
+6 He stood, and measured the earth: he beheld, and drove apart the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
 7 I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
 
-8 Was the Lord displeased against the rivers? was your anger against the rivers? was your wrath against the sea, that you didst ride upon your horses and your chariots of salvation?
+8 Was the Lord displeased against the rivers? was your anger against the rivers? was your wrath against the sea, that you did ride upon your horses and your chariots of salvation?
 
-9 your bow was made quite naked, according to the oaths of the tribes, even your word. Selah. you didst cleave the earth with rivers.
+9 your bow was made quite naked, according to the oaths of the tribes, even your word. Selah. you did cleave the earth with rivers.
 
 10 The mountains saw you, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
 
 11 The sun and moon stood still in their habitation: at the light of your arrows they went, and at the shining of your glittering spear.
 
-12 you didst march through the land in indignation, you didst thresh the heathen in anger.
+12 you did march through the land in indignation, you did thresh the heathen in anger.
 
 13 you went forth for the salvation of your people, even for salvation with your anointed; you woundedst the head out of the house of the wicked, by discovering the foundation to the neck. Selah.
 
-14 you didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
+14 you did strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
-15 you didst walk through the sea with your horses, through the heap of great waters.
+15 you did walk through the sea with your horses, through the heap of great waters.
 
-16 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might r in the day of trouble: when he coms up to the people, he will invade them with his troops.
+16 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might r in the day of trouble: when he comes up to the people, he will invade them with his troops.
 
 17 Although the fig tree will not blossom, neither will fruit be in the vines; the labour of the olive will fail, and the fields will yield no meat; the flock will be cut off from the fold, and there will be no herd in the stalls:
 

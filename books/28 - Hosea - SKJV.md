@@ -26,7 +26,7 @@
 
 ## Hosea Chapter 2
 
-1 Say you to your brethren, Ammi; and to your sisters, Ruhamah.
+1 Say you to your brothers, Ammi; and to your sisters, Ruhamah.
 
 2 Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;
 
@@ -42,7 +42,7 @@
 
 8 For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.
 
-9 Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.
+9 Therefore will I return, and take away my corn in the time of it, and my wine in the season of it, and will recover my wool and my flax given to cover her nakedness.
 
 10 And now will I discover her lewdness in the sight of her lovers, and none will deliver her out of mine hand.
 
@@ -50,13 +50,13 @@
 
 12 And I will destroy her vines and her fig trees, whereof she has said, These are my rewards that my lovers have given me: and I will make them a for, and the beasts of the field will eat them.
 
-13 And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the Lord.
+13 And I will visit upon her the days of Baalim, in which she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, says the Lord.
 
 14 Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably to her.
 
-15 And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she will sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
+15 And I will give her her vineyards from from there, and the valley of Achor for a door of hope: and she will sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 
-16 And it will be at that day, saith the Lord, that you will call me Ishi; and will call me no more Baali.
+16 And it will be at that day, says the Lord, that you will call me Ishi; and will call me no more Baali.
 
 17 For I will take away the names of Baalim out of her mouth, and they will no more be remembered by their name.
 
@@ -66,7 +66,7 @@
 
 20 I will even betroth you to me in faithfulness: and you will know the Lord.
 
-21 And it will come to pass in that day, I will hear, saith the Lord, I will hear the heavens, and they will hear the earth;
+21 And it will come to pass in that day, I will hear, says the Lord, I will hear the heavens, and they will hear the earth;
 
 22 And the earth will hear the corn, and the wine, and the oil; and they will hear Jezreel.
 
@@ -90,9 +90,9 @@
 
 2 By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood touchs blood.
 
-3 Therefore will the land mourn, and every one that dwells therein will languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also will be taken away.
+3 Therefore will the land mourn, and every one that dwells in it will languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also will be taken away.
 
-4 Yet let no man strive, nor reprove another: for your people are as they that strive with the pri.
+4 Yet let no man strive, nor correct another: for your people are as they that strive with the pri.
 
 5 Therefore will you fall in the day, and the prophet also will fall with you in the night, and I will destroy your mother.
 
@@ -110,11 +110,11 @@
 
 12 My people ask counsel at their stocks, and their staff declars to them: for the spirit of whoredoms has caused them to err, and they have gone a whoring from under their God.
 
-13 They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters will commit whoredom, and your spouses will commit adultery.
+13 They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow of it is good: therefore your daughters will commit whoredom, and your spouses will commit adultery.
 
 14 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that does not understand will fall.
 
-15 Though you, Israel, play the harlot, yet let not Judah offend; and come not you to Gilgal, neither go you up to Bethaven, nor swear, The Lord livs.
+15 Though you, Israel, play the harlot, yet let not Judah offend; and come not you to Gilgal, neither go you up to Bethaven, nor swear, The Lord lives.
 
 16 For Israel slids back as a backsliding heifer: now the Lord will feed them as a lamb in a large place.
 
@@ -126,7 +126,7 @@
 
 ## Hosea Chapter 5
 
-1 Hear you this, O priests; and hearken, you house of Israel; and give you ear, O house of the king; for judgment is toward you, because you have been a snare on Mizpah, and a net spread upon Tabor.
+1 Hear you this, O priests; and listen, you house of Israel; and give you ear, O house of the king; for judgment is toward you, because you have been a snare on Mizpah, and a net spread upon Tabor.
 
 2 And the revolters are profound to make slaughter, though I have been a rebuker of them all.
 
@@ -170,7 +170,7 @@
 
 6 For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 
-7 But they like men have transgressed the covenant: there have they dealt treacherously against me.
+7 But they like men have sinned the covenant: there have they dealt treacherously against me.
 
 8 Gilead is a city of them that work iniquity, and is polluted with blood.
 
@@ -182,7 +182,7 @@
 
 ## Hosea Chapter 7
 
-1 When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief coms in, and the troop of robbers spoils without.
+1 When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief comes in, and the troop of robbers spoils without.
 
 2 And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face.
 
@@ -204,9 +204,9 @@
 
 11 Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 
-12 When they will go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation has heard.
+12 When they will go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will discipline them, as their congregation has heard.
 
-13 Woe to them! for they have fled from me: destruction to them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.
+13 Woe to them! for they have fled from me: destruction to them! because they have sinned against me: though I have redeemed them, yet they have spoken lies against me.
 
 14 And they have not cried to me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.
 
@@ -216,7 +216,7 @@
 
 ## Hosea Chapter 8
 
-1 Set the trumpet to your mouth. He will come as an eagle against the house of the Lord, because they have transgressed my covenant, and trespassed against my law.
+1 Set the trumpet to your mouth. He will come as an eagle against the house of the Lord, because they have sinned my covenant, and trespassed against my law.
 
 2 Israel will cry to me, My God, we know you.
 
@@ -230,7 +230,7 @@
 
 7 For they have sown the wind, and they will reap the whirlwind: it has no stalk; the bud will yield no meal: if so be it yield, the strangers will swallow it up.
 
-8 Israel is swallowed up: now will they be among the Gentiles as a vessel wherein is no pleasure.
+8 Israel is swallowed up: now will they be among the Gentiles as a vessel in which is no pleasure.
 
 9 For they are gone up to Assyria, a wild ass alone by himself: Ephraim has hired lovers.
 
@@ -242,7 +242,7 @@
 
 13 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the Lord accepts them not; now will he remember their iniquity, and visit their sins: they will return to Egypt.
 
-14 For Israel has forgotten his Maker, and builds temples; and Judah has multiplied fenced cities: but I will send a fire upon his cities, and it will devour the palaces thereof.
+14 For Israel has forgotten his Maker, and builds temples; and Judah has multiplied fenced cities: but I will send a fire upon his cities, and it will devour the palaces of it.
 
 ## Hosea Chapter 9
 
@@ -252,7 +252,7 @@
 
 3 They will not dwell in the Lord's land; but Ephraim will return to Egypt, and they will eat unclean things in Assyria.
 
-4 They will not offer wine offerings to the Lord, neither will they be pleasing to him: their sacrifices will be to them as the bread of mourners; all that eat thereof will be polluted: for their bread for their soul will not come into the house of the Lord.
+4 They will not offer wine offerings to the Lord, neither will they be pleasing to him: their sacrifices will be to them as the bread of mourners; all that eat of it will be polluted: for their bread for their soul will not come into the house of the Lord.
 
 5 What will you do in the solemn day, and in the day of the feast of the Lord?
 
@@ -278,7 +278,7 @@
 
 16 Ephraim is smitten, their root is dried up, they will bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.
 
-17 My God will cast them away, because they did not hearken to him: and they will be wanderers among the nations.
+17 My God will cast them away, because they did not listen to him: and they will be wanderers among the nations.
 
 ## Hosea Chapter 10
 
@@ -290,7 +290,7 @@
 
 4 They have spoken words, swearing falsely in making a covenant: thus judgment springs up as hemlock in the furrows of the field.
 
-5 The inhabitants of Samaria will fear because of the calves of Bethaven: for the people thereof will mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.
+5 The inhabitants of Samaria will fear because of the calves of Bethaven: for the people of it will mourn over it, and the priests of it that rejoiced on it, for the glory of it, because it is departed from it.
 
 6 It will be also carried to Assyria for a present to king Jareb: Ephraim will receive shame, and Israel will be ashamed of his own counsel.
 
@@ -300,15 +300,15 @@
 
 9 O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 
-10 It is in my desire that I should chastise them; and the people will be gathered against them, when they will bind themselves in their two furrows.
+10 It is in my desire that I should discipline them; and the people will be gathered against them, when they will bind themselves in their two furrows.
 
-11 And Ephraim is as an heifer that is taught, and lovs to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah will plow, and Jacob will break his clods.
+11 And Ephraim is as an heifer that is taught, and loves to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah will plow, and Jacob will break his clods.
 
 12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
 
-13 you have plowed wickedness, you have reaped iniquity; you have eaten the fruit of lies: because you didst trust in your way, in the multitude of your mighty men.
+13 you have plowed wickedness, you have reaped iniquity; you have eaten the fruit of lies: because you did trust in your way, in the multitude of your mighty men.
 
-14 Therefore will a tumult arise among your people, and all your fortresses will be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.
+14 Therefore will a uproar arise among your people, and all your fortresses will be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.
 
 15 So will Bethel do to you because of your great wickedness: in a morning will the king of Israel utterly be cut off.
 
@@ -334,25 +334,25 @@
 
 10 They will walk after the Lord: he will roar like a lion: when he will roar, then the children will tremble from the w.
 
-11 They will tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord.
+11 They will tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the Lord.
 
-12 Ephraim compasss me about with lies, and the house of Israel with deceit: but Judah yet ruls with God, and is faithful with the saints.
+12 Ephraim compasss me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints.
 
 ## Hosea Chapter 12
 
 1 Ephraim feeds on wind, and follows after the east wind: he daily increass lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
 
-2 The Lord has also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.
+2 The Lord has also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he repay him.
 
 3 He took his brother by the heel in the womb, and by his strength he had power with God:
 
-4 Yea, he had power over the angel, and prevailed: he wept, and made supplication to him: he found him in Bethel, and there he spake with us;
+4 Yea, he had power over the angel, and prevailed: he wept, and made prayer to him: he found him in Bethel, and there he spake with us;
 
 5 Even the Lord God of hosts; the Lord is his memorial.
 
 6 Therefore turn you to your God: keep mercy and judgment and wait on your God continually.
 
-7 He is a merchant, the balances of deceit are in his hand: he lovs to oppress.
+7 He is a merchant, the balances of deceit are in his hand: he loves to oppress.
 
 8 And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they will find none iniquity in me that were sin.
 
@@ -372,7 +372,7 @@
 
 1 When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 
-2 And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
+2 And now they sin more and more, and have made them melted images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
 
 3 Therefore they will be as the morning cloud and as the early dew that passs away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
 
@@ -398,7 +398,7 @@
 
 14 I will ransom them from the power of the grave; I will redeem them from death: O death, I will be your plagues; O grave, I will be your destruction: repentance will be hid from mine eyes.
 
-15 Though he be fruitful among his brethren, an east wind will come, the wind of the Lord will come up from the wilderness, and his spring will become dry, and his fountain will be dried up: he will spoil the treasure of all pleasant vessels.
+15 Though he be fruitful among his brothers, an east wind will come, the wind of the Lord will come up from the wilderness, and his spring will become dry, and his fountain will be dried up: he will spoil the treasure of all pleasant vessels.
 
 16 Samaria will become desolate; for she has rebelled against her God: they will fall by the sword: their infants will be dashed in pieces, and their women with child will be ripped up.
 
@@ -416,11 +416,11 @@
 
 6 His branches will spread, and his beauty will be as the olive tree, and his smell as Lebanon.
 
-7 They that dwell under his shadow will return; they will revive as the corn, and grow as the vine: the scent thereof will be as the wine of Lebanon.
+7 They that dwell under his shadow will return; they will revive as the corn, and grow as the vine: the scent of it will be as the wine of Lebanon.
 
 8 Ephraim will say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is your fruit found.
 
-9 Who is wise, and he will understand these things? prudent, and he will know them? for the ways of the Lord are right, and the just will walk in them: but the transgressors will fall therein.
+9 Who is wise, and he will understand these things? prudent, and he will know them? for the ways of the Lord are right, and the just will walk in them: but the sinners will fall in it.
 
 
 ## eof

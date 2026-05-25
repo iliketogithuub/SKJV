@@ -32,7 +32,7 @@
 
 15 And she said, Behold, your sister in law is gone back to her people, and to her gods: return you after your sister in law.
 
-16 And Ruth said, Intreat me not to leave you, or to return from following after you: for whither you go, I will go; and where you lodg, I will lodge: your people will be my people, and your God my God:
+16 And Ruth said, Intreat me not to leave you, or to return from following after you: for where you go, I will go; and where you lodg, I will lodge: your people will be my people, and your God my God:
 
 17 Where you di, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part you and me.
 
@@ -56,9 +56,9 @@
 
 4 And, behold, Boaz came from Bethlehem, and said to the reapers, The Lord be with you. And they answered him, The Lord bless you.
 
-5 Then said Boaz to his servant that was set over the reapers, Whose damsel is this?
+5 Then said Boaz to his servant that was set over the reapers, Whose young woman is this?
 
-6 And the servant that was set over the reapers answered and said, It is the Moabitish damsel that came back with Naomi out of the country of Moab:
+6 And the servant that was set over the reapers answered and said, It is the Moabitish young woman that came back with Naomi out of the country of Moab:
 
 7 And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and has continued even from the morning until now, that she tarried a little in the house.
 
@@ -70,11 +70,11 @@
 
 11 And Boaz answered and said to her, It has fully been shewed me, all that you have done to your mother in law since the death of your husband: and how you have left your father and your mother, and the land of your nativity, and are come to a people which you knew not heretofore.
 
-12 The Lord recompense your work, and a full reward be given you of the Lord God of Israel, under whose wings you are come to trust.
+12 The Lord repay your work, and a full reward be given you of the Lord God of Israel, under whose wings you are come to trust.
 
 13 Then she said, Let me find favour in your sight, my lord; for that you have comforted me, and for that you have spoken friendly to your handmaid, though I be not like to one of your handmaidens.
 
-14 And Boaz said to her, At mealtime come you hither, and eat of the bread, and dip your morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
+14 And Boaz said to her, At mealtime come you here, and eat of the bread, and dip your morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
 
 15 And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:
 
@@ -100,7 +100,7 @@
 
 2 And now is not Boaz of our kindred, with whose maidens you wast? Behold, he winnows barley to night in the threshingfloor.
 
-3 Wash thyself therefore, and anoint you, and put your raiment upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
+3 Wash thyself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
 
 4 And it will be, when he lis down, that you will mark the place where he will lie, and you will go in, and uncover his feet, and lay you down; and he will tell you what you will do.
 
@@ -114,13 +114,13 @@
 
 9 And he said, Who are you? And she answered, I am Ruth your handmaid: spread therefore your skirt over your handmaid; for you are a near kinsman.
 
-10 And he said, Blessed be you of the Lord, my daughter: for you have shewed more kindness in the latter end than at the beginning, inasmuch as you followedst not young men, whether poor or rich.
+10 And he said, Blessed be you of the Lord, my daughter: for you have shewed more kindness in the latter end than at the beginning, since as you followedst not young men, whether poor or rich.
 
 11 And now, my daughter, fear not; I will do to you all that you requir: for all the city of my people does know that you are a virtuous woman.
 
-12 And now it is true that I am your near kinsman: howbeit there is a kinsman nearer than I.
+12 And now it is true that I am your near kinsman: however there is a kinsman nearer than I.
 
-13 Tarry this night, and it will be in the morning, that if he will perform to you the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to you, then will I do the part of a kinsman to you, as the Lord livs: lie down until the morning.
+13 Tarry this night, and it will be in the morning, that if he will perform to you the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to you, then will I do the part of a kinsman to you, as the Lord lives: lie down until the morning.
 
 14 And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.
 
@@ -152,7 +152,7 @@
 
 9 And Boaz said to the elders, and to all the people, you are witnesses this day, that I have bought all that was Elimelech's, and all that was Chilion's and Mahlon's, of the hand of Naomi.
 
-10 Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: you are witnesses this day.
+10 Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brothers, and from the gate of his place: you are witnesses this day.
 
 11 And all the people that were in the gate, and the elders, said, We are witnesses. The Lord make the woman that is come into your house like Rachel and like Leah, which two did build the house of Israel: and do you worthily in Ephratah, and be famous in Bethlehem:
 
@@ -162,21 +162,21 @@
 
 14 And the women said to Naomi, Blessed be the Lord, which has not left you this day without a kinsman, that his name may be famous in Israel.
 
-15 And he will be to you a restorer of your life, and a nourisher of your old age: for your daughter in law, which lovs you, which is better to you than seven sons, has born him.
+15 And he will be to you a restorer of your life, and a nourisher of your old age: for your daughter in law, which loves you, which is better to you than seven sons, has born him.
 
 16 And Naomi took the child, and laid it in her bosom, and became nurse to it.
 
 17 And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.
 
-18 Now these are the generations of Pharez: Pharez begat Hezron,
+18 Now these are the generations of Pharez: Pharez fathered Hezron,
 
-19 And Hezron begat Ram, and Ram begat Amminadab,
+19 And Hezron fathered Ram, and Ram fathered Amminadab,
 
-20 And Amminadab begat Nahshon, and Nahshon begat Salmon,
+20 And Amminadab fathered Nahshon, and Nahshon fathered Salmon,
 
-21 And Salmon begat Boaz, and Boaz begat Obed,
+21 And Salmon fathered Boaz, and Boaz fathered Obed,
 
-22 And Obed begat Jesse, and Jesse begat David.
+22 And Obed fathered Jesse, and Jesse fathered David.
 
 
 ## eof

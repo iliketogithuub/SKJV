@@ -2,11 +2,11 @@
 
 ## 2 Samuel Chapter 1
 
-1 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
+1 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag;
 
 2 It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
 
-3 And David said to him, From whence com you? And he said to him, Out of the camp of Israel am I escaped.
+3 And David said to him, From from where com you? And he said to him, Out of the camp of Israel am I escaped.
 
 4 And David said to him, How went the matter? I pray you, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
 
@@ -20,17 +20,17 @@
 
 9 He said to me again, Stand, I pray you, upon me, and slay me: for anguish is come upon me, because my life is yet whole in me.
 
-10 So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither to my lord.
+10 So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them here to my lord.
 
 11 Then David took hold on his clothes, and rent them; and likewise all the men that were with him:
 
 12 And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the Lord, and for the house of Israel; because they were fallen by the sword.
 
-13 And David said to the young man that told him, Whence are you? And he answered, I am the son of a stranger, an Amalekite.
+13 And David said to the young man that told him, From where are you? And he answered, I am the son of a stranger, an Amalekite.
 
 14 And David said to him, How wast you not afraid to stretch forth your hand to destroy the Lord's anointed?
 
-15 And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died.
+15 And David called one of the young men, and said, Go near, and fall upon him. And he struck him that he died.
 
 16 And David said to him, your blood be upon your head; for your mouth has testified against you, saying, I have slain the Lord's anointed.
 
@@ -58,9 +58,9 @@
 
 ## 2 Samuel Chapter 2
 
-1 And it came to pass after this, that David enquired of the Lord, saying, will I go up into any of the cities of Judah? And the Lord said to him, Go up. And David said, Whither will I go up? And he said, to Hebron.
+1 And it came to pass after this, that David enquired of the Lord, saying, will I go up into any of the cities of Judah? And the Lord said to him, Go up. And David said, Where will I go up? And he said, to Hebron.
 
-2 So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal's wife the Carmelite.
+2 So David went up there, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal's wife the Carmelite.
 
 3 And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
 
@@ -102,15 +102,15 @@
 
 22 And Abner said again to Asahel, Turn you aside from following me: therefore should I smite you to the ground? how then should I hold up my face to Joab your brother?
 
-23 Howbeit he refused to turn aside: therefore Abner with the hinder end of the spear smote him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still.
+23 However he refused to turn aside: therefore Abner with the hinder end of the spear struck him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still.
 
 24 Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lis before Giah by the way of the wilderness of Gibeon.
 
 25 And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.
 
-26 Then Abner called to Joab, and said, will the sword devour for ever? know you not that it will be bitterness in the latter end? how long will it be then, ere you bid the people return from following their brethren?
+26 Then Abner called to Joab, and said, will the sword devour for ever? know you not that it will be bitterness in the latter end? how long will it be then, ere you bid the people return from following their brothers?
 
-27 And Joab said, As God livs, unless you hadst spoken, surely then in the morning the people had gone up every one from following his brother.
+27 And Joab said, As God lives, unless you hadst spoken, surely then in the morning the people had gone up every one from following his brother.
 
 28 So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.
 
@@ -120,11 +120,11 @@
 
 31 But the servants of David had smitten of Benjamin, and of Abner's men, so that three hundred and threescore men died.
 
-32 And they took up Asahel, and buried him in the sepulchre of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.
+32 And they took up Asahel, and buried him in the tomb of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.
 
 ## 2 Samuel Chapter 3
 
-1 Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
+1 Now there was long war between the house of Saul and the house of David: but David grew stronger and stronger, and the house of Saul grew weaker and weaker.
 
 2 And to David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;
 
@@ -138,7 +138,7 @@
 
 7 And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ishboshs said to Abner, therefore have you gone in to my father's concubine?
 
-8 Then was Abner very wroth for the words of Ishboshs, and said, Am I a dog's head, which against Judah do shew kindness this day to the house of Saul your father, to his brethren, and to his friends, and have not delivered you into the hand of David, that you charg me to day with a fault concerning this woman?
+8 Then was Abner very furious for the words of Ishboshs, and said, Am I a dog's head, which against Judah do shew kindness this day to the house of Saul your father, to his brothers, and to his friends, and have not delivered you into the hand of David, that you charg me to day with a fault concerning this woman?
 
 9 So do God to Abner, and more also, except, as the Lord has sworn to David, even so I do to him;
 
@@ -150,7 +150,7 @@
 
 13 And he said, Well; I will make a league with you: but one thing I require of you, that is, you will not see my face, except you first bring Michal Saul's daughter, when you com to see my face.
 
-14 And David sent messengers to Ishboshs Saul's son, saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.
+14 And David sent messengers to Ishboshs Saul's son, saying, Deliver me my wife Michal, which I engaged to me for an hundred foreskins of the Philistines.
 
 15 And Ishboshs sent, and took her from her husband, even from Phaltiel the son of Laish.
 
@@ -164,7 +164,7 @@
 
 20 So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that were with him a feast.
 
-21 And Abner said to David, I will arise and go, and will gather all Israel to my lord the king, that they may make a league with you, and that you may reign over all that your heart desirs. And David sent Abner away; and he went in peace.
+21 And Abner said to David, I will arise and go, and will gather all Israel to my lord the king, that they may make a league with you, and that you may reign over all that your heart desires. And David sent Abner away; and he went in peace.
 
 22 And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
 
@@ -176,7 +176,7 @@
 
 26 And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.
 
-27 And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.
+27 And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and struck him there under the fifth rib, that he died, for the blood of Asahel his brother.
 
 28 And afterward when David heard it, he said, I and my kingdom are guiltless before the Lord for ever from the blood of Abner the son of Ner:
 
@@ -188,7 +188,7 @@
 
 32 And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.
 
-33 And the king lamented over Abner, and said, Died Abner as a fool dis?
+33 And the king lamented over Abner, and said, Died Abner as a fool dies?
 
 34 your hands were not bound, nor your feet put into fetters: as a man falls before wicked men, so fell you. And all the people wept again over him.
 
@@ -214,19 +214,19 @@
 
 5 And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ishboshs, who lay on a bed at noon.
 
-6 And they came thither into the midst of the house, as though they would have fetched wheat; and they smote him under the fifth rib: and Rechab and Baanah his brother escaped.
+6 And they came there into the midst of the house, as though they would have fetched wheat; and they struck him under the fifth rib: and Rechab and Baanah his brother escaped.
 
-7 For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
+7 For when they came into the house, he lay on his bed in his bedchamber, and they struck him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
 
 8 And they brought the head of Ishboshs to David to Hebron, and said to the king, Behold the head of Ishboshs the son of Saul your enemy, which sought your life; and the Lord has avenged my lord the king this day of Saul, and of his seed.
 
-9 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, As the Lord livs, who has redeemed my soul out of all adversity,
+9 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, As the Lord lives, who has redeemed my soul out of all adversity,
 
 10 When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:
 
 11 How much more, when wicked men have slain a righteous person in his own house upon his bed? will I not therefore now require his blood of your hand, and take you away from the earth?
 
-12 And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishboshs, and buried it in the sepulchre of Abner in Hebron.
+12 And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishboshs, and buried it in the tomb of Abner in Hebron.
 
 ## 2 Samuel Chapter 5
 
@@ -240,7 +240,7 @@
 
 5 In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
 
-6 And the king and his men went to Jerusalem to the Jebusites, the inhabitants of the land: which spake to David, saying, Except you take away the blind and the lame, you will not come in hither: thinking, David cannot come in hither.
+6 And the king and his men went to Jerusalem to the Jebusites, the inhabitants of the land: which spake to David, saying, Except you take away the blind and the lame, you will not come in here: thinking, David cannot come in here.
 
 7 Nevertheless David took the strong hold of Zion: the same is the city of David.
 
@@ -268,7 +268,7 @@
 
 19 And David enquired of the Lord, saying, will I go up to the Philistines? will you deliver them into mine hand? And the Lord said to David, Go up: for I will doubtless deliver the Philistines into your hand.
 
-20 And David came to Baalperazim, and David smote them there, and said, The Lord has broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
+20 And David came to Baalperazim, and David struck them there, and said, The Lord has broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
 
 21 And there they left their images, and David and his men burned them.
 
@@ -278,13 +278,13 @@
 
 24 And let it be, when you hear the sound of a going in the tops of the mulberry trees, that then you will bestir thyself: for then will the Lord go out before you, to smite the host of the Philistines.
 
-25 And David did so, as the Lord had commanded him; and smote the Philistines from Geba until you come to Gazer.
+25 And David did so, as the Lord had commanded him; and struck the Philistines from Geba until you come to Gazer.
 
 ## 2 Samuel Chapter 6
 
 1 Again, David gathered together all the chosen men of Israel, thirty thousand.
 
-2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the Lord of hosts that dwells between the cherubims.
+2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from from there the ark of God, whose name is called by the name of the Lord of hosts that dwells between the cherubims.
 
 3 And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 
@@ -294,7 +294,7 @@
 
 6 And when they came to Nachon's threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it.
 
-7 And the anger of the Lord was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.
+7 And the anger of the Lord was kindled against Uzzah; and God struck him there for his error; and there he died by the ark of God.
 
 8 And David was displeased, because the Lord had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
 
@@ -338,13 +338,13 @@
 
 4 And it came to pass that night, that the word of the Lord came to Nathan, saying,
 
-5 Go and tell my servant David, Thus saith the Lord, will you build me an house for me to dwell in?
+5 Go and tell my servant David, Thus says the Lord, will you build me an house for me to dwell in?
 
 6 Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 
-7 In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build you not me an house of cedar?
+7 In all the places in which I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build you not me an house of cedar?
 
-8 Now therefore so will you say to my servant David, Thus saith the Lord of hosts, I took you from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
+8 Now therefore so will you say to my servant David, Thus says the Lord of hosts, I took you from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
 
 9 And I was with you whithersoever you went, and have cut off all your enemies out of your sight, and have made you a great name, like to the name of the great men that are in the earth.
 
@@ -352,7 +352,7 @@
 
 11 And as since the time that I commanded judges to be over my people Israel, and have caused you to r from all your enemies. Also the Lord tells you that he will make you an house.
 
-12 And when your days be fulfilled, and you will sleep with your fathers, I will set up your seed after you, which will proceed out of your bowels, and I will establish his kingdom.
+12 And when your days be fulfilled, and you will sleep with your fathers, I will set up your seed after you, which will proceed out of your deep affection, and I will establish his kingdom.
 
 13 He will build an house for my name, and I will stablish the throne of his kingdom for ever.
 
@@ -364,7 +364,7 @@
 
 17 According to all these words, and according to all this vision, so did Nathan speak to David.
 
-18 Then went king David in, and sat before the Lord, and he said, Who am I, O Lord God? and what is my house, that you have brought me hitherto?
+18 Then went king David in, and sat before the Lord, and he said, Who am I, O Lord God? and what is my house, that you have brought me until now?
 
 19 And this was yet a small thing in your sight, O Lord God; but you have spoken also of your servant's house for a great while to come. And is this the manner of man, O Lord God?
 
@@ -390,11 +390,11 @@
 
 ## 2 Samuel Chapter 8
 
-1 And after this it came to pass that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.
+1 And after this it came to pass that David struck the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.
 
-2 And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.
+2 And he struck Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.
 
-3 David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
+3 David struck also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
 
 4 And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots.
 
@@ -408,7 +408,7 @@
 
 9 When Toi king of Hamath heard that David had smitten all the host of Hadadezer,
 
-10 Then Toi sent Joram his son to king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:
+10 Then Toi sent Joram his son to king David, to greet him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:
 
 11 Which also king David did dedicate to the Lord, with the silver and gold that he had dedicated of all nations which he subdued;
 
@@ -480,7 +480,7 @@
 
 12 Be of good courage, and let us play the men for our people, and for the cities of our God: and the Lord do that which seems him good.
 
-13 And Joab drew nigh, and the people that were with him, to the battle against the Syrians: and they fled before him.
+13 And Joab drew near, and the people that were with him, to the battle against the Syrians: and they fled before him.
 
 14 And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem.
 
@@ -490,7 +490,7 @@
 
 17 And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him.
 
-18 And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there.
+18 And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and struck Shobach the captain of their host, who died there.
 
 19 And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.
 
@@ -514,11 +514,11 @@
 
 9 But Uriah slept at the door of the king's house with all the servants of his lord, and went not down to his house.
 
-10 And when they had told David, saying, Uriah went not down to his house, David said to Uriah, Cam you not from your journey? why then didst you not go down to your house?
+10 And when they had told David, saying, Uriah went not down to his house, David said to Uriah, Cam you not from your journey? why then did you not go down to your house?
 
-11 And Uriah said to David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; will I then go into mine house, to eat and to drink, and to lie with my wife? as you liv, and as your soul livs, I will not do this thing.
+11 And Uriah said to David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; will I then go into mine house, to eat and to drink, and to lie with my wife? as you liv, and as your soul lives, I will not do this thing.
 
-12 And David said to Uriah, Tarry here to day also, and to morrow I will let you depart. So Uriah abode in Jerusalem that day, and the morrow.
+12 And David said to Uriah, Tarry here to day also, and to morrow I will let you depart. So Uriah stayed in Jerusalem that day, and the morrow.
 
 13 And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house.
 
@@ -534,9 +534,9 @@
 
 19 And charged the messenger, saying, When you have made an end of telling the matters of the war to the king,
 
-20 And if so be that the king's wrath arise, and he say to you, therefore approached you so nigh to the city when you did fight? knew you not that they would shoot from the wall?
+20 And if so be that the king's wrath arise, and he say to you, therefore approached you so near to the city when you did fight? knew you not that they would shoot from the wall?
 
-21 Who smote Abimelech the son of Jerubbeshs? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went you nigh the wall? then say you, your servant Uriah the Hittite is dead also.
+21 Who struck Abimelech the son of Jerubbeshs? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went you near the wall? then say you, your servant Uriah the Hittite is dead also.
 
 22 So the messenger went, and came and shewed David all that Joab had sent him for.
 
@@ -560,11 +560,11 @@
 
 4 And there came a traveller to the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come to him; but took the poor man's lamb, and dressed it for the man that was come to him.
 
-5 And David's anger was greatly kindled against the man; and he said to Nathan, As the Lord livs, the man that has done this thing will surely die:
+5 And David's anger was greatly kindled against the man; and he said to Nathan, As the Lord lives, the man that has done this thing will surely die:
 
 6 And he will restore the lamb fourfold, because he did this thing, and because he had no pity.
 
-7 And Nathan said to David, you are the man. Thus saith the Lord God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
+7 And Nathan said to David, you are the man. Thus says the Lord God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
 
 8 And I gave you your master's house, and your master's wives into your bosom, and gave you the house of Israel and of Judah; and if that had been too little, I would moreover have given to you such and such things.
 
@@ -572,27 +572,27 @@
 
 10 Now therefore the sword will never depart from your house; because you have despised me, and have taken the wife of Uriah the Hittite to be your wife.
 
-11 Thus saith the Lord, Behold, I will raise up evil against you out of your own house, and I will take your wives before your eyes, and give them to your neighbour, and he will lie with your wives in the sight of this sun.
+11 Thus says the Lord, Behold, I will raise up evil against you out of your own house, and I will take your wives before your eyes, and give them to your neighbour, and he will lie with your wives in the sight of this sun.
 
-12 For you didst it secretly: but I will do this thing before all Israel, and before the sun.
+12 For you did it secretly: but I will do this thing before all Israel, and before the sun.
 
 13 And David said to Nathan, I have sinned against the Lord. And Nathan said to David, The Lord also has put away your sin; you will not die.
 
-14 Howbeit, because by this deed you have given great occasion to the enemies of the Lord to blaspheme, the child also that is born to you will surely die.
+14 However, because by this deed you have given great occasion to the enemies of the Lord to blaspheme, the child also that is born to you will surely die.
 
 15 And Nathan departed to his house. And the Lord struck the child that Uriah's wife bare to David, and it was very sick.
 
-16 David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.
+16 David therefore urged God for the child; and David fasted, and went in, and lay all night upon the earth.
 
 17 And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them.
 
-18 And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake to him, and he would not hearken to our voice: how will he then vex himself, if we tell him that the child is dead?
+18 And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake to him, and he would not listen to our voice: how will he then vex himself, if we tell him that the child is dead?
 
 19 But when David saw that his servants whispered, David perceived that the child was dead: therefore David said to his servants, Is the child dead? And they said, He is dead.
 
 20 Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the Lord, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.
 
-21 Then said his servants to him, What thing is this that you have done? you didst fast and weep for the child, while it was alive; but when the child was dead, you didst rise and eat bread.
+21 Then said his servants to him, What thing is this that you have done? you did fast and weep for the child, while it was alive; but when the child was dead, you did rise and eat bread.
 
 22 And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether God will be gracious to me, that the child may live?
 
@@ -612,7 +612,7 @@
 
 30 And he took their king's crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David's head. And he brought forth the spoil of the city in great abundance.
 
-31 And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brick-kiln: and thus did he to all the cities of the children of Ammon. So David and all the people returned to Jerusalem.
+31 And he brought forth the people that were in it, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brick-kiln: and thus did he to all the cities of the children of Ammon. So David and all the people returned to Jerusalem.
 
 ## 2 Samuel Chapter 13
 
@@ -624,7 +624,7 @@
 
 4 And he said to him, Why are you, being the king's son, lean from day to day? will you not tell me? And Amnon said to him, I love Tamar, my brother Absalom's sister.
 
-5 And Jonadab said to him, Lay you down on your bed, and make thyself sick: and when your father coms to see you, say to him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
+5 And Jonadab said to him, Lay you down on your bed, and make thyself sick: and when your father comes to see you, say to him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
 
 6 So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said to the king, I pray you, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
 
@@ -640,31 +640,31 @@
 
 12 And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not you this folly.
 
-13 And I, whither will I cause my shame to go? and as for you, you will be as one of the fools in Israel. Now therefore, I pray you, speak to the king; for he will not withhold me from you.
+13 And I, where will I cause my shame to go? and as for you, you will be as one of the fools in Israel. Now therefore, I pray you, speak to the king; for he will not withhold me from you.
 
-14 Howbeit he would not hearken to her voice: but, being stronger than she, forced her, and lay with her.
+14 However he would not listen to her voice: but, being stronger than she, forced her, and lay with her.
 
-15 Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said to her, Arise, be gone.
+15 Then Amnon hated her exceedingly; so that the hatred with what he hated her was greater than the love with what he had loved her. And Amnon said to her, Arise, be gone.
 
-16 And she said to him, There is no cause: this evil in sending me away is greater than the other that you didst to me. But he would not hearken to her.
+16 And she said to him, There is no cause: this evil in sending me away is greater than the other that you did to me. But he would not listen to her.
 
 17 Then he called his servant that ministered to him, and said, Put now this woman out from me, and bolt the door after her.
 
-18 And she had a garment of divers colours upon her: for with such robes were the king's daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her.
+18 And she had a garment of various colours upon her: for with such robes were the king's daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her.
 
-19 And Tamar put ashes on her head, and rent her garment of divers colours that was on her, and laid her hand on her head, and went on crying.
+19 And Tamar put ashes on her head, and rent her garment of various colours that was on her, and laid her hand on her head, and went on crying.
 
 20 And Absalom her brother said to her, has Amnon your brother been with you? but hold now your peace, my sister: he is your brother; regard not this thing. So Tamar remained desolate in her brother Absalom's house.
 
-21 But when king David heard of all these things, he was very wroth.
+21 But when king David heard of all these things, he was very furious.
 
 22 And Absalom spake to his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.
 
 23 And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which is beside Ephraim: and Absalom invited all the king's sons.
 
-24 And Absalom came to the king, and said, Behold now, your servant has sheepshearers; let the king, I beseech you, and his servants go with your servant.
+24 And Absalom came to the king, and said, Behold now, your servant has sheepshearers; let the king, I urge you, and his servants go with your servant.
 
-25 And the king said to Absalom, Nay, my son, let us not all now go, otherwise we be chargeable to you. And he pressed him: howbeit he would not go, but blessed him.
+25 And the king said to Absalom, Nay, my son, let us not all now go, otherwise we be chargeable to you. And he pressed him: however he would not go, but blessed him.
 
 26 Then said Absalom, If not, I pray you, let my brother Amnon go with us. And the king said to him, Why should he go with you?
 
@@ -698,7 +698,7 @@
 
 1 Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom.
 
-2 And Joab sent to Tekoah, and fetched thence a wise woman, and said to her, I pray you, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
+2 And Joab sent to Tekoah, and fetched from there a wise woman, and said to her, I pray you, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
 
 3 And come to the king, and speak on this manner to him. So Joab put the words in her mouth.
 
@@ -706,17 +706,17 @@
 
 5 And the king said to her, What ails you? And she answered, I am indeed a widow woman, and mine husband is dead.
 
-6 And your handmaid had two sons, and they two strove together in the field, and there was none to part them, but the one smote the other, and slew him.
+6 And your handmaid had two sons, and they two strove together in the field, and there was none to part them, but the one struck the other, and slew him.
 
-7 And, behold, the whole family is risen against your handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they will quench my coal which is left, and will not leave to my husband neither name nor remainder upon the earth.
+7 And, behold, the whole family is risen against your handmaid, and they said, Deliver him that struck his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they will quench my coal which is left, and will not leave to my husband neither name nor remainder upon the earth.
 
 8 And the king said to the woman, Go to your house, and I will give charge concerning you.
 
 9 And the woman of Tekoah said to the king, My lord, O king, the iniquity be on me, and on my father's house: and the king and his throne be guiltless.
 
-10 And the king said, Whoever saith ought to you, bring him to me, and he will not touch you any more.
+10 And the king said, Whoever says ought to you, bring him to me, and he will not touch you any more.
 
-11 Then said she, I pray you, let the king remember the Lord your God, that you would not suffer the revengers of blood to destroy any more, otherwise they destroy my son. And he said, As the Lord livs, there will not one hair of your son fall to the earth.
+11 Then said she, I pray you, let the king remember the Lord your God, that you would not suffer the revengers of blood to destroy any more, otherwise they destroy my son. And he said, As the Lord lives, there will not one hair of your son fall to the earth.
 
 12 Then the woman said, Let your handmaid, I pray you, speak one word to my lord the king. And he said, Say on.
 
@@ -732,7 +732,7 @@
 
 18 Then the king answered and said to the woman, Hide not from me, I pray you, the thing that I will ask you. And the woman said, Let my lord the king now speak.
 
-19 And the king said, Is not the hand of Joab with you in all this? And the woman answered and said, As your soul livs, my lord the king, none can turn to the right hand or to the left from ought that my lord the king has spoken: for your servant Joab, he bade me, and he put all these words in the mouth of your handmaid:
+19 And the king said, Is not the hand of Joab with you in all this? And the woman answered and said, As your soul lives, my lord the king, none can turn to the right hand or to the left from ought that my lord the king has spoken: for your servant Joab, he bade me, and he put all these words in the mouth of your handmaid:
 
 20 To fetch about this form of speech has your servant Joab done this thing: and my lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth.
 
@@ -758,7 +758,7 @@
 
 31 Then Joab arose, and came to Absalom to his house, and said to him, therefore have your servants set my field on fire?
 
-32 And Absalom answered Joab, Behold, I sent to you, saying, Come hither, that I may send you to the king, to say, therefore am I come from Geshur? it had been good for me to have been there still: now therefore let me see the king's face; and if there be any iniquity in me, let him kill me.
+32 And Absalom answered Joab, Behold, I sent to you, saying, Come here, that I may send you to the king, to say, therefore am I come from Geshur? it had been good for me to have been there still: now therefore let me see the king's face; and if there be any iniquity in me, let him kill me.
 
 33 So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom.
 
@@ -772,13 +772,13 @@
 
 4 Absalom said moreover, Oh that I were made judge in the land, that every man which has any suit or cause might come to me, and I would do him justice!
 
-5 And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.
+5 And it was so, that when any man came near to him to do him obeisance, he put forth his hand, and took him, and kissed him.
 
 6 And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
 
 7 And it came to pass after forty years, that Absalom said to the king, I pray you, let me go and pay my vow, which I have vowed to the Lord, in Hebron.
 
-8 For your servant vowed a vow while I abode at Geshur in Syria, saying, If the Lord will bring me again indeed to Jerusalem, then I will serve the Lord.
+8 For your servant vowed a vow while I stayed at Geshur in Syria, saying, If the Lord will bring me again indeed to Jerusalem, then I will serve the Lord.
 
 9 And the king said to him, Go in peace. So he arose, and went to Hebron.
 
@@ -802,9 +802,9 @@
 
 19 Then said the king to Ittai the Gittite, therefore go you also with us? return to your place, and abide with the king: for you are a stranger, and also an exile.
 
-20 Whereas you cam but yesterday, should I this day make you go up and down with us? seeing I go whither I may, return you, and take back your brethren: mercy and truth be with you.
+20 Whereas you cam but yesterday, should I this day make you go up and down with us? seeing I go where I may, return you, and take back your brothers: mercy and truth be with you.
 
-21 And Ittai answered the king, and said, As the Lord livs, and as my lord the king livs, surely in what place my lord the king will be, whether in death or life, even there also will your servant be.
+21 And Ittai answered the king, and said, As the Lord lives, and as my lord the king lives, surely in what place my lord the king will be, whether in death or life, even there also will your servant be.
 
 22 And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him.
 
@@ -830,7 +830,7 @@
 
 33 to whom David said, If you pass on with me, then you will be a burden to me:
 
-34 But if you return to the city, and say to Absalom, I will be your servant, O king; as I have been your father's servant hitherto, so will I now also be your servant: then may you for me defeat the counsel of Ahithophel.
+34 But if you return to the city, and say to Absalom, I will be your servant, O king; as I have been your father's servant until now, so will I now also be your servant: then may you for me defeat the counsel of Ahithophel.
 
 35 And have you not there with you Zadok and Abiathar the priests? therefore it will be, that what thing soever you will hear out of the king's house, you will tell it to Zadok and Abiathar the priests.
 
@@ -844,11 +844,11 @@
 
 2 And the king said to Ziba, What mean you by these? And Ziba said, The asses be for the king's household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink.
 
-3 And the king said, And where is your master's son? And Ziba said to the king, Behold, he abids at Jerusalem: for he said, To day will the house of Israel restore me the kingdom of my father.
+3 And the king said, And where is your master's son? And Ziba said to the king, Behold, he abides at Jerusalem: for he said, To day will the house of Israel restore me the kingdom of my father.
 
-4 Then said the king to Ziba, Behold, your are all that pertained to Mephiboshs. And Ziba said, I humbly beseech you that I may find grace in your sight, my lord, O king.
+4 Then said the king to Ziba, Behold, your are all that pertained to Mephiboshs. And Ziba said, I humbly urge you that I may find grace in your sight, my lord, O king.
 
-5 And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
+5 And when king David came to Bahurim, behold, from there came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
 
 6 And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
 
@@ -860,7 +860,7 @@
 
 10 And the king said, What have I to do with you, you sons of Zeruiah? so let him curse, because the Lord has said to him, Curse David. Who will then say, therefore have you done so?
 
-11 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeks my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the Lord has bidden him.
+11 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my heart, seeks my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the Lord has bidden him.
 
 12 It may be that the Lord will look on mine affliction, and that the Lord will requite me good for his cursing this day.
 
@@ -880,7 +880,7 @@
 
 20 Then said Absalom to Ahithophel, Give counsel among you what we will do.
 
-21 And Ahithophel said to Absalom, Go in to your father's concubines, which he has left to keep the house; and all Israel will hear that you are abhorred of your father: then will the hands of all that are with you be strong.
+21 And Ahithophel said to Absalom, Go in to your father's concubines, which he has left to keep the house; and all Israel will hear that you are despised of your father: then will the hands of all that are with you be strong.
 
 22 So they spread Absalom a tent upon the top of the house; and Absalom went in to his father's concubines in the sight of all Israel.
 
@@ -896,7 +896,7 @@
 
 4 And the saying pleased Absalom well, and all the elders of Israel.
 
-5 Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.
+5 Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he says.
 
 6 And when Hushai was come to Absalom, Absalom spake to him, saying, Ahithophel has spoken after this manner: will we do after his saying? if not; speak you.
 
@@ -922,7 +922,7 @@
 
 17 Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
 
-18 Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man's house in Bahurim, which had a well in his court; whither they went down.
+18 Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man's house in Bahurim, which had a well in his court; where they went down.
 
 19 And the woman took and spread a covering over the well's mouth, and spread ground corn thereon; and the thing was not known.
 
@@ -932,7 +932,7 @@
 
 22 Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
 
-23 And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
+23 And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the tomb of his father.
 
 24 Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him.
 
@@ -968,7 +968,7 @@
 
 10 And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak.
 
-11 And Joab said to the man that told him, And, behold, you saw him, and why didst you not smite him there to the ground? and I would have given you ten shekels of silver, and a girdle.
+11 And Joab said to the man that told him, And, behold, you saw him, and why did you not smite him there to the ground? and I would have given you ten shekels of silver, and a belt.
 
 12 And the man said to Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king's son: for in our hearing the king charged you and Abishai and Ittai, saying, Beware that none touch the young man Absalom.
 
@@ -976,7 +976,7 @@
 
 14 Then said Joab, I may not tarry thus with you. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
 
-15 And ten young men that bare Joab's armour compassed about and smote Absalom, and slew him.
+15 And ten young men that bare Joab's armour compassed about and struck Absalom, and slew him.
 
 16 And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.
 
@@ -1000,11 +1000,11 @@
 
 26 And the watchman saw another man running: and the watchman called to the porter, and said, Behold another man running alone. And the king said, He also brings tidings.
 
-27 And the watchman said, Me thinks the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and coms with good tidings.
+27 And the watchman said, Me thinks the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and comes with good tidings.
 
 28 And Ahimaaz called, and said to the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the Lord your God, which has delivered up the men that lifted up their hand against my lord the king.
 
-29 And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king's servant, and me your servant, I saw a great tumult, but I knew not what it was.
+29 And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king's servant, and me your servant, I saw a great uproar, but I knew not what it was.
 
 30 And the king said to him, Turn aside, and stand here. And he turned aside, and stood still.
 
@@ -1038,7 +1038,7 @@
 
 11 And king David sent to Zadok and to Abiathar the priests, saying, Speak to the elders of Judah, saying, Why are you the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house.
 
-12 you are my brethren, you are my bones and my flesh: therefore then are you the last to bring back the king?
+12 you are my brothers, you are my bones and my flesh: therefore then are you the last to bring back the king?
 
 13 And say you to Amasa, are you not of my bone, and of my flesh? God do so to me, and more also, if you be not captain of the host before me continually in the room of Joab.
 
@@ -1052,7 +1052,7 @@
 
 18 And there went over a ferry boat to carry over the king's household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;
 
-19 And said to the king, Let not my lord impute iniquity to me, neither do you remember that which your servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart.
+19 And said to the king, Let not my lord credit iniquity to me, neither do you remember that which your servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart.
 
 20 For your servant does know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king.
 
@@ -1070,11 +1070,11 @@
 
 27 And he has slandered your servant to my lord the king; but my lord the king is as an angel of God: do therefore what is good in your eyes.
 
-28 For all of my father's house were but dead men before my lord the king: yet didst you set your servant among them that did eat at your own table. What right therefore have I yet to cry any more to the king?
+28 For all of my father's house were but dead men before my lord the king: yet did you set your servant among them that did eat at your own table. What right therefore have I yet to cry any more to the king?
 
 29 And the king said to him, Why speak you any more of your matters? I have said, you and Ziba divide the land.
 
-30 And Mephiboshs said to the king, Yea, let him take all, forasmuch as my lord the king is come again in peace to his own house.
+30 And Mephiboshs said to the king, Yea, let him take all, since as my lord the king is come again in peace to his own house.
 
 31 And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.
 
@@ -1086,7 +1086,7 @@
 
 35 I am this day fourscore years old: and can I discern between good and evil? can your servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? therefore then should your servant be yet a burden to my lord the king?
 
-36 your servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?
+36 your servant will go a little way over Jordan with the king: and why should the king repay it me with such a reward?
 
 37 Let your servant, I pray you, turn back again, that I may die in mine own city, and be buried by the grave of my father and of my mother. But behold your servant Chimham; let him go over with my lord the king; and do to him what will seem good to you.
 
@@ -1096,7 +1096,7 @@
 
 40 Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah conducted the king, and also half the people of Israel.
 
-41 And, behold, all the men of Israel came to the king, and said to the king, Why have our brethren the men of Judah stolen you away, and have brought the king, and his household, and all David's men with him, over Jordan?
+41 And, behold, all the men of Israel came to the king, and said to the king, Why have our brothers the men of Judah stolen you away, and have brought the king, and his household, and all David's men with him, over Jordan?
 
 42 And all the men of Judah answered the men of Israel, Because the king is near of kin to us: therefore then be you angry for this matter? have we eaten at all of the king's cost? or has he given us any gift?
 
@@ -1118,11 +1118,11 @@
 
 7 And there went out after him Joab's men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.
 
-8 When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded to him, and upon it a girdle with a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out.
+8 When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded to him, and upon it a belt with a sword fastened upon his loins in the sheath of it; and as he went forth it fell out.
 
 9 And Joab said to Amasa, are you in health, my brother? And Joab took Amasa by the beard with the right hand to kiss him.
 
-10 But Amasa took no heed to the sword that was in Joab's hand: so he smote him therewith in the fifth rib, and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
+10 But Amasa took no heed to the sword that was in Joab's hand: so he struck him with it in the fifth rib, and shed out his insides to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
 
 11 And one of Joab's men stood by him, and said, He that favours Joab, and he that is for David, let him go after Joab.
 
@@ -1134,7 +1134,7 @@
 
 15 And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that were with Joab battered the wall, to throw it down.
 
-16 Then cried a wise woman out of the city, Hear, hear; say, I pray you, to Joab, Come near hither, that I may speak with you.
+16 Then cried a wise woman out of the city, Hear, hear; say, I pray you, to Joab, Come near here, that I may speak with you.
 
 17 And when he was come near to her, the woman said, are you Joab? And he answered, I am he. Then she said to him, Hear the words of your handmaid. And he answered, I do hear.
 
@@ -1162,7 +1162,7 @@
 
 2 And the king called the Gibeonites, and said to them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn to them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)
 
-3 therefore David said to the Gibeonites, What will I do for you? and wherewith will I make the atonement, that you may bless the inheritance of the Lord?
+3 therefore David said to the Gibeonites, What will I do for you? and with what will I make the atonement, that you may bless the inheritance of the Lord?
 
 4 And the Gibeonites said to him, We will have no silver nor gold of Saul, nor of his house; neither for us will you kill any man in Israel. And he said, What you will say, that will I do for you.
 
@@ -1182,15 +1182,15 @@
 
 12 And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabeshgilead, which had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa:
 
-13 And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
+13 And he brought up from from there the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 
-14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
+14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the tomb of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
 
-15 Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.
+15 Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David grew faint.
 
 16 And Ishbibenob, which was of the sons of the giant, the weight of whose spear weighed three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David.
 
-17 But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware to him, saying, you will go no more out with us to battle, that you quench not the light of Israel.
+17 But Abishai the son of Zeruiah succoured him, and struck the Philistine, and killed him. Then the men of David sware to him, saying, you will go no more out with us to battle, that you quench not the light of Israel.
 
 18 And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sons of the giant.
 
@@ -1218,7 +1218,7 @@
 
 7 In my distress I called upon the Lord, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.
 
-8 Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth.
+8 Then the earth shook and trembled; the foundations of heaven moved and shook, because he was furious.
 
 9 There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
 
@@ -1256,7 +1256,7 @@
 
 26 With the merciful you will shew thyself merciful, and with the upright man you will shew thyself upright.
 
-27 With the pure you will shew thyself pure; and with the froward you will shew thyself unsavoury.
+27 With the pure you will shew thyself pure; and with the stubborn you will shew thyself unsavoury.
 
 28 And the afflicted people you will save: but your eyes are upon the haughty, that you may bring them down.
 
@@ -1268,9 +1268,9 @@
 
 32 For who is God, save the Lord? and who is a rock, save our God?
 
-33 God is my strength and power: and he maks my way perfect.
+33 God is my strength and power: and he makes my way perfect.
 
-34 He maks my feet like hinds' feet: and setts me upon my high places.
+34 He makes my feet like hinds' feet: and setts me upon my high places.
 
 35 He teachs my hands to war; so that a bow of steel is broken by mine arms.
 
@@ -1296,7 +1296,7 @@
 
 46 Strangers will fade away, and they will be afraid out of their close places.
 
-47 The Lord livs; and blessed be my rock; and exalted be the God of the rock of my salvation.
+47 The Lord lives; and blessed be my rock; and exalted be the God of the rock of my salvation.
 
 48 It is God that avengs me, and that brings down the people under me.
 
@@ -1312,7 +1312,7 @@
 
 2 The Spirit of the Lord spake by me, and his word was in my tongue.
 
-3 The God of Israel said, the Rock of Israel spake to me, He that ruls over men must be just, ruling in the fear of God.
+3 The God of Israel said, the Rock of Israel spake to me, He that rules over men must be just, ruling in the fear of God.
 
 4 And he will be as the light of the morning, when the sun riss, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain.
 
@@ -1326,7 +1326,7 @@
 
 9 And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
 
-10 He arose, and smote the Philistines until his hand was weary, and his hand clave to the sword: and the Lord wrought a great victory that day; and the people returned after him only to spoil.
+10 He arose, and struck the Philistines until his hand was weary, and his hand clave to the sword: and the Lord wrought a great victory that day; and the people returned after him only to spoil.
 
 11 And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.
 
@@ -1338,13 +1338,13 @@
 
 15 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!
 
-16 And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out to the Lord.
+16 And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink of it, but poured it out to the Lord.
 
 17 And he said, Be it far from me, O Lord, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.
 
 18 And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
 
-19 Was he not most honourable of three? therefore he was their captain: howbeit he attained not to the first three.
+19 Was he not most honourable of three? therefore he was their captain: however he attained not to the first three.
 
 20 And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
 
@@ -1394,7 +1394,7 @@
 
 3 And Joab said to the king, Now the Lord your God add to the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why does my lord the king delight in this thing?
 
-4 Notwithstanding the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.
+4 Nevertheless the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.
 
 5 And they passed over Jordan, and pitched in Aroer, on the right side of the city that lis in the midst of the river of Gad, and toward Jazer:
 
@@ -1406,11 +1406,11 @@
 
 9 And Joab gave up the sum of the number of the people to the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men.
 
-10 And David's heart smote him after that he had numbered the people. And David said to the Lord, I have sinned greatly in that I have done: and now, I beseech you, O Lord, take away the iniquity of your servant; for I have done very foolishly.
+10 And David's heart struck him after that he had numbered the people. And David said to the Lord, I have sinned greatly in that I have done: and now, I urge you, O Lord, take away the iniquity of your servant; for I have done very foolishly.
 
 11 For when David was up in the morning, the word of the Lord came to the prophet Gad, David's seer, saying,
 
-12 Go and say to David, Thus saith the Lord, I offer you three things; choose you one of them, that I may do it to you.
+12 Go and say to David, Thus says the Lord, I offer you three things; choose you one of them, that I may do it to you.
 
 13 So Gad came to David, and told him, and said to him, will seven years of famine come to you in your land? or will you flee three months before your enemies, while they pursue you? or that there be three days' pestilence in your land? now advise, and see what answer I will return to him that sent me.
 
@@ -1420,7 +1420,7 @@
 
 16 And when the angel stretched out his hand upon Jerusalem to destroy it, the Lord repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now your hand. And the angel of the Lord was by the threshingplace of Araunah the Jebusite.
 
-17 And David spake to the Lord when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let your hand, I pray you, be against me, and against my father's house.
+17 And David spake to the Lord when he saw the angel that struck the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let your hand, I pray you, be against me, and against my father's house.
 
 18 And Gad came that day to David, and said to him, Go up, rear an altar to the Lord in the threshingfloor of Araunah the Jebusite.
 

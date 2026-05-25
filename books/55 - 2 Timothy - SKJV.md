@@ -50,13 +50,13 @@
 
 5 And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
 
-6 The husbandman that labours must be first partaker of the fruits.
+6 The farmer that labours must be first partaker of the fruits.
 
 7 Consider what I say; and the Lord give you understanding in all things.
 
 8 Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
 
-9 Wherein I suffer trouble, as an evil doer, even to bonds; but the word of God is not bound.
+9 In which I suffer trouble, as an evil doer, even to bonds; but the word of God is not bound.
 
 10 Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.
 
@@ -64,7 +64,7 @@
 
 12 If we suffer, we will also reign with him: if we deny him, he also will deny us:
 
-13 If we believe not, yet he abids faithful: he cannot deny himself.
+13 If we believe not, yet he abides faithful: he cannot deny himself.
 
 14 Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
 
@@ -88,7 +88,7 @@
 
 24 And the servant of the Lord must not strive; but be gentle to all men, apt to teach, patient,
 
-25 In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
+25 In meekness instructing those that oppose themselves; if God perhaps will give them repentance to the acknowledging of the truth;
 
 26 And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
@@ -102,9 +102,9 @@
 
 4 Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
-5 Having a form of godliness, but denying the power thereof: from such turn away.
+5 Having a form of godliness, but denying the power of it: from such turn away.
 
-6 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
+6 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with various lusts,
 
 7 Ever learning, and never able to come to the knowledge of the truth.
 
@@ -132,7 +132,7 @@
 
 1 I charge you therefore before God, and the Lord Jesus Christ, who will judge the quick and the dead at his appearing and his kingdom;
 
-2 Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.
+2 Preach the word; be instant in season, out of season; correct, rebuke, encourage with all long suffering and doctrine.
 
 3 For the time will come when they will not endure sound doctrine; but after their own lusts will they heap to themselves teachers, having itching ears;
 
@@ -144,7 +144,7 @@
 
 7 I have fought a good fight, I have finished my course, I have kept the faith:
 
-8 Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, will give me at that day: and not to me only, but to all them also that love his appearing.
+8 From now on there is laid up for me a crown of righteousness, which the Lord, the righteous judge, will give me at that day: and not to me only, but to all them also that love his appearing.
 
 9 Do your diligence to come shortly to me:
 
@@ -162,15 +162,15 @@
 
 16 At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
 
-17 Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
+17 Nevertheless the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 
 18 And the Lord will deliver me from every evil work, and will preserve me to his heavenly kingdom: to whom be glory for ever and ever. Amen.
 
-19 Salute Prisca and Aquila, and the household of Onesiphorus.
+19 Greet Prisca and Aquila, and the household of Onesiphorus.
 
-20 Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
+20 Erastus stayed at Corinth: but Trophimus have I left at Miletum sick.
 
-21 Do your diligence to come before winter. Eubulus greets you, and Pudens, and Linus, and Claudia, and all the brethren.
+21 Do your diligence to come before winter. Eubulus greets you, and Pudens, and Linus, and Claudia, and all the brothers.
 
 22 The Lord Jesus Christ be with your spirit. Grace be with you. Amen.
 

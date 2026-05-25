@@ -8,7 +8,7 @@
 
 3 Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 
-4 Knowing, brethren beloved, your election of God.
+4 Knowing, brothers beloved, your election of God.
 
 5 For our gospel came not to you in word only, but also in power, and in the Holy Spirit, and in much assurance; as you know what manner of men we were among you for your sake.
 
@@ -24,11 +24,11 @@
 
 ## 1 Thessalonians Chapter 2
 
-1 For yourselves, brethren, know our entrance in to you, that it was not in vain:
+1 For yourselves, brothers, know our entrance in to you, that it was not in vain:
 
 2 But even after that we had suffered before, and were shamefully entreated, as you know, at Philippi, we were bold in our God to speak to you the gospel of God with much contention.
 
-3 For our exhortation was not of deceit, nor of uncleanness, nor in guile:
+3 For our encouragement was not of deceit, nor of uncleanness, nor in guile:
 
 4 But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tris our hearts.
 
@@ -40,23 +40,23 @@
 
 8 So being affectionately desirous of you, we were willing to have imparted to you, not the gospel of God only, but also our own souls, because you were dear to us.
 
-9 For you remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable to any of you, we preached to you the gospel of God.
+9 For you remember, brothers, our labour and travail: for labouring night and day, because we would not be chargeable to any of you, we preached to you the gospel of God.
 
 10 you are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:
 
-11 As you know how we exhorted and comforted and charged every one of you, as a father does his children,
+11 As you know how we encouraged and comforted and charged every one of you, as a father does his children,
 
 12 That you would walk worthy of God, who has called you to his kingdom and glory.
 
 13 For this cause also thank we God without ceasing, because, when you received the word of God which you heard of us, you received it not as the word of men, but as it is in truth, the word of God, which effectually works also in you that believe.
 
-14 For you, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for you also have suffered like things of your own countrymen, even as they have of the Jews:
+14 For you, brothers, became followers of the churches of God which in Judaea are in Christ Jesus: for you also have suffered like things of your own countrymen, even as they have of the Jews:
 
 15 Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:
 
 16 Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.
 
-17 But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.
+17 But we, brothers, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.
 
 18 therefore we would have come to you, even I Paul, once and again; but Satan hindered us.
 
@@ -68,21 +68,21 @@
 
 1 therefore when we could no longer forbear, we thought it good to be left at Athens alone;
 
-2 And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:
+2 And sent Timotheus, our brother, and minister of God, and our co-worker in the gospel of Christ, to establish you, and to comfort you concerning your faith:
 
 3 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
 
-4 For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and you know.
+4 For truly, when we were with you, we told you before that we should suffer suffering; even as it came to pass, and you know.
 
 5 For this cause, when I could no longer forbear, I sent to know your faith, otherwise by some means the tempter have tempted you, and our labour be in vain.
 
 6 But now when Timotheus came from you to us, and brought us good tidings of your faith and love, and that you have good remembrance of us always, desiring greatly to see us, as we also to see you:
 
-7 Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:
+7 Therefore, brothers, we were comforted over you in all our affliction and distress by your faith:
 
 8 For now we live, if you stand fast in the Lord.
 
-9 For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;
+9 For what thanks can we render to God again for you, for all the joy with what we joy for your sakes before our God;
 
 10 Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
 
@@ -94,7 +94,7 @@
 
 ## 1 Thessalonians Chapter 4
 
-1 Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as you have received of us how you ought to walk and to please God, so you would abound more and more.
+1 Furthermore then we urge you, brothers, and encourage you by the Lord Jesus, that as you have received of us how you ought to walk and to please God, so you would abound more and more.
 
 2 For you know what commandments we gave you by the Lord Jesus.
 
@@ -102,7 +102,7 @@
 
 4 That every one of you should know how to possess his vessel in sanctification and honour;
 
-5 Not in the lust of concupiscence, even as the Gentiles which know not God:
+5 Not in the lust of sinful desire, even as the Gentiles which know not God:
 
 6 That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.
 
@@ -112,13 +112,13 @@
 
 9 But as touching brotherly love you need not that I write to you: for you yourselves are taught of God to love one another.
 
-10 And indeed you do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that you increase more and more;
+10 And indeed you do it toward all the brothers which are in all Macedonia: but we urge you, brothers, that you increase more and more;
 
 11 And that you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 
 12 That you may walk honestly toward them that are without, and that you may have lack of nothing.
 
-13 But I would not have you to be ignorant, brethren, concerning them which are asleep, that you sorrow not, even as others which have no hope.
+13 But I would not have you to be ignorant, brothers, concerning them which are asleep, that you sorrow not, even as others which have no hope.
 
 14 For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
 
@@ -132,13 +132,13 @@
 
 ## 1 Thessalonians Chapter 5
 
-1 But of the times and the seasons, brethren, you have no need that I write to you.
+1 But of the times and the seasons, brothers, you have no need that I write to you.
 
-2 For yourselves know perfectly that the day of the Lord so coms as a thief in the night.
+2 For yourselves know perfectly that the day of the Lord so comes as a thief in the night.
 
-3 For when they will say, Peace and safety; then sudden destruction coms upon them, as travail upon a woman with child; and they will not escape.
+3 For when they will say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they will not escape.
 
-4 But you, brethren, are not in darkness, that that day should overtake you as a thief.
+4 But you, brothers, are not in darkness, that that day should overtake you as a thief.
 
 5 you are all the children of light, and the children of the day: we are not of the night, nor of darkness.
 
@@ -154,11 +154,11 @@
 
 11 therefore comfort yourselves together, and edify one another, even as also you do.
 
-12 And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
+12 And we urge you, brothers, to know them which labour among you, and are over you in the Lord, and admonish you;
 
 13 And to esteem them very highly in love for their work's sake. And be at peace among yourselves.
 
-14 Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.
+14 Now we encourage you, brothers, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.
 
 15 See that none render evil for evil to any man; but ever follow that which is good, both among yourselves, and to all men.
 
@@ -180,11 +180,11 @@
 
 24 Faithful is he that calls you, who also will do it.
 
-25 Brethren, pray for us.
+25 Brothers, pray for us.
 
-26 Greet all the brethren with an holy kiss.
+26 Greet all the brothers with an holy kiss.
 
-27 I charge you by the Lord that this epistle be read to all the holy brethren.
+27 I charge you by the Lord that this epistle be read to all the holy brothers.
 
 28 The grace of our Lord Jesus Christ be with you. Amen.
 

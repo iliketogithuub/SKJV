@@ -10,7 +10,7 @@
 
 4 Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and whom they might teach the learning and the tongue of the Chaldeans.
 
-5 And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
+5 And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end of it they might stand before the king.
 
 6 Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 
@@ -24,7 +24,7 @@
 
 11 Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 
-12 Prove your servants, I beseech you, ten days; and let them give us pulse to eat, and water to drink.
+12 Prove your servants, I urge you, ten days; and let them give us pulse to eat, and water to drink.
 
 13 Then let our countenances be looked upon before you, and the countenance of the children that eat of the portion of the king's meat: and as you se, deal with your servants.
 
@@ -46,7 +46,7 @@
 
 ## Daniel Chapter 2
 
-1 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
+1 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, with what his spirit was troubled, and his sleep brake from him.
 
 2 Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
 
@@ -54,19 +54,19 @@
 
 4 Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell your servants the dream, and we will shew the interpretation.
 
-5 The king answered and said to the Chaldeans, The thing is gone from me: if you will not make known to me the dream, with the interpretation thereof, you will be cut in pieces, and your houses will be made a dunghill.
+5 The king answered and said to the Chaldeans, The thing is gone from me: if you will not make known to me the dream, with the interpretation of it, you will be cut in pieces, and your houses will be made a dunghill.
 
-6 But if you shew the dream, and the interpretation thereof, you will receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
+6 But if you shew the dream, and the interpretation of it, you will receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation of it.
 
 7 They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
 
 8 The king answered and said, I know of certainty that you would gain the time, because you see the thing is gone from me.
 
-9 But if you will not make known to me the dream, there is but one decree for you: for you have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I will know that you can shew me the interpretation thereof.
+9 But if you will not make known to me the dream, there is but one decree for you: for you have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I will know that you can shew me the interpretation of it.
 
 10 The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king's matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean.
 
-11 And it is a rare thing that the king requirs, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
+11 And it is a rare thing that the king requires, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
 
 12 For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
 
@@ -86,7 +86,7 @@
 
 20 Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
 
-21 And he changs the times and the seasons: he removs kings, and setts up kings: he givs wisdom to the wise, and knowledge to them that know understanding:
+21 And he changes the times and the seasons: he removes kings, and setts up kings: he gives wisdom to the wise, and knowledge to them that know understanding:
 
 22 He reveals the deep and secret things: he knows what is in the darkness, and the light dwells with him.
 
@@ -96,27 +96,27 @@
 
 25 Then Arioch brought in Daniel before the king in haste, and said thus to him, I have found a man of the captives of Judah, that will make known to the king the interpretation.
 
-26 The king answered and said to Daniel, whose name was Belteshazzar, are you able to make known to me the dream which I have seen, and the interpretation thereof?
+26 The king answered and said to Daniel, whose name was Belteshazzar, are you able to make known to me the dream which I have seen, and the interpretation of it?
 
-27 Daniel answered in the presence of the king, and said, The secret which the king has demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew to the king;
+27 Daniel answered in the presence of the king, and said, The secret which the king has demanded cannot the wise men, the astrologers, the magicians, the fortune-tellers, shew to the king;
 
-28 But there is a God in heaven that reveals secrets, and maks known to the king Nebuchadnezzar what will be in the latter days. your dream, and the visions of your head upon your bed, are these;
+28 But there is a God in heaven that reveals secrets, and makes known to the king Nebuchadnezzar what will be in the latter days. your dream, and the visions of your head upon your bed, are these;
 
-29 As for you, O king, your thoughts came into your mind upon your bed, what should come to pass hereafter: and he that reveals secrets maks known to you what will come to pass.
+29 As for you, O king, your thoughts came into your mind upon your bed, what should come to pass from now on: and he that reveals secrets makes known to you what will come to pass.
 
 30 But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that will make known the interpretation to the king, and that you might know the thoughts of your heart.
 
-31 you, O king, saw, and behold a great image. This great image, whose brightness was excellent, stood before you; and the form thereof was terrible.
+31 you, O king, saw, and behold a great image. This great image, whose brightness was excellent, stood before you; and the form of it was terrible.
 
 32 This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
 
 33 His legs of iron, his feet part of iron and part of clay.
 
-34 you saw till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
+34 you saw till that a stone was cut out without hands, which struck the image upon his feet that were of iron and clay, and brake them to pieces.
 
-35 Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
+35 Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that struck the image became a great mountain, and filled the whole earth.
 
-36 This is the dream; and we will tell the interpretation thereof before the king.
+36 This is the dream; and we will tell the interpretation of it before the king.
 
 37 you, O king, are a king of kings: for the God of heaven has given you a kingdom, power, and strength, and glory.
 
@@ -124,9 +124,9 @@
 
 39 And after you will arise another kingdom inferior to you, and another third kingdom of brass, which will bear rule over all the earth.
 
-40 And the fourth kingdom will be strong as iron: forasmuch as iron breaks in pieces and subdus all things: and as iron that breaks all these, will it break in pieces and bruise.
+40 And the fourth kingdom will be strong as iron: since as iron breaks in pieces and subdus all things: and as iron that breaks all these, will it break in pieces and bruise.
 
-41 And whereas you saw the feet and toes, part of potters' clay, and part of iron, the kingdom will be divided; but there will be in it of the strength of the iron, forasmuch as you saw the iron mixed with miry clay.
+41 And whereas you saw the feet and toes, part of potters' clay, and part of iron, the kingdom will be divided; but there will be in it of the strength of the iron, since as you saw the iron mixed with miry clay.
 
 42 And as the toes of the feet were part of iron, and part of clay, so the kingdom will be partly strong, and partly broken.
 
@@ -134,7 +134,7 @@
 
 44 And in the days of these kings will the God of heaven set up a kingdom, which will never be destroyed: and the kingdom will not be left to other people, but it will break in pieces and consume all these kingdoms, and it will stand for ever.
 
-45 Forasmuch as you saw that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God has made known to the king what will come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
+45 Since as you saw that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God has made known to the king what will come to pass from now on: and the dream is certain, and the interpretation of it sure.
 
 46 Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours to him.
 
@@ -146,7 +146,7 @@
 
 ## Daniel Chapter 3
 
-1 Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
+1 Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth of it six cubits: he set it up in the plain of Dura, in the province of Babylon.
 
 2 Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.
 
@@ -182,11 +182,11 @@
 
 18 But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.
 
-19 Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
+19 Then was Nebuchadnezzar full of fury, and the form of his face was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
 
 20 And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abednego, and to cast them into the burning fiery furnace.
 
-21 Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.
+21 Then these men were bound in their coats, their hosen, and their hates, and their other garments, and were cast into the midst of the burning fiery furnace.
 
 22 Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flames of the fire slew those men that took up Shadrach, Meshach, and Abednego.
 
@@ -196,7 +196,7 @@
 
 25 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
 
-26 Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, you servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
+26 Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, you servants of the most high God, come forth, and come here. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
 
 27 And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 
@@ -220,17 +220,17 @@
 
 6 Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream.
 
-7 Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known to me the interpretation thereof.
+7 Then came in the magicians, the astrologers, the Chaldeans, and the fortune-tellers: and I told the dream before them; but they did not make known to me the interpretation of it.
 
 8 But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my God, and in whom is the spirit of the holy gods: and before him I told the dream, saying,
 
-9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubls you, tell me the visions of my dream that I have seen, and the interpretation thereof.
+9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubls you, tell me the visions of my dream that I have seen, and the interpretation of it.
 
-10 Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof was great.
+10 Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height of it was great.
 
-11 The tree grew, and was strong, and the height thereof reached to heaven, and the sight thereof to the end of all the earth:
+11 The tree grew, and was strong, and the height of it reached to heaven, and the sight of it to the end of all the earth:
 
-12 The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.
+12 The leaves of it were fair, and the fruit of it much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs of it, and all flesh was fed of it.
 
 13 I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;
 
@@ -240,23 +240,23 @@
 
 16 Let his heart be changed from man's, and let a beast's heart be given to him; and let seven times pass over him.
 
-17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruls in the kingdom of men, and givs it to whomsoever he will, and setts up over it the bas of men.
+17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and setts up over it the bas of men.
 
-18 This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known to me the interpretation: but you are able; for the spirit of the holy gods is in you.
+18 This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation of it, since as all the wise men of my kingdom are not able to make known to me the interpretation: but you are able; for the spirit of the holy gods is in you.
 
-19 Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble you. Belteshazzar answered and said, My lord, the dream be to them that hate you, and the interpretation thereof to your enemies.
+19 Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation of it, trouble you. Belteshazzar answered and said, My lord, the dream be to them that hate you, and the interpretation of it to your enemies.
 
-20 The tree that you saw, which grew, and was strong, whose height reached to the heaven, and the sight thereof to all the earth;
+20 The tree that you saw, which grew, and was strong, whose height reached to the heaven, and the sight of it to all the earth;
 
-21 Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:
+21 Whose leaves were fair, and the fruit of it much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:
 
 22 It is you, O king, that are grown and become strong: for your greatness is grown, and reachs to heaven, and your dominion to the end of the earth.
 
-23 And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;
+23 And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots of it in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;
 
 24 This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:
 
-25 That they will drive you from men, and your dwelling will be with the beasts of the field, and they will make you to eat grass as oxen, and they will wet you with the dew of heaven, and seven times will pass over you, till you know that the most High ruls in the kingdom of men, and givs it to whomsoever he will.
+25 That they will drive you from men, and your dwelling will be with the beasts of the field, and they will make you to eat grass as oxen, and they will wet you with the dew of heaven, and seven times will pass over you, till you know that the most High rules in the kingdom of men, and gives it to whomsoever he will.
 
 26 And whereas they commanded to leave the stump of the tree roots; your kingdom will be sure to you, after that you will have known that the heavens do rule.
 
@@ -270,13 +270,13 @@
 
 31 While the word was in the king's mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to you it is spoken; The kingdom is departed from you.
 
-32 And they will drive you from men, and your dwelling will be with the beasts of the field: they will make you to eat grass as oxen, and seven times will pass over you, until you know that the most High ruls in the kingdom of men, and givs it to whomsoever he will.
+32 And they will drive you from men, and your dwelling will be with the beasts of the field: they will make you to eat grass as oxen, and seven times will pass over you, until you know that the most High rules in the kingdom of men, and gives it to whomsoever he will.
 
 33 The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles' feathers, and his nails like birds' claws.
 
-34 And at the end of the days I Nebuchadnezzar lifted up mine eyes to heaven, and mine understanding returned to me, and I blessed the most High, and I praised and honoured him that livs for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:
+34 And at the end of the days I Nebuchadnezzar lifted up mine eyes to heaven, and mine understanding returned to me, and I blessed the most High, and I praised and honoured him that lives for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:
 
-35 And all the inhabitants of the earth are reputed as nothing: and he dos according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say to him, What do you?
+35 And all the inhabitants of the earth are reputed as nothing: and he does according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say to him, What do you?
 
 36 At the same time my reason returned to me; and for the glory of my kingdom, mine honour and brightness returned to me; and my counsellors and my lords sought to me; and I was established in my kingdom, and excellent majesty was added to me.
 
@@ -286,7 +286,7 @@
 
 1 Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 
-2 Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
+2 Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink in it.
 
 3 Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
 
@@ -294,27 +294,27 @@
 
 5 In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.
 
-6 Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
+6 Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees struck one against another.
 
-7 The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever will read this writing, and shew me the interpretation thereof, will be clothed with scarlet, and have a chain of gold about his neck, and will be the third ruler in the kingdom.
+7 The king cried aloud to bring in the astrologers, the Chaldeans, and the fortune-tellers. And the king spake, and said to the wise men of Babylon, Whosoever will read this writing, and shew me the interpretation of it, will be clothed with scarlet, and have a chain of gold about his neck, and will be the third ruler in the kingdom.
 
-8 Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation thereof.
+8 Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation of it.
 
 9 Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.
 
 10 Now the queen by reason of the words of the king and his lords came into the banquet house: and the queen spake and said, O king, live for ever: let not your thoughts trouble you, nor let your countenance be changed:
 
-11 There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and soothsayers;
+11 There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and fortune-tellers;
 
-12 Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
+12 Since as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
 
 13 Then was Daniel brought in before the king. And the king spake and said to Daniel, are you that Daniel, which are of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 
 14 I have even heard of you, that the spirit of the gods is in you, and that light and understanding and excellent wisdom is found in you.
 
-15 And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known to me the interpretation thereof: but they could not shew the interpretation of the thing:
+15 And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known to me the interpretation of it: but they could not shew the interpretation of the thing:
 
-16 And I have heard of you, that you canst make interpretations, and dissolve doubts: now if you canst read the writing, and make known to me the interpretation thereof, you will be clothed with scarlet, and have a chain of gold about your neck, and will be the third ruler in the kingdom.
+16 And I have heard of you, that you can make interpretations, and dissolve doubts: now if you can read the writing, and make known to me the interpretation of it, you will be clothed with scarlet, and have a chain of gold about your neck, and will be the third ruler in the kingdom.
 
 17 Then Daniel answered and said before the king, Let your gifts be to thyself, and give your rewards to another; yet I will read the writing to the king, and make known to him the interpretation.
 
@@ -354,7 +354,7 @@
 
 3 Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him; and the king thought to set him over the whole realm.
 
-4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
+4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; since as he was faithful, neither was there any error or fault found in him.
 
 5 Then said these men, We will not find any occasion against this Daniel, except we find it against him concerning the law of his God.
 
@@ -368,11 +368,11 @@
 
 10 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 
-11 Then these men assembled, and found Daniel praying and making supplication before his God.
+11 Then these men assembled, and found Daniel praying and making prayer before his God.
 
 12 Then they came near, and spake before the king concerning the king's decree; have you not signed a decree, that every man that will ask a petition of any God or man within thirty days, save of you, O king, will be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which alters not.
 
-13 Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regards not you, O king, nor the decree that you have signed, but maks his petition three times a day.
+13 Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regards not you, O king, nor the decree that you have signed, but makes his petition three times a day.
 
 14 Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.
 
@@ -390,7 +390,7 @@
 
 21 Then said Daniel to the king, O king, live for ever.
 
-22 My God has sent his angel, and has shut the lions' mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before you, O king, have I done no hurt.
+22 My God has sent his angel, and has shut the lions' mouths, that they have not hurt me: since as before him innocency was found in me; and also before you, O king, have I done no hurt.
 
 23 Then was the king exceedingly glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
 
@@ -412,7 +412,7 @@
 
 3 And four great beasts came up from the sea, diverse one from another.
 
-4 The first was like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
+4 The first was like a lion, and had eagle's wings: I beheld till the wings of it were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
 
 5 And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the tes of it: and they said thus to it, Arise, devour much flesh.
 
@@ -460,7 +460,7 @@
 
 27 And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, will be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions will serve and obey him.
 
-28 Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
+28 Until now is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
 ## Daniel Chapter 8
 
@@ -476,19 +476,19 @@
 
 6 And he came to the ram that had two horns, which I had seen standing before the river, and ran to him in the fury of his power.
 
-7 And I saw him come close to the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
+7 And I saw him come close to the ram, and he was moved with choler against him, and struck the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
 
-8 Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.
+8 Therefore the he goat grew very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.
 
-9 And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land.
+9 And out of one of them came forth a little horn, which grew exceeding great, toward the south, and toward the east, and toward the pleasant land.
 
-10 And it waxed great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them.
+10 And it grew great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them.
 
 11 Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of the sanctuary was cast down.
 
-12 And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.
+12 And an host was given him against the daily sacrifice by reason of sin, and it cast down the truth to the ground; and it practised, and prospered.
 
-13 Then I heard one saint speaking, and another saint said to that certain saint which spake, How long will be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?
+13 Then I heard one saint speaking, and another saint said to that certain saint which spake, How long will be the vision concerning the daily sacrifice, and the sin of desolation, to give both the sanctuary and the host to be trodden under foot?
 
 14 And he said to me, to two thousand and three hundred days; then will the sanctuary be cleansed.
 
@@ -508,7 +508,7 @@
 
 22 Now that being broken, whereas four stood up for it, four kingdoms will stand up out of the nation, but not in his power.
 
-23 And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, will stand up.
+23 And in the latter time of their kingdom, when the sinners are come to the full, a king of fierce countenance, and understanding dark sentences, will stand up.
 
 24 And his power will be mighty, but not by his own power: and he will destroy wonderfully, and will prosper, and practise, and will destroy the mighty and the holy people.
 
@@ -524,15 +524,15 @@
 
 2 In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 
-3 And I set my face to the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
+3 And I set my face to the Lord God, to seek by prayer and prayers, with fasting, and sackcloth, and ashes:
 
 4 And I prayed to the Lord my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;
 
 5 We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from your precepts and from your judgments:
 
-6 Neither have we hearkened to your servants the prophets, which spake in your name to our kings, our princes, and our fathers, and to all the people of the land.
+6 Neither have we listened to your servants the prophets, which spake in your name to our kings, our princes, and our fathers, and to all the people of the land.
 
-7 O Lord, righteousness belongs to you, but to us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, that are near, and that are far off, through all the countries whither you have driven them, because of their trespass that they have trespassed against you.
+7 O Lord, righteousness belongs to you, but to us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, that are near, and that are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you.
 
 8 O Lord, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.
 
@@ -540,37 +540,37 @@
 
 10 Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets.
 
-11 Yea, all Israel have transgressed your law, even by departing, that they might not obey your voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
+11 Yea, all Israel have sinned your law, even by departing, that they might not obey your voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 
 12 And he has confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven has not been done as has been done upon Jerusalem.
 
 13 As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the Lord our God, that we might turn from our iniquities, and understand your truth.
 
-14 Therefore has the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he dos: for we obeyed not his voice.
+14 Therefore has the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he does: for we obeyed not his voice.
 
 15 And now, O Lord our God, that have brought your people forth out of the land of Egypt with a mighty hand, and have gotten you renown, as at this day; we have sinned, we have done wickedly.
 
-16 O Lord, according to all your righteousness, I beseech you, let your anger and your fury be turned away from your city Jerusalem, your holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and your people are become a reproach to all that are about us.
+16 O Lord, according to all your righteousness, I urge you, let your anger and your fury be turned away from your city Jerusalem, your holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and your people are become a reproach to all that are about us.
 
-17 Now therefore, O our God, hear the prayer of your servant, and his supplications, and cause your face to shine upon your sanctuary that is desolate, for the Lord's sake.
+17 Now therefore, O our God, hear the prayer of your servant, and his prayers, and cause your face to shine upon your sanctuary that is desolate, for the Lord's sake.
 
-18 O my God, incline your ear, and hear; open your eyes, and behold our desolations, and the city which is called by your name: for we do not present our supplications before you for our righteousnesses, but for your great mercies.
+18 O my God, incline your ear, and hear; open your eyes, and behold our desolations, and the city which is called by your name: for we do not present our prayers before you for our righteousnesses, but for your great mercies.
 
-19 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for your own sake, O my God: for your city and your people are called by your name.
+19 O Lord, hear; O Lord, forgive; O Lord, listen and do; defer not, for your own sake, O my God: for your city and your people are called by your name.
 
-20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God;
+20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my prayer before the Lord my God for the holy mountain of my God;
 
 21 Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.
 
 22 And he informed me, and talked with me, and said, O Daniel, I am now come forth to give you skill and understanding.
 
-23 At the beginning of your supplications the commandment came forth, and I am come to shew you; for you are greatly beloved: therefore understand the matter, and consider the vision.
+23 At the beginning of your prayers the commandment came forth, and I am come to shew you; for you are greatly beloved: therefore understand the matter, and consider the vision.
 
-24 Seventy weeks are determined upon your people and upon your holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
+24 Seventy weeks are determined upon your people and upon your holy city, to finish the sin, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
 
 25 Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem to the Messiah the Prince will be seven weeks, and threescore and two weeks: the street will be built again, and the wall, even in troublous times.
 
-26 And after threescore and two weeks will Messiah be cut off, but not for himself: and the people of the prince that will come will destroy the city and the sanctuary; and the end thereof will be with a flood, and to the end of the war desolations are determined.
+26 And after threescore and two weeks will Messiah be cut off, but not for himself: and the people of the prince that will come will destroy the city and the sanctuary; and the end of it will be with a flood, and to the end of the war desolations are determined.
 
 27 And he will confirm the covenant with many for one week: and in the midst of the week he will cause the sacrifice and the oblation to cease, and for the overspreading of abominations he will make it desolate, even until the consummation, and that determined will be poured upon the desolate.
 
@@ -590,7 +590,7 @@
 
 7 And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.
 
-8 Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.
+8 Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my beauty was turned in me into corruption, and I retained no strength.
 
 9 Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.
 
@@ -598,7 +598,7 @@
 
 11 And he said to me, O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright: for to you am I now sent. And when he had spoken this word to me, I stood trembling.
 
-12 Then said he to me, Fear not, Daniel: for from the first day that you didst set your heart to understand, and to chasten thyself before your God, your words were heard, and I am come for your words.
+12 Then said he to me, Fear not, Daniel: for from the first day that you did set your heart to understand, and to chasten thyself before your God, your words were heard, and I am come for your words.
 
 13 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 
@@ -608,7 +608,7 @@
 
 16 And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said to him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
 
-17 For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
+17 For how can the servant of this my lord talk with this my lord? for as for me, immediately there remained no strength in me, neither is there breath left in me.
 
 18 Then there came again and touched me one like the appearance of a man, and he strengthened me,
 
@@ -630,7 +630,7 @@
 
 5 And the king of the south will be strong, and one of his princes; and he will be strong above him, and have dominion; his dominion will be a great dominion.
 
-6 And in the end of years they will join themselves together; for the king's daughter of the south will come to the king of the north to make an agreement: but she will not retain the power of the arm; neither will he stand, nor his arm: but she will be given up, and they that brought her, and he that begat her, and he that strengthened her in these times.
+6 And in the end of years they will join themselves together; for the king's daughter of the south will come to the king of the north to make an agreement: but she will not retain the power of the arm; neither will he stand, nor his arm: but she will be given up, and they that brought her, and he that fathered her, and he that strengthened her in these times.
 
 7 But out of a branch of her roots will one stand up in his estate, which will come with an army, and will enter into the fortress of the king of the north, and will deal against them, and will prevail:
 
@@ -650,7 +650,7 @@
 
 15 So the king of the north will come, and cast up a mount, and take the most fenced cities: and the arms of the south will not withstand, neither his chosen people, neither will there be any strength to withstand.
 
-16 But he that coms against him will do according to his own will, and none will stand before him: and he will stand in the glorious land, which by his hand will be consumed.
+16 But he that comes against him will do according to his own will, and none will stand before him: and he will stand in the glorious land, which by his hand will be consumed.
 
 17 He will also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus will he do: and he will give him the daughter of women, corrupting her: but she will not stand on his side, neither be for him.
 
@@ -680,7 +680,7 @@
 
 30 For the ships of Chittim will come against him: therefore he will be grieved, and return, and have indignation against the holy covenant: so will he do; he will even return, and have intelligence with them that forsake the holy covenant.
 
-31 And arms will stand on his part, and they will pollute the sanctuary of strength, and will take away the daily sacrifice, and they will place the abomination that maks desolate.
+31 And arms will stand on his part, and they will pollute the sanctuary of strength, and will take away the daily sacrifice, and they will place the abomination that makes desolate.
 
 32 And such as do wickedly against the covenant will he corrupt by flatteries: but the people that do know their God will be strong, and do exploits.
 
@@ -724,7 +724,7 @@
 
 6 And one said to the man clothed in linen, which was upon the waters of the river, How long will it be to the end of these wonders?
 
-7 And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand to heaven, and sware by him that livs for ever that it will be for a time, times, and an half; and when he will have accomplished to scatter the power of the holy people, all these things will be finished.
+7 And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand to heaven, and sware by him that lives for ever that it will be for a time, times, and an half; and when he will have accomplished to scatter the power of the holy people, all these things will be finished.
 
 8 And I heard, but I understood not: then said I, O my Lord, what will be the end of these things?
 
@@ -732,9 +732,9 @@
 
 10 Many will be purified, and made white, and tried; but the wicked will do wickedly: and none of the wicked will understand; but the wise will understand.
 
-11 And from the time that the daily sacrifice will be taken away, and the abomination that maks desolate set up, there will be a thousand two hundred and ninety days.
+11 And from the time that the daily sacrifice will be taken away, and the abomination that makes desolate set up, there will be a thousand two hundred and ninety days.
 
-12 Blessed is he that waits, and coms to the thousand three hundred and five and thirty days.
+12 Blessed is he that waits, and comes to the thousand three hundred and five and thirty days.
 
 13 But go you your way till the end be: for you will r, and stand in your lot at the end of the days.
 

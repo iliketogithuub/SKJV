@@ -10,7 +10,7 @@
 
 4 The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.
 
-5 Her adversaries are the chief, her enemies prosper; for the Lord has afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
+5 Her adversaries are the chief, her enemies prosper; for the Lord has afflicted her for the multitude of her sins: her children are gone into captivity before the enemy.
 
 6 And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
 
@@ -20,15 +20,15 @@
 
 9 Her filthiness is in her skirts; she remembers not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy has magnified himself.
 
-10 The adversary has spread out his hand upon all her pleasant things: for she has seen that the heathen entered into her sanctuary, whom you didst command that they should not enter into your congregation.
+10 The adversary has spread out his hand upon all her pleasant things: for she has seen that the heathen entered into her sanctuary, whom you did command that they should not enter into your congregation.
 
 11 All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O Lord, and consider; for I am become vile.
 
-12 Is it nothing to you, all you that pass by? behold, and see if there be any sorrow like to my sorrow, which is done to me, wherewith the Lord has afflicted me in the day of his fierce anger.
+12 Is it nothing to you, all you that pass by? behold, and see if there be any sorrow like to my sorrow, which is done to me, with what the Lord has afflicted me in the day of his fierce anger.
 
 13 From above has he sent fire into my bones, and it prevails against them: he has spread a net for my feet, he has turned me back: he has made me desolate and faint all the day.
 
-14 The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he has made my strength to fall, the Lord has delivered me into their hands, from whom I am not able to rise up.
+14 The yoke of my sins is bound by his hand: they are wreathed, and come up upon my neck: he has made my strength to fall, the Lord has delivered me into their hands, from whom I am not able to rise up.
 
 15 The Lord has trodden under foot all my mighty men in the midst of me: he has called an assembly against me to crush my young men: the Lord has trodden the virgin, the daughter of Judah, as in a winepress.
 
@@ -40,17 +40,17 @@
 
 19 I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
 
-20 Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereavs, at home there is as death.
+20 Behold, O Lord; for I am in distress: my heart are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereavs, at home there is as death.
 
 21 They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that you have done it: you will bring the day that you have called, and they will be like to me.
 
-22 Let all their wickedness come before you; and do to them, as you have done to me for all my transgressions: for my sighs are many, and my heart is faint.
+22 Let all their wickedness come before you; and do to them, as you have done to me for all my sins: for my sighs are many, and my heart is faint.
 
 ## Lamentations Chapter 2
 
 1 How has the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven to the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 
-2 The Lord has swallowed up all the habitations of Jacob, and has not pitied: he has thrown down in his wrath the strong holds of the daughter of Judah; he has brought them down to the ground: he has polluted the kingdom and the princes thereof.
+2 The Lord has swallowed up all the habitations of Jacob, and has not pitied: he has thrown down in his wrath the strong holds of the daughter of Judah; he has brought them down to the ground: he has polluted the kingdom and the princes of it.
 
 3 He has cut off in his fierce anger all the horn of Israel: he has drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devours round about.
 
@@ -60,7 +60,7 @@
 
 6 And he has violently taken away his tabernacle, as if it were of a garden: he has destroyed his places of the assembly: the Lord has caused the solemn feasts and sabbaths to be forgotten in Zion, and has despised in the indignation of his anger the king and the pri.
 
-7 The Lord has cast off his altar, he has abhorred his sanctuary, he has given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the Lord, as in the day of a solemn feast.
+7 The Lord has cast off his altar, he has despised his sanctuary, he has given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the Lord, as in the day of a solemn feast.
 
 8 The Lord has purposed to destroy the wall of the daughter of Zion: he has stretched out a line, he has not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
 
@@ -68,7 +68,7 @@
 
 10 The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
 
-11 Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
+11 Mine eyes do fail with tears, my heart are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
 
 12 They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 
@@ -140,7 +140,7 @@
 
 23 They are new every morning: great is your faithfulness.
 
-24 The Lord is my portion, saith my soul; therefore will I hope in him.
+24 The Lord is my portion, says my soul; therefore will I hope in him.
 
 25 The Lord is good to them that wait for him, to the soul that seeks him.
 
@@ -152,7 +152,7 @@
 
 29 He putts his mouth in the dust; if so be there may be hope.
 
-30 He givs his cheek to him that smits him: he is filled full with reproach.
+30 He gives his cheek to him that smits him: he is filled full with reproach.
 
 31 For the Lord will not cast off for ever:
 
@@ -166,7 +166,7 @@
 
 36 To subvert a man in his cause, the Lord approvs not.
 
-37 Who is he that saith, and it coms to pass, when the Lord commands it not?
+37 Who is he that says, and it comes to pass, when the Lord commands it not?
 
 38 Out of the mouth of the most High proceeds not evil and good?
 
@@ -176,7 +176,7 @@
 
 41 Let us lift up our heart with our hands to God in the heavens.
 
-42 We have transgressed and have rebelled: you have not pardoned.
+42 We have sinned and have rebelled: you have not pardoned.
 
 43 you have covered with anger, and persecuted us: you have slain, you have not pitied.
 
@@ -242,13 +242,13 @@
 
 7 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 
-8 Their visage is blacker than a coal; they are not known in the streets: their skin cleavs to their bones; it is withered, it is become like a stick.
+8 Their face is blacker than a coal; they are not known in the streets: their skin cleavs to their bones; it is withered, it is become like a stick.
 
 9 They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.
 
 10 The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
 
-11 The Lord has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations thereof.
+11 The Lord has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations of it.
 
 12 The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
 
@@ -316,7 +316,7 @@
 
 21 Turn you us to you, O Lord, and we will be turned; renew our days as of old.
 
-22 But you have utterly rejected us; you are very wroth against us.
+22 But you have utterly rejected us; you are very furious against us.
 
 
 ## eof

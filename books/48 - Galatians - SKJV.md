@@ -4,7 +4,7 @@
 
 1 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 
-2 And all the brethren which are with me, to the churches of Galatia:
+2 And all the brothers which are with me, to the churches of Galatia:
 
 3 Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 
@@ -22,7 +22,7 @@
 
 10 For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
 
-11 But I certify you, brethren, that the gospel which was preached of me is not after man.
+11 But I certify you, brothers, that the gospel which was preached of me is not after man.
 
 12 For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
 
@@ -36,7 +36,7 @@
 
 17 Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again to Damascus.
 
-18 Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
+18 Then after three years I went up to Jerusalem to see Peter, and stayed with him fifteen days.
 
 19 But other of the apostles saw I none, save James the Lord's brother.
 
@@ -58,11 +58,11 @@
 
 3 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
 
-4 And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+4 And that because of false brothers unawares brought in, who came in secretly to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 
 5 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 
-6 But of these who seemed to be somewhat, (whatsoever they were, it maks no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
+6 But of these who seemed to be somewhat, (whatsoever they were, it makes no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
 
 7 But contrariwise, when they saw that the gospel of the uncircumcision was committed to me, as the gospel of the circumcision was to Peter;
 
@@ -76,7 +76,7 @@
 
 12 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
 
-13 And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
+13 And the other Jews dissembled likewise with him; so much so that Barnabas also was carried away with their hypocrisy.
 
 14 But when I saw that they walked not uprightly according to the truth of the gospel, I said to Peter before them all, If you, being a Jew, liv after the manner of Gentiles, and not as do the Jews, why compell you the Gentiles to live as do the Jews?
 
@@ -90,7 +90,7 @@
 
 19 For I through the law am dead to the law, that I might live to God.
 
-20 I am crucified with Christ: nevertheless I live; yet not I, but Christ livs in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+20 I am crucified with Christ: nevertheless I live; yet not I, but Christ lives in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
 
 21 I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
 
@@ -104,7 +104,7 @@
 
 4 Have you suffered so many things in vain? if it be yet in vain.
 
-5 He therefore that ministers to you the Spirit, and works miracles among you, dos he it by the works of the law, or by the hearing of faith?
+5 He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
 
 6 Even as Abraham believed God, and it was accounted to him for righteousness.
 
@@ -118,25 +118,25 @@
 
 11 But that no man is justified by the law in the sight of God, it is evident: for, The just will live by faith.
 
-12 And the law is not of faith: but, The man that dos them will live in them.
+12 And the law is not of faith: but, The man that does them will live in them.
 
 13 Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:
 
 14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
-15 Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulls, or adds thereto.
+15 Brothers, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulls, or adds to it.
 
-16 Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to your seed, which is Christ.
+16 Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ.
 
 17 And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 
 18 For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
 
-19 therefore then servs the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.
+19 therefore then serves the law? It was added because of sins, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.
 
 20 Now a mediator is not a mediator of one, but God is one.
 
-21 Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
+21 Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, truly righteousness should have been by the law.
 
 22 But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
 
@@ -170,7 +170,7 @@
 
 7 therefore you are no more a servant, but a son; and if a son, then an heir of God through Christ.
 
-8 Howbeit then, when you knew not God, you did service to them which by nature are no gods.
+8 However then, when you knew not God, you did service to them which by nature are no gods.
 
 9 But now, after that you have known God, or rather are known of God, how turn you again to the weak and beggarly elements, whereunto you desire again to be in bondage?
 
@@ -178,7 +178,7 @@
 
 11 I am afraid of you, otherwise I have bestowed upon you labour in vain.
 
-12 Brethren, I beseech you, be as I am; for I am as you are: you have not injured me at all.
+12 Brothers, I urge you, be as I am; for I am as you are: you have not injured me at all.
 
 13 you know how through infirmity of the flesh I preached the gospel to you at the first.
 
@@ -210,17 +210,17 @@
 
 27 For it is written, Rejoice, you barren that bear not; break forth and cry, you that travail not: for the desolate has many more children than she which has an husband.
 
-28 Now we, brethren, as Isaac was, are the children of promise.
+28 Now we, brothers, as Isaac was, are the children of promise.
 
 29 But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
 
-30 Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman will not be heir with the son of the freewoman.
+30 Nevertheless what says the scripture? Cast out the bondwoman and her son: for the son of the bondwoman will not be heir with the son of the freewoman.
 
-31 So then, brethren, we are not children of the bondwoman, but of the free.
+31 So then, brothers, we are not children of the bondwoman, but of the free.
 
 ## Galatians Chapter 5
 
-1 Stand fast therefore in the liberty wherewith Christ has made us free, and be not entangled again with the yoke of bondage.
+1 Stand fast therefore in the liberty with what Christ has made us free, and be not entangled again with the yoke of bondage.
 
 2 Behold, I Paul say to you, that if you be circumcised, Christ will profit you nothing.
 
@@ -234,17 +234,17 @@
 
 7 you did run well; who did hinder you that you should not obey the truth?
 
-8 This persuasion coms not of him that calls you.
+8 This persuasion comes not of him that calls you.
 
 9 A little leaven leavens the whole lump.
 
 10 I have confidence in you through the Lord, that you will be none otherwise minded: but he that troubls you will bear his judgment, whosoever he be.
 
-11 And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
+11 And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
 
 12 I would they were even cut off which trouble you.
 
-13 For, brethren, you have been called to liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
+13 For, brothers, you have been called to liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
 
 14 For all the law is fulfilled in one word, even in this; you will love your neighbour as thyself.
 
@@ -274,7 +274,7 @@
 
 ## Galatians Chapter 6
 
-1 Brethren, if a man be overtaken in a fault, you which are spiritual, restore such an one in the spirit of meekness; considering thyself, otherwise you also be tempted.
+1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the spirit of meekness; considering thyself, otherwise you also be tempted.
 
 2 Bear you one another's burdens, and so fulfil the law of Christ.
 
@@ -306,9 +306,9 @@
 
 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
 
-17 From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
+17 From from now on let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 
-18 Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
+18 Brothers, the grace of our Lord Jesus Christ be with your spirit. Amen.
 
 
 ## eof

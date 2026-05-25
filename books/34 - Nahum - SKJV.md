@@ -4,19 +4,19 @@
 
 1 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 
-2 God is jealous, and the Lord revengs; the Lord revengs, and is furious; the Lord will take vengeance on his adversaries, and he reservs wrath for his enemies.
+2 God is jealous, and the Lord revengs; the Lord revengs, and is furious; the Lord will take vengeance on his adversaries, and he reserves wrath for his enemies.
 
 3 The Lord is slow to anger, and great in power, and will not at all acquit the wicked: the Lord has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 
-4 He rebuks the sea, and maks it dry, and dris up all the rivers: Bashan languishs, and Carmel, and the flower of Lebanon languishs.
+4 He rebuks the sea, and makes it dry, and dris up all the rivers: Bashan languishs, and Carmel, and the flower of Lebanon languishs.
 
-5 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
+5 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell in it.
 
 6 Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.
 
 7 The Lord is good, a strong hold in the day of trouble; and he knows them that trust in him.
 
-8 But with an overrunning flood he will make an utter end of the place thereof, and darkness will pursue his enemies.
+8 But with an overrunning flood he will make an utter end of the place of it, and darkness will pursue his enemies.
 
 9 What do you imagine against the Lord? he will make an utter end: affliction will not rise up the second time.
 
@@ -24,11 +24,11 @@
 
 11 There is one come out of you, that imagins evil against the Lord, a wicked counsellor.
 
-12 Thus saith the Lord; Though they be quiet, and likewise many, yet thus will they be cut down, when he will pass through. Though I have afflicted you, I will afflict you no more.
+12 Thus says the Lord; Though they be quiet, and likewise many, yet thus will they be cut down, when he will pass through. Though I have afflicted you, I will afflict you no more.
 
 13 For now will I break his yoke from off you, and will burst your bonds in sunder.
 
-14 And the Lord has given a commandment concerning you, that no more of your name be sown: out of the house of your gods will I cut off the graven image and the molten image: I will make your grave; for you are vile.
+14 And the Lord has given a commandment concerning you, that no more of your name be sown: out of the house of your gods will I cut off the graven image and the melted image: I will make your grave; for you are vile.
 
 15 Behold upon the mountains the feet of him that brings good tidings, that publishs peace! O Judah, keep your solemn feasts, perform your vows: for the wicked will no more pass through you; he is utterly cut off.
 
@@ -42,7 +42,7 @@
 
 4 The chariots will rage in the streets, they will justle one against another in the broad ways: they will seem like torches, they will run like the lightnings.
 
-5 He will recount his worthies: they will stumble in their walk; they will make haste to the wall thereof, and the defence will be prepared.
+5 He will recount his worthies: they will stumble in their walk; they will make haste to the wall of it, and the defence will be prepared.
 
 6 The gates of the rivers will be opened, and the palace will be dissolved.
 
@@ -58,7 +58,7 @@
 
 12 The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
 
-13 Behold, I am against you, saith the Lord of hosts, and I will burn her chariots in the smoke, and the sword will devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers will no more be heard.
+13 Behold, I am against you, says the Lord of hosts, and I will burn her chariots in the smoke, and the sword will devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers will no more be heard.
 
 ## Nahum Chapter 3
 
@@ -70,11 +70,11 @@
 
 4 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that sells nations through her whoredoms, and families through her witchcrafts.
 
-5 Behold, I am against you, saith the Lord of hosts; and I will discover your skirts upon your face, and I will shew the nations your nakedness, and the kingdoms your shame.
+5 Behold, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will shew the nations your nakedness, and the kingdoms your shame.
 
 6 And I will cast abominable filth upon you, and make you vile, and will set you as a gazingstock.
 
-7 And it will come to pass, that all they that look upon you will flee from you, and say, Nineveh is laid waste: who will bemoan her? whence will I seek comforters for you?
+7 And it will come to pass, that all they that look upon you will flee from you, and say, Nineveh is laid waste: who will bemoan her? from where will I seek comforters for you?
 
 8 are you better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 
@@ -94,7 +94,7 @@
 
 16 you have multiplied your merchants above the stars of heaven: the cankerworm spoils, and fles away.
 
-17 your crowned are as the locusts, and your captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariss they flee away, and their place is not known where they are.
+17 your crowned are as the locusts, and your captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun arises they flee away, and their place is not known where they are.
 
 18 your shepherds slumber, O king of Assyria: your nobles will dwell in the dust: your people is scattered upon the mountains, and no man gathers them.
 

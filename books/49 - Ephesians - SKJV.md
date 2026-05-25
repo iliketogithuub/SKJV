@@ -12,15 +12,15 @@
 
 5 Having predestinated us to the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 
-6 To the praise of the glory of his grace, wherein he has made us accepted in the beloved.
+6 To the praise of the glory of his grace, in which he has made us accepted in the beloved.
 
 7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
-8 Wherein he has abounded toward us in all wisdom and prudence;
+8 In which he has abounded toward us in all wisdom and prudence;
 
 9 Having made known to us the mystery of his will, according to his good pleasure which he has purposed in himself:
 
-10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+10 That in the administration of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
 11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:
 
@@ -52,11 +52,11 @@
 
 1 And you has he quickened, who were dead in trespasses and sins;
 
-2 Wherein in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
+2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
 
 3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
-4 But God, who is rich in mercy, for his great love wherewith he loved us,
+4 But God, who is rich in mercy, for his great love with what he loved us,
 
 5 Even when we were dead in sins, has quickened us together with Christ, (by grace you are saved;)
 
@@ -74,15 +74,15 @@
 
 12 That at that time you were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 
-13 But now in Christ Jesus you who sometimes were far off are made nigh by the blood of Christ.
+13 But now in Christ Jesus you who sometimes were far off are made near by the blood of Christ.
 
 14 For he is our peace, who has made both one, and has broken down the middle wall of partition between us;
 
-15 Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
+15 Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of two one new man, so making peace;
 
-16 And that he might reconcile both to God in one body by the cross, having slain the enmity thereby:
+16 And that he might reconcile both to God in one body by the cross, having slain the enmity by that:
 
-17 And came and preached peace to you which were afar off, and to them that were nigh.
+17 And came and preached peace to you which were afar off, and to them that were near.
 
 18 For through him we both have access by one Spirit to the Father.
 
@@ -98,7 +98,7 @@
 
 1 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 
-2 If you have heard of the dispensation of the grace of God which is given me to you-ward:
+2 If you have heard of the administration of the grace of God which is given me to you-ward:
 
 3 How that by revelation he made known to me the mystery; (as I wrote afore in few words,
 
@@ -108,7 +108,7 @@
 
 6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
 
-7 Whereof I was made a minister, according to the gift of the grace of God given to me by the effectual working of his power.
+7 Whereof I was made a minister, according to the gift of the grace of God given to me by the effective working of his power.
 
 8 to me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;
 
@@ -120,7 +120,7 @@
 
 12 In whom we have boldness and access with confidence by the faith of him.
 
-13 therefore I desire that you faint not at my tribulations for you, which is your glory.
+13 therefore I desire that you faint not at my sufferings for you, which is your glory.
 
 14 For this cause I bow my knees to the Father of our Lord Jesus Christ,
 
@@ -140,7 +140,7 @@
 
 ## Ephesians Chapter 4
 
-1 I therefore, the prisoner of the Lord, beseech you that you walk worthy of the vocation wherewith you are called,
+1 I therefore, the prisoner of the Lord, urge you that you walk worthy of the vocation with what you are called,
 
 2 With all lowliness and meekness, with longsuffering, forbearing one another in love;
 
@@ -154,7 +154,7 @@
 
 7 But to every one of us is given grace according to the measure of the gift of Christ.
 
-8 therefore he saith, When he ascended up on high, he led captivity captive, and gave gifts to men.
+8 therefore he says, When he ascended up on high, he led captivity captive, and gave gifts to men.
 
 9 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
 
@@ -166,13 +166,13 @@
 
 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fulness of Christ:
 
-14 That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
+14 That we from now on be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
 
 15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
 
-16 From whom the whole body fitly joined together and compacted by that which every joint supplis, according to the effectual working in the measure of every part, maks increase of the body to the edifying of itself in love.
+16 From whom the whole body fitly joined together and compacted by that which every joint supplis, according to the effective working in the measure of every part, makes increase of the body to the edifying of itself in love.
 
-17 This I say therefore, and testify in the Lord, that you henceforth walk not as other Gentiles walk, in the vanity of their mind,
+17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the vanity of their mind,
 
 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 
@@ -210,13 +210,13 @@
 
 2 And walk in love, as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 
-3 But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becoms saints;
+3 But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becomes saints;
 
 4 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
 
 5 For this you know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God.
 
-6 Let no man deceive you with vain words: for because of these things coms the wrath of God upon the children of disobedience.
+6 Let no man deceive you with vain words: for because of these things comes the wrath of God upon the children of disobedience.
 
 7 Be not you therefore partakers with them.
 
@@ -226,13 +226,13 @@
 
 10 Proving what is acceptable to the Lord.
 
-11 And have no fellowship with the unfruitful works of darkness, but rather reprove them.
+11 And have no fellowship with the unfruitful works of darkness, but rather correct them.
 
 12 For it is a shame even to speak of those things which are done of them in secret.
 
-13 But all things that are reproved are made manif by the light: for whatsoever does make manif is light.
+13 But all things that are corrected are made manif by the light: for whatsoever does make manif is light.
 
-14 therefore he saith, Awake you that sleep, and arise from the dead, and Christ will give you light.
+14 therefore he says, Awake you that sleep, and arise from the dead, and Christ will give you light.
 
 15 See then that you walk circumspectly, not as fools, but as wise,
 
@@ -240,7 +240,7 @@
 
 17 therefore be you not unwise, but understanding what the will of the Lord is.
 
-18 And be not drunk with wine, wherein is excess; but be filled with the Spirit;
+18 And be not drunk with wine, in which is excess; but be filled with the Spirit;
 
 19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 
@@ -260,7 +260,7 @@
 
 27 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 
-28 So ought men to love their wives as their own bodies. He that lovs his wife lovs himself.
+28 So ought men to love their wives as their own bodies. He that loves his wife loves himself.
 
 29 For no man ever yet hated his own flesh; but nourishs and cherishs it, even as the Lord the church:
 
@@ -288,11 +288,11 @@
 
 7 With good will doing service, as to the Lord, and not to men:
 
-8 Knowing that whatsoever good thing any man dos, the same will he receive of the Lord, whether he be bond or free.
+8 Knowing that whatsoever good thing any man does, the same will he receive of the Lord, whether he be bond or free.
 
 9 And, you masters, do the same things to them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
-10 Finally, my brethren, be strong in the Lord, and in the power of his might.
+10 Finally, my brothers, be strong in the Lord, and in the power of his might.
 
 11 Put on the whole armour of God, that you may be able to stand against the wiles of the devil.
 
@@ -304,21 +304,21 @@
 
 15 And your feet shod with the preparation of the gospel of peace;
 
-16 Above all, taking the shield of faith, wherewith you will be able to quench all the fiery darts of the wicked.
+16 Above all, taking the shield of faith, with what you will be able to quench all the fiery darts of the wicked.
 
 17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 
-18 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+18 Praying always with all prayer and prayer in the Spirit, and watching thereunto with all perseverance and prayer for all saints;
 
 19 And for me, that utterance may be given to me, that I may open my mouth boldly, to make known the mystery of the gospel,
 
-20 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
+20 For which I am an ambassador in bonds: that in it I may speak boldly, as I ought to speak.
 
 21 But that you also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, will make known to you all things:
 
 22 Whom I have sent to you for the same purpose, that you might know our affairs, and that he might comfort your hearts.
 
-23 Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
+23 Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.
 
 24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
 

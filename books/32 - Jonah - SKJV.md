@@ -6,7 +6,7 @@
 
 2 Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
 
-3 But Jonah rose up to flee to Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them to Tarshish from the presence of the Lord.
+3 But Jonah rose up to flee to Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare of it, and went down into it, to go with them to Tarshish from the presence of the Lord.
 
 4 But the Lord sent out a great wind into the sea, and there was a mighty temp in the sea, so that the ship was like to be broken.
 
@@ -16,7 +16,7 @@
 
 7 And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.
 
-8 Then said they to him, Tell us, we pray you, for whose cause this evil is upon us; What is your occupation? and whence com you? what is your country? and of what people are you?
+8 Then said they to him, Tell us, we pray you, for whose cause this evil is upon us; What is your occupation? and from where com you? what is your country? and of what people are you?
 
 9 And he said to them, I am an Hebrew; and I fear the Lord, the God of heaven, which has made the sea and the dry land.
 
@@ -28,7 +28,7 @@
 
 13 Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
 
-14 therefore they cried to the Lord, and said, We beseech you, O Lord, we beseech you, let us not perish for this man's life, and lay not upon us innocent blood: for you, O Lord, have done as it pleased you.
+14 therefore they cried to the Lord, and said, We urge you, O Lord, we urge you, let us not perish for this man's life, and lay not upon us innocent blood: for you, O Lord, have done as it pleased you.
 
 15 So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.
 
@@ -86,7 +86,7 @@
 
 2 And he prayed to the Lord, and said, I pray you, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before to Tarshish: for I knew that you are a gracious God, and merciful, slow to anger, and of great kindness, and repent you of the evil.
 
-3 Therefore now, O Lord, take, I beseech you, my life from me; for it is better for me to die than to live.
+3 Therefore now, O Lord, take, I urge you, my life from me; for it is better for me to die than to live.
 
 4 Then said the Lord, Do you well to be angry?
 
@@ -94,7 +94,7 @@
 
 6 And the Lord God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.
 
-7 But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.
+7 But God prepared a worm when the morning rose the next day, and it struck the gourd that it withered.
 
 8 And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.
 
@@ -102,7 +102,7 @@
 
 10 Then said the Lord, you have had pity on the gourd, for the which you have not laboured, neither mad it grow; which came up in a night, and perished in a night:
 
-11 And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
+11 And should not I spare Nineveh, that great city, in which are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
 
 
 ## eof

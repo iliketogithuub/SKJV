@@ -24,7 +24,7 @@
 
 11 To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she was fair to look on.
 
-12 But the queen Vashti refused to come at the king's commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him.
+12 But the queen Vashti refused to come at the king's commandment by his chamberlains: therefore was the king very furious, and his anger burned in him.
 
 13 Then the king said to the wise men, which knew the times, (for so was the king's manner toward all that knew law and judgment:
 
@@ -44,7 +44,7 @@
 
 21 And the saying pleased the king and the princes; and the king did according to the word of Memucan:
 
-22 For he sent letters into all the king's provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that it should be published according to the language of every people.
+22 For he sent letters into all the king's provinces, into every province according to the writing of it, and to every people after their language, that every man should bear rule in his own house, and that it should be published according to the language of every people.
 
 ## Esther Chapter 2
 
@@ -52,7 +52,7 @@
 
 2 Then said the king's servants that ministered to him, Let there be fair young virgins sought for the king:
 
-3 And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins to Shushan the palace, to the house of the women, to the custody of Hege the king's chamberlain, keeper of the women; and let their things for purification be given them:
+3 And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins to Shushan the palace, to the house of the women, to the custody of Hege the king's court official, keeper of the women; and let their things for purification be given them:
 
 4 And let the maiden which pleass the king be queen instead of Vashti. And the thing pleased the king; and he did so.
 
@@ -74,9 +74,9 @@
 
 13 Then thus came every maiden to the king; whatsoever she desired was given her to go with her out of the house of the women to the king's house.
 
-14 In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king's chamberlain, which kept the concubines: she came in to the king no more, except the king delighted in her, and that she were called by name.
+14 In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king's court official, which kept the concubines: she came in to the king no more, except the king delighted in her, and that she were called by name.
 
-15 Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in to the king, she required nothing but what Hegai the king's chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.
+15 Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in to the king, she required nothing but what Hegai the king's court official, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.
 
 16 So Esther was taken to king Ahasuerus into his house royal in the tenth month, which is the month Tebs, in the seventh year of his reign.
 
@@ -88,9 +88,9 @@
 
 20 Esther had not yet shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
 
-21 In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hands on the king Ahasuerus.
+21 In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were furious, and sought to lay hands on the king Ahasuerus.
 
-22 And the thing was known to Mordecai, who told it to Esther the queen; and Esther certified the king thereof in Mordecai's name.
+22 And the thing was known to Mordecai, who told it to Esther the queen; and Esther certified the king of it in Mordecai's name.
 
 23 And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.
 
@@ -102,7 +102,7 @@
 
 3 Then the king's servants, which were in the king's gate, said to Mordecai, Why transgress you the king's commandment?
 
-4 Now it came to pass, when they spake daily to him, and he hearkened not to them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.
+4 Now it came to pass, when they spake daily to him, and he listened not to them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.
 
 5 And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.
 
@@ -118,7 +118,7 @@
 
 11 And the king said to Haman, The silver is given to you, the people also, to do with them as it seems good to you.
 
-12 Then were the king's scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded to the king's lieutenants, and to the governors that were over every province, and to the rulers of every people of every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and sealed with the king's ring.
+12 Then were the king's scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded to the king's lieutenants, and to the governors that were over every province, and to the rulers of every people of every province according to the writing of it, and to every people after their language; in the name of king Ahasuerus was it written, and sealed with the king's ring.
 
 13 And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
 
@@ -134,7 +134,7 @@
 
 3 And in every province, whithersoever the king's commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes.
 
-4 So Esther's maids and her chamberlains came and told it her. Then was the queen exceedingly grieved; and she sent raiment to clothe Mordecai, and to take away his sackcloth from him: but he received it not.
+4 So Esther's maids and her chamberlains came and told it her. Then was the queen exceedingly grieved; and she sent clothing to clothe Mordecai, and to take away his sackcloth from him: but he received it not.
 
 5 Then called Esther for Hatach, one of the king's chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it was, and why it was.
 
@@ -142,7 +142,7 @@
 
 7 And Mordecai told him of all that had happened to him, and of the sum of the money that Haman had promised to pay to the king's treasuries for the Jews, to destroy them.
 
-8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make supplication to him, and to make requ before him for her people.
+8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make prayer to him, and to make requ before him for her people.
 
 9 And Hatach came and told Esther the words of Mordecai.
 
@@ -184,7 +184,7 @@
 
 10 Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.
 
-11 And Haman told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.
+11 And Haman told them of the glory of his riches, and the multitude of his children, and all the things in which the king had promoted him, and how he had advanced him above the princes and servants of the king.
 
 12 Haman said moreover, Yea, Esther the queen did let no man come in with the king to the banquet that she had prepared but myself; and to morrow am I invited to her also with the king.
 
@@ -208,9 +208,9 @@
 
 7 And Haman answered the king, For the man whom the king delights to honour,
 
-8 Let the royal apparel be brought which the king uss to wear, and the horse that the king rids upon, and the crown royal which is set upon his head:
+8 Let the royal apparel be brought which the king uses to wear, and the horse that the king rids upon, and the crown royal which is set upon his head:
 
-9 And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man withal whom the king delights to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus will it be done to the man whom the king delights to honour.
+9 And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man also whom the king delights to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus will it be done to the man whom the king delights to honour.
 
 10 Then the king said to Haman, Make haste, and take the apparel and the horse, as you have said, and do even so to Mordecai the Jew, that sitts at the king's gate: let nothing fail of all that you have spoken.
 
@@ -250,7 +250,7 @@
 
 2 And the king took off his ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
 
-3 And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
+3 And Esther spake yet again before the king, and fell down at his feet, and urged him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
 
 4 Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,
 
@@ -262,11 +262,11 @@
 
 8 Write you also for the Jews, as it liks you, in the king's name, and seal it with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.
 
-9 Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentis day thereof; and it was written according to all that Mordecai commanded to the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India to Ethiopia, an hundred twenty and seven provinces, to every province according to the writing thereof, and to every people after their language, and to the Jews according to their writing, and according to their language.
+9 Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentis day of it; and it was written according to all that Mordecai commanded to the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India to Ethiopia, an hundred twenty and seven provinces, to every province according to the writing of it, and to every people after their language, and to the Jews according to their writing, and according to their language.
 
 10 And he wrote in the king Ahasuerus' name, and sealed it with the king's ring, and sent letters by posts on horseback, and riders on mules, camels, and young dromedaries:
 
-11 Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,
+11 In which the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,
 
 12 Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar.
 
@@ -288,9 +288,9 @@
 
 3 And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.
 
-4 For Mordecai was great in the king's house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater.
+4 For Mordecai was great in the king's house, and his fame went out throughout all the provinces: for this man Mordecai grew greater and greater.
 
-5 Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would to those that hated them.
+5 Thus the Jews struck all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would to those that hated them.
 
 6 And in Shushan the palace the Jews slew and destroyed five hundred men.
 
@@ -316,15 +316,15 @@
 
 17 On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
 
-18 But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness.
+18 But the Jews that were at Shushan assembled together on the thirteenth day of it, and on the fourteenth of it; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness.
 
 19 Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar a day of gladness and feasting, and a good day, and of sending portions one to another.
 
-20 And Mordecai wrote these things, and sent letters to all the Jews that were in all the provinces of the king Ahasuerus, both nigh and far,
+20 And Mordecai wrote these things, and sent letters to all the Jews that were in all the provinces of the king Ahasuerus, both near and far,
 
 21 To stablish this among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,
 
-22 As the days wherein the Jews rested from their enemies, and the month which was turned to them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.
+22 As the days in which the Jews rested from their enemies, and the month which was turned to them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.
 
 23 And the Jews undertook to do as they had begun, and as Mordecai had written to them;
 
@@ -352,7 +352,7 @@
 
 2 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
 
-3 For Mordecai the Jew was next to king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
+3 For Mordecai the Jew was next to king Ahasuerus, and great among the Jews, and accepted of the multitude of his brothers, seeking the wealth of his people, and speaking peace to all his seed.
 
 
 ## eof

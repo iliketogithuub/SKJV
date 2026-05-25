@@ -4,25 +4,25 @@
 
 1 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentis year, as I was in Shushan the palace,
 
-2 That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
+2 That Hanani, one of my brothers, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 
-3 And they said to me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
+3 And they said to me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates of it are burned with fire.
 
 4 And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,
 
-5 And said, I beseech you, O Lord God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:
+5 And said, I urge you, O Lord God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:
 
 6 Let your ear now be attentive, and your eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned.
 
 7 We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses.
 
-8 Remember, I beseech you, the word that you commandedst your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
+8 Remember, I urge you, the word that you commandedst your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
 
-9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from thence, and will bring them to the place that I have chosen to set my name there.
+9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from from there, and will bring them to the place that I have chosen to set my name there.
 
 10 Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand.
 
-11 O Lord, I beseech you, let now your ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.
+11 O Lord, I urge you, let now your ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.
 
 ## Nehemiah Chapter 2
 
@@ -30,11 +30,11 @@
 
 2 therefore the king said to me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
 
-3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchres, lis waste, and the gates thereof are consumed with fire?
+3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' tombs, lis waste, and the gates of it are consumed with fire?
 
 4 Then the king said to me, For what do you make requ? So I prayed to the God of heaven.
 
-5 And I said to the king, If it please the king, and if your servant have found favour in your sight, that you would send me to Judah, to the city of my fathers' sepulchres, that I may build it.
+5 And I said to the king, If it please the king, and if your servant have found favour in your sight, that you would send me to Judah, to the city of my fathers' tombs, that I may build it.
 
 6 And the king said to me, (the queen also sitting by him,) For how long will your journey be? and when will you return? So it pleased the king to send me; and I set him a time.
 
@@ -50,15 +50,15 @@
 
 12 And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon.
 
-13 And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
+13 And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates of it were consumed with fire.
 
 14 Then I went on to the gate of the fountain, and to the king's pool: but there was no place for the beast that was under me to pass.
 
 15 Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned.
 
-16 And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the r that did the work.
+16 And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the r that did the work.
 
-17 Then said I to them, you see the distress that we are in, how Jerusalem lis waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
+17 Then said I to them, you see the distress that we are in, how Jerusalem lis waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
 
 18 Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken to me. And they said, Let us rise up and build. So they strengthened their hands for this good work.
 
@@ -68,17 +68,17 @@
 
 ## Nehemiah Chapter 3
 
-1 Then Eliashib the high pri rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even to the tower of Meah they sanctified it, to the tower of Hananeel.
+1 Then Eliashib the high pri rose up with his brothers the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even to the tower of Meah they sanctified it, to the tower of Hananeel.
 
 2 And next to him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
 
-3 But the fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.
+3 But the fish gate did the sons of Hassenaah build, who also laid the beams of it, and set up the doors of it, the locks of it, and the bars of it.
 
 4 And next to them repaired Meremoth the son of Urijah, the son of Koz. And next to them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next to them repaired Zadok the son of Baana.
 
 5 And next to them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.
 
-6 Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.
+6 Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams of it, and set up the doors of it, and the locks of it, and the bars of it.
 
 7 And next to them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, to the throne of the governor on this side the river.
 
@@ -92,17 +92,17 @@
 
 12 And next to him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.
 
-13 The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall to the dung gate.
+13 The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors of it, the locks of it, and the bars of it, and a thousand cubits on the wall to the dung gate.
 
-14 But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.
+14 But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors of it, the locks of it, and the bars of it.
 
-15 But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king's garden, and to the stairs that go down from the city of David.
+15 But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors of it, the locks of it, and the bars of it, and the wall of the pool of Siloah by the king's garden, and to the stairs that go down from the city of David.
 
-16 After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, to the place over against the sepulchres of David, and to the pool that was made, and to the house of the mighty.
+16 After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, to the place over against the tombs of David, and to the pool that was made, and to the house of the mighty.
 
 17 After him repaired the Levites, Rehum the son of Bani. Next to him repaired Hashabiah, the ruler of the half part of Keilah, in his part.
 
-18 After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.
+18 After him repaired their brothers, Bavai the son of Henadad, the ruler of the half part of Keilah.
 
 19 And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall.
 
@@ -134,9 +134,9 @@
 
 ## Nehemiah Chapter 4
 
-1 But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.
+1 But it came to pass, that when Sanballat heard that we builded the wall, he was furious, and took great indignation, and mocked the Jews.
 
-2 And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
+2 And he spake before his brothers and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
 
 3 Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he will even break down their stone wall.
 
@@ -144,9 +144,9 @@
 
 5 And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders.
 
-6 So built we the wall; and all the wall was joined together to the half thereof: for the people had a mind to work.
+6 So built we the wall; and all the wall was joined together to the half of it: for the people had a mind to work.
 
-7 But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very wroth,
+7 But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very furious,
 
 8 And conspired all of them together to come and to fight against Jerusalem, and to hinder it.
 
@@ -156,11 +156,11 @@
 
 11 And our adversaries said, They will not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.
 
-12 And it came to pass, that when the Jews which dwelt by them came, they said to us ten times, From all places whence you will return to us they will be upon you.
+12 And it came to pass, that when the Jews which dwelt by them came, they said to us ten times, From all places from where you will return to us they will be upon you.
 
 13 Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows.
 
-14 And I looked, and rose up, and said to the nobles, and to the rulers, and to the r of the people, Be not you afraid of them: remember the Lord, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.
+14 And I looked, and rose up, and said to the nobles, and to the rulers, and to the r of the people, Be not you afraid of them: remember the Lord, which is great and terrible, and fight for your brothers, your sons, and your daughters, your wives, and your houses.
 
 15 And it came to pass, when our enemies heard that it was known to us, and God had brought their counsel to nought, that we returned all of us to the wall, every one to his work.
 
@@ -172,17 +172,17 @@
 
 19 And I said to the nobles, and to the rulers, and to the r of the people, The work is great and large, and we are separated upon the wall, one far from another.
 
-20 In what place therefore you hear the sound of the trumpet, resort you thither to us: our God will fight for us.
+20 In what place therefore you hear the sound of the trumpet, resort you there to us: our God will fight for us.
 
 21 So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.
 
 22 Likewise at the same time said I to the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day.
 
-23 So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing.
+23 So neither I, nor my brothers, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing.
 
 ## Nehemiah Chapter 5
 
-1 And there was a great cry of the people and of their wives against their brethren the Jews.
+1 And there was a great cry of the people and of their wives against their brothers the Jews.
 
 2 For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live.
 
@@ -190,17 +190,17 @@
 
 4 There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.
 
-5 Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought to bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.
+5 Yet now our flesh is as the flesh of our brothers, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought to bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.
 
 6 And I was very angry when I heard their cry and these words.
 
 7 Then I consulted with myself, and I rebuked the nobles, and the rulers, and said to them, you exact usury, every one of his brother. And I set a great assembly against them.
 
-8 And I said to them, We after our ability have redeemed our brethren the Jews, which were sold to the heathen; and will you even sell your brethren? or will they be sold to us? Then held they their peace, and found nothing to answer.
+8 And I said to them, We after our ability have redeemed our brothers the Jews, which were sold to the heathen; and will you even sell your brothers? or will they be sold to us? Then held they their peace, and found nothing to answer.
 
 9 Also I said, It is not good that you do: ought you not to walk in the fear of our God because of the reproach of the heathen our enemies?
 
-10 I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.
+10 I likewise, and my brothers, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.
 
 11 Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that you exact of them.
 
@@ -208,11 +208,11 @@
 
 13 Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performs not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the Lord. And the people did according to this promise.
 
-14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentis year even to the two and thirtis year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor.
+14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentis year even to the two and thirtis year of Artaxerxes the king, that is, twelve years, I and my brothers have not eaten the bread of the governor.
 
 15 But the former governors that had been before me were chargeable to the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.
 
-16 Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither to the work.
+16 Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered there to the work.
 
 17 Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came to us from among the heathen that are about us.
 
@@ -222,7 +222,7 @@
 
 ## Nehemiah Chapter 6
 
-1 Now it came to pass when Sanballat, and Tobiah, and Geshem the Arabian, and the r of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
+1 Now it came to pass when Sanballat, and Tobiah, and Geshem the Arabian, and the r of our enemies, heard that I had builded the wall, and that there was no breach left in it; (though at that time I had not set up the doors upon the gates;)
 
 2 That Sanballat and Geshem sent to me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief.
 
@@ -232,7 +232,7 @@
 
 5 Then sent Sanballat his servant to me in like manner the fifth time with an open letter in his hand;
 
-6 Wherein was written, It is reported among the heathen, and Gashmu saith it, that you and the Jews think to rebel: for which cause you build the wall, that you may be their king, according to these words.
+6 In which was written, It is reported among the heathen, and Gashmu says it, that you and the Jews think to rebel: for which cause you build the wall, that you may be their king, according to these words.
 
 7 And you have also appointed prophets to preach of you at Jerusalem, saying, There is a king in Judah: and now will it be reported to the king according to these words. Come now therefore, and let us take counsel together.
 
@@ -252,7 +252,7 @@
 
 15 So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days.
 
-16 And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
+16 And it came to pass, that when all our enemies heard of it, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
 
 17 Moreover in those days the nobles of Judah sent many letters to Tobiah, and the letters of Tobiah came to them.
 
@@ -268,9 +268,9 @@
 
 3 And I said to them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house.
 
-4 Now the city was large and great: but the people were few therein, and the houses were not builded.
+4 Now the city was large and great: but the people were few in it, and the houses were not builded.
 
-5 And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,
+5 And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written in it,
 
 6 These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one to his city;
 
@@ -414,7 +414,7 @@
 
 2 And Ezra the pri brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 
-3 And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive to the book of the law.
+3 And he read in it before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive to the book of the law.
 
 4 And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
 
@@ -458,19 +458,19 @@
 
 5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ever and ever: and blessed be your glorious name, which is exalted above all blessing and praise.
 
-6 you, even you, are Lord alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and you preserv them all; and the host of heaven worshipps you.
+6 you, even you, are Lord alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are in it, the seas, and all that is in it, and you preserv them all; and the host of heaven worshipps you.
 
-7 you are the Lord the God, who didst choose Abram, and brought him forth out of Ur of the Chaldees, and gav him the name of Abraham;
+7 you are the Lord the God, who did choose Abram, and brought him forth out of Ur of the Chaldees, and gav him the name of Abraham;
 
 8 And found his heart faithful before you, and mad a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and have performed your words; for you are righteous:
 
-9 And didst see the affliction of our fathers in Egypt, and heard their cry by the Red sea;
+9 And did see the affliction of our fathers in Egypt, and heard their cry by the Red sea;
 
-10 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knew that they dealt proudly against them. So didst you get you a name, as it is this day.
+10 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knew that they dealt proudly against them. So did you get you a name, as it is this day.
 
-11 And you didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors you threw into the deeps, as a stone into the mighty waters.
+11 And you did divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors you threw into the deeps, as a stone into the mighty waters.
 
-12 Moreover you ledd them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.
+12 Moreover you ledd them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way in which they should go.
 
 13 you cam down also upon mount Sinai, and spak with them from heaven, and gav them right judgments, and true laws, good statutes and commandments:
 
@@ -478,19 +478,19 @@
 
 15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which you hadst sworn to give them.
 
-16 But they and our fathers dealt proudly, and hardened their necks, and hearkened not to your commandments,
+16 But they and our fathers dealt proudly, and hardened their necks, and listened not to your commandments,
 
-17 And refused to obey, neither were mindful of your wonders that you didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but you are a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsook them not.
+17 And refused to obey, neither were mindful of your wonders that you did among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but you are a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsook them not.
 
-18 Yea, when they had made them a molten calf, and said, This is your God that brought you up out of Egypt, and had wrought great provocations;
+18 Yea, when they had made them a melted calf, and said, This is your God that brought you up out of Egypt, and had wrought great provocations;
 
-19 Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.
+19 Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way in which they should go.
 
 20 you gav also your good spirit to instruct them, and withheld not your manna from their mouth, and gav them water for their thirst.
 
-21 Yea, forty years didst you sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.
+21 Yea, forty years did you sustain them in the wilderness, so that they lacked nothing; their clothes grew not old, and their feet swelled not.
 
-22 Moreover you gav them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
+22 Moreover you gav them kingdoms and nations, and did divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 
 23 Their children also multipliedst you as the stars of heaven, and brought them into the land, concerning which you hadst promised to their fathers, that they should go in to possess it.
 
@@ -502,23 +502,23 @@
 
 27 Therefore you deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
 
-28 But after they had r, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried to you, you heard them from heaven; and many times didst you deliver them according to your mercies;
+28 But after they had r, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried to you, you heard them from heaven; and many times did you deliver them according to your mercies;
 
-29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and hearkened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
+29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 
-30 Yet many years didst you forbear them, and testifiedst against them by your spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
+30 Yet many years did you forbear them, and testifiedst against them by your spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
 
-31 Nevertheless for your great mercies' sake you didst not utterly consume them, nor forsake them; for you are a gracious and merciful God.
+31 Nevertheless for your great mercies' sake you did not utterly consume them, nor forsake them; for you are a gracious and merciful God.
 
 32 Now therefore, our God, the great, the mighty, and the terrible God, who keep covenant and mercy, let not all the trouble seem little before you, that has come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all your people, since the time of the kings of Assyria to this day.
 
-33 Howbeit you are just in all that is brought upon us; for you have done right, but we have done wickedly:
+33 However you are just in all that is brought upon us; for you have done right, but we have done wickedly:
 
-34 Neither have our kings, our princes, our priests, nor our fathers, kept your law, nor hearkened to your commandments and your testimonies, wherewith you didst testify against them.
+34 Neither have our kings, our princes, our priests, nor our fathers, kept your law, nor listened to your commandments and your testimonies, with what you did testify against them.
 
 35 For they have not served you in their kingdom, and in your great goodness that you gav them, and in the large and fat land which you gav before them, neither turned they from their wicked works.
 
-36 Behold, we are servants this day, and for the land that you gav to our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:
+36 Behold, we are servants this day, and for the land that you gav to our fathers to eat the fruit of it and the good of it, behold, we are servants in it:
 
 37 And it yields much increase to the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
 
@@ -544,7 +544,7 @@
 
 9 And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
 
-10 And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,
+10 And their brothers, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,
 
 11 Micha, Rehob, Hashabiah,
 
@@ -582,7 +582,7 @@
 
 28 And the r of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 
-29 They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord, and his judgments and his statutes;
+29 They clave to their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord, and his judgments and his statutes;
 
 30 And that we would not give our daughters to the people of the land, not take their daughters for our sons:
 
@@ -628,21 +628,21 @@
 
 11 Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.
 
-12 And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah.
+12 And their brothers that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah.
 
-13 And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
+13 And his brothers, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
 
-14 And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.
+14 And their brothers, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.
 
 15 Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;
 
 16 And Shabbethai and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God.
 
-17 And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
+17 And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brothers, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
 
 18 All the Levites in the holy city were two hundred fourscore and four.
 
-19 Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.
+19 Moreover the porters, Akkub, Talmon, and their brothers that kept the gates, were an hundred seventy and two.
 
 20 And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.
 
@@ -654,17 +654,17 @@
 
 24 And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king's hand in all matters concerning the people.
 
-25 And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,
+25 And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages of it, and at Dibon, and in the villages of it, and at Jekabzeel, and in the villages of it,
 
 26 And at Jeshua, and at Moladah, and at Bethphelet,
 
-27 And at Hazarshual, and at Beersheba, and in the villages thereof,
+27 And at Hazarshual, and at Beersheba, and in the villages of it,
 
-28 And at Ziklag, and at Mekonah, and in the villages thereof,
+28 And at Ziklag, and at Mekonah, and in the villages of it,
 
 29 And at Enrimmon, and at Zareah, and at Jarmuth,
 
-30 Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba to the valley of Hinnom.
+30 Zanoah, Adullam, and in their villages, at Lachish, and the fields of it, at Azekah, and in the villages of it. And they dwelt from Beersheba to the valley of Hinnom.
 
 31 The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages.
 
@@ -692,15 +692,15 @@
 
 6 Shemaiah, and Joiarib, Jedaiah,
 
-7 Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.
+7 Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brothers in the days of Jeshua.
 
-8 Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.
+8 Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brothers.
 
-9 Also Bakbukiah and Unni, their brethren, were over against them in the watches.
+9 Also Bakbukiah and Unni, their brothers, were over against them in the watches.
 
-10 And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,
+10 And Jeshua fathered Joiakim, Joiakim also fathered Eliashib, and Eliashib fathered Joiada,
 
-11 And Joiada begat Jonathan, and Jonathan begat Jaddua.
+11 And Joiada fathered Jonathan, and Jonathan fathered Jaddua.
 
 12 And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
 
@@ -726,7 +726,7 @@
 
 23 The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
 
-24 And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.
+24 And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.
 
 25 Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.
 
@@ -750,7 +750,7 @@
 
 35 And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
 
-36 And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
+36 And his brothers, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
 
 37 And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even to the water gate eastward.
 
@@ -776,9 +776,9 @@
 
 ## Nehemiah Chapter 13
 
-1 On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
+1 On that day they read in the book of Moses in the audience of the people; and in it was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
 
-2 Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
+2 Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: however our God turned the curse into a blessing.
 
 3 Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.
 
@@ -792,7 +792,7 @@
 
 8 And it grieved me sore: therefore I cast forth all the household stuff to Tobiah out of the chamber.
 
-9 Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.
+9 Then I commanded, and they cleansed the chambers: and there brought I again the vessels of the house of God, with the meat offering and the frankincense.
 
 10 And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field.
 
@@ -800,13 +800,13 @@
 
 12 Then brought all Judah the tithe of the corn and the new wine and the oil to the treasuries.
 
-13 And I made treasurers over the treasuries, Shelemiah the pri, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute to their brethren.
+13 And I made treasurers over the treasuries, Shelemiah the pri, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute to their brothers.
 
-14 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.
+14 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices of it.
 
-15 In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.
+15 In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day in which they sold victuals.
 
-16 There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath to the children of Judah, and in Jerusalem.
+16 There dwelt men of Tyre also in it, which brought fish, and all manner of ware, and sold on the sabbath to the children of Judah, and in Jerusalem.
 
 17 Then I contended with the nobles of Judah, and said to them, What evil thing is this that you do, and profane the sabbath day?
 
@@ -824,11 +824,11 @@
 
 24 And their children spake half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.
 
-25 And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, you will not give your daughters to their sons, nor take their daughters to your sons, or for yourselves.
+25 And I contended with them, and cursed them, and struck certain of them, and plucked off their hair, and made them swear by God, saying, you will not give your daughters to their sons, nor take their daughters to your sons, or for yourselves.
 
 26 Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.
 
-27 will we then hearken to you to do all this great evil, to transgress against our God in marrying strange wives?
+27 will we then listen to you to do all this great evil, to transgress against our God in marrying strange wives?
 
 28 And one of the sons of Joiada, the son of Eliashib the high pri, was son in law to Sanballat the Horonite: therefore I chased him from me.
 

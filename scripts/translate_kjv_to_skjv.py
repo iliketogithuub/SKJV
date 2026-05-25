@@ -110,14 +110,14 @@ def rule_based_translate_text(text, book_name, chapter_num):
             for pattern, replacement in replacements.items():
                 v_text = re.sub(pattern, replacement, v_text, flags=re.IGNORECASE)
             
-            # Replace common -eth / -est verb endings
-            v_text = re.sub(r'\b(\w+)eth\b', r'\1s', v_text, flags=re.IGNORECASE)
-            v_text = re.sub(r'\b(\w+)est\b', r'\1', v_text, flags=re.IGNORECASE)
-            # Fix common verb replacements resulting from -eth mapping
-            v_text = re.sub(r'\bsays\b', 'says', v_text)
-            v_text = re.sub(r'\bdoess\b', 'does', v_text)
-            v_text = re.sub(r'\bhavs\b', 'has', v_text)
-            v_text = re.sub(r'\bgos\b', 'goes', v_text)
+            # Replace -eth verb endings using dictionary
+            # Import the comprehensive verb map from fix script
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            from fix_all_books import ETH_VERB_MAP, ETH_SAFE_WORDS
+            for old, new in ETH_VERB_MAP.items():
+                v_text = re.sub(r'\b' + re.escape(old) + r'\b', new, v_text, flags=re.IGNORECASE)
+            # Handle saith explicitly
+            v_text = re.sub(r'\bsaith\b', 'says', v_text, flags=re.IGNORECASE)
             
             translated_lines.append(f"{v_num} {v_text}")
         else:

@@ -4,7 +4,7 @@
 
 1 Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 
-2 To the saints and faithful brethren in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
+2 To the saints and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
 
 3 We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 
@@ -50,7 +50,7 @@
 
 24 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:
 
-25 Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
+25 Whereof I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
 
 26 Even the mystery which has been hid from ages and from generations, but now is made manif to his saints:
 
@@ -74,7 +74,7 @@
 
 6 As you have therefore received Christ Jesus the Lord, so walk you in him:
 
-7 Rooted and built up in him, and stablished in the faith, as you have been taught, abounding therein with thanksgiving.
+7 Rooted and built up in him, and stablished in the faith, as you have been taught, abounding in it with thanksgiving.
 
 8 Beware otherwise any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
@@ -84,7 +84,7 @@
 
 11 In whom also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
-12 Buried with him in baptism, wherein also you are risen with him through the faith of the operation of God, who has raised him from the dead.
+12 Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
 
 13 And you, being dead in your sins and the uncircumcision of your flesh, has he quickened together with him, having forgiven you all trespasses;
 
@@ -118,9 +118,9 @@
 
 4 When Christ, who is our life, will appear, then will you also appear with him in glory.
 
-5 Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
+5 Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil sinful desire, and covetousness, which is idolatry:
 
-6 For which things' sake the wrath of God coms on the children of disobedience:
+6 For which things' sake the wrath of God comes on the children of disobedience:
 
 7 In the which you also walked some time, when you lived in them.
 
@@ -132,7 +132,7 @@
 
 11 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
 
-12 Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
+12 Put on therefore, as the elect of God, holy and beloved, tender compassion, kindness, humbleness of mind, meekness, longsuffering;
 
 13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do you.
 
@@ -158,7 +158,7 @@
 
 24 Knowing that of the Lord you will receive the reward of the inheritance: for you serve the Lord Christ.
 
-25 But he that dos wrong will receive for the wrong which he has done: and there is no respect of persons.
+25 But he that does wrong will receive for the wrong which he has done: and there is no respect of persons.
 
 ## Colossians Chapter 4
 
@@ -166,7 +166,7 @@
 
 2 Continue in prayer, and watch in the same with thanksgiving;
 
-3 Withal praying also for us, that God would open to us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
+3 Also praying also for us, that God would open to us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 
 4 That I may make it manif, as I ought to speak.
 
@@ -180,7 +180,7 @@
 
 9 With Onesimus, a faithful and beloved brother, who is one of you. They will make known to you all things which are done here.
 
-10 Aristarchus my fellowprisoner saluts you, and Marcus, sister's son to Barnabas, (touching whom you received commandments: if he come to you, receive him;)
+10 Aristarchus my fellow prisoner saluts you, and Marcus, sister's son to Barnabas, (touching whom you received commandments: if he come to you, receive him;)
 
 11 And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers to the kingdom of God, which have been a comfort to me.
 
@@ -190,13 +190,13 @@
 
 14 Luke, the beloved physician, and Demas, greet you.
 
-15 Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.
+15 Greet the brothers which are in Laodicea, and Nymphas, and the church which is in his house.
 
 16 And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that you likewise read the epistle from Laodicea.
 
 17 And say to Archippus, Take heed to the ministry which you have received in the Lord, that you fulfil it.
 
-18 The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
+18 The greeting by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
 
 
 ## eof

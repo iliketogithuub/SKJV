@@ -20,7 +20,7 @@
 
 9 But he that lacks these things is blind, and cannot see afar off, and has forgotten that he was purged from his old sins.
 
-10 therefore the rather, brethren, give diligence to make your calling and election sure: for if you do these things, you will never fall:
+10 therefore the rather, brothers, give diligence to make your calling and election sure: for if you do these things, you will never fall:
 
 11 For so an entrance will be ministered to you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
 
@@ -46,7 +46,7 @@
 
 ## 2 Peter Chapter 2
 
-1 But there were false prophets also among the people, even as there will be false teachers among you, who privily will bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
+1 But there were false prophets also among the people, even as there will be false teachers among you, who secretly will bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 2 And many will follow their pernicious ways; by reason of whom the way of truth will be evil spoken of.
 
@@ -56,7 +56,7 @@
 
 5 And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
 
-6 And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample to those that after should live ungodly;
+6 And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an example to those that after should live ungodly;
 
 7 And delivered just Lot, vexed with the filthy conversation of the wicked:
 
@@ -84,7 +84,7 @@
 
 19 While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.
 
-20 For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
+20 For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
 
 21 For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered to them.
 
@@ -112,13 +112,13 @@
 
 9 The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 
-10 But the day of the Lord will come as a thief in the night; in the which the heavens will pass away with a great noise, and the elements will melt with fervent heat, the earth also and the works that are therein will be burned up.
+10 But the day of the Lord will come as a thief in the night; in the which the heavens will pass away with a great noise, and the elements will melt with fervent heat, the earth also and the works that are in it will be burned up.
 
 11 Seeing then that all these things will be dissolved, what manner of persons ought you to be in all holy conversation and godliness,
 
-12 Looking for and hasting to the coming of the day of God, wherein the heavens being on fire will be dissolved, and the elements will melt with fervent heat?
+12 Looking for and hasting to the coming of the day of God, in which the heavens being on fire will be dissolved, and the elements will melt with fervent heat?
 
-13 Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwells righteousness.
+13 Nevertheless we, according to his promise, look for new heavens and a new earth, in which dwells righteousness.
 
 14 therefore, beloved, seeing that you look for such things, be diligent that you may be found of him in peace, without spot, and blameless.
 

@@ -26,15 +26,15 @@
 
 12 That is, that I may be comforted together with you by the mutual faith both of you and me.
 
-13 Now I would not have you ignorant, brethren, that oftentimes I purposed to come to you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.
+13 Now I would not have you ignorant, brothers, that oftentimes I purposed to come to you, (but was let until now,) that I might have some fruit among you also, even as among other Gentiles.
 
 14 I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
 
 15 So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
 
-16 For I am not ashamed of the gospel of Christ: for it is the power of God to salvation to every one that believs; to the Jew first, and also to the Greek.
+16 For I am not ashamed of the gospel of Christ: for it is the power of God to salvation to every one that believes; to the Jew first, and also to the Greek.
 
-17 For therein is the righteousness of God revealed from faith to faith: as it is written, The just will live by faith.
+17 For in it is the righteousness of God revealed from faith to faith: as it is written, The just will live by faith.
 
 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 
@@ -68,7 +68,7 @@
 
 ## Romans Chapter 2
 
-1 Therefore you are inexcusable, O man, whosoever you are that judg: for wherein you judg another, you condemn thyself; for you that judg do the same things.
+1 Therefore you are inexcusable, O man, whosoever you are that judg: for in which you judg another, you condemn thyself; for you that judg do the same things.
 
 2 But we are sure that the judgment of God is according to truth against them which commit such things.
 
@@ -84,7 +84,7 @@
 
 8 But to them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,
 
-9 Tribulation and anguish, upon every soul of man that dos evil, of the Jew first, and also of the Gentile;
+9 Suffering and anguish, upon every soul of man that does evil, of the Jew first, and also of the Gentile;
 
 10 But glory, honour, and peace, to every man that works good, to the Jew first, and also to the Gentile:
 
@@ -116,7 +116,7 @@
 
 24 For the name of God is blasphemed among the Gentiles through you, as it is written.
 
-25 For circumcision verily profits, if you keep the law: but if you be a breaker of the law, your circumcision is made uncircumcision.
+25 For circumcision truly profits, if you keep the law: but if you be a breaker of the law, your circumcision is made uncircumcision.
 
 26 Therefore if the uncircumcision keep the righteousness of the law, will not his uncircumcision be counted for circumcision?
 
@@ -136,7 +136,7 @@
 
 4 God forbid: yea, let God be true, but every man a liar; as it is written, That you might be justified in your sayings, and might overcome when you are judged.
 
-5 But if our unrighteousness commend the righteousness of God, what will we say? Is God unrighteous who taks vengeance? (I speak as a man)
+5 But if our unrighteousness commend the righteousness of God, what will we say? Is God unrighteous who takes vengeance? (I speak as a man)
 
 6 God forbid: for then how will God judge the world?
 
@@ -150,9 +150,9 @@
 
 11 There is none that understands, there is none that seeks after God.
 
-12 They are all gone out of the way, they are together become unprofitable; there is none that dos good, no, not one.
+12 They are all gone out of the way, they are together become unprofitable; there is none that does good, no, not one.
 
-13 Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:
+13 Their throat is an open tomb; with their tongues they have used deceit; the poison of asps is under their lips:
 
 14 Whose mouth is full of cursing and bitterness:
 
@@ -164,7 +164,7 @@
 
 18 There is no fear of God before their eyes.
 
-19 Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
+19 Now we know that what things soever the law says, it says to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
 
 20 Therefore by the deeds of the law there will no flesh be justified in his sight: for by the law is the knowledge of sin.
 
@@ -176,9 +176,9 @@
 
 24 Being justified freely by his grace through the redemption that is in Christ Jesus:
 
-25 Whom God has set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
+25 Whom God has set forth to be a atoning sacrifice through faith in his blood, to declare his righteousness for the forgiveness of sins that are past, through the forbearance of God;
 
-26 To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believs in Jesus.
+26 To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believes in Jesus.
 
 27 Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
 
@@ -196,23 +196,23 @@
 
 2 For if Abraham were justified by works, he has whereof to glory; but not before God.
 
-3 For what saith the scripture? Abraham believed God, and it was counted to him for righteousness.
+3 For what says the scripture? Abraham believed God, and it was counted to him for righteousness.
 
 4 Now to him that works is the reward not reckoned of grace, but of debt.
 
-5 But to him that works not, but believs on him that justifis the ungodly, his faith is counted for righteousness.
+5 But to him that works not, but believes on him that justifis the ungodly, his faith is counted for righteousness.
 
 6 Even as David also describs the blessedness of the man, to whom God imputs righteousness without works,
 
 7 Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
 
-8 Blessed is the man to whom the Lord will not impute sin.
+8 Blessed is the man to whom the Lord will not credit sin.
 
-9 Coms this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
+9 comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
 
 10 How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
 
-11 And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed to them also:
+11 And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be credited to them also:
 
 12 And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.
 
@@ -220,7 +220,7 @@
 
 14 For if they which are of the law be heirs, faith is made void, and the promise made of none effect:
 
-15 Because the law works wrath: for where no law is, there is no transgression.
+15 Because the law works wrath: for where no law is, there is no sin.
 
 16 Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 
@@ -234,11 +234,11 @@
 
 21 And being fully persuaded that, what he had promised, he was able also to perform.
 
-22 And therefore it was imputed to him for righteousness.
+22 And therefore it was credited to him for righteousness.
 
-23 Now it was not written for his sake alone, that it was imputed to him;
+23 Now it was not written for his sake alone, that it was credited to him;
 
-24 But for us also, to whom it will be imputed, if we believe on him that raised up Jesus our Lord from the dead;
+24 But for us also, to whom it will be credited, if we believe on him that raised up Jesus our Lord from the dead;
 
 25 Who was delivered for our offences, and was raised again for our justification.
 
@@ -246,17 +246,17 @@
 
 1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 
-2 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.
+2 By whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 
-3 And not only so, but we glory in tribulations also: knowing that tribulation works patience;
+3 And not only so, but we glory in sufferings also: knowing that suffering works patience;
 
 4 And patience, experience; and experience, hope:
 
-5 And hope maks not ashamed; because the love of God is shed abroad in our hearts by the Holy Spirit which is given to us.
+5 And hope makes not ashamed; because the love of God is shed abroad in our hearts by the Holy Spirit which is given to us.
 
 6 For when we were yet without strength, in due time Christ died for the ungodly.
 
-7 For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.
+7 For scarcely for a righteous man will one die: yet perhaps for a good man some would even dare to die.
 
 8 But God commends his love toward us, in that, while we were yet sinners, Christ died for us.
 
@@ -268,17 +268,17 @@
 
 12 therefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 
-13 (For until the law sin was in the world: but sin is not imputed when there is no law.
+13 (For until the law sin was in the world: but sin is not credited when there is no law.
 
-14 Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.
+14 Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's sin, who is the figure of him that was to come.
 
 15 But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded to many.
 
-16 And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences to justification.
+16 And not as it was by one that sinned, so is the gift: for the judgment was by one to judgment, but the free gift is of many offences to justification.
 
 17 For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness will reign in life by one, Jesus Christ.)
 
-18 Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men to justification of life.
+18 Therefore as by the offence of one judgment came upon all men to judgment; even so by the righteousness of one the free gift came upon all men to justification of life.
 
 19 For as by one man's disobedience many were made sinners, so by the obedience of one will many be made righteous.
 
@@ -290,7 +290,7 @@
 
 1 What will we say then? will we continue in sin, that grace may abound?
 
-2 God forbid. How will we, that are dead to sin, live any longer therein?
+2 God forbid. How will we, that are dead to sin, live any longer in it?
 
 3 Know you not, that so many of us as were baptized into Jesus Christ were baptized into his death?
 
@@ -298,19 +298,19 @@
 
 5 For if we have been planted together in the likeness of his death, we will be also in the likeness of his resurrection:
 
-6 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+6 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that from now on we should not serve sin.
 
 7 For he that is dead is freed from sin.
 
 8 Now if we be dead with Christ, we believe that we will also live with him:
 
-9 Knowing that Christ being raised from the dead dis no more; death has no more dominion over him.
+9 Knowing that Christ being raised from the dead dies no more; death has no more dominion over him.
 
-10 For in that he died, he died to sin once: but in that he livs, he livs to God.
+10 For in that he died, he died to sin once: but in that he lives, he lives to God.
 
 11 Likewise reckon you also yourselves to be dead indeed to sin, but alive to God through Jesus Christ our Lord.
 
-12 Let not sin therefore reign in your mortal body, that you should obey it in the lusts thereof.
+12 Let not sin therefore reign in your mortal body, that you should obey it in the lusts of it.
 
 13 Neither yield you your members as instruments of unrighteousness to sin: but yield yourselves to God, as those that are alive from the dead, and your members as instruments of righteousness to God.
 
@@ -336,21 +336,21 @@
 
 ## Romans Chapter 7
 
-1 Know you not, brethren, (for I speak to them that know the law,) how that the law has dominion over a man as long as he livs?
+1 Know you not, brothers, (for I speak to them that know the law,) how that the law has dominion over a man as long as he lives?
 
-2 For the woman which has an husband is bound by the law to her husband so long as he livs; but if the husband be dead, she is loosed from the law of her husband.
+2 For the woman which has an husband is bound by the law to her husband so long as he lives; but if the husband be dead, she is loosed from the law of her husband.
 
-3 So then if, while her husband livs, she be married to another man, she will be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.
+3 So then if, while her husband lives, she be married to another man, she will be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.
 
-4 therefore, my brethren, you also are become dead to the law by the body of Christ; that you should be married to another, even to him who is raised from the dead, that we should bring forth fruit to God.
+4 therefore, my brothers, you also are become dead to the law by the body of Christ; that you should be married to another, even to him who is raised from the dead, that we should bring forth fruit to God.
 
 5 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit to death.
 
-6 But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
+6 But now we are delivered from the law, that being dead in which we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
 7 What will we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, you will not covet.
 
-8 But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
+8 But sin, taking occasion by the commandment, wrought in me all manner of sinful desire. For without the law sin was dead.
 
 9 For I was alive without the law once: but when the commandment came, sin revived, and I died.
 
@@ -388,7 +388,7 @@
 
 ## Romans Chapter 8
 
-1 There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+1 There is therefore now no judgment to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
 2 For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death.
 
@@ -410,7 +410,7 @@
 
 11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead will also quicken your mortal bodies by his Spirit that dwells in you.
 
-12 Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.
+12 Therefore, brothers, we are debtors, not to the flesh, to live after the flesh.
 
 13 For if you live after the flesh, you will die: but if you through the Spirit do mortify the deeds of the body, you will live.
 
@@ -434,17 +434,17 @@
 
 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
 
-24 For we are saved by hope: but hope that is seen is not hope: for what a man ses, why does he yet hope for?
+24 For we are saved by hope: but hope that is seen is not hope: for what a man sees, why does he yet hope for?
 
 25 But if we hope for that we see not, then do we with patience wait for it.
 
-26 Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maks intercession for us with groanings which cannot be uttered.
+26 Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit itself makes intercession for us with groanings which cannot be uttered.
 
-27 And he that searchs the hearts knows what is the mind of the Spirit, because he maks intercession for the saints according to the will of God.
+27 And he that searchs the hearts knows what is the mind of the Spirit, because he makes intercession for the saints according to the will of God.
 
 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
-29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
+29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brothers.
 
 30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
@@ -454,9 +454,9 @@
 
 33 Who will lay any thing to the charge of God's elect? It is God that justifis.
 
-34 Who is he that condemns? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maks intercession for us.
+34 Who is he that condemns? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also makes intercession for us.
 
-35 Who will separate us from the love of Christ? will tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
+35 Who will separate us from the love of Christ? will suffering, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 
 36 As it is written, For your sake we are killed all the day long; we are accounted as sheep for the slaughter.
 
@@ -472,7 +472,7 @@
 
 2 That I have great heaviness and continual sorrow in my heart.
 
-3 For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
+3 For I could wish that myself were accursed from Christ for my brothers, my kinsmen according to the flesh:
 
 4 Who are Israelites; to whom pertains the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
@@ -496,11 +496,11 @@
 
 14 What will we say then? Is there unrighteousness with God? God forbid.
 
-15 For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+15 For he says to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 
 16 So then it is not of him that wills, nor of him that runns, but of God that shews mercy.
 
-17 For the scripture saith to Pharaoh, Even for this same purpose have I raised you up, that I might shew my power in you, and that my name might be declared throughout all the earth.
+17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might shew my power in you, and that my name might be declared throughout all the earth.
 
 18 Therefore has he mercy on whom he will have mercy, and whom he will he hardens.
 
@@ -516,7 +516,7 @@
 
 24 Even us, whom he has called, not of the Jews only, but also of the Gentiles?
 
-25 As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
+25 As he says also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 
 26 And it will come to pass, that in the place where it was said to them, you are not my people; there will they be called the children of the living God.
 
@@ -532,31 +532,31 @@
 
 32 therefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;
 
-33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believs on him will not be ashamed.
+33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believes on him will not be ashamed.
 
 ## Romans Chapter 10
 
-1 Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.
+1 Brothers, my heart's desire and prayer to God for Israel is, that they might be saved.
 
 2 For I bear them record that they have a zeal of God, but not according to knowledge.
 
 3 For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves to the righteousness of God.
 
-4 For Christ is the end of the law for righteousness to every one that believs.
+4 For Christ is the end of the law for righteousness to every one that believes.
 
-5 For Moses describs the righteousness which is of the law, That the man which dos those things will live by them.
+5 For Moses describs the righteousness which is of the law, That the man which does those things will live by them.
 
 6 But the righteousness which is of faith speaks on this wise, Say not in your heart, Who will ascend into heaven? (that is, to bring Christ down from above:)
 
 7 Or, Who will descend into the deep? (that is, to bring up Christ again from the dead.)
 
-8 But what saith it? The word is nigh you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
+8 But what says it? The word is near you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
 
 9 That if you will confess with your mouth the Lord Jesus, and will believe in your heart that God has raised him from the dead, you will be saved.
 
-10 For with the heart man believs to righteousness; and with the mouth confession is made to salvation.
+10 For with the heart man believes to righteousness; and with the mouth confession is made to salvation.
 
-11 For the scripture saith, Whosoever believs on him will not be ashamed.
+11 For the scripture says, Whosoever believes on him will not be ashamed.
 
 12 For there is no difference between the Jew and the Greek: for the same Lord over all is rich to all that call upon him.
 
@@ -566,27 +566,27 @@
 
 15 And how will they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 
-16 But they have not all obeyed the gospel. For Esaias saith, Lord, who has believed our report?
+16 But they have not all obeyed the gospel. For Esaias says, Lord, who has believed our report?
 
-17 So then faith coms by hearing, and hearing by the word of God.
+17 So then faith comes by hearing, and hearing by the word of God.
 
-18 But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words to the ends of the world.
+18 But I say, Have they not heard? Yes truly, their sound went into all the earth, and their words to the ends of the world.
 
-19 But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
+19 But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-20 But Esaias is very bold, and saith, I was found of them that sought me not; I was made manif to them that asked not after me.
+20 But Esaias is very bold, and says, I was found of them that sought me not; I was made manif to them that asked not after me.
 
-21 But to Israel he saith, All day long I have stretched forth my hands to a disobedient and gainsaying people.
+21 But to Israel he says, All day long I have stretched forth my hands to a disobedient and rebellion people.
 
 ## Romans Chapter 11
 
 1 I say then, has God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
-2 God has not cast away his people which he foreknew. Wot you not what the scripture saith of Elias? how he maks intercession to God against Israel saying,
+2 God has not cast away his people which he foreknew. Wot you not what the scripture says of Elias? how he makes intercession to God against Israel saying,
 
 3 Lord, they have killed your prophets, and digged down your altars; and I am left alone, and they seek my life.
 
-4 But what saith the answer of God to him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
+4 But what says the answer of God to him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
 
 5 Even so then at this present time also there is a remnant according to the election of grace.
 
@@ -596,7 +596,7 @@
 
 8 (According as it is written, God has given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) to this day.
 
-9 And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence to them:
+9 And David says, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence to them:
 
 10 Let their eyes be darkened, that they may not see, and bow down their back alway.
 
@@ -604,7 +604,7 @@
 
 12 Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
 
-13 For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
+13 For I speak to you Gentiles, since as I am the apostle of the Gentiles, I magnify mine office:
 
 14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
 
@@ -628,7 +628,7 @@
 
 24 For if you wert cut out of the olive tree which is wild by nature, and wert grafted contrary to nature into a good olive tree: how much more will these, which be the natural branches, be grafted into their own olive tree?
 
-25 For I would not, brethren, that you should be ignorant of this mystery, otherwise you should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
+25 For I would not, brothers, that you should be ignorant of this mystery, otherwise you should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
 
 26 And so all Israel will be saved: as it is written, There will come out of Sion the Deliverer, and will turn away ungodliness from Jacob:
 
@@ -654,7 +654,7 @@
 
 ## Romans Chapter 12
 
-1 I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.
+1 I urge you therefore, brothers, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.
 
 2 And be not conformed to this world: but be you transformed by the renewing of your mind, that you may prove what is that good, and acceptable, and perfect, will of God.
 
@@ -668,15 +668,15 @@
 
 7 Or ministry, let us wait on our ministering: or he that teachs, on teaching;
 
-8 Or he that exhorts, on exhortation: he that givs, let him do it with simplicity; he that ruls, with diligence; he that shews mercy, with cheerfulness.
+8 Or he that exhorts, on encouragement: he that gives, let him do it with simplicity; he that rules, with diligence; he that shews mercy, with cheerfulness.
 
-9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+9 Let love be without hypocrisy. Despise that which is evil; cleave to that which is good.
 
 10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 11 Not slothful in business; fervent in spirit; serving the Lord;
 
-12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
+12 Rejoicing in hope; patient in suffering; continuing instant in prayer;
 
 13 Distributing to the necessity of saints; given to hospitality.
 
@@ -686,11 +686,11 @@
 
 16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 
-17 Recompense to no man evil for evil. Provide things hon in the sight of all men.
+17 Repay to no man evil for evil. Provide things hon in the sight of all men.
 
 18 If it be possible, as much as lis in you, live peaceably with all men.
 
-19 Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+19 Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
 
 20 Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you will heap coals of fire on his head.
 
@@ -704,7 +704,7 @@
 
 3 For rulers are not a terror to good works, but to the evil. will you then not be afraid of the power? do that which is good, and you will have praise of the same:
 
-4 For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he bears not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that dos evil.
+4 For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he bears not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that does evil.
 
 5 therefore you must needs be subject, not only for wrath, but also for conscience sake.
 
@@ -712,7 +712,7 @@
 
 7 Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
 
-8 Owe no man any thing, but to love one another: for he that lovs another has fulfilled the law.
+8 Owe no man any thing, but to love one another: for he that loves another has fulfilled the law.
 
 9 For this, you will not commit adultery, you will not kill, you will not steal, you will not bear false witness, you will not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, you will love your neighbour as thyself.
 
@@ -724,13 +724,13 @@
 
 13 Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
 
-14 But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
+14 But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts of it.
 
 ## Romans Chapter 14
 
 1 Him that is weak in the faith receive you, but not to doubtful disputations.
 
-2 For one believs that he may eat all things: another, who is weak, eats herbs.
+2 For one believes that he may eat all things: another, who is weak, eats herbs.
 
 3 Let not him that eats despise him that eats not; and let not him which eats not judge him that eats: for God has received him.
 
@@ -738,9 +738,9 @@
 
 5 One man esteems one day above another: another esteems every day alike. Let every man be fully persuaded in his own mind.
 
-6 He that regards the day, regards it to the Lord; and he that regards not the day, to the Lord he does not regard it. He that eats, eats to the Lord, for he givs God thanks; and he that eats not, to the Lord he eats not, and givs God thanks.
+6 He that regards the day, regards it to the Lord; and he that regards not the day, to the Lord he does not regard it. He that eats, eats to the Lord, for he gives God thanks; and he that eats not, to the Lord he eats not, and gives God thanks.
 
-7 For none of us livs to himself, and no man dis to himself.
+7 For none of us lives to himself, and no man dies to himself.
 
 8 For whether we live, we live to the Lord; and whether we die, we die to the Lord: whether we live therefore, or die, we are the Lord's.
 
@@ -748,7 +748,7 @@
 
 10 But why do you judge your brother? or why do you set at nought your brother? for we will all stand before the judgment seat of Christ.
 
-11 For it is written, As I live, saith the Lord, every knee will bow to me, and every tongue will confess to God.
+11 For it is written, As I live, says the Lord, every knee will bow to me, and every tongue will confess to God.
 
 12 So then every one of us will give account of himself to God.
 
@@ -762,9 +762,9 @@
 
 17 For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Spirit.
 
-18 For he that in these things servs Christ is acceptable to God, and approved of men.
+18 For he that in these things serves Christ is acceptable to God, and approved of men.
 
-19 Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
+19 Let us therefore follow after the things which make for peace, and things with what one may edify another.
 
 20 For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offence.
 
@@ -784,7 +784,7 @@
 
 4 For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
-5 Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
+5 Now the God of patience and comfort grant you to be likeminded one toward another according to Christ Jesus:
 
 6 That you may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
 
@@ -794,17 +794,17 @@
 
 9 And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing to your name.
 
-10 And again he saith, Rejoice, you Gentiles, with his people.
+10 And again he says, Rejoice, you Gentiles, with his people.
 
 11 And again, Praise the Lord, all you Gentiles; and laud him, all you people.
 
-12 And again, Esaias saith, There will be a root of Jesse, and he that will rise to reign over the Gentiles; in him will the Gentiles trust.
+12 And again, Esaias says, There will be a root of Jesse, and he that will rise to reign over the Gentiles; in him will the Gentiles trust.
 
 13 Now the God of hope fill you with all joy and peace in believing, that you may abound in hope, through the power of the Holy Spirit.
 
-14 And I myself also am persuaded of you, my brethren, that you also are full of goodness, filled with all knowledge, able also to admonish one another.
+14 And I myself also am persuaded of you, my brothers, that you also are full of goodness, filled with all knowledge, able also to admonish one another.
 
-15 Nevertheless, brethren, I have written the more boldly to you in some sort, as putting you in mind, because of the grace that is given to me of God,
+15 Nevertheless, brothers, I have written the more boldly to you in some sort, as putting you in mind, because of the grace that is given to me of God,
 
 16 That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit.
 
@@ -828,13 +828,13 @@
 
 26 For it has pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.
 
-27 It has pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister to them in carnal things.
+27 It has pleased them truly; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister to them in carnal things.
 
 28 When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 
 29 And I am sure that, when I come to you, I will come in the fulness of the blessing of the gospel of Christ.
 
-30 Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that you strive together with me in your prayers to God for me;
+30 Now I urge you, brothers, for the Lord Jesus Christ's sake, and for the love of the Spirit, that you strive together with me in your prayers to God for me;
 
 31 That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;
 
@@ -846,37 +846,37 @@
 
 1 I commend to you Phebe our sister, which is a servant of the church which is at Cenchrea:
 
-2 That you receive her in the Lord, as becoms saints, and that you assist her in whatsoever business she has need of you: for she has been a succourer of many, and of myself also.
+2 That you receive her in the Lord, as becomes saints, and that you assist her in whatsoever business she has need of you: for she has been a succourer of many, and of myself also.
 
 3 Greet Priscilla and Aquila my helpers in Christ Jesus:
 
 4 Who have for my life laid down their own necks: to whom not only I give thanks, but also all the churches of the Gentiles.
 
-5 Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the firstfruits of Achaia to Christ.
+5 Likewise greet the church that is in their house. Greet my well-beloved Epaenetus, who is the firstfruits of Achaia to Christ.
 
 6 Greet Mary, who bestowed much labour on us.
 
-7 Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.
+7 Greet Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.
 
 8 Greet Amplias my beloved in the Lord.
 
-9 Salute Urbane, our helper in Christ, and Stachys my beloved.
+9 Greet Urbane, our helper in Christ, and Stachys my beloved.
 
-10 Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.
+10 Greet Apelles approved in Christ. Greet them which are of Aristobulus' household.
 
-11 Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.
+11 Greet Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.
 
-12 Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.
+12 Greet Tryphena and Tryphosa, who labour in the Lord. Greet the beloved Persis, which laboured much in the Lord.
 
-13 Salute Rufus chosen in the Lord, and his mother and mine.
+13 Greet Rufus chosen in the Lord, and his mother and mine.
 
-14 Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.
+14 Greet Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brothers which are with them.
 
-15 Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.
+15 Greet Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.
 
-16 Salute one another with an holy kiss. The churches of Christ salute you.
+16 Greet one another with an holy kiss. The churches of Christ greet you.
 
-17 Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which you have learned; and avoid them.
+17 Now I urge you, brothers, mark them which cause divisions and offences contrary to the doctrine which you have learned; and avoid them.
 
 18 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 
@@ -884,11 +884,11 @@
 
 20 And the God of peace will bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.
 
-21 Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
+21 Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, greet you.
 
-22 I Tertius, who wrote this epistle, salute you in the Lord.
+22 I Tertius, who wrote this epistle, greet you in the Lord.
 
-23 Gaius mine host, and of the whole church, saluts you. Erastus the chamberlain of the city saluts you, and Quartus a brother.
+23 Gaius mine host, and of the whole church, saluts you. Erastus the court official of the city saluts you, and Quartus a brother.
 
 24 The grace of our Lord Jesus Christ be with you all. Amen.
 

@@ -26,37 +26,37 @@
 
 1 My little children, these things write I to you, that you sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
 
-2 And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
+2 And he is the atoning sacrifice for our sins: and not for ours only, but also for the sins of the whole world.
 
 3 And hereby we do know that we know him, if we keep his commandments.
 
-4 He that saith, I know him, and keeps not his commandments, is a liar, and the truth is not in him.
+4 He that says, I know him, and keeps not his commandments, is a liar, and the truth is not in him.
 
-5 But whoso keeps his word, in him verily is the love of God perfected: hereby know we that we are in him.
+5 But whoso keeps his word, in him truly is the love of God perfected: hereby know we that we are in him.
 
-6 He that saith he abids in him ought himself also so to walk, even as he walked.
+6 He that says he abides in him ought himself also so to walk, even as he walked.
 
-7 Brethren, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you have heard from the beginning.
+7 Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you have heard from the beginning.
 
 8 Again, a new commandment I write to you, which thing is true in him and in you: because the darkness is past, and the true light now shins.
 
-9 He that saith he is in the light, and hats his brother, is in darkness even until now.
+9 He that says he is in the light, and hates his brother, is in darkness even until now.
 
-10 He that lovs his brother abids in the light, and there is none occasion of stumbling in him.
+10 He that loves his brother abides in the light, and there is none occasion of stumbling in him.
 
-11 But he that hats his brother is in darkness, and walks in darkness, and knows not whither he goes, because that darkness has blinded his eyes.
+11 But he that hates his brother is in darkness, and walks in darkness, and knows not where he goes, because that darkness has blinded his eyes.
 
 12 I write to you, little children, because your sins are forgiven you for his name's sake.
 
 13 I write to you, fathers, because you have known him that is from the beginning. I write to you, young men, because you have overcome the wicked one. I write to you, little children, because you have known the Father.
 
-14 I have written to you, fathers, because you have known him that is from the beginning. I have written to you, young men, because you are strong, and the word of God abids in you, and you have overcome the wicked one.
+14 I have written to you, fathers, because you have known him that is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the wicked one.
 
 15 Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
 
 16 For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
 
-17 And the world passs away, and the lust thereof: but he that dos the will of God abids for ever.
+17 And the world passs away, and the lust of it: but he that does the will of God abides for ever.
 
 18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; whereby we know that it is the last time.
 
@@ -76,11 +76,11 @@
 
 26 These things have I written to you concerning them that seduce you.
 
-27 But the anointing which you have received of him abids in you, and you need not that any man teach you: but as the same anointing teachs you of all things, and is truth, and is no lie, and even as it has taught you, you will abide in him.
+27 But the anointing which you have received of him abides in you, and you need not that any man teach you: but as the same anointing teachs you of all things, and is truth, and is no lie, and even as it has taught you, you will abide in him.
 
 28 And now, little children, abide in him; that, when he will appear, we may have confidence, and not be ashamed before him at his coming.
 
-29 If you know that he is righteous, you know that every one that dos righteousness is born of him.
+29 If you know that he is righteous, you know that every one that does righteousness is born of him.
 
 ## 1 John Chapter 3
 
@@ -90,33 +90,33 @@
 
 3 And every man that has this hope in him purifis himself, even as he is pure.
 
-4 Whosoever committs sin transgresss also the law: for sin is the transgression of the law.
+4 Whosoever committs sin transgresss also the law: for sin is the sin of the law.
 
 5 And you know that he was manifested to take away our sins; and in him is no sin.
 
-6 Whosoever abids in him sinns not: whosoever sinns has not seen him, neither known him.
+6 Whosoever abides in him sinns not: whosoever sinns has not seen him, neither known him.
 
-7 Little children, let no man deceive you: he that dos righteousness is righteous, even as he is righteous.
+7 Little children, let no man deceive you: he that does righteousness is righteous, even as he is righteous.
 
 8 He that committs sin is of the devil; for the devil sinns from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 
 9 Whosoever is born of God does not commit sin; for his seed remains in him: and he cannot sin, because he is born of God.
 
-10 In this the children of God are manif, and the children of the devil: whosoever dos not righteousness is not of God, neither he that lovs not his brother.
+10 In this the children of God are manif, and the children of the devil: whosoever does not righteousness is not of God, neither he that loves not his brother.
 
 11 For this is the message that you heard from the beginning, that we should love one another.
 
 12 Not as Cain, who was of that wicked one, and slew his brother. And therefore slew he him? Because his own works were evil, and his brother's righteous.
 
-13 Marvel not, my brethren, if the world hate you.
+13 Marvel not, my brothers, if the world hate you.
 
-14 We know that we have passed from death to life, because we love the brethren. He that lovs not his brother abids in death.
+14 We know that we have passed from death to life, because we love the brothers. He that loves not his brother abides in death.
 
-15 Whosoever hats his brother is a murderer: and you know that no murderer has eternal life abiding in him.
+15 Whosoever hates his brother is a murderer: and you know that no murderer has eternal life abiding in him.
 
-16 Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.
+16 Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brothers.
 
-17 But whoso has this world's good, and ses his brother have need, and shutts up his bowels of compassion from him, how dwells the love of God in him?
+17 But whoso has this world's good, and sees his brother have need, and shutts up his deep compassion from him, how dwells the love of God in him?
 
 18 My little children, let us not love in word, neither in tongue; but in deed and in truth.
 
@@ -130,7 +130,7 @@
 
 23 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
 
-24 And he that keeps his commandments dwells in him, and he in him. And hereby we know that he abids in us, by the Spirit which he has given us.
+24 And he that keeps his commandments dwells in him, and he in him. And hereby we know that he abides in us, by the Spirit which he has given us.
 
 ## 1 John Chapter 4
 
@@ -146,13 +146,13 @@
 
 6 We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error.
 
-7 Beloved, let us love one another: for love is of God; and every one that lovs is born of God, and knows God.
+7 Beloved, let us love one another: for love is of God; and every one that loves is born of God, and knows God.
 
-8 He that lovs not knows not God; for God is love.
+8 He that loves not knows not God; for God is love.
 
 9 In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
 
-10 Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.
+10 In this is love, not that we loved God, but that he loved us, and sent his Son to be the atoning sacrifice for our sins.
 
 11 Beloved, if God so loved us, we ought also to love one another.
 
@@ -166,27 +166,27 @@
 
 16 And we have known and believed the love that God has to us. God is love; and he that dwells in love dwells in God, and God in him.
 
-17 Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
+17 In this is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
 
 18 There is no fear in love; but perfect love casts out fear: because fear has torment. He that fears is not made perfect in love.
 
 19 We love him, because he first loved us.
 
-20 If a man say, I love God, and hats his brother, he is a liar: for he that lovs not his brother whom he has seen, how can he love God whom he has not seen?
+20 If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?
 
-21 And this commandment have we from him, That he who lovs God love his brother also.
+21 And this commandment have we from him, That he who loves God love his brother also.
 
 ## 1 John Chapter 5
 
-1 Whosoever believs that Jesus is the Christ is born of God: and every one that lovs him that begat lovs him also that is begotten of him.
+1 Whosoever believes that Jesus is the Christ is born of God: and every one that loves him that fathered loves him also that is begotten of him.
 
 2 By this we know that we love the children of God, when we love God, and keep his commandments.
 
 3 For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 
-4 For whatsoever is born of God overcoms the world: and this is the victory that overcoms the world, even our faith.
+4 For whatsoever is born of God overcomes the world: and this is the victory that overcomes the world, even our faith.
 
-5 Who is he that overcoms the world, but he that believs that Jesus is the Son of God?
+5 Who is he that overcomes the world, but he that believes that Jesus is the Son of God?
 
 6 This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that bears witness, because the Spirit is truth.
 
@@ -196,7 +196,7 @@
 
 9 If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son.
 
-10 He that believs on the Son of God has the witness in himself: he that believs not God has made him a liar; because he believs not the record that God gave of his Son.
+10 He that believes on the Son of God has the witness in himself: he that believes not God has made him a liar; because he believes not the record that God gave of his Son.
 
 11 And this is the record, that God has given to us eternal life, and this life is in his Son.
 

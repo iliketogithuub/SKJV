@@ -4,9 +4,9 @@
 
 1 The word of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
-2 I will utterly consume all things from off the land, saith the Lord.
+2 I will utterly consume all things from off the land, says the Lord.
 
-3 I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumbling blocks with the wicked: and I will cut off man from off the land, saith the Lord.
+3 I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumbling blocks with the wicked: and I will cut off man from off the land, says the Lord.
 
 4 I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;
 
@@ -20,13 +20,13 @@
 
 9 In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit.
 
-10 And it will come to pass in that day, saith the Lord, that there will be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
+10 And it will come to pass in that day, says the Lord, that there will be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
 
 11 Howl, you inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.
 
 12 And it will come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.
 
-13 Therefore their goods will become a booty, and their houses a desolation: they will also build houses, but not inhabit them; and they will plant vineyards, but not drink the wine thereof.
+13 Therefore their goods will become a booty, and their houses a desolation: they will also build houses, but not inhabit them; and they will plant vineyards, but not drink the wine of it.
 
 14 The great day of the Lord is near, it is near, and hasts greatly, even the voice of the day of the Lord: the mighty man will cry there bitterly.
 
@@ -56,7 +56,7 @@
 
 8 I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.
 
-9 Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people will spoil them, and the remnant of my people will possess them.
+9 Therefore as I live, says the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people will spoil them, and the remnant of my people will possess them.
 
 10 This will they have for their pride, because they have reproached and magnified themselves against the people of the Lord of hosts.
 
@@ -80,19 +80,19 @@
 
 4 Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
 
-5 The just Lord is in the midst thereof; he will not do iniquity: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
+5 The just Lord is in the midst of it; he will not do iniquity: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
 
 6 I have cut off the nations: their towers are desolate; I made their streets waste, that none passs by: their cities are destroyed, so that there is no man, that there is none inhabitant.
 
 7 I said, Surely you will fear me, you will receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.
 
-8 Therefore wait you upon me, saith the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth will be devoured with the fire of my jealousy.
+8 Therefore wait you upon me, says the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth will be devoured with the fire of my jealousy.
 
 9 For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent.
 
 10 From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, will bring mine offering.
 
-11 In that day will you not be ashamed for all your doings, wherein you have transgressed against me: for then I will take away out of the midst of you them that rejoice in your pride, and you will no more be haughty because of my holy mountain.
+11 In that day will you not be ashamed for all your doings, in which you have sinned against me: for then I will take away out of the midst of you them that rejoice in your pride, and you will no more be haughty because of my holy mountain.
 
 12 I will also leave in the midst of you an afflicted and poor people, and they will trust in the name of the Lord.
 
@@ -110,7 +110,7 @@
 
 19 Behold, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 
-20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord.
+20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, says the Lord.
 
 
 ## eof
