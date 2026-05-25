@@ -2,7 +2,7 @@
 
 ## Ezekiel Chapter 1
 
-1 Now it came to pass in the thirtis year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
+1 Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
 
 2 In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity,
 
@@ -306,7 +306,7 @@
 
 5 Then said he to me, Son of man, lift up your eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and look northward at the gate of the altar this image of jealousy in the entry.
 
-6 He said furthermore to me, Son of man, se you what they do? even the great abominations that the house of Israel committs here, that I should go far off from my sanctuary? but turn you yet again, and you will see greater abominations.
+6 He said furthermore to me, Son of man, se you what they do? even the great abominations that the house of Israel commits here, that I should go far off from my sanctuary? but turn you yet again, and you will see greater abominations.
 
 7 And he brought me to the door of the court; and when I looked, look, a hole in the wall.
 
@@ -336,7 +336,7 @@
 
 1 He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 
-2 And, look, six men came from the way of the higher gate, which lis toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
+2 And, look, six men came from the way of the higher gate, which lies toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
 
 3 And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer's inkhorn by his side;
 
@@ -508,7 +508,7 @@
 
 26 Again the word of the Lord came to me, saying.
 
-27 Son of man, look, they of the house of Israel say, The vision that he sees is for many days to come, and he prophesis of the times that are far off.
+27 Son of man, look, they of the house of Israel say, The vision that he sees is for many days to come, and he prophesies of the times that are far off.
 
 28 Therefore say to them, Thus says the Lord God; There will none of my words be prolonged any more, but the word which I have spoken will be done, says the Lord God.
 
@@ -568,13 +568,13 @@
 
 3 Son of man, these men have set up their idols in their heart, and put the stumblingblock of their iniquity before their face: should I be enquired of at all by them?
 
-4 Therefore speak to them, and say to them, Thus says the Lord God; Every man of the house of Israel that setts up his idols in his heart, and putts the stumblingblock of his iniquity before his face, and comes to the prophet; I the Lord will answer him that comes according to the multitude of his idols;
+4 Therefore speak to them, and say to them, Thus says the Lord God; Every man of the house of Israel that sets up his idols in his heart, and puts the stumblingblock of his iniquity before his face, and comes to the prophet; I the Lord will answer him that comes according to the multitude of his idols;
 
 5 That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
 
 6 Therefore say to the house of Israel, Thus says the Lord God; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.
 
-7 For every one of the house of Israel, or of the stranger that sojourns in Israel, which separats himself from me, and setts up his idols in his heart, and putts the stumblingblock of his iniquity before his face, and comes to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
+7 For every one of the house of Israel, or of the stranger that sojourns in Israel, which separats himself from me, and sets up his idols in his heart, and puts the stumblingblock of his iniquity before his face, and comes to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
 
 8 And I will set my face against that man, and will make him a sign and a proverb, and I will cut him off from the midst of my people; and you will know that I am the Lord.
 
@@ -586,7 +586,7 @@
 
 12 The word of the Lord came again to me, saying,
 
-13 Son of man, when the land sinns against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread of it, and will send famine upon it, and will cut off man and beast from it:
+13 Son of man, when the land sins against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread of it, and will send famine upon it, and will cut off man and beast from it:
 
 14 Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, says the Lord God.
 
@@ -690,7 +690,7 @@
 
 31 In that you build your eminent place in the head of every way, and mak your high place in every street; and have not been as an harlot, in that you scorn hire;
 
-32 But as a wife that committs adultery, which takes strangers instead of her husband!
+32 But as a wife that commits adultery, which takes strangers instead of her husband!
 
 33 They give gifts to all whores: but you giv your gifts to all your lovers, and hir them, that they may come to you on every side for your whoredom.
 
@@ -812,7 +812,7 @@
 
 3 As I live, says the Lord God, you will not have occasion any more to use this proverb in Israel.
 
-4 Look, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinns, it will die.
+4 Look, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sins, it will die.
 
 5 But if a man be just, and do that which is lawful and right,
 
@@ -844,7 +844,7 @@
 
 19 Yet say you, Why? does not the son bear the iniquity of the father? When the son has done that which is lawful and right, and has kept all my statutes, and has done them, he will surely live.
 
-20 The soul that sinns, it will die. The son will not bear the iniquity of the father, neither will the father bear the iniquity of the son: the righteousness of the righteous will be upon him, and the wickedness of the wicked will be upon him.
+20 The soul that sins, it will die. The son will not bear the iniquity of the father, neither will the father bear the iniquity of the son: the righteousness of the righteous will be upon him, and the wickedness of the wicked will be upon him.
 
 21 But if the wicked will turn from all his sins that he has committed, and keep all my statutes, and do that which is lawful and right, he will surely live, he will not die.
 
@@ -852,11 +852,11 @@
 
 23 Have I any pleasure at all that the wicked should die? says the Lord God: and not that he should return from his ways, and live?
 
-24 But when the righteous turns away from his righteousness, and committs iniquity, and does according to all the abominations that the wicked man does, will he live? All his righteousness that he has done will not be mentioned: in his trespass that he has trespassed, and in his sin that he has sinned, in them will he die.
+24 But when the righteous turns away from his righteousness, and commits iniquity, and does according to all the abominations that the wicked man does, will he live? All his righteousness that he has done will not be mentioned: in his trespass that he has trespassed, and in his sin that he has sinned, in them will he die.
 
 25 Yet you say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
 
-26 When a righteous man turns away from his righteousness, and committs iniquity, and dies in them; for his iniquity that he has done will he die.
+26 When a righteous man turns away from his righteousness, and commits iniquity, and dies in them; for his iniquity that he has done will he die.
 
 27 Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he will save his soul alive.
 
@@ -1072,7 +1072,7 @@
 
 2 Now, you son of man, will you judge, will you judge the bloody city? yea, you will show her all her abominations.
 
-3 Then say you, Thus says the Lord God, The city shedds blood in the midst of it, that her time may come, and makes idols against herself to defile herself.
+3 Then say you, Thus says the Lord God, The city sheds blood in the midst of it, that her time may come, and makes idols against herself to defile herself.
 
 4 you are become guilty in your blood that you have shed; and have defiled thyself in your idols which you have made; and you have caused your days to draw near, and are come even to your years: therefore have I made you a reproach to the heathen, and a mocking to all countries.
 
@@ -1272,7 +1272,7 @@
 
 20 Then I answered them, The word of the Lord came to me, saying,
 
-21 Speak to the house of Israel, Thus says the Lord God; Look, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitis; and your sons and your daughters whom you have left will fall by the sword.
+21 Speak to the house of Israel, Thus says the Lord God; Look, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pities; and your sons and your daughters whom you have left will fall by the sword.
 
 22 And you will do as I have done: you will not cover your lips, nor eat the bread of men.
 
@@ -1500,7 +1500,7 @@
 
 2 Son of man, set your face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
 
-3 Speak, and say, Thus says the Lord God; Look, I am against you, Pharaoh king of Egypt, the great dragon that lis in the midst of his rivers, which has said, My river is mine own, and I have made it for myself.
+3 Speak, and say, Thus says the Lord God; Look, I am against you, Pharaoh king of Egypt, the great dragon that lies in the midst of his rivers, which has said, My river is mine own, and I have made it for myself.
 
 4 But I will put hooks in your jaws, and I will cause the fish of your rivers to stick to your scales, and I will bring you up out of the midst of your rivers, and all the fish of your rivers will stick to your scales.
 
@@ -1528,7 +1528,7 @@
 
 16 And it will be no more the confidence of the house of Israel, which brings their iniquity to remembrance, when they will look after them: but they will know that I am the Lord God.
 
-17 And it came to pass in the seven and twentis year, in the first month, in the first day of the month, the word of the Lord came to me, saying,
+17 And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the Lord came to me, saying,
 
 18 Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:
 
@@ -1720,7 +1720,7 @@
 
 11 Say to them, As I live, says the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn you, turn you from your evil ways; for why will you die, O house of Israel?
 
-12 Therefore, you son of man, say to the children of your people, The righteousness of the righteous will not deliver him in the day of his sin: as for the wickedness of the wicked, he will not fall by that in the day that he turns from his wickedness; neither will the righteous be able to live for his righteousness in the day that he sinns.
+12 Therefore, you son of man, say to the children of your people, The righteousness of the righteous will not deliver him in the day of his sin: as for the wickedness of the wicked, he will not fall by that in the day that he turns from his wickedness; neither will the righteous be able to live for his righteousness in the day that he sins.
 
 13 When I will say to the righteous, that he will surely live; if he trust to his own righteousness, and commit iniquity, all his righteousnesses will not be remembered; but for his iniquity that he has committed, he will die for it.
 
@@ -1732,7 +1732,7 @@
 
 17 Yet the children of your people say, The way of the Lord is not equal: but as for them, their way is not equal.
 
-18 When the righteous turns from his righteousness, and committs iniquity, he will even die by that.
+18 When the righteous turns from his righteousness, and commits iniquity, he will even die by that.
 
 19 But if the wicked turn from his wickedness, and do that which is lawful and right, he will live by that.
 
@@ -1842,7 +1842,7 @@
 
 6 Therefore, as I live, says the Lord God, I will prepare you to blood, and blood will pursue you: sith you have not hated blood, even blood will pursue you.
 
-7 Thus will I make mount Seir most desolate, and cut off from it him that passs out and him that returns.
+7 Thus will I make mount Seir most desolate, and cut off from it him that passes out and him that returns.
 
 8 And I will fill his mountains with his slain men: in your hills, and in your valleys, and in all your rivers, will they fall that are slain with the sword.
 
@@ -2106,7 +2106,7 @@
 
 ## Ezekiel Chapter 40
 
-1 In the five and twentis year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the Lord was upon me, and brought me there.
+1 In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the Lord was upon me, and brought me there.
 
 2 In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.
 

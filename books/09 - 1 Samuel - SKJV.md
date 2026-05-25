@@ -1390,7 +1390,7 @@
 
 21 Now David had said, Surely in vain have I kept all that this fellow has in the wilderness, so that nothing was missed of all that pertained to him: and he has requited me evil for good.
 
-22 So and more also do God to the enemies of David, if I leave of all that pertain to him by the morning light any that pisss against the wall.
+22 So and more also do God to the enemies of David, if I leave of all that pertain to him by the morning light any that pisses against the wall.
 
 23 And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,
 
@@ -1414,7 +1414,7 @@
 
 33 And blessed be your advice, and blessed be you, which have kept me this day from coming to shed blood, and from avenging myself with mine own hand.
 
-34 For in very deed, as the Lord God of Israel lives, which has kept me back from hurting you, except you had hasted and come to meet me, surely there had not been left to Nabal by the morning light any that pisss against the wall.
+34 For in very deed, as the Lord God of Israel lives, which has kept me back from hurting you, except you had hasted and come to meet me, surely there had not been left to Nabal by the morning light any that pisses against the wall.
 
 35 So David received of her hand that which she had brought him, and said to her, Go up in peace to your house; see, I have listened to your voice, and have accepted your person.
 
@@ -1638,7 +1638,7 @@
 
 23 Then said David, you will not do so, my brothers, with that which the Lord has given us, who has preserved us, and delivered the company that came against us into our hand.
 
-24 For who will listen to you in this matter? but as his part is that goes down to the battle, so will his part be that tarris by the stuff: they will part alike.
+24 For who will listen to you in this matter? but as his part is that goes down to the battle, so will his part be that tarries by the stuff: they will part alike.
 
 25 And it was so from that day forward, that he made it a statute and an ordinance for Israel to this day.
 

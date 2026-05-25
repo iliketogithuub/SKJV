@@ -116,7 +116,7 @@
 
 6 He that has an ear, let him hear what the Spirit says to the churches.
 
-7 And to the angel of the church in Philadelphia write; These things says he that is holy, he that is true, he that has the key of David, he that opens, and no man shutts; and shutts, and no man opens;
+7 And to the angel of the church in Philadelphia write; These things says he that is holy, he that is true, he that has the key of David, he that opens, and no man shuts; and shuts, and no man opens;
 
 8 I know your works: look, I have set before you an open door, and no man can shut it: for you have a little strength, and have kept my word, and have not denied my name.
 
@@ -198,7 +198,7 @@
 
 12 Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 
-13 And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be to him that sitts upon the throne, and to the Lamb for ever and ever.
+13 And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be to him that sits upon the throne, and to the Lamb for ever and ever.
 
 14 And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that lives for ever and ever.
 
@@ -234,7 +234,7 @@
 
 15 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
 
-16 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitts on the throne, and from the wrath of the Lamb:
+16 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sits on the throne, and from the wrath of the Lamb:
 
 17 For the great day of his wrath is come; and who will be able to stand?
 
@@ -258,7 +258,7 @@
 
 9 After this I looked, and, look, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
 
-10 And cried with a loud voice, saying, Salvation to our God which sitts upon the throne, and to the Lamb.
+10 And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and to the Lamb.
 
 11 And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
 
@@ -268,7 +268,7 @@
 
 14 And I said to him, Sir, you know. And he said to me, These are they which came out of great suffering, and have washed their robes, and made them white in the blood of the Lamb.
 
-15 Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitts on the throne will dwell among them.
+15 Therefore are they before the throne of God, and serve him day and night in his temple: and he that sits on the throne will dwell among them.
 
 16 They will hunger no more, neither thirst any more; neither will the sun light on them, nor any heat.
 
@@ -590,7 +590,7 @@
 
 ## Revelation Chapter 17
 
-1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great whore that sitts upon many waters:
+1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great whore that sits upon many waters:
 
 2 With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 
@@ -602,11 +602,11 @@
 
 6 And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 
-7 And the angel said to me, therefore did you marvel? I will tell you the mystery of the woman, and of the beast that carris her, which has the seven heads and ten horns.
+7 And the angel said to me, therefore did you marvel? I will tell you the mystery of the woman, and of the beast that carries her, which has the seven heads and ten horns.
 
 8 The beast that you saw was, and is not; and will ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth will wonder, whose names were not written in the book of life from the foundation of the world, when they look at the beast that was, and is not, and yet is.
 
-9 And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sitts.
+9 And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sits.
 
 10 And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he comes, he must continue a short space.
 
@@ -618,7 +618,7 @@
 
 14 These will make war with the Lamb, and the Lamb will overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
 
-15 And he says to me, The waters which you saw, where the whore sitts, are peoples, and multitudes, and nations, and tongues.
+15 And he says to me, The waters which you saw, where the whore sits, are peoples, and multitudes, and nations, and tongues.
 
 16 And the ten horns which you saw upon the beast, these will hate the whore, and will make her desolate and naked, and will eat her flesh, and burn her with fire.
 
@@ -784,7 +784,7 @@
 
 15 And he that talked with me had a golden reed to measure the city, and the gates of it, and the wall of it.
 
-16 And the city lis foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
+16 And the city lies foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
 
 17 And he measured the wall of it, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel.
 
@@ -848,7 +848,7 @@
 
 19 And if any man will take away from the words of the book of this prophecy, God will take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
 
-20 He which testifis these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+20 He which testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
 
 21 The grace of our Lord Jesus Christ be with you all. Amen.
 

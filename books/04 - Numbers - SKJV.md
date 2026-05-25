@@ -102,7 +102,7 @@
 
 50 But you will appoint the Levites over the tabernacle of testimony, and over all the vessels of it, and over all things that belong to it: they will bear the tabernacle, and all the vessels of it; and they will minister to it, and will encamp round about the tabernacle.
 
-51 And when the tabernacle setts forward, the Levites will take it down: and when the tabernacle is to be pitched, the Levites will set it up: and the stranger that comes near will be put to death.
+51 And when the tabernacle sets forward, the Levites will take it down: and when the tabernacle is to be pitched, the Levites will set it up: and the stranger that comes near will be put to death.
 
 52 And the children of Israel will pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
 
@@ -294,7 +294,7 @@
 
 4 This will be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things:
 
-5 And when the camp setts forward, Aaron will come, and his sons, and they will take down the covering vail, and cover the ark of testimony with it:
+5 And when the camp sets forward, Aaron will come, and his sons, and they will take down the covering vail, and cover the ark of testimony with it:
 
 6 And will put thereon the covering of badgers' skins, and will spread over it a cloth wholly of blue, and will put in the staves of it.
 
@@ -804,11 +804,11 @@
 
 8 And the sons of Aaron, the priests, will blow with the trumpets; and they will be to you for an ordinance for ever throughout your generations.
 
-9 And if you go to war in your land against the enemy that oppresss you, then you will blow an alarm with the trumpets; and you will be remembered before the Lord your God, and you will be saved from your enemies.
+9 And if you go to war in your land against the enemy that oppresses you, then you will blow an alarm with the trumpets; and you will be remembered before the Lord your God, and you will be saved from your enemies.
 
 10 Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, you will blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the Lord your God.
 
-11 And it came to pass on the twentis day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
+11 And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
 
 12 And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.
 
@@ -1182,9 +1182,9 @@
 
 27 And if any soul sin through ignorance, then he will bring a she goat of the first year for a sin offering.
 
-28 And the priest will make an atonement for the soul that sinns ignorantly, when he sinns by ignorance before the Lord, to make an atonement for him; and it will be forgiven him.
+28 And the priest will make an atonement for the soul that sins ignorantly, when he sins by ignorance before the Lord, to make an atonement for him; and it will be forgiven him.
 
-29 you will have one law for him that sinns through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourns among them.
+29 you will have one law for him that sins through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourns among them.
 
 30 But the soul that does ought presumptuously, whether he be born in the land, or a stranger, the same reproachs the Lord; and that soul will be cut off from among his people.
 
@@ -1432,7 +1432,7 @@
 
 12 He will purify himself with it on the third day, and on the seventh day he will be clean: but if he purify not himself the third day, then the seventh day he will not be clean.
 
-13 Whosoever touchs the dead body of any man that is dead, and purifis not himself, defiles the tabernacle of the Lord; and that soul will be cut off from Israel: because the water of separation was not sprinkled upon him, he will be unclean; his uncleanness is yet upon him.
+13 Whosoever touchs the dead body of any man that is dead, and purifies not himself, defiles the tabernacle of the Lord; and that soul will be cut off from Israel: because the water of separation was not sprinkled upon him, he will be unclean; his uncleanness is yet upon him.
 
 14 This is the law, when a man dies in a tent: all that come into the tent, and all that is in the tent, will be unclean seven days.
 
@@ -1542,7 +1542,7 @@
 
 14 therefore it is said in the book of the wars of the Lord, What he did in the Red sea, and in the brooks of Arnon,
 
-15 And at the stream of the brooks that goes down to the dwelling of Ar, and lis upon the border of Moab.
+15 And at the stream of the brooks that goes down to the dwelling of Ar, and lies upon the border of Moab.
 
 16 And from from there they went to Beer: that is the well whereof the Lord spoke to Moses, Gather the people together, and I will give them water.
 
@@ -1660,7 +1660,7 @@
 
 37 And Balak said to Balaam, Did I not earnestly send to you to call you? therefore cam you not to me? am I not able indeed to promote you to honour?
 
-38 And Balaam said to Balak, Look, I am come to you: have I now any power at all to say any thing? the word that God putts in my mouth, that will I speak.
+38 And Balaam said to Balak, Look, I am come to you: have I now any power at all to say any thing? the word that God puts in my mouth, that will I speak.
 
 39 And Balaam went with Balak, and they came to Kirjathhuzoth.
 
@@ -1748,7 +1748,7 @@
 
 8 God brought him forth out of Egypt; he has as it were the strength of an unicorn: he will eat up the nations his enemies, and will break their bones, and pierce them through with his arrows.
 
-9 He couched, he lay down as a lion, and as a great lion: who will stir him up? Blessed is he that blesss you, and cursed is he that curss you.
+9 He couched, he lay down as a lion, and as a great lion: who will stir him up? Blessed is he that blesses you, and cursed is he that curss you.
 
 10 And Balak's anger was kindled against Balaam, and he struck his hands together: and Balak said to Balaam, I called you to curse mine enemies, and, look, you have altogether blessed them these three times.
 
@@ -2452,7 +2452,7 @@
 
 37 And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
 
-38 And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortis year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
+38 And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
 
 39 And Aaron was an hundred and twenty and three years old when he died in mount Hor.
 
@@ -2636,7 +2636,7 @@
 
 7 So will not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel will keep himself to the inheritance of the tribe of his fathers.
 
-8 And every daughter, that possesss an inheritance in any tribe of the children of Israel, will be wife to one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
+8 And every daughter, that possesses an inheritance in any tribe of the children of Israel, will be wife to one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
 
 9 Neither will the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel will keep himself to his own inheritance.
 

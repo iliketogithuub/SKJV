@@ -110,7 +110,7 @@
 
 10 And Joshua said, Hereby you will know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
 
-11 Look, the ark of the covenant of the Lord of all the earth passs over before you into Jordan.
+11 Look, the ark of the covenant of the Lord of all the earth passes over before you into Jordan.
 
 12 Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man.
 
@@ -746,7 +746,7 @@
 
 7 And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out of it were at Enrogel:
 
-8 And the border went up by the valley of the son of Hinnom to the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lis before the valley of Hinnom westward, which is at the end of the valley of the giants northward:
+8 And the border went up by the valley of the son of Hinnom to the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lies before the valley of Hinnom westward, which is at the end of the valley of the giants northward:
 
 9 And the border was drawn from the top of the hill to the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which is Kirjathjearim:
 
@@ -862,7 +862,7 @@
 
 1 And the lot of the children of Joseph fell from Jordan by Jericho, to the water of Jericho on the east, to the wilderness that goes up from Jericho throughout mount Bethel,
 
-2 And goes out from Bethel to Luz, and passs along to the borders of Archi to Ataroth,
+2 And goes out from Bethel to Luz, and passes along to the borders of Archi to Ataroth,
 
 3 And goes down westward to the coast of Japhleti, to the coast of Bethhoron the nether, and to Gezer; and the goings out of it are at the sea.
 
@@ -894,7 +894,7 @@
 
 6 Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh's sons had the land of Gilead.
 
-7 And the coast of Manasseh was from Asher to Michmethah, that lis before Shechem; and the border went along on the right hand to the inhabitants of Entappuah.
+7 And the coast of Manasseh was from Asher to Michmethah, that lies before Shechem; and the border went along on the right hand to the inhabitants of Entappuah.
 
 8 Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;
 
@@ -944,13 +944,13 @@
 
 12 And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out of it were at the wilderness of Bethaven.
 
-13 And the border went over from from there toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lis on the south side of the nether Bethhoron.
+13 And the border went over from from there toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lies on the south side of the nether Bethhoron.
 
-14 And the border was drawn from there, and compassed the corner of the sea southward, from the hill that lis before Bethhoron southward; and the goings out of it were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.
+14 And the border was drawn from there, and compassed the corner of the sea southward, from the hill that lies before Bethhoron southward; and the goings out of it were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.
 
 15 And the south quarter was from the end of Kirjathjearim, and the border went out on the west, and went out to the well of waters of Nephtoah:
 
-16 And the border came down to the end of the mountain that lis before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,
+16 And the border came down to the end of the mountain that lies before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,
 
 17 And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which is over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
 
@@ -1002,9 +1002,9 @@
 
 12 And turned from Sarid eastward toward the sunrising to the border of Chislothtabor, and then goes out to Daberath, and goes up to Japhia,
 
-13 And from from there passs on along on the east to Gittahhepher, to Ittahkazin, and goes out to Remmonmethoar to Neah;
+13 And from from there passes on along on the east to Gittahhepher, to Ittahkazin, and goes out to Remmonmethoar to Neah;
 
-14 And the border compasss it on the north side to Hannathon: and the outgoings of it are in the valley of Jiphthahel:
+14 And the border compasses it on the north side to Hannathon: and the outgoings of it are in the valley of Jiphthahel:
 
 15 And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
 

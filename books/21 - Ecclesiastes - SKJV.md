@@ -8,7 +8,7 @@
 
 3 What profit has a man of all his labour which he takes under the sun?
 
-4 One generation passs away, and another generation comes: but the earth abides for ever.
+4 One generation passes away, and another generation comes: but the earth abides for ever.
 
 5 The sun also arises, and the sun goes down, and hasts to his place where he arose.
 
@@ -64,7 +64,7 @@
 
 12 And I turned myself to see wisdom, and madness, and folly: for what can the man do that comes after the king? even that which has been already done.
 
-13 Then I saw that wisdom excells folly, as far as light excells darkness.
+13 Then I saw that wisdom excels folly, as far as light excels darkness.
 
 14 The wise man's eyes are in his head; but the fool walks in darkness: and I myself perceived also that one event happens to them all.
 
@@ -200,7 +200,7 @@
 
 13 There is a sore evil which I have seen under the sun, namely, riches kept for the owners of it to their hurt.
 
-14 But those riches perish by misfortune: and he begetts a son, and there is nothing in his hand.
+14 But those riches perish by misfortune: and he begets a son, and there is nothing in his hand.
 
 15 As he came forth of his mother's womb, naked will he return to go as he came, and will take nothing of his labour, which he may carry away in his hand.
 
@@ -280,7 +280,7 @@
 
 19 Wisdom strengthens the wise more than ten mighty men which are in the city.
 
-20 For there is not a just man upon earth, that does good, and sinns not.
+20 For there is not a just man upon earth, that does good, and sins not.
 
 21 Also take no heed to all words that are spoken; otherwise you hear your servant curse you:
 
@@ -382,7 +382,7 @@
 
 3 Yea also, when he that is a fool walks by the way, his wisdom fails him, and he says to every one that he is a fool.
 
-4 If the spirit of the ruler rise up against you, leave not your place; for yielding pacifis great offences.
+4 If the spirit of the ruler rise up against you, leave not your place; for yielding pacifies great offences.
 
 5 There is an evil which I have seen under the sun, as an error which proceeds from the ruler:
 
@@ -390,7 +390,7 @@
 
 7 I have seen servants upon horses, and princes walking as servants upon the earth.
 
-8 He that diggs a pit will fall into it; and whoso breaks an hedge, a serpent will bite him.
+8 He that digs a pit will fall into it; and whoso breaks an hedge, a serpent will bite him.
 
 9 Whoso removes stones will be hurt with it; and he that cleavs wood will be endangered by that.
 
@@ -404,13 +404,13 @@
 
 14 A fool also is full of words: a man cannot tell what will be; and what will be after him, who can tell him?
 
-15 The labour of the foolish wearis every one of them, because he knows not how to go to the city.
+15 The labour of the foolish wearies every one of them, because he knows not how to go to the city.
 
 16 Woe to you, O land, when your king is a child, and your princes eat in the morning!
 
 17 Blessed are you, O land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!
 
-18 By much slothfulness the building decays; and through idleness of the hands the house dropps through.
+18 By much slothfulness the building decays; and through idleness of the hands the house drops through.
 
 19 A feast is made for laughter, and wine makes merry: but money answers all things.
 

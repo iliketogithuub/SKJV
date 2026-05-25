@@ -46,7 +46,7 @@
 
 3 you therefore endure hardness, as a good soldier of Jesus Christ.
 
-4 No man that warrs entangls himself with the affairs of this life; that he may please him who has chosen him to be a soldier.
+4 No man that wars entangls himself with the affairs of this life; that he may please him who has chosen him to be a soldier.
 
 5 And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
 

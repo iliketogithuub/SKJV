@@ -30,11 +30,11 @@
 
 14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
 
-15 In the four and twentis day of the sixth month, in the second year of Darius the king.
+15 In the four and twentieth day of the sixth month, in the second year of Darius the king.
 
 ## Haggai Chapter 2
 
-1 In the seventh month, in the one and twentis day of the month, came the word of the Lord by the prophet Haggai, saying,
+1 In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,
 
 2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
 
@@ -52,7 +52,7 @@
 
 9 The glory of this latter house will be greater than of the former, says the Lord of hosts: and in this place will I give peace, says the Lord of hosts.
 
-10 In the four and twentis day of the ninth month, in the second year of Darius, came the word of the Lord by Haggai the prophet, saying,
+10 In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the Lord by Haggai the prophet, saying,
 
 11 Thus says the Lord of hosts; Ask now the priests concerning the law, saying,
 
@@ -68,11 +68,11 @@
 
 17 I struck you with blasting and with mildew and with hail in all the labours of your hands; yet you turned not to me, says the Lord.
 
-18 Consider now from this day and upward, from the four and twentis day of the ninth month, even from the day that the foundation of the Lord's temple was laid, consider it.
+18 Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the Lord's temple was laid, consider it.
 
 19 Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, has not brought forth: from this day will I bless you.
 
-20 And again the word of the Lord came to Haggai in the four and twentis day of the month, saying,
+20 And again the word of the Lord came to Haggai in the four and twentieth day of the month, saying,
 
 21 Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;
 

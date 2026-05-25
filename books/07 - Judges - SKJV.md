@@ -32,7 +32,7 @@
 
 15 And she said to him, Give me a blessing: for you have given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs.
 
-16 And the children of the Kenite, Moses' father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lis in the south of Arad; and they went and dwelt among the people.
+16 And the children of the Kenite, Moses' father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lies in the south of Arad; and they went and dwelt among the people.
 
 17 And Judah went with Simeon his brother, and they killed the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.
 
@@ -392,7 +392,7 @@
 
 4 And the Lord said to Gideon, The people are yet too many; bring them down to the water, and I will try them for you there: and it will be, that of whom I say to you, This will go with you, the same will go with you; and of whomsoever I say to you, This will not go with you, the same will not go.
 
-5 So he brought down the people to the water: and the Lord said to Gideon, Every one that lapps of the water with his tongue, as a dog lapps, him will you set by himself; likewise every one that bows down upon his knees to drink.
+5 So he brought down the people to the water: and the Lord said to Gideon, Every one that laps of the water with his tongue, as a dog laps, him will you set by himself; likewise every one that bows down upon his knees to drink.
 
 6 And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
 
@@ -920,9 +920,9 @@
 
 4 And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah.
 
-5 And the lords of the Philistines came up to her, and said to her, Entice him, and see in which his great strength lis, and by what means we may prevail against him, that we may bind him to afflict him; and we will give you every one of us eleven hundred pieces of silver.
+5 And the lords of the Philistines came up to her, and said to her, Entice him, and see in which his great strength lies, and by what means we may prevail against him, that we may bind him to afflict him; and we will give you every one of us eleven hundred pieces of silver.
 
-6 And Delilah said to Samson, Tell me, I pray you, in which your great strength lis, and with what you might be bound to afflict you.
+6 And Delilah said to Samson, Tell me, I pray you, in which your great strength lies, and with what you might be bound to afflict you.
 
 7 And Samson said to her, If they bind me with seven green withs that were never dried, then will I be weak, and be as another man.
 
@@ -940,7 +940,7 @@
 
 14 And she fastened it with the pin, and said to him, The Philistines be upon you, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
 
-15 And she said to him, How can you say, I love you, when your heart is not with me? you have mocked me these three times, and have not told me in which your great strength lis.
+15 And she said to him, How can you say, I love you, when your heart is not with me? you have mocked me these three times, and have not told me in which your great strength lies.
 
 16 And it came to pass, when she pressed him daily with her words, and urged him, so that his soul was vexed to death;
 
@@ -1058,7 +1058,7 @@
 
 27 And they took the things which Micah had made, and the priest which he had, and came to Laish, to a people that were at quiet and secure: and they struck them with the edge of the sword, and burnt the city with fire.
 
-28 And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lis by Bethrehob. And they built a city, and dwelt in it.
+28 And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lies by Bethrehob. And they built a city, and dwelt in it.
 
 29 And they called the name of the city Dan, after the name of Dan their father, who was born to Israel: however the name of the city was Laish at the first.
 

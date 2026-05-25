@@ -6,7 +6,7 @@
 
 2 (There are eleven days' journey from Horeb by the way of mount Seir to Kadeshbarnea.)
 
-3 And it came to pass in the fortis year, in the eleventh month, on the first day of the month, that Moses spoke to the children of Israel, according to all that the Lord had given him in commandment to them;
+3 And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke to the children of Israel, according to all that the Lord had given him in commandment to them;
 
 4 After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
 
@@ -264,7 +264,7 @@
 
 16 otherwise you corrupt yourselves, and make you a graven image, the likeness of any figure, the likeness of male or female,
 
-17 The likeness of any beast that is on the earth, the likeness of any winged fowl that flis in the air,
+17 The likeness of any beast that is on the earth, the likeness of any winged fowl that flies in the air,
 
 18 The likeness of any thing that creeps on the ground, the likeness of any fish that is in the waters beneath the earth:
 
@@ -860,7 +860,7 @@
 
 18 And the stork, and the heron after her kind, and the lapwing, and the bat.
 
-19 And every creeping thing that flis is unclean to you: they will not be eaten.
+19 And every creeping thing that flies is unclean to you: they will not be eaten.
 
 20 But of all clean fowls you may eat.
 
@@ -894,7 +894,7 @@
 
 5 Only if you carefully listen to the voice of the Lord your God, to observe to do all these commandments which I command you this day.
 
-6 For the Lord your God blesss you, as he promised you: and you will lend to many nations, but you will not borrow; and you will reign over many nations, but they will not reign over you.
+6 For the Lord your God blesses you, as he promised you: and you will lend to many nations, but you will not borrow; and you will reign over many nations, but they will not reign over you.
 
 7 If there be among you a poor man of one of your brothers within any of your gates in your land which the Lord your God gives you, you will not harden your heart, nor shut your hand from your poor brother:
 
@@ -1012,7 +1012,7 @@
 
 17 Neither will he multiply wives to himself, that his heart turn not away: neither will he greatly multiply to himself silver and gold.
 
-18 And it will be, when he sitts upon the throne of his kingdom, that he will write him a copy of this law in a book out of that which is before the priests the Levites:
+18 And it will be, when he sits upon the throne of his kingdom, that he will write him a copy of this law in a book out of that which is before the priests the Levites:
 
 19 And it will be with him, and he will read in it all the days of his life: that he may learn to fear the Lord his God, to keep all the words of this law and these statutes, to do them:
 
@@ -1074,7 +1074,7 @@
 
 4 And this is the case of the slayer, which will flee there, that he may live: Whoso kills his neighbour ignorantly, whom he hated not in time past;
 
-5 As when a man goes into the wood with his neighbour to hew wood, and his hand fetchs a stroke with the axe to cut down the tree, and the head slipps from the helve, and lights upon his neighbour, that he die; he will flee to one of those cities, and live:
+5 As when a man goes into the wood with his neighbour to hew wood, and his hand fetchs a stroke with the axe to cut down the tree, and the head slips from the helve, and lights upon his neighbour, that he die; he will flee to one of those cities, and live:
 
 6 otherwise the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, since as he hated him not in time past.
 
@@ -1094,7 +1094,7 @@
 
 14 you will not remove your neighbour's landmark, which they of old time have set in your inheritance, which you will inherit in the land that the Lord your God gives you to possess it.
 
-15 One witness will not rise up against a man for any iniquity, or for any sin, in any sin that he sinns: at the mouth of two witnesses, or at the mouth of three witnesses, will the matter be established.
+15 One witness will not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, will the matter be established.
 
 16 If a false witness rise up against any man to testify against him that which is wrong;
 
@@ -1342,7 +1342,7 @@
 
 14 you will not oppress an hired servant that is poor and needy, whether he be of your brothers, or of your strangers that are in your land within your gates:
 
-15 At his day you will give him his hire, neither will the sun go down upon it; for he is poor, and setts his heart upon it: otherwise he cry against you to the Lord, and it be sin to you.
+15 At his day you will give him his hire, neither will the sun go down upon it; for he is poor, and sets his heart upon it: otherwise he cry against you to the Lord, and it be sin to you.
 
 16 The fathers will not be put to death for the children, neither will the children be put to death for the fathers: every man will be put to death for his own sin.
 
@@ -1380,7 +1380,7 @@
 
 10 And his name will be called in Israel, The house of him that has his shoe loosed.
 
-11 When men strive together one with another, and the wife of the one draws near for to deliver her husband out of the hand of him that smits him, and putts forth her hand, and takes him by the secrets:
+11 When men strive together one with another, and the wife of the one draws near for to deliver her husband out of the hand of him that smits him, and puts forth her hand, and takes him by the secrets:
 
 12 Then you will cut off her hand, your eye will not pity her.
 
@@ -1468,9 +1468,9 @@
 
 14 And the Levites will speak, and say to all the men of Israel with a loud voice,
 
-15 Cursed be the man that makes any graven or melted image, an abomination to the Lord, the work of the hands of the craftsman, and putts it in a secret place. And all the people will answer and say, Amen.
+15 Cursed be the man that makes any graven or melted image, an abomination to the Lord, the work of the hands of the craftsman, and puts it in a secret place. And all the people will answer and say, Amen.
 
-16 Cursed be he that setts light by his father or his mother. And all the people will say, Amen.
+16 Cursed be he that sets light by his father or his mother. And all the people will say, Amen.
 
 17 Cursed be he that removes his neighbour's landmark. And all the people will say, Amen.
 
@@ -1478,13 +1478,13 @@
 
 19 Cursed be he that perverts the judgment of the stranger, fatherless, and widow. And all the people will say, Amen.
 
-20 Cursed be he that lis with his father's wife; because he uncovers his father's skirt. And all the people will say, Amen.
+20 Cursed be he that lies with his father's wife; because he uncovers his father's skirt. And all the people will say, Amen.
 
-21 Cursed be he that lis with any manner of beast. And all the people will say, Amen.
+21 Cursed be he that lies with any manner of beast. And all the people will say, Amen.
 
-22 Cursed be he that lis with his sister, the daughter of his father, or the daughter of his mother. And all the people will say, Amen.
+22 Cursed be he that lies with his sister, the daughter of his father, or the daughter of his mother. And all the people will say, Amen.
 
-23 Cursed be he that lis with his mother in law. And all the people will say, Amen.
+23 Cursed be he that lies with his mother in law. And all the people will say, Amen.
 
 24 Cursed be he that smits his neighbour secretly. And all the people will say, Amen.
 
@@ -1590,7 +1590,7 @@
 
 48 Therefore will you serve your enemies which the Lord will send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he will put a yoke of iron upon your neck, until he have destroyed you.
 
-49 The Lord will bring a nation against you from far, from the end of the earth, as swift as the eagle flis; a nation whose tongue you will not understand;
+49 The Lord will bring a nation against you from far, from the end of the earth, as swift as the eagle flies; a nation whose tongue you will not understand;
 
 50 A nation of fierce countenance, which will not regard the person of the old, nor show favour to the young:
 
@@ -1816,7 +1816,7 @@
 
 10 He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
 
-11 As an eagle stirrs up her nest, flutters over her young, spreads abroad her wings, takes them, bears them on her wings:
+11 As an eagle stirs up her nest, flutters over her young, spreads abroad her wings, takes them, bears them on her wings:
 
 12 So the Lord alone did lead him, and there was no strange god with him.
 

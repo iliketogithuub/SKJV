@@ -204,7 +204,7 @@
 
 15 But he saves the poor from the sword, from their mouth, and from the hand of the mighty.
 
-16 So the poor has hope, and iniquity stopps her mouth.
+16 So the poor has hope, and iniquity stops her mouth.
 
 17 Look, happy is the man whom God corrects: therefore despise not you the chastening of the Almighty:
 
@@ -402,7 +402,7 @@
 
 10 Which does great things past finding out; yea, and wonders without number.
 
-11 Look, he goes by me, and I see him not: he passs on also, but I perceive him not.
+11 Look, he goes by me, and I see him not: he passes on also, but I perceive him not.
 
 12 Look, he takes away, who can hinder him? who will say to him, What do you?
 
@@ -414,7 +414,7 @@
 
 16 If I had called, and he had answered me; yet would I not believe that he had listened to my voice.
 
-17 For he breaks me with a tempest, and multiplis my wounds without cause.
+17 For he breaks me with a tempest, and multiplies my wounds without cause.
 
 18 He will not suffer me to take my breath, but fills me with bitterness.
 
@@ -568,7 +568,7 @@
 
 13 With him is wisdom and strength, he has counsel and understanding.
 
-14 Look, he breaks down, and it cannot be built again: he shutts up a man, and there can be no opening.
+14 Look, he breaks down, and it cannot be built again: he shuts up a man, and there can be no opening.
 
 15 Look, he withholds the waters, and they dry up: also he sends them out, and they overturn the earth.
 
@@ -672,9 +672,9 @@
 
 10 But man dies, and wasts away: yea, man gives up the ghost, and where is he?
 
-11 As the waters fail from the sea, and the flood decays and dris up:
+11 As the waters fail from the sea, and the flood decays and dries up:
 
-12 So man lis down, and riss not: till the heavens be no more, they will not awake, nor be raised out of their sleep.
+12 So man lies down, and riss not: till the heavens be no more, they will not awake, nor be raised out of their sleep.
 
 13 O that you would hide me in the grave, that you would keep me secret, until your wrath be past, that you would appoint me a set time, and remember me!
 
@@ -690,7 +690,7 @@
 
 19 The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroy the hope of man.
 
-20 you prevail for ever against him, and he passs: you chang his countenance, and send him away.
+20 you prevail for ever against him, and he passes: you chang his countenance, and send him away.
 
 21 His sons come to honour, and he knows it not; and they are brought low, but he perceives it not of them.
 
@@ -706,7 +706,7 @@
 
 4 Yea, you cast off fear, and restrain prayer before God.
 
-5 For your mouth utters your iniquity, and you choos the tongue of the crafty.
+5 For your mouth utters your iniquity, and you chooses the tongue of the crafty.
 
 6 your own mouth condemns you, and not I: yea, your own lips testify against you.
 
@@ -726,7 +726,7 @@
 
 14 What is man, that he should be clean? and he which is born of a woman, that he should be righteous?
 
-15 Look, he putts no trust in his saints; yea, the heavens are not clean in his sight.
+15 Look, he puts no trust in his saints; yea, the heavens are not clean in his sight.
 
 16 How much more abominable and filthy is man, which drinks iniquity like water?
 
@@ -748,7 +748,7 @@
 
 25 For he stretchs out his hand against God, and strengthens himself against the Almighty.
 
-26 He runns upon him, even on his neck, upon the thick bosses of his bucklers:
+26 He runs upon him, even on his neck, upon the thick bosses of his bucklers:
 
 27 Because he covers his face with his fatness, and makes collops of fat on his flanks.
 
@@ -796,7 +796,7 @@
 
 13 His archers compass me round about, he cleavs my reins apart, and does not spare; he pours out my gall upon the ground.
 
-14 He breaks me with breach upon breach, he runns upon me like a giant.
+14 He breaks me with breach upon breach, he runs upon me like a giant.
 
 15 I have sewed sackcloth upon my skin, and defiled my horn in the dust.
 
@@ -1048,7 +1048,7 @@
 
 17 How often is the candle of the wicked put out! and how often comes their destruction upon them! God distributs sorrows in his anger.
 
-18 They are as stubble before the wind, and as chaff that the storm carris away.
+18 They are as stubble before the wind, and as chaff that the storm carries away.
 
 19 God lays up his iniquity for his children: he rewards him, and he will know it.
 
@@ -1204,7 +1204,7 @@
 
 11 Which make oil within their walls, and tread their winepresses, and suffer thirst.
 
-12 Men groan from out of the city, and the soul of the wounded cris out: yet God lays not folly to them.
+12 Men groan from out of the city, and the soul of the wounded cries out: yet God lays not folly to them.
 
 13 They are of those that rebel against the light; they know not the ways of it, nor abide in the paths of it.
 
@@ -1318,7 +1318,7 @@
 
 20 Terrors take hold on him as waters, a tempest steals him away in the night.
 
-21 The east wind carris him away, and he departs: and as a storm hurls him out of his place.
+21 The east wind carries him away, and he departs: and as a storm hurls him out of his place.
 
 22 For God will cast upon him, and not spare: he would fain flee out of his hand.
 
@@ -1330,7 +1330,7 @@
 
 2 Iron is taken out of the earth, and brass is melted out of the stone.
 
-3 He setts an end to darkness, and searchs out all perfection: the stones of darkness, and the shadow of death.
+3 He sets an end to darkness, and searchs out all perfection: the stones of darkness, and the shadow of death.
 
 4 The flood breaks out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.
 
@@ -1342,9 +1342,9 @@
 
 8 The lion's whelps have not trodden it, nor the fierce lion passed by it.
 
-9 He putts forth his hand upon the rock; he overturns the mountains by the roots.
+9 He puts forth his hand upon the rock; he overturns the mountains by the roots.
 
-10 He cutts out rivers among the rocks; and his eye sees every precious thing.
+10 He cuts out rivers among the rocks; and his eye sees every precious thing.
 
 11 He binds the floods from overflowing; and the thing that is hid brings he forth to light.
 
@@ -1464,7 +1464,7 @@
 
 14 They came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me.
 
-15 Terrors are turned upon me: they pursue my soul as the wind: and my welfare passs away as a cloud.
+15 Terrors are turned upon me: they pursue my soul as the wind: and my welfare passes away as a cloud.
 
 16 And now my soul is poured out upon me; the days of affliction have taken hold upon me.
 
@@ -1648,7 +1648,7 @@
 
 10 Look, he finds occasions against me, he counts me for his enemy,
 
-11 He putts my feet in the stocks, he marks all my paths.
+11 He puts my feet in the stocks, he marks all my paths.
 
 12 Look, in this you are not just: I will answer you, that God is greater than man.
 
@@ -1666,7 +1666,7 @@
 
 19 He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:
 
-20 So that his life abhorrs bread, and his soul dainty meat.
+20 So that his life abhors bread, and his soul dainty meat.
 
 21 His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.
 
@@ -1700,7 +1700,7 @@
 
 2 Hear my words, O you wise men; and give ear to me, you that have knowledge.
 
-3 For the ear tris words, as the mouth tasts meat.
+3 For the ear tries words, as the mouth tasts meat.
 
 4 Let us choose to us judgment: let us know among ourselves what is good.
 
@@ -1768,7 +1768,7 @@
 
 36 My desire is that Job may be tried to the end because of his answers for wicked men.
 
-37 For he adds rebellion to his sin, he clapps his hands among us, and multiplis his words against God.
+37 For he adds rebellion to his sin, he claps his hands among us, and multiplies his words against God.
 
 ## Job Chapter 35
 
@@ -1802,7 +1802,7 @@
 
 15 But now, because it is not so, he has visited in his anger; yet he knows it not in great extremity:
 
-16 Therefore does Job open his mouth in vain; he multiplis words without knowledge.
+16 Therefore does Job open his mouth in vain; he multiplies words without knowledge.
 
 ## Job Chapter 36
 
@@ -1894,7 +1894,7 @@
 
 10 By the breath of God frost is given: and the breadth of the waters is straitened.
 
-11 Also by watering he wearis the thick cloud: he scatters his bright cloud:
+11 Also by watering he wearies the thick cloud: he scatters his bright cloud:
 
 12 And it is turned round about by his counsels: that they may do whatsoever he commands them upon the face of the world in the earth.
 
@@ -1914,7 +1914,7 @@
 
 20 will it be told him that I speak? if a man speak, surely he will be swallowed up.
 
-21 And now men see not the bright light which is in the clouds: but the wind passs, and cleanss them.
+21 And now men see not the bright light which is in the clouds: but the wind passes, and cleanss them.
 
 22 Fair weather comes out of the north: with God is terrible majesty.
 
@@ -2036,7 +2036,7 @@
 
 14 Which leavs her eggs in the earth, and warms them in dust,
 
-15 And forgetts that the foot may crush them, or that the wild beast may break them.
+15 And forgets that the foot may crush them, or that the wild beast may break them.
 
 16 She is hardened against her young ones, as though they were not her's: her labour is in vain without fear;
 
@@ -2110,7 +2110,7 @@
 
 20 Surely the mountains bring him forth food, where all the beasts of the field play.
 
-21 He lis under the shady trees, in the covert of the reed, and fens.
+21 He lies under the shady trees, in the covert of the reed, and fens.
 
 22 The shady trees cover him with their shadow; the willows of the brook compass him about.
 

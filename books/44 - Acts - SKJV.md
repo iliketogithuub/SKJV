@@ -1024,7 +1024,7 @@
 
 5 And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,
 
-6 They were ware of it, and fled to Lystra and Derbe, cities of Lycaonia, and to the region that lis round about:
+6 They were ware of it, and fled to Lystra and Derbe, cities of Lycaonia, and to the region that lies round about:
 
 7 And there they preached the gospel.
 
@@ -1418,7 +1418,7 @@
 
 26 Moreover you see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul has persuaded and turned away much people, saying that they be no gods, which are made with hands:
 
-27 So that not only this our craft is in danger to be set at nothing; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshipps.
+27 So that not only this our craft is in danger to be set at nothing; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worships.
 
 28 And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.
 
@@ -1494,7 +1494,7 @@
 
 22 And now, look, I go bound in the spirit to Jerusalem, not knowing the things that will befall me there:
 
-23 Save that the Holy Spirit witnesss in every city, saying that bonds and afflictions abide me.
+23 Save that the Holy Spirit witnesses in every city, saying that bonds and afflictions abide me.
 
 24 But none of these things move me, neither count I my life dear to myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
 
@@ -1944,7 +1944,7 @@
 
 11 Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.
 
-12 And because the haven was not commodious to winter in, the more part advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lis toward the south west and north west.
+12 And because the haven was not commodious to winter in, the more part advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lies toward the south west and north west.
 
 13 And when the south wind blew softly, supposing that they had obtained their purpose, loosing from there, they sailed close by Crete.
 

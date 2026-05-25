@@ -52,7 +52,7 @@
 
 10 For it became him, for whom are all things, and by whom are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings.
 
-11 For both he that sanctifis and they who are sanctified are all of one: for which cause he is not ashamed to call them brothers,
+11 For both he that sanctifies and they who are sanctified are all of one: for which cause he is not ashamed to call them brothers,
 
 12 Saying, I will declare your name to my brothers, in the midst of the church will I sing praise to you.
 
@@ -248,7 +248,7 @@
 
 16 Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 
-17 For he testifis, you are a priest for ever after the order of Melchisedec.
+17 For he testifies, you are a priest for ever after the order of Melchisedec.
 
 18 For there is truly a disannulling of the commandment going before for the weakness and unprofitableness of it.
 
@@ -326,7 +326,7 @@
 
 12 Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
 
-13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifis to the purifying of the flesh:
+13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifies to the purifying of the flesh:
 
 14 How much more will the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 
@@ -574,7 +574,7 @@
 
 26 Whose voice then shook the earth: but now he has promised, saying, Yet once more I shake not the earth only, but also heaven.
 
-27 And this word, Yet once more, signifis the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.
+27 And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.
 
 28 therefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:
 

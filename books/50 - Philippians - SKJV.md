@@ -182,7 +182,7 @@
 
 6 Be careful for nothing; but in every thing by prayer and prayer with thanksgiving let your requests be made known to God.
 
-7 And the peace of God, which passs all understanding, will keep your hearts and minds through Christ Jesus.
+7 And the peace of God, which passes all understanding, will keep your hearts and minds through Christ Jesus.
 
 8 Finally, brothers, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 

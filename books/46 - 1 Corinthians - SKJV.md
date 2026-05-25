@@ -62,7 +62,7 @@
 
 30 But of him are you in Christ Jesus, who of God is made to us wisdom, and righteousness, and sanctification, and redemption:
 
-31 That, according as it is written, He that gloris, let him glory in the Lord.
+31 That, according as it is written, He that glories, let him glory in the Lord.
 
 ## 1 Corinthians Chapter 2
 
@@ -254,7 +254,7 @@
 
 17 But he that is joined to the Lord is one spirit.
 
-18 Flee fornication. Every sin that a man does is without the body; but he that committs fornication sinns against his own body.
+18 Flee fornication. Every sin that a man does is without the body; but he that commits fornication sins against his own body.
 
 19 What? know you not that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?
 
@@ -322,7 +322,7 @@
 
 30 And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;
 
-31 And they that use this world, as not abusing it: for the fashion of this world passs away.
+31 And they that use this world, as not abusing it: for the fashion of this world passes away.
 
 32 But I would have you without carefulness. He that is unmarried cars for the things that belong to the Lord, how he may please the Lord:
 
@@ -332,7 +332,7 @@
 
 35 And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that you may attend upon the Lord without distraction.
 
-36 But if any man think that he behavs himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinns not: let them marry.
+36 But if any man think that he behavs himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sins not: let them marry.
 
 37 Nevertheless he that stands stedfast in his heart, having no necessity, but has power over his own will, and has so decreed in his heart that he will keep his virgin, does well.
 
@@ -344,7 +344,7 @@
 
 ## 1 Corinthians Chapter 8
 
-1 Now as touching things offered to idols, we know that we all have knowledge. Knowledge puffs up, but love edifis.
+1 Now as touching things offered to idols, we know that we all have knowledge. Knowledge puffs up, but love edifies.
 
 2 And if any man think that he knows any thing, he knows nothing yet as he ought to know.
 
@@ -504,7 +504,7 @@
 
 4 Every man praying or prophesying, having his head covered, dishonours his head.
 
-5 But every woman that prays or prophesis with her head uncovered dishonours her head: for that is even all one as if she were shaven.
+5 But every woman that prays or prophesies with her head uncovered dishonours her head: for that is even all one as if she were shaven.
 
 6 For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.
 
@@ -636,7 +636,7 @@
 
 3 And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not love, it profits me nothing.
 
-4 love suffers long, and is kind; love envis not; love vaunts not itself, is not puffed up,
+4 love suffers long, and is kind; love envies not; love vaunts not itself, is not puffed up,
 
 5 does not behave itself improperly, seeks not her own, is not easily provoked, thinks no evil;
 
@@ -662,11 +662,11 @@
 
 2 For he that speaks in an unknown tongue speaks not to men, but to God: for no man understands him; however in the spirit he speaks mysteries.
 
-3 But he that prophesis speaks to men to edification, and encouragement, and comfort.
+3 But he that prophesies speaks to men to edification, and encouragement, and comfort.
 
-4 He that speaks in an unknown tongue edifis himself; but he that prophesis edifis the church.
+4 He that speaks in an unknown tongue edifies himself; but he that prophesies edifies the church.
 
-5 I would that you all spoke with tongues but rather that you prophesied: for greater is he that prophesis than he that speaks with tongues, except he interpret, that the church may receive edifying.
+5 I would that you all spoke with tongues but rather that you prophesied: for greater is he that prophesies than he that speaks with tongues, except he interpret, that the church may receive edifying.
 
 6 Now, brothers, if I come to you speaking with tongues, what will I profit you, except I will speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 
@@ -688,7 +688,7 @@
 
 15 What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
 
-16 Else when you will bless with the spirit, how will he that occupis the room of the unlearned say Amen at your giving of thanks, seeing he understands not what you say?
+16 Else when you will bless with the spirit, how will he that occupies the room of the unlearned say Amen at your giving of thanks, seeing he understands not what you say?
 
 17 For you truly giv thanks well, but the other is not edified.
 
@@ -716,7 +716,7 @@
 
 29 Let the prophets speak two or three, and let the other judge.
 
-30 If any thing be revealed to another that sitts by, let the first hold his peace.
+30 If any thing be revealed to another that sits by, let the first hold his peace.
 
 31 For you may all prophesy one by one, that all may learn, and all may be comforted.
 

@@ -110,7 +110,7 @@
 
 ## Colossians Chapter 3
 
-1 If you then be risen with Christ, seek those things which are above, where Christ sitts on the right hand of God.
+1 If you then be risen with Christ, seek those things which are above, where Christ sits on the right hand of God.
 
 2 Set your affection on things above, not on things on the earth.
 

@@ -48,7 +48,7 @@
 
 23 For if any be a hearer of the word, and not a doer, he is like to a man looking at his natural face in a glass:
 
-24 For he beholds himself, and goes his way, and immediately forgetts what manner of man he was.
+24 For he beholds himself, and goes his way, and immediately forgets what manner of man he was.
 
 25 But whoso looks into the perfect law of liberty, and continus in it, he being not a forgetful hearer, but a doer of the work, this man will be blessed in his deed.
 
@@ -122,7 +122,7 @@
 
 5 Even so the tongue is a little member, and boasts great things. Look, how great a matter a little fire kindls!
 
-6 And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and setts on fire the course of nature; and it is set on fire of hell.
+6 And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and sets on fire the course of nature; and it is set on fire of hell.
 
 7 For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:
 
@@ -192,7 +192,7 @@
 
 3 Your gold and silver is cankered; and the rust of them will be a witness against you, and will eat your flesh as it were fire. you have heaped treasure together for the last days.
 
-4 Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cris: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
+4 Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 
 5 you have lived in pleasure on the earth, and been wanton; you have nourished your hearts, as in a day of slaughter.
 

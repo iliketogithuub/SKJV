@@ -102,7 +102,7 @@
 
 3 Wash thyself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
 
-4 And it will be, when he lis down, that you will mark the place where he will lie, and you will go in, and uncover his feet, and lay you down; and he will tell you what you will do.
+4 And it will be, when he lies down, that you will mark the place where he will lie, and you will go in, and uncover his feet, and lay you down; and he will tell you what you will do.
 
 5 And she said to her, All that you say to me I will do.
 

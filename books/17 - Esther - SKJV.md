@@ -212,7 +212,7 @@
 
 9 And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man also whom the king delights to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus will it be done to the man whom the king delights to honour.
 
-10 Then the king said to Haman, Make haste, and take the apparel and the horse, as you have said, and do even so to Mordecai the Jew, that sitts at the king's gate: let nothing fail of all that you have spoken.
+10 Then the king said to Haman, Make haste, and take the apparel and the horse, as you have said, and do even so to Mordecai the Jew, that sits at the king's gate: let nothing fail of all that you have spoken.
 
 11 Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus will it be done to the man whom the king delights to honour.
 
@@ -262,7 +262,7 @@
 
 8 Write you also for the Jews, as it liks you, in the king's name, and seal it with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.
 
-9 Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentis day of it; and it was written according to all that Mordecai commanded to the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India to Ethiopia, an hundred twenty and seven provinces, to every province according to the writing of it, and to every people after their language, and to the Jews according to their writing, and according to their language.
+9 Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day of it; and it was written according to all that Mordecai commanded to the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India to Ethiopia, an hundred twenty and seven provinces, to every province according to the writing of it, and to every people after their language, and to the Jews according to their writing, and according to their language.
 
 10 And he wrote in the king Ahasuerus' name, and sealed it with the king's ring, and sent letters by posts on horseback, and riders on mules, camels, and young dromedaries:
 

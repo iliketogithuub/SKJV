@@ -14,7 +14,7 @@
 
 6 But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the Lord of hosts thought to do to us, according to our ways, and according to our doings, so has he dealt with us.
 
-7 Upon the four and twentis day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the Lord to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
+7 Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the Lord to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 
 8 I saw by night, and look, a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.
 
@@ -22,7 +22,7 @@
 
 10 And the man that stood among the myrtle trees answered and said, These are they whom the Lord has sent to walk to and fro through the earth.
 
-11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, look, all the earth sitts still, and is at rest.
+11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, look, all the earth sits still, and is at rest.
 
 12 Then the angel of the Lord answered and said, O Lord of hosts, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these threescore and ten years?
 
@@ -138,7 +138,7 @@
 
 6 And I said, What is it? And he said, This is an ephah that goes forth. He said moreover, This is their resemblance through all the earth.
 
-7 And, look, there was lifted up a talent of lead: and this is a woman that sitts in the midst of the ephah.
+7 And, look, there was lifted up a talent of lead: and this is a woman that sits in the midst of the ephah.
 
 8 And he said, This is wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth of it.
 
@@ -274,7 +274,7 @@
 
 7 And I will take away his blood out of his mouth, and his abominations from between his tes: but he that remains, even he, will be for our God, and he will be as a governor in Judah, and Ekron as a Jebusite.
 
-8 And I will encamp about mine house because of the army, because of him that passs by, and because of him that returns: and no oppressor will pass through them any more: for now have I seen with mine eyes.
+8 And I will encamp about mine house because of the army, because of him that passes by, and because of him that returns: and no oppressor will pass through them any more: for now have I seen with mine eyes.
 
 9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: look, your King comes to you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 
@@ -392,7 +392,7 @@
 
 2 And it will come to pass in that day, says the Lord of hosts, that I will cut off the names of the idols out of the land, and they will no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
 
-3 And it will come to pass, that when any will yet prophesy, then his father and his mother that fathered him will say to him, you will not live; for you speak lies in the name of the Lord: and his father and his mother that fathered him will thrust him through when he prophesis.
+3 And it will come to pass, that when any will yet prophesy, then his father and his mother that fathered him will say to him, you will not live; for you speak lies in the name of the Lord: and his father and his mother that fathered him will thrust him through when he prophesies.
 
 4 And it will come to pass in that day, that the prophets will be ashamed every one of his vision, when he has prophesied; neither will they wear a rough garment to deceive:
 

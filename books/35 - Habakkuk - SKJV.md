@@ -46,7 +46,7 @@
 
 4 Look, his soul which is lifted up is not upright in him: but the just will live by his faith.
 
-5 Yea also, because he transgresss by wine, he is a proud man, neither keeps at home, who enlargs his desire as hell, and is as death, and cannot be satisfied, but gathers to him all nations, and heaps to him all people:
+5 Yea also, because he transgresses by wine, he is a proud man, neither keeps at home, who enlargs his desire as hell, and is as death, and cannot be satisfied, but gathers to him all nations, and heaps to him all people:
 
 6 will not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increass that which is not his! how long? and to him that lads himself with thick clay!
 

@@ -106,7 +106,7 @@
 
 9 For if the ministration of judgment be glory, much more does the ministration of righteousness exceed in glory.
 
-10 For even that which was made glorious had no glory in this respect, by reason of the glory that excells.
+10 For even that which was made glorious had no glory in this respect, by reason of the glory that excels.
 
 11 For if that which is done away was glorious, much more that which remains is glorious.
 
@@ -352,7 +352,7 @@
 
 11 Being enriched in every thing to all bountifulness, which causes through us thanksgiving to God.
 
-12 For the administration of this service not only supplis the want of the saints, but is abundant also by many thanksgivings to God;
+12 For the administration of this service not only supplies the want of the saints, but is abundant also by many thanksgivings to God;
 
 13 Whiles by the experiment of this ministration they glorify God for your professed subjection to the gospel of Christ, and for your liberal distribution to them, and to all men;
 
@@ -394,7 +394,7 @@
 
 16 To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.
 
-17 But he that gloris, let him glory in the Lord.
+17 But he that glories, let him glory in the Lord.
 
 18 For not he that commends himself is approved, but whom the Lord commends.
 

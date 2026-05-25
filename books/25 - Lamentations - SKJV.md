@@ -32,7 +32,7 @@
 
 15 The Lord has trodden under foot all my mighty men in the midst of me: he has called an assembly against me to crush my young men: the Lord has trodden the virgin, the daughter of Judah, as in a winepress.
 
-16 For these things I weep; mine eye, mine eye runns down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
+16 For these things I weep; mine eye, mine eye runs down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
 
 17 Zion spreads forth her hands, and there is none to comfort her: the Lord has commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.
 
@@ -108,7 +108,7 @@
 
 7 He has hedged me about, that I cannot get out: he has made my chain heavy.
 
-8 Also when I cry and shout, he shutts out my prayer.
+8 Also when I cry and shout, he shuts out my prayer.
 
 9 He has inclosed my ways with hewn stone, he has made my paths crooked.
 
@@ -148,9 +148,9 @@
 
 27 It is good for a man that he bear the yoke in his youth.
 
-28 He sitts alone and keeps silence, because he has borne it upon him.
+28 He sits alone and keeps silence, because he has borne it upon him.
 
-29 He putts his mouth in the dust; if so be there may be hope.
+29 He puts his mouth in the dust; if so be there may be hope.
 
 30 He gives his cheek to him that smits him: he is filled full with reproach.
 
@@ -188,7 +188,7 @@
 
 47 Fear and a snare is come upon us, desolation and destruction.
 
-48 Mine eye runns down with rivers of water for the destruction of the daughter of my people.
+48 Mine eye runs down with rivers of water for the destruction of the daughter of my people.
 
 49 Mine eye trickls down, and ceass not, without any intermission.
 

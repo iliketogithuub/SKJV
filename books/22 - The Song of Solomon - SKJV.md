@@ -24,7 +24,7 @@
 
 11 We will make you borders of gold with studs of silver.
 
-12 While the king sitts at his table, my spikenard sends forth the smell of it.
+12 While the king sits at his table, my spikenard sends forth the smell of it.
 
 13 A bundle of myrrh is my well-beloved to me; he will lie all night between my breasts.
 
@@ -62,7 +62,7 @@
 
 12 The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;
 
-13 The fig tree putts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.
+13 The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.
 
 14 O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely.
 

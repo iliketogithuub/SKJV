@@ -88,7 +88,7 @@
 
 10 A man that is an heretick after the first and second admonition reject;
 
-11 Knowing that he that is such is subverted, and sinns, being condemned of himself.
+11 Knowing that he that is such is subverted, and sins, being condemned of himself.
 
 12 When I will send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis: for I have determined there to winter.
 

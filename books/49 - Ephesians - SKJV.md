@@ -132,7 +132,7 @@
 
 18 May be able to comprehend with all saints what is the breadth, and length, and depth, and height;
 
-19 And to know the love of Christ, which passs knowledge, that you might be filled with all the fulness of God.
+19 And to know the love of Christ, which passes knowledge, that you might be filled with all the fulness of God.
 
 20 Now to him that is able to do exceeding abundantly above all that we ask or think, according to the power that works in us,
 
@@ -170,7 +170,7 @@
 
 15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
 
-16 From whom the whole body fitly joined together and compacted by that which every joint supplis, according to the effective working in the measure of every part, makes increase of the body to the edifying of itself in love.
+16 From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the edifying of itself in love.
 
 17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the vanity of their mind,
 

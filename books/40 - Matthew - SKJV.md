@@ -146,7 +146,7 @@
 
 4 But he answered and said, It is written, Man will not live by bread alone, but by every word that proceeds out of the mouth of God.
 
-5 Then the devil takes him up into the holy city, and setts him on a pinnacle of the temple,
+5 Then the devil takes him up into the holy city, and sets him on a pinnacle of the temple,
 
 6 And says to him, If you be the Son of God, cast thyself down: for it is written, He will give his angels charge concerning you: and in their hands they will bear you up, otherwise at any time you dash your foot against a stone.
 
@@ -252,7 +252,7 @@
 
 31 It has been said, Whosoever will put away his wife, let him give her a writing of divorcement:
 
-32 But I say to you, That whosoever will put away his wife, saving for the cause of fornication, causes her to commit adultery: and whosoever will marry her that is divorced committs adultery.
+32 But I say to you, That whosoever will put away his wife, saving for the cause of fornication, causes her to commit adultery: and whosoever will marry her that is divorced commits adultery.
 
 33 Again, you have heard that it has been said by them of old time, you will not forswear thyself, but will perform to the Lord your oaths:
 
@@ -428,7 +428,7 @@
 
 5 And when Jesus was entered into Capernaum, there came to him a centurion, beseeching him,
 
-6 And saying, Lord, my servant lis at home sick of the palsy, grievously tormented.
+6 And saying, Lord, my servant lies at home sick of the palsy, grievously tormented.
 
 7 And Jesus says to him, I will come and heal him.
 
@@ -520,9 +520,9 @@
 
 15 And Jesus said to them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom will be taken from them, and then will they fast.
 
-16 No man putts a piece of new cloth to an old garment, for that which is put in to fill it up takes from the garment, and the rent is made worse.
+16 No man puts a piece of new cloth to an old garment, for that which is put in to fill it up takes from the garment, and the rent is made worse.
 
-17 Neither do men put new wine into old bottles: else the bottles break, and the wine runns out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
+17 Neither do men put new wine into old bottles: else the bottles break, and the wine runs out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
 
 18 While he spoke these things to them, look, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay your hand upon her, and she will live.
 
@@ -1054,7 +1054,7 @@
 
 22 And, look, a woman of Canaan came out of the same coasts, and cried to him, saying, Have mercy on me, O Lord, you son of David; my daughter is grievously vexed with a devil.
 
-23 But he answered her not a word. And his disciples came and urged him, saying, Send her away; for she cris after us.
+23 But he answered her not a word. And his disciples came and urged him, saying, Send her away; for she cries after us.
 
 24 But he answered and said, I am not sent but to the lost sheep of the house of Israel.
 
@@ -1292,7 +1292,7 @@
 
 8 He says to them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
 
-9 And I say to you, Whosoever will put away his wife, except it be for fornication, and will marry another, committs adultery: and whoso marris her which is put away does commit adultery.
+9 And I say to you, Whosoever will put away his wife, except it be for fornication, and will marry another, commits adultery: and whoso marries her which is put away does commit adultery.
 
 10 His disciples say to him, If the case of the man be so with his wife, it is not good to marry.
 
@@ -1628,17 +1628,17 @@
 
 16 Woe to you, you blind guides, which say, Whosoever will swear by the temple, it is nothing; but whosoever will swear by the gold of the temple, he is a debtor!
 
-17 you fools and blind: for whether is greater, the gold, or the temple that sanctifis the gold?
+17 you fools and blind: for whether is greater, the gold, or the temple that sanctifies the gold?
 
 18 And, Whosoever will swear by the altar, it is nothing; but whosoever swears by the gift that is upon it, he is guilty.
 
-19 you fools and blind: for whether is greater, the gift, or the altar that sanctifis the gift?
+19 you fools and blind: for whether is greater, the gift, or the altar that sanctifies the gift?
 
 20 Whoso therefore will swear by the altar, swears by it, and by all things thereon.
 
 21 And whoso will swear by the temple, swears by it, and by him that dwells in it.
 
-22 And he that will swear by heaven, swears by the throne of God, and by him that sitts thereon.
+22 And he that will swear by heaven, swears by the throne of God, and by him that sits thereon.
 
 23 Woe to you, scribes and Pharisees, hypocrites! for you pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought you to have done, and not to leave the other undone.
 
@@ -1738,7 +1738,7 @@
 
 31 And he will send his angels with a great sound of a trumpet, and they will gather together his elect from the four winds, from one end of heaven to the other.
 
-32 Now learn a parable of the fig tree; When his branch is yet tender, and putts forth leaves, you know that summer is near:
+32 Now learn a parable of the fig tree; When his branch is yet tender, and puts forth leaves, you know that summer is near:
 
 33 So likewise you, when you will see all these things, know that it is near, even at the doors.
 
@@ -1918,7 +1918,7 @@
 
 22 And they were exceeding sorrowful, and began every one of them to say to him, Lord, is it I?
 
-23 And he answered and said, He that dipps his hand with me in the dish, the same will betray me.
+23 And he answered and said, He that dips his hand with me in the dish, the same will betray me.
 
 24 The Son of man goes as it is written of him: but woe to that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 

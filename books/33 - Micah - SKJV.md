@@ -72,7 +72,7 @@
 
 4 Then will they cry to the Lord, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.
 
-5 Thus says the Lord concerning the prophets that make my people err, that bite with their tes, and cry, Peace; and he that putts not into their mouths, they even prepare war against him.
+5 Thus says the Lord concerning the prophets that make my people err, that bite with their tes, and cry, Peace; and he that puts not into their mouths, they even prepare war against him.
 
 6 Therefore night will be to you, that you will not have a vision; and it will be dark to you, that you will not divine; and the sun will go down over the prophets, and the day will be dark over them.
 
@@ -130,7 +130,7 @@
 
 6 And they will waste the land of Assyria with the sword, and the land of Nimrod in the entrances of it: thus will he deliver us from the Assyrian, when he comes into our land, and when he treads within our borders.
 
-7 And the remnant of Jacob will be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarris not for man, nor waits for the sons of men.
+7 And the remnant of Jacob will be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarries not for man, nor waits for the sons of men.
 
 8 And the remnant of Jacob will be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treads down, and tears in pieces, and none can deliver.
 
@@ -166,7 +166,7 @@
 
 8 He has showed you, O man, what is good; and what does the Lord require of you, but to do justly, and to love mercy, and to walk humbly with your God?
 
-9 The Lord's voice cris to the city, and the man of wisdom will see your name: hear you the rod, and who has appointed it.
+9 The Lord's voice cries to the city, and the man of wisdom will see your name: hear you the rod, and who has appointed it.
 
 10 Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?
 
@@ -192,7 +192,7 @@
 
 4 The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of your watchmen and your visitation comes; now will be their perplexity.
 
-5 Trust you not in a friend, put you not confidence in a guide: keep the doors of your mouth from her that lis in your bosom.
+5 Trust you not in a friend, put you not confidence in a guide: keep the doors of your mouth from her that lies in your bosom.
 
 6 For the son dishonours the father, the daughter riss up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.
 
@@ -218,7 +218,7 @@
 
 17 They will lick the dust like a serpent, they will move out of their holes like worms of the earth: they will be afraid of the Lord our God, and will fear because of you.
 
-18 Who is a God like to you, that pardons iniquity, and passs by the sin of the remnant of his heritage? he retains not his anger for ever, because he delights in mercy.
+18 Who is a God like to you, that pardons iniquity, and passes by the sin of the remnant of his heritage? he retains not his anger for ever, because he delights in mercy.
 
 19 He will turn again, he will have compassion upon us; he will subdue our iniquities; and you will cast all their sins into the depths of the sea.
 

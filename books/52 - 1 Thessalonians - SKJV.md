@@ -30,7 +30,7 @@
 
 3 For our encouragement was not of deceit, nor of uncleanness, nor in guile:
 
-4 But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tris our hearts.
+4 But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tries our hearts.
 
 5 For neither at any time used we flattering words, as you know, nor a cloke of covetousness; God is witness:
 

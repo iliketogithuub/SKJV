@@ -86,11 +86,11 @@
 
 10 And a river went out of Eden to water the garden; and from from there it was parted, and became into four heads.
 
-11 The name of the first is Pison: that is it which compasss the whole land of Havilah, where there is gold;
+11 The name of the first is Pison: that is it which compasses the whole land of Havilah, where there is gold;
 
 12 And the gold of that land is good: there is bdellium and the onyx stone.
 
-13 And the name of the second river is Gihon: the same is it that compasss the whole land of Ethiopia.
+13 And the name of the second river is Gihon: the same is it that compasses the whole land of Ethiopia.
 
 14 And the name of the third river is Hiddekel: that is it which goes toward the east of Assyria. And the fourth river is Euphrates.
 
@@ -180,13 +180,13 @@
 
 6 And the Lord said to Cain, Why are you furious? and why is your countenance fallen?
 
-7 If you do well, will you not be accepted? and if you do not well, sin lis at the door. And to you will be his desire, and you will rule over him.
+7 If you do well, will you not be accepted? and if you do not well, sin lies at the door. And to you will be his desire, and you will rule over him.
 
 8 And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and killed him.
 
 9 And the Lord said to Cain, Where is Abel your brother? And he said, I know not: Am I my brother's keeper?
 
-10 And he said, What have you done? the voice of your brother's blood cris to me from the ground.
+10 And he said, What have you done? the voice of your brother's blood cries to me from the ground.
 
 11 And now are you cursed from the earth, which has opened her mouth to receive your brother's blood from your hand;
 
@@ -410,7 +410,7 @@
 
 13 And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, look, the face of the ground was dry.
 
-14 And in the second month, on the seven and twentis day of the month, was the earth dried.
+14 And in the second month, on the seven and twentieth day of the month, was the earth dried.
 
 15 And God spoke to Noah, saying,
 
@@ -440,7 +440,7 @@
 
 5 And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man.
 
-6 Whoso shedds man's blood, by man will his blood be shed: for in the image of God made he man.
+6 Whoso sheds man's blood, by man will his blood be shed: for in the image of God made he man.
 
 7 And you, be you fruitful, and multiply; bring forth abundantly in the earth, and multiply in it.
 
@@ -1566,7 +1566,7 @@
 
 28 Therefore God give you of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
 
-29 Let people serve you, and nations bow down to you: be lord over your brothers, and let your mother's sons bow down to you: cursed be every one that curss you, and blessed be he that blesss you.
+29 Let people serve you, and nations bow down to you: be lord over your brothers, and let your mother's sons bow down to you: cursed be every one that curss you, and blessed be he that blesses you.
 
 30 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 
@@ -2392,7 +2392,7 @@
 
 7 And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.
 
-8 But he refused, and said to his master's wife, Look, my master wotts not what is with me in the house, and he has committed all that he has to my hand;
+8 But he refused, and said to his master's wife, Look, my master knows not what is with me in the house, and he has committed all that he has to my hand;
 
 9 There is none greater in this house than I; neither has he kept back any thing from me but you, because you are his wife: how then can I do this great wickedness, and sin against God?
 
@@ -3094,7 +3094,7 @@
 
 24 But his bow stayed in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from from there is the shepherd, the stone of Israel:)
 
-25 Even by the God of your father, who will help you; and by the Almighty, who will bless you with blessings of heaven above, blessings of the deep that lis under, blessings of the breasts, and of the womb:
+25 Even by the God of your father, who will help you; and by the Almighty, who will bless you with blessings of heaven above, blessings of the deep that lies under, blessings of the breasts, and of the womb:
 
 26 The blessings of your father have prevailed above the blessings of my progenitors to the utmost bound of the everlasting hills: they will be on the head of Joseph, and on the crown of the head of him that was separate from his brothers.
 

@@ -220,7 +220,7 @@
 
 31 He that comes from above is above all: he that is of the earth is earthly, and speaks of the earth: he that comes from heaven is above all.
 
-32 And what he has seen and heard, that he testifis; and no man receives his testimony.
+32 And what he has seen and heard, that he testifies; and no man receives his testimony.
 
 33 He that has received his testimony has set to his seal that God is true.
 
@@ -354,7 +354,7 @@
 
 6 When Jesus saw him lie, and knew that he had been now a long time in that case, he says to him, will you be made whole?
 
-7 The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another stepps down before me.
+7 The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steps down before me.
 
 8 Jesus says to him, Rise, take up your bed, and walk.
 
@@ -404,7 +404,7 @@
 
 31 If I bear witness of myself, my witness is not true.
 
-32 There is another that bears witness of me; and I know that the witness which he witnesss of me is true.
+32 There is another that bears witness of me; and I know that the witness which he witnesses of me is true.
 
 33 you sent to John, and he bare witness to the truth.
 
@@ -756,7 +756,7 @@
 
 33 They answered him, We be Abraham's seed, and were never in bondage to any man: how say you, you will be made free?
 
-34 Jesus answered them, Truly, truly, I say to you, Whosoever committs sin is the servant of sin.
+34 Jesus answered them, Truly, truly, I say to you, Whosoever commits sin is the servant of sin.
 
 35 And the servant abides not in the house for ever: but the Son abides ever.
 
@@ -900,7 +900,7 @@
 
 3 To him the porter opens; and the sheep hear his voice: and he calls his own sheep by name, and leads them out.
 
-4 And when he putts forth his own sheep, he goes before them, and the sheep follow him: for they know his voice.
+4 And when he puts forth his own sheep, he goes before them, and the sheep follow him: for they know his voice.
 
 5 And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
 
@@ -1688,7 +1688,7 @@
 
 1 The first day of the week comes Mary Magdalene early, when it was yet dark, to the tomb, and sees the stone taken away from the tomb.
 
-2 Then she runns, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them, They have taken away the Lord out of the tomb, and we know not where they have laid him.
+2 Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them, They have taken away the Lord out of the tomb, and we know not where they have laid him.
 
 3 Peter therefore went forth, and that other disciple, and came to the tomb.
 
@@ -1796,7 +1796,7 @@
 
 23 Then went this saying abroad among the brothers, that that disciple should not die: yet Jesus said not to him, He will not die; but, If I will that he tarry till I come, what is that to you?
 
-24 This is the disciple which testifis of these things, and wrote these things: and we know that his testimony is true.
+24 This is the disciple which testifies of these things, and wrote these things: and we know that his testimony is true.
 
 25 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 

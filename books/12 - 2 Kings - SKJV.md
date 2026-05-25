@@ -164,7 +164,7 @@
 
 8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as often as he passed by, he turned in there to eat bread.
 
-9 And she said to her husband, Look, now, I perceive that this is an holy man of God, which passs by us continually.
+9 And she said to her husband, Look, now, I perceive that this is an holy man of God, which passes by us continually.
 
 10 Let us make a little chamber, I pray you, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it will be, when he comes to us, that he will turn in there.
 
@@ -478,7 +478,7 @@
 
 7 And you will smite the house of Ahab your master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.
 
-8 For the whole house of Ahab will perish: and I will cut off from Ahab him that pisss against the wall, and him that is shut up and left in Israel:
+8 For the whole house of Ahab will perish: and I will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel:
 
 9 And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:
 
@@ -586,7 +586,7 @@
 
 23 And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said to the worshippers of Baal, Search, and look that there be here with you none of the servants of the Lord, but the worshippers of Baal only.
 
-24 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men whom I have brought into your hands escape, he that letts him go, his life will be for the life of him.
+24 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men whom I have brought into your hands escape, he that lets him go, his life will be for the life of him.
 
 25 And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they struck them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
 
@@ -664,11 +664,11 @@
 
 3 But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
 
-4 And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the Lord, even the money of every one that passs the account, the money that every man is set at, and all the money that comes into any man's heart to bring into the house of the Lord,
+4 And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the Lord, even the money of every one that passes the account, the money that every man is set at, and all the money that comes into any man's heart to bring into the house of the Lord,
 
 5 Let the priests take it to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach will be found.
 
-6 But it was so, that in the three and twentis year of king Jehoash the priests had not repaired the breaches of the house.
+6 But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house.
 
 7 Then king Jehoash called for Jehoiada the priest, and the other priests, and said to them, Why repair you not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house.
 
@@ -702,7 +702,7 @@
 
 ## 2 Kings Chapter 13
 
-1 In the three and twentis year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
+1 In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
 
 2 And he did that which was evil in the sight of the Lord, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
 
@@ -838,7 +838,7 @@
 
 12 This was the word of the Lord which he spoke to Jehu, saying, your sons will sit on the throne of Israel to the fourth generation. And so it came to pass.
 
-13 Shallum the son of Jabesh began to reign in the nine and thirtis year of Uzziah king of Judah; and he reigned a full month in Samaria.
+13 Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.
 
 14 For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and struck Shallum the son of Jabesh in Samaria, and killed him, and reigned in his stead.
 
@@ -846,7 +846,7 @@
 
 16 Then Menahem struck Tiphsah, and all that were in it, and the coasts of it from Tirzah: because they opened not to him, therefore he struck it; and all the women in it that were with child he ripped up.
 
-17 In the nine and thirtis year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, and reigned ten years in Samaria.
+17 In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, and reigned ten years in Samaria.
 
 18 And he did that which was evil in the sight of the Lord: he departed not all his days from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 
@@ -858,7 +858,7 @@
 
 22 And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.
 
-23 In the fiftis year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
+23 In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
 
 24 And he did that which was evil in the sight of the Lord: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 
@@ -866,13 +866,13 @@
 
 26 And the rest of the acts of Pekahiah, and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
 
-27 In the two and fiftis year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
+27 In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
 
 28 And he did that which was evil in the sight of the Lord: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 
 29 In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 
-30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him, and killed him, and reigned in his stead, in the twentis year of Jotham the son of Uzziah.
+30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him, and killed him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah.
 
 31 And the rest of the acts of Pekah, and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
 
@@ -1480,7 +1480,7 @@
 
 26 And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.
 
-27 And it came to pass in the seven and thirtis year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentis day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
+27 And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
 
 28 And he spoke kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
 

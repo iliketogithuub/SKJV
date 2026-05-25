@@ -258,7 +258,7 @@
 
 35 Then hear you from the heavens their prayer and their prayer, and maintain their cause.
 
-36 If they sin against you, (for there is no man which sinns not,) and you be angry with them, and deliver them over before their enemies, and they carry them away captives to a land far off or near;
+36 If they sin against you, (for there is no man which sins not,) and you be angry with them, and deliver them over before their enemies, and they carry them away captives to a land far off or near;
 
 37 Yet if they bethink themselves in the land where they are carried captive, and turn and pray to you in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;
 
@@ -292,7 +292,7 @@
 
 9 And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.
 
-10 And on the three and twentis day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the Lord had showed to David, and to Solomon, and to Israel his people.
+10 And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the Lord had showed to David, and to Solomon, and to Israel his people.
 
 11 Thus Solomon finished the house of the Lord, and the king's house: and all that came into Solomon's heart to make in the house of the Lord, and in his own house, he prosperously effected.
 
@@ -314,7 +314,7 @@
 
 20 Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations.
 
-21 And this house, which is high, will be an astonishment to every one that passs by it; so that he will say, Why has the Lord done thus to this land, and to this house?
+21 And this house, which is high, will be an astonishment to every one that passes by it; so that he will say, Why has the Lord done thus to this land, and to this house?
 
 22 And it will be answered, Because they forsook the Lord God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore has he brought all this evil upon them.
 
@@ -658,11 +658,11 @@
 
 18 And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels.
 
-19 And there was no more war to the five and thirtis year of the reign of Asa.
+19 And there was no more war to the five and thirtieth year of the reign of Asa.
 
 ## 2 Chronicles Chapter 16
 
-1 In the six and thirtis year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
+1 In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 
 2 Then Asa brought out silver and gold out of the treasures of the house of the Lord and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
 
@@ -686,7 +686,7 @@
 
 12 And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the Lord, but to the physicians.
 
-13 And Asa slept with his fathers, and died in the one and fortis year of his reign.
+13 And Asa slept with his fathers, and died in the one and fortieth year of his reign.
 
 14 And they buried him in his own tombs, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and various kinds of spices prepared by the apothecaries' are: and they made a very great burning for him.
 

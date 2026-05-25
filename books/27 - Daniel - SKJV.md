@@ -86,7 +86,7 @@
 
 20 Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
 
-21 And he changes the times and the seasons: he removes kings, and setts up kings: he gives wisdom to the wise, and knowledge to them that know understanding:
+21 And he changes the times and the seasons: he removes kings, and sets up kings: he gives wisdom to the wise, and knowledge to them that know understanding:
 
 22 He reveals the deep and secret things: he knows what is in the darkness, and the light dwells with him.
 
@@ -156,7 +156,7 @@
 
 5 That at what time you hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, you fall down and worship the golden image that Nebuchadnezzar the king has set up:
 
-6 And whoso falls not down and worshipps will the same hour be cast into the midst of a burning fiery furnace.
+6 And whoso falls not down and worships will the same hour be cast into the midst of a burning fiery furnace.
 
 7 Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up.
 
@@ -166,7 +166,7 @@
 
 10 you, O king, have made a decree, that every man that will hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, will fall down and worship the golden image:
 
-11 And whoso falls not down and worshipps, that he should be cast into the midst of a burning fiery furnace.
+11 And whoso falls not down and worships, that he should be cast into the midst of a burning fiery furnace.
 
 12 There are certain Jews whom you have set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded you: they serve not your gods, nor worship the golden image which you have set up.
 
@@ -240,7 +240,7 @@
 
 16 Let his heart be changed from man's, and let a beast's heart be given to him; and let seven times pass over him.
 
-17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and setts up over it the basest of men.
+17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and sets up over it the basest of men.
 
 18 This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation of it, since as all the wise men of my kingdom are not able to make known to me the interpretation: but you are able; for the spirit of the holy gods is in you.
 
@@ -582,7 +582,7 @@
 
 3 I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
 
-4 And in the four and twentis day of the first month, as I was by the side of the great river, which is Hiddekel;
+4 And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;
 
 5 Then I lifted up mine eyes, and looked, and look, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:
 

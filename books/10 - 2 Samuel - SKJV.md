@@ -104,7 +104,7 @@
 
 23 However he refused to turn aside: therefore Abner with the hinder end of the spear struck him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still.
 
-24 Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lis before Giah by the way of the wilderness of Gibeon.
+24 Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lies before Giah by the way of the wilderness of Gibeon.
 
 25 And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.
 
@@ -244,7 +244,7 @@
 
 7 Nevertheless David took the strong hold of Zion: the same is the city of David.
 
-8 And David said on that day, Whosoever getts up to the gutter, and smits the Jebusites, and the lame and the blind that are hated of David's soul, he will be chief and captain. therefore they said, The blind and the lame will not come into the house.
+8 And David said on that day, Whosoever gets up to the gutter, and smits the Jebusites, and the lame and the blind that are hated of David's soul, he will be chief and captain. therefore they said, The blind and the lame will not come into the house.
 
 9 So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.
 
@@ -1270,7 +1270,7 @@
 
 33 God is my strength and power: and he makes my way perfect.
 
-34 He makes my feet like hinds' feet: and setts me upon my high places.
+34 He makes my feet like hinds' feet: and sets me upon my high places.
 
 35 He teachs my hands to war; so that a bow of steel is broken by mine arms.
 
@@ -1396,7 +1396,7 @@
 
 4 Nevertheless the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.
 
-5 And they passed over Jordan, and pitched in Aroer, on the right side of the city that lis in the midst of the river of Gad, and toward Jazer:
+5 And they passed over Jordan, and pitched in Aroer, on the right side of the city that lies in the midst of the river of Gad, and toward Jazer:
 
 6 Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,
 

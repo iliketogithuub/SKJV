@@ -56,7 +56,7 @@
 
 16 For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
 
-17 And the world passs away, and the lust of it: but he that does the will of God abides for ever.
+17 And the world passes away, and the lust of it: but he that does the will of God abides for ever.
 
 18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; whereby we know that it is the last time.
 
@@ -66,9 +66,9 @@
 
 21 I have not written to you because you know not the truth, but because you know it, and that no lie is of the truth.
 
-22 Who is a liar but he that denis that Jesus is the Christ? He is antichrist, that denis the Father and the Son.
+22 Who is a liar but he that denies that Jesus is the Christ? He is antichrist, that denies the Father and the Son.
 
-23 Whosoever denis the Son, the same has not the Father: he that acknowledgs the Son has the Father also.
+23 Whosoever denies the Son, the same has not the Father: he that acknowledgs the Son has the Father also.
 
 24 Let that therefore abide in you, which you have heard from the beginning. If that which you have heard from the beginning will remain in you, you also will continue in the Son, and in the Father.
 
@@ -88,17 +88,17 @@
 
 2 Beloved, now are we the sons of God, and it does not yet appear what we will be: but we know that, when he will appear, we will be like him; for we will see him as he is.
 
-3 And every man that has this hope in him purifis himself, even as he is pure.
+3 And every man that has this hope in him purifies himself, even as he is pure.
 
-4 Whosoever committs sin transgresss also the law: for sin is the sin of the law.
+4 Whosoever commits sin transgresses also the law: for sin is the sin of the law.
 
 5 And you know that he was manifested to take away our sins; and in him is no sin.
 
-6 Whosoever abides in him sinns not: whosoever sinns has not seen him, neither known him.
+6 Whosoever abides in him sins not: whosoever sins has not seen him, neither known him.
 
 7 Little children, let no man deceive you: he that does righteousness is righteous, even as he is righteous.
 
-8 He that committs sin is of the devil; for the devil sinns from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
+8 He that commits sin is of the devil; for the devil sins from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 
 9 Whosoever is born of God does not commit sin; for his seed remains in him: and he cannot sin, because he is born of God.
 
@@ -116,7 +116,7 @@
 
 16 Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brothers.
 
-17 But whoso has this world's good, and sees his brother have need, and shutts up his deep compassion from him, how dwells the love of God in him?
+17 But whoso has this world's good, and sees his brother have need, and shuts up his deep compassion from him, how dwells the love of God in him?
 
 18 My little children, let us not love in word, neither in tongue; but in deed and in truth.
 
@@ -136,9 +136,9 @@
 
 1 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 
-2 Hereby know you the Spirit of God: Every spirit that confesss that Jesus Christ is come in the flesh is of God:
+2 Hereby know you the Spirit of God: Every spirit that confesses that Jesus Christ is come in the flesh is of God:
 
-3 And every spirit that confesss not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.
+3 And every spirit that confesses not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.
 
 4 you are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
@@ -212,9 +212,9 @@
 
 17 All unrighteousness is sin: and there is a sin not to death.
 
-18 We know that whosoever is born of God sinns not; but he that is begotten of God keeps himself, and that wicked one touchs him not.
+18 We know that whosoever is born of God sins not; but he that is begotten of God keeps himself, and that wicked one touchs him not.
 
-19 And we know that we are of God, and the whole world lis in wickedness.
+19 And we know that we are of God, and the whole world lies in wickedness.
 
 20 And we know that the Son of God is come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 

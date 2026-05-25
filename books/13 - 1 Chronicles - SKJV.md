@@ -1604,11 +1604,11 @@
 
 15 The seventeenth to Hezir, the eighteenth to Aphses,
 
-16 The nineteenth to Pethahiah, the twentis to Jehezekel,
+16 The nineteenth to Pethahiah, the twentieth to Jehezekel,
 
-17 The one and twentis to Jachin, the two and twentis to Gamul,
+17 The one and twentieth to Jachin, the two and twentieth to Gamul,
 
-18 The three and twentis to Delaiah, the four and twentis to Maaziah.
+18 The three and twentieth to Delaiah, the four and twentieth to Maaziah.
 
 19 These were the orderings of them in their service to come into the house of the Lord, according to their manner, under Aaron their father, as the Lord God of Israel had commanded him.
 
@@ -1690,15 +1690,15 @@
 
 26 The nineteenth to Mallothi, he, his sons, and his brothers, were twelve:
 
-27 The twentis to Eliathah, he, his sons, and his brothers, were twelve:
+27 The twentieth to Eliathah, he, his sons, and his brothers, were twelve:
 
-28 The one and twentis to Hothir, he, his sons, and his brothers, were twelve:
+28 The one and twentieth to Hothir, he, his sons, and his brothers, were twelve:
 
-29 The two and twentis to Giddalti, he, his sons, and his brothers, were twelve:
+29 The two and twentieth to Giddalti, he, his sons, and his brothers, were twelve:
 
-30 The three and twentis to Mahazioth, he, his sons, and his brothers, were twelve:
+30 The three and twentieth to Mahazioth, he, his sons, and his brothers, were twelve:
 
-31 The four and twentis to Romamtiezer, he, his sons, and his brothers, were twelve.
+31 The four and twentieth to Romamtiezer, he, his sons, and his brothers, were twelve.
 
 ## 1 Chronicles Chapter 26
 
@@ -1762,7 +1762,7 @@
 
 30 And of the Hebronites, Hashabiah and his brothers, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the Lord, and in the service of the king.
 
-31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortis year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
+31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 
 32 And his brothers, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
 

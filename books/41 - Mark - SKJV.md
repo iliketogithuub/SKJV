@@ -136,7 +136,7 @@
 
 21 No man also sews a piece of new cloth on an old garment: else the new piece that filled it up takes away from the old, and the rent is made worse.
 
-22 And no man putts new wine into old bottles: else the new wine does burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.
+22 And no man puts new wine into old bottles: else the new wine does burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.
 
 23 And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.
 
@@ -280,7 +280,7 @@
 
 28 For the earth brings forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.
 
-29 But when the fruit is brought forth, immediately he putts in the sickle, because the harvest is come.
+29 But when the fruit is brought forth, immediately he puts in the sickle, because the harvest is come.
 
 30 And he said, Whereunto will we liken the kingdom of God? or with what comparison will we compare it?
 
@@ -352,7 +352,7 @@
 
 22 And, look, there comes one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
 
-23 And urged him greatly, saying, My little daughter lis at the point of death: I pray you, come and lay your hands on her, that she may be healed; and she will live.
+23 And urged him greatly, saying, My little daughter lies at the point of death: I pray you, come and lay your hands on her, that she may be healed; and she will live.
 
 24 And Jesus went with him; and much people followed him, and thronged him.
 
@@ -786,9 +786,9 @@
 
 10 And in the house his disciples asked him again of the same matter.
 
-11 And he says to them, Whosoever will put away his wife, and marry another, committs adultery against her.
+11 And he says to them, Whosoever will put away his wife, and marry another, commits adultery against her.
 
-12 And if a woman will put away her husband, and be married to another, she committs adultery.
+12 And if a woman will put away her husband, and be married to another, she commits adultery.
 
 13 And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.
 
@@ -1086,7 +1086,7 @@
 
 27 And then will he send his angels, and will gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
 
-28 Now learn a parable of the fig tree; When her branch is yet tender, and putts forth leaves, you know that summer is near:
+28 Now learn a parable of the fig tree; When her branch is yet tender, and puts forth leaves, you know that summer is near:
 
 29 So you in like manner, when you will see these things come to pass, know that it is near, even at the doors.
 
@@ -1146,7 +1146,7 @@
 
 19 And they began to be sorrowful, and to say to him one by one, Is it I? and another said, Is it I?
 
-20 And he answered and said to them, It is one of the twelve, that dipps with me in the dish.
+20 And he answered and said to them, It is one of the twelve, that dips with me in the dish.
 
 21 The Son of man indeed goes, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
 

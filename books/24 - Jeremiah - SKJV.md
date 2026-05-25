@@ -284,7 +284,7 @@
 
 25 Your iniquities have turned away these things, and your sins have withholden good things from you.
 
-26 For among my people are found wicked men: they lay wait, as he that setts snares; they set a trap, they catch men.
+26 For among my people are found wicked men: they lay wait, as he that sets snares; they set a trap, they catch men.
 
 27 As a cage is full of birds, so are their houses full of deceit: therefore they are become great, and waxen rich.
 
@@ -498,7 +498,7 @@
 
 11 And I will make Jerusalem heaps, and a den of dragons; and I will make the cities of Judah desolate, without an inhabitant.
 
-12 Who is the wise man, that may understand this? and who is he to whom the mouth of the Lord has spoken, that he may declare it, for what the land perishs and is burned up like a wilderness, that none passs through?
+12 Who is the wise man, that may understand this? and who is he to whom the mouth of the Lord has spoken, that he may declare it, for what the land perishs and is burned up like a wilderness, that none passes through?
 
 13 And the Lord says, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked in it;
 
@@ -522,7 +522,7 @@
 
 23 Thus says the Lord, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:
 
-24 But let him that gloris glory in this, that he understands and knows me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, says the Lord.
+24 But let him that glories glory in this, that he understands and knows me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, says the Lord.
 
 25 Look, the days come, says the Lord, that I will punish all them which are circumcised with the uncircumcised;
 
@@ -534,7 +534,7 @@
 
 2 Thus says the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
 
-3 For the customs of the people are vain: for one cutts a tree out of the forest, the work of the hands of the workman, with the axe.
+3 For the customs of the people are vain: for one cuts a tree out of the forest, the work of the hands of the workman, with the axe.
 
 4 They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
 
@@ -644,7 +644,7 @@
 
 7 I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.
 
-8 Mine heritage is to me as a lion in the forest; it cris out against me: therefore have I hated it.
+8 Mine heritage is to me as a lion in the forest; it cries out against me: therefore have I hated it.
 
 9 Mine heritage is to me as a speckled bird, the birds round about are against her; come you, assemble all the beasts of the field, come to devour.
 
@@ -712,7 +712,7 @@
 
 23 Can the Ethiopian change his skin, or the leopard his spots? then may you also do good, that are accustomed to do evil.
 
-24 Therefore will I scatter them as the stubble that passs away by the wind of the wilderness.
+24 Therefore will I scatter them as the stubble that passes away by the wind of the wilderness.
 
 25 This is your lot, the portion of your measures from me, says the Lord; because you have forgotten me, and trusted in falsehood.
 
@@ -876,7 +876,7 @@
 
 10 I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
 
-11 As the partridge sitts on eggs, and hatchs them not; so he that getts riches, and not by right, will leave them in the midst of his days, and at his end will be a fool.
+11 As the partridge sits on eggs, and hatchs them not; so he that gets riches, and not by right, will leave them in the midst of his days, and at his end will be a fool.
 
 12 A glorious high throne from the beginning is the place of our sanctuary.
 
@@ -942,7 +942,7 @@
 
 15 Because my people has forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up;
 
-16 To make their land desolate, and a perpetual hissing; every one that passs by that will be astonished, and wag his head.
+16 To make their land desolate, and a perpetual hissing; every one that passes by that will be astonished, and wag his head.
 
 17 I will scatter them as with an east wind before the enemy; I will show them the back, and not the face, in the day of their calamity.
 
@@ -974,7 +974,7 @@
 
 7 And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
 
-8 And I will make this city desolate, and an hissing; every one that passs by that will be astonished and hiss because of all the plagues of it.
+8 And I will make this city desolate, and an hissing; every one that passes by that will be astonished and hiss because of all the plagues of it.
 
 9 And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they will eat every one the flesh of his friend in the siege and straitness, with what their enemies, and they that seek their lives, will straiten them.
 
@@ -1086,7 +1086,7 @@
 
 13 Woe to him that builds his house by unrighteousness, and his chambers by wrong; that uses his neighbour's service without wages, and gives him not for his work;
 
-14 That says, I will build me a wide house and large chambers, and cutts him out windows; and it is cieled with cedar, and painted with vermilion.
+14 That says, I will build me a wide house and large chambers, and cuts him out windows; and it is cieled with cedar, and painted with vermilion.
 
 15 will you reign, because you clos thyself in cedar? did not your father eat and drink, and do judgment and justice, and then it was well with him?
 
@@ -1230,7 +1230,7 @@
 
 2 The which Jeremiah the prophet spoke to all the people of Judah, and to all the inhabitants of Jerusalem, saying,
 
-3 From the thirteenth year of Josiah the son of Amon king of Judah, even to this day, that is the three and twentis year, the word of the Lord has come to me, and I have spoken to you, rising early and speaking; but you have not listened.
+3 From the thirteenth year of Josiah the son of Amon king of Judah, even to this day, that is the three and twentieth year, the word of the Lord has come to me, and I have spoken to you, rising early and speaking; but you have not listened.
 
 4 And the Lord has sent to you all his servants the prophets, rising early and sending them; but you have not listened, nor inclined your ear to hear.
 
@@ -1416,7 +1416,7 @@
 
 8 The prophets that have been before me and before you of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
 
-9 The prophet which prophesis of peace, when the word of the prophet will come to pass, then will the prophet be known, that the Lord has truly sent him.
+9 The prophet which prophesies of peace, when the word of the prophet will come to pass, then will the prophet be known, that the Lord has truly sent him.
 
 10 Then Hananiah the prophet took the yoke from off the prophet Jeremiah's neck, and broke it.
 
@@ -1466,7 +1466,7 @@
 
 15 Because you have said, The Lord has raised us up prophets in Babylon;
 
-16 Know that thus says the Lord of the king that sitts upon the throne of David, and of all the people that dwells in this city, and of your brothers that are not gone forth with you into captivity;
+16 Know that thus says the Lord of the king that sits upon the throne of David, and of all the people that dwells in this city, and of your brothers that are not gone forth with you into captivity;
 
 17 Thus says the Lord of hosts; Look, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.
 
@@ -2192,7 +2192,7 @@
 
 2 Then spoke Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying to Jeremiah, you speak falsely: the Lord our God has not sent you to say, Go not into Egypt to sojourn there:
 
-3 But Baruch the son of Neriah setts you on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
+3 But Baruch the son of Neriah sets you on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
 
 4 So Johanan the son of Kareah, and all the captains of the forces, and all the people, obeyed not the voice of the Lord, to dwell in the land of Judah.
 
@@ -2210,7 +2210,7 @@
 
 11 And when he comes, he will smite the land of Egypt, and deliver such as are for death to death; and such as are for captivity to captivity; and such as are for the sword to the sword.
 
-12 And I will kindle a fire in the houses of the gods of Egypt; and he will burn them, and carry them away captives: and he will array himself with the land of Egypt, as a shepherd putts on his garment; and he will go forth from from there in peace.
+12 And I will kindle a fire in the houses of the gods of Egypt; and he will burn them, and carry them away captives: and he will array himself with the land of Egypt, as a shepherd puts on his garment; and he will go forth from from there in peace.
 
 13 He will break also the images of Bethshemesh, that is in the land of Egypt; and the houses of the gods of the Egyptians will he burn with fire.
 
@@ -2450,7 +2450,7 @@
 
 43 Fear, and the pit, and the snare, will be upon you, O inhabitant of Moab, says the Lord.
 
-44 He that fles from the fear will fall into the pit; and he that getts up out of the pit will be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, says the Lord.
+44 He that fles from the fear will fall into the pit; and he that gets up out of the pit will be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, says the Lord.
 
 45 They that fled stood under the shadow of Heshbon because of the force: but a fire will come forth out of Heshbon, and a flame from the midst of Sihon, and will devour the corner of Moab, and the crown of the head of the tumultuous ones.
 
@@ -2822,9 +2822,9 @@
 
 29 In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons:
 
-30 In the three and twentis year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons were four thousand and six hundred.
+30 In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons were four thousand and six hundred.
 
-31 And it came to pass in the seven and thirtis year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentis day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison.
+31 And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison.
 
 32 And spoke kindly to him, and set his throne above the throne of the kings that were with him in Babylon,
 

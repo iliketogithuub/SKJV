@@ -92,7 +92,7 @@
 
 45 And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from from there rejoicing, so that the city rang again. This is the noise that you have heard.
 
-46 And also Solomon sitts on the throne of the kingdom.
+46 And also Solomon sits on the throne of the kingdom.
 
 47 And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than your name, and make his throne greater than your throne. And the king bowed himself upon the bed.
 
@@ -370,7 +370,7 @@
 
 ## 1 Kings Chapter 6
 
-1 And it came to pass in the four hundred and eightis year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
+1 And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
 
 2 And the house which king Solomon built for the Lord, the length of it was threescore cubits, and the breadth of it twenty cubits, and the height of it thirty cubits.
 
@@ -642,7 +642,7 @@
 
 45 Then hear you in heaven their prayer and their prayer, and maintain their cause.
 
-46 If they sin against you, (for there is no man that sinns not,) and you be angry with them, and deliver them to the enemy, so that they carry them away captives to the land of the enemy, far or near;
+46 If they sin against you, (for there is no man that sins not,) and you be angry with them, and deliver them to the enemy, so that they carry them away captives to the land of the enemy, far or near;
 
 47 Yet if they will bethink themselves in the land where they were carried captives, and repent, and make prayer to you in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 
@@ -700,7 +700,7 @@
 
 7 Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel will be a proverb and a byword among all people:
 
-8 And at this house, which is high, every one that passs by it will be astonished, and will hiss; and they will say, Why has the Lord done thus to this land, and to this house?
+8 And at this house, which is high, every one that passes by it will be astonished, and will hiss; and they will say, Why has the Lord done thus to this land, and to this house?
 
 9 And they will answer, Because they forsook the Lord their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore has the Lord brought upon them all this evil.
 
@@ -1048,7 +1048,7 @@
 
 9 But have done evil above all that were before you: for you have gone and made you other gods, and melted images, to provoke me to anger, and have cast me behind your back:
 
-10 Therefore, look, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisss against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man takes away dung, till it be all gone.
+10 Therefore, look, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisses against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man takes away dung, till it be all gone.
 
 11 Him that dies of Jeroboam in the city will the dogs eat; and him that dies in the field will the fowls of the air eat: for the Lord has spoken it.
 
@@ -1110,7 +1110,7 @@
 
 8 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 
-9 And in the twentis year of Jeroboam king of Israel reigned Asa over Judah.
+9 And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.
 
 10 And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 
@@ -1184,7 +1184,7 @@
 
 10 And Zimri went in and struck him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.
 
-11 And it came to pass, when he began to reign, as soon as he sat on his throne, that he killed all the house of Baasha: he left him not one that pisss against a wall, neither of his kinsfolks, nor of his friends.
+11 And it came to pass, when he began to reign, as soon as he sat on his throne, that he killed all the house of Baasha: he left him not one that pisses against a wall, neither of his kinsfolks, nor of his friends.
 
 12 Thus did Zimri destroy all the house of Baasha, according to the word of the Lord, which he spoke against Baasha by Jehu the prophet.
 
@@ -1442,7 +1442,7 @@
 
 10 And Benhadad sent to him, and said, The gods do so to me, and more also, if the dust of Samaria will suffice for handfuls for all the people that follow me.
 
-11 And the king of Israel answered and said, Tell him, Let not him that girds on his harness boast himself as he that putts it off.
+11 And the king of Israel answered and said, Tell him, Let not him that girds on his harness boast himself as he that puts it off.
 
 12 And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said to his servants, Set yourselves in array. And they set themselves in array against the city.
 
@@ -1550,7 +1550,7 @@
 
 20 And Ahab said to Elijah, have you found me, O mine enemy? And he answered, I have found you: because you have sold thyself to work evil in the sight of the Lord.
 
-21 Look, I will bring evil upon you, and will take away your posterity, and will cut off from Ahab him that pisss against the wall, and him that is shut up and left in Israel,
+21 Look, I will bring evil upon you, and will take away your posterity, and will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel,
 
 22 And will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the rebellion with what you have provoked me to anger, and made Israel to sin.
 

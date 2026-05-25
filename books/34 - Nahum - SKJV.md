@@ -8,7 +8,7 @@
 
 3 The Lord is slow to anger, and great in power, and will not at all acquit the wicked: the Lord has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 
-4 He rebuks the sea, and makes it dry, and dris up all the rivers: Bashan languishs, and Carmel, and the flower of Lebanon languishs.
+4 He rebuks the sea, and makes it dry, and dries up all the rivers: Bashan languishs, and Carmel, and the flower of Lebanon languishs.
 
 5 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell in it.
 

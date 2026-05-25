@@ -508,9 +508,9 @@
 
 35 But the days will come, when the bridegroom will be taken away from them, and then will they fast in those days.
 
-36 And he spoke also a parable to them; No man putts a piece of a new garment upon an old; if otherwise, then both the new makes a rent, and the piece that was taken out of the new agres not with the old.
+36 And he spoke also a parable to them; No man puts a piece of a new garment upon an old; if otherwise, then both the new makes a rent, and the piece that was taken out of the new agres not with the old.
 
-37 And no man putts new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles will perish.
+37 And no man puts new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles will perish.
 
 38 But new wine must be put into new bottles; and both are preserved.
 
@@ -750,7 +750,7 @@
 
 15 But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
 
-16 No man, when he has lighted a candle, covers it with a vessel, or putts it under a bed; but setts it on a candlestick, that they which enter in may see the light.
+16 No man, when he has lighted a candle, covers it with a vessel, or puts it under a bed; but sets it on a candlestick, that they which enter in may see the light.
 
 17 For nothing is secret, that will not be made manifest; neither any thing hid, that will not be known and come abroad.
 
@@ -910,7 +910,7 @@
 
 38 And, look, a man of the company cried out, saying, Master, I urge you, look upon my son: for he is mine only child.
 
-39 And, look, a spirit takes him, and he suddenly cris out; and it tears him that he foams again, and bruising him hardly departs from him.
+39 And, look, a spirit takes him, and he suddenly cries out; and it tears him that he foams again, and bruising him hardly departs from him.
 
 40 And I urged your disciples to cast him out; and they could not.
 
@@ -1112,7 +1112,7 @@
 
 32 The men of Nineve will rise up in the judgment with this generation, and will condemn it: for they repented at the preaching of Jonas; and, look, a greater than Jonas is here.
 
-33 No man, when he has lighted a candle, putts it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.
+33 No man, when he has lighted a candle, puts it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.
 
 34 The light of the body is the eye: therefore when your eye is single, your whole body also is full of light; but when your eye is evil, your body also is full of darkness.
 
@@ -1174,7 +1174,7 @@
 
 8 Also I say to you, Whosoever will confess me before men, him will the Son of man also confess before the angels of God:
 
-9 But he that denis me before men will be denied before the angels of God.
+9 But he that denies me before men will be denied before the angels of God.
 
 10 And whosoever will speak a word against the Son of man, it will be forgiven him: but to him that blasphems against the Holy Spirit it will not be forgiven.
 
@@ -1186,7 +1186,7 @@
 
 14 And he said to him, Man, who made me a judge or a divider over you?
 
-15 And he said to them, Take heed, and beware of covetousness: for a man's life consists not in the abundance of the things which he possesss.
+15 And he said to them, Take heed, and beware of covetousness: for a man's life consists not in the abundance of the things which he possesses.
 
 16 And he spoke a parable to them, saying, The ground of a certain rich man brought forth plentifully:
 
@@ -1404,13 +1404,13 @@
 
 27 And whosoever does not bear his cross, and come after me, cannot be my disciple.
 
-28 For which of you, intending to build a tower, sitts not down first, and counts the cost, whether he have sufficient to finish it?
+28 For which of you, intending to build a tower, sits not down first, and counts the cost, whether he have sufficient to finish it?
 
 29 otherwise perhaps, after he has laid the foundation, and is not able to finish it, all that look at it begin to mock him,
 
 30 Saying, This man began to build, and was not able to finish.
 
-31 Or what king, going to make war against another king, sitts not down first, and consults whether he be able with ten thousand to meet him that comes against him with twenty thousand?
+31 Or what king, going to make war against another king, sits not down first, and consults whether he be able with ten thousand to meet him that comes against him with twenty thousand?
 
 32 Or else, while the other is yet a great way off, he sends an ambassage, and desires conditions of peace.
 
@@ -1518,11 +1518,11 @@
 
 15 And he said to them, you are they which justify yourselves before men; but God knows your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 
-16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presss into it.
+16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presses into it.
 
 17 And it is easier for heaven and earth to pass, than one tittle of the law to fail.
 
-18 Whosoever putts away his wife, and marris another, committs adultery: and whosoever marris her that is put away from her husband committs adultery.
+18 Whosoever puts away his wife, and marries another, commits adultery: and whosoever marries her that is put away from her husband commits adultery.
 
 19 There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
 
@@ -1700,7 +1700,7 @@
 
 36 And hearing the multitude pass by, he asked what it meant.
 
-37 And they told him, that Jesus of Nazars passs by.
+37 And they told him, that Jesus of Nazars passes by.
 
 38 And he cried, saying, Jesus, you son of David, have mercy on me.
 
@@ -2040,7 +2040,7 @@
 
 26 But you will not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that does serve.
 
-27 For whether is greater, he that sitts at meat, or he that serves? is not he that sitts at meat? but I am among you as he that serves.
+27 For whether is greater, he that sits at meat, or he that serves? is not he that sits at meat? but I am among you as he that serves.
 
 28 you are they which have continued with me in my temptations.
 
@@ -2140,7 +2140,7 @@
 
 4 Then said Pilate to the chief priests and to the people, I find no fault in this man.
 
-5 And they were the more fierce, saying, He stirrs up the people, teaching throughout all Jewry, beginning from Galilee to this place.
+5 And they were the more fierce, saying, He stirs up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
 6 When Pilate heard of Galilee, he asked whether the man were a Galilaean.
 

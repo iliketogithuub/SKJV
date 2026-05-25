@@ -124,7 +124,7 @@
 
 14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
-15 Brothers, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulls, or adds to it.
+15 Brothers, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannuls, or adds to it.
 
 16 Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ.
 

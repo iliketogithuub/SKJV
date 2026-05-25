@@ -200,7 +200,7 @@
 
 9 Strangers have devoured his strength, and he knows it not: yea, gray hairs are here and there upon him, yet he knows not.
 
-10 And the pride of Israel testifis to his face: and they do not return to the Lord their God, nor seek him for all this.
+10 And the pride of Israel testifies to his face: and they do not return to the Lord their God, nor seek him for all this.
 
 11 Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 
@@ -336,7 +336,7 @@
 
 11 They will tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the Lord.
 
-12 Ephraim compasss me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints.
+12 Ephraim compasses me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints.
 
 ## Hosea Chapter 12
 
@@ -374,7 +374,7 @@
 
 2 And now they sin more and more, and have made them melted images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
 
-3 Therefore they will be as the morning cloud and as the early dew that passs away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
+3 Therefore they will be as the morning cloud and as the early dew that passes away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
 
 4 Yet I am the Lord your God from the land of Egypt, and you will know no god but me: for there is no saviour beside me.
 

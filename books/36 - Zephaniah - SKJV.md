@@ -68,7 +68,7 @@
 
 14 And flocks will lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern will lodge in the upper lintels of it; their voice will sing in the windows; desolation will be in the thresholds; for he will uncover the cedar work.
 
-15 This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passs by her will hiss, and wag his hand.
+15 This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passes by her will hiss, and wag his hand.
 
 ## Zephaniah Chapter 3
 
@@ -82,7 +82,7 @@
 
 5 The just Lord is in the midst of it; he will not do iniquity: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
 
-6 I have cut off the nations: their towers are desolate; I made their streets waste, that none passs by: their cities are destroyed, so that there is no man, that there is none inhabitant.
+6 I have cut off the nations: their towers are desolate; I made their streets waste, that none passes by: their cities are destroyed, so that there is no man, that there is none inhabitant.
 
 7 I said, Surely you will fear me, you will receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.
 

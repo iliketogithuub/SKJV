@@ -2,7 +2,7 @@
 
 ## Nehemiah Chapter 1
 
-1 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentis year, as I was in Shushan the palace,
+1 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 
 2 That Hanani, one of my brothers, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 
@@ -26,11 +26,11 @@
 
 ## Nehemiah Chapter 2
 
-1 And it came to pass in the month Nisan, in the twentis year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it to the king. Now I had not been beforetime sad in his presence.
+1 And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it to the king. Now I had not been beforetime sad in his presence.
 
 2 therefore the king said to me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
 
-3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' tombs, lis waste, and the gates of it are consumed with fire?
+3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' tombs, lies waste, and the gates of it are consumed with fire?
 
 4 Then the king said to me, For what do you make request? So I prayed to the God of heaven.
 
@@ -58,7 +58,7 @@
 
 16 And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 
-17 Then said I to them, you see the distress that we are in, how Jerusalem lis waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
+17 Then said I to them, you see the distress that we are in, how Jerusalem lies waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
 
 18 Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken to me. And they said, Let us rise up and build. So they strengthened their hands for this good work.
 
@@ -116,11 +116,11 @@
 
 24 After him repaired Binnui the son of Henadad another piece, from the house of Azariah to the turning of the wall, even to the corner.
 
-25 Palal the son of Uzai, over against the turning of the wall, and the tower which lis out from the king's high house, that was by the court of the prison. After him Pedaiah the son of Parosh.
+25 Palal the son of Uzai, over against the turning of the wall, and the tower which lies out from the king's high house, that was by the court of the prison. After him Pedaiah the son of Parosh.
 
-26 Moreover the Nethinims dwelt in Ophel, to the place over against the water gate toward the east, and the tower that lis out.
+26 Moreover the Nethinims dwelt in Ophel, to the place over against the water gate toward the east, and the tower that lies out.
 
-27 After them the Tekoites repaired another piece, over against the great tower that lis out, even to the wall of Ophel.
+27 After them the Tekoites repaired another piece, over against the great tower that lies out, even to the wall of Ophel.
 
 28 From above the horse gate repaired the priests, every one over against his house.
 
@@ -208,7 +208,7 @@
 
 13 Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performs not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the Lord. And the people did according to this promise.
 
-14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentis year even to the two and thirtis year of Artaxerxes the king, that is, twelve years, I and my brothers have not eaten the bread of the governor.
+14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even to the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brothers have not eaten the bread of the governor.
 
 15 But the former governors that had been before me were chargeable to the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.
 
@@ -458,7 +458,7 @@
 
 5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ever and ever: and blessed be your glorious name, which is exalted above all blessing and praise.
 
-6 you, even you, are Lord alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are in it, the seas, and all that is in it, and you preserv them all; and the host of heaven worshipps you.
+6 you, even you, are Lord alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are in it, the seas, and all that is in it, and you preserv them all; and the host of heaven worships you.
 
 7 you are the Lord the God, who did choose Abram, and brought him forth out of Ur of the Chaldees, and gav him the name of Abraham;
 
@@ -786,7 +786,7 @@
 
 5 And he had prepared for him a great chamber, where before they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
 
-6 But in all this time was not I at Jerusalem: for in the two and thirtis year of Artaxerxes king of Babylon came I to the king, and after certain days obtained I leave of the king:
+6 But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I to the king, and after certain days obtained I leave of the king:
 
 7 And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
 

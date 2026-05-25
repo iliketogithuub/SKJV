@@ -592,7 +592,7 @@
 
 8 Yea, the fir trees rejoice at you, and the cedars of Lebanon, saying, Since you are laid down, no feller is come up against us.
 
-9 Hell from beneath is moved for you to meet you at your coming: it stirrs up the dead for you, even all the chief ones of the earth; it has raised up from their thrones all the kings of the nations.
+9 Hell from beneath is moved for you to meet you at your coming: it stirs up the dead for you, even all the chief ones of the earth; it has raised up from their thrones all the kings of the nations.
 
 10 All they will speak and say to you, are you also become weak as we? are you become like to us?
 
@@ -998,7 +998,7 @@
 
 10 For in this mountain will the hand of the Lord rest, and Moab will be trodden down under him, even as straw is trodden down for the dunghill.
 
-11 And he will spread forth his hands in the midst of them, as he that swimms spreads forth his hands to swim: and he will bring down their pride together with the spoils of their hands.
+11 And he will spread forth his hands in the midst of them, as he that swims spreads forth his hands to swim: and he will bring down their pride together with the spoils of their hands.
 
 12 And the fortress of the high fort of your walls will he bring down, lay low, and bring to the ground, even to the dust.
 
@@ -1036,7 +1036,7 @@
 
 16 Lord, in trouble have they visited you, they poured out a prayer when your chastening was upon them.
 
-17 Like as a woman with child, that draws near the time of her delivery, is in pain, and cris out in her pangs; so have we been in your sight, O Lord.
+17 Like as a woman with child, that draws near the time of her delivery, is in pain, and cries out in her pangs; so have we been in your sight, O Lord.
 
 18 We have been with child, we have been in pain, we have as it were brought forth wind; we have not worked any deliverance in the earth; neither have the inhabitants of the world fallen.
 
@@ -1086,7 +1086,7 @@
 
 5 In that day will the Lord of hosts be for a crown of glory, and for a diadem of beauty, to the residue of his people,
 
-6 And for a spirit of judgment to him that sitts in judgment, and for strength to them that turn the battle to the gate.
+6 And for a spirit of judgment to him that sits in judgment, and for strength to them that turn the battle to the gate.
 
 7 But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment.
 
@@ -1144,7 +1144,7 @@
 
 4 And you will be brought down, and will speak out of the ground, and your speech will be low out of the dust, and your voice will be, as of one that has a familiar spirit, out of the ground, and your speech will whisper out of the dust.
 
-5 Moreover the multitude of your strangers will be like small dust, and the multitude of the terrible ones will be as chaff that passs away: yea, it will be at an instant suddenly.
+5 Moreover the multitude of your strangers will be like small dust, and the multitude of the terrible ones will be as chaff that passes away: yea, it will be at an instant suddenly.
 
 6 you will be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 
@@ -1344,7 +1344,7 @@
 
 14 The sinners in Zion are afraid; fearfulness has surprised the hypocrites. Who among us will dwell with the devouring fire? who among us will dwell with everlasting burnings?
 
-15 He that walks righteously, and speaks uprightly; he that despiss the gain of oppressions, that shaks his hands from holding of bribes, that stopps his ears from hearing of blood, and shutts his eyes from seeing evil;
+15 He that walks righteously, and speaks uprightly; he that despiss the gain of oppressions, that shaks his hands from holding of bribes, that stops his ears from hearing of blood, and shuts his eyes from seeing evil;
 
 16 He will dwell on high: his place of defence will be the munitions of rocks: bread will be given him; his waters will be sure.
 
@@ -1616,7 +1616,7 @@
 
 2 Speak you comfortably to Jerusalem, and cry to her, that her warfare is accomplished, that her iniquity is pardoned: for she has received of the Lord's hand double for all her sins.
 
-3 The voice of him that cris in the wilderness, Prepare you the way of the Lord, make straight in the desert a highway for our God.
+3 The voice of him that cries in the wilderness, Prepare you the way of the Lord, make straight in the desert a highway for our God.
 
 4 Every valley will be exalted, and every mountain and hill will be made low: and the crooked will be made straight, and the rough places plain:
 
@@ -1654,7 +1654,7 @@
 
 21 Have you not known? have you not heard? has it not been told you from the beginning? have you not understood from the foundations of the earth?
 
-22 It is he that sitts upon the circle of the earth, and the inhabitants of it are as grasshoppers; that stretchs out the heavens as a curtain, and spreads them out as a tent to dwell in:
+22 It is he that sits upon the circle of the earth, and the inhabitants of it are as grasshoppers; that stretchs out the heavens as a curtain, and spreads them out as a tent to dwell in:
 
 23 That brings the princes to nothing; he makes the judges of the earth as vanity.
 
@@ -1836,7 +1836,7 @@
 
 24 you have bought me no sweet cane with money, neither have you filled me with the fat of your sacrifices: but you have made me to serve with your sins, you have wearied me with your iniquities.
 
-25 I, even I, am he that blotts out your sins for mine own sake, and will not remember your sins.
+25 I, even I, am he that blots out your sins for mine own sake, and will not remember your sins.
 
 26 Put me in remembrance: let us plead together: declare you, that you may be justified.
 
@@ -1870,15 +1870,15 @@
 
 12 The smith with the tongs both works in the coals, and fashions it with hammers, and works it with the strength of his arms: yea, he is hungry, and his strength fails: he drinks no water, and is faint.
 
-13 The carpenter stretchs out his rule; he marks it out with a line; he fitts it with planes, and he marks it out with the compass, and makes it after the figure of a man, according to the beauty of a man; that it may remain in the house.
+13 The carpenter stretchs out his rule; he marks it out with a line; he fits it with planes, and he marks it out with the compass, and makes it after the figure of a man, according to the beauty of a man; that it may remain in the house.
 
 14 He hews him down cedars, and takes the cypress and the oak, which he strengthens for himself among the trees of the forest: he plants an ash, and the rain does nourish it.
 
-15 Then will it be for a man to burn: for he will take of it, and warm himself; yea, he kindls it, and baks bread; yea, he makes a god, and worshipps it; he makes it a graven image, and falls down to it.
+15 Then will it be for a man to burn: for he will take of it, and warm himself; yea, he kindls it, and baks bread; yea, he makes a god, and worships it; he makes it a graven image, and falls down to it.
 
 16 He burns part of it in the fire; with part of it he eats flesh; he roasts roast, and is satisfied: yea, he warms himself, and says, Aha, I am warm, I have seen the fire:
 
-17 And the residue of it he makes a god, even his graven image: he falls down to it, and worshipps it, and prays to it, and says, Deliver me; for you are my god.
+17 And the residue of it he makes a god, even his graven image: he falls down to it, and worships it, and prays to it, and says, Deliver me; for you are my god.
 
 18 They have not known nor understood: for he has shut their eyes, that they cannot see; and their hearts, that they cannot understand.
 
@@ -2074,7 +2074,7 @@
 
 6 And he said, It is a light thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the Gentiles, that you may be my salvation to the end of the earth.
 
-7 Thus says the Lord, the Redeemer of Israel, and his Holy One, to him whom man despiss, to him whom the nation abhorrs, to a servant of rulers, Kings will see and arise, princes also will worship, because of the Lord that is faithful, and the Holy One of Israel, and he will choose you.
+7 Thus says the Lord, the Redeemer of Israel, and his Holy One, to him whom man despiss, to him whom the nation abhors, to a servant of rulers, Kings will see and arise, princes also will worship, because of the Lord that is faithful, and the Holy One of Israel, and he will choose you.
 
 8 Thus says the Lord, In an acceptable time have I heard you, and in a day of salvation have I helped you: and I will preserve you, and give you for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
 
@@ -2130,7 +2130,7 @@
 
 7 For the Lord God will help me; therefore will I not be confounded: therefore have I set my face like a flint, and I know that I will not be ashamed.
 
-8 He is near that justifis me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.
+8 He is near that justifies me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.
 
 9 Look, the Lord God will help me; who is he that will condemn me? look, they all will wax old as a garment; the moth will eat them up.
 
@@ -2286,7 +2286,7 @@
 
 1 Ho, every one that thirsts, come you to the waters, and he that has no money; come you, buy, and eat; yea, come, buy wine and milk without money and without price.
 
-2 therefore do you spend money for that which is not bread? and your labour for that which satisfis not? listen diligently to me, and eat you that which is good, and let your soul delight itself in fatness.
+2 therefore do you spend money for that which is not bread? and your labour for that which satisfies not? listen diligently to me, and eat you that which is good, and let your soul delight itself in fatness.
 
 3 Incline your ear, and come to me: hear, and your soul will live; and I will make an everlasting covenant with you, even the sure mercies of David.
 
@@ -2362,7 +2362,7 @@
 
 12 I will declare your righteousness, and your works; for they will not profit you.
 
-13 When you cri, let your companies deliver you; but the wind will carry them all away; vanity will take them: but he that putts his trust in me will possess the land, and will inherit my holy mountain;
+13 When you cri, let your companies deliver you; but the wind will carry them all away; vanity will take them: but he that puts his trust in me will possess the land, and will inherit my holy mountain;
 
 14 And will say, Cast you up, cast you up, prepare the way, take up the stumblingblock out of the way of my people.
 
@@ -2534,7 +2534,7 @@
 
 4 you will no more be termed Forsaken; neither will your land any more be termed Desolate: but you will be called Hephzibah, and your land Beulah: for the Lord delights in you, and your land will be married.
 
-5 For as a young man marris a virgin, so will your sons marry you: and as the bridegroom rejoics over the bride, so will your God rejoice over you.
+5 For as a young man marries a virgin, so will your sons marry you: and as the bridegroom rejoics over the bride, so will your God rejoice over you.
 
 6 I have set watchmen upon your walls, O Jerusalem, which will never hold their peace day nor night: you that make mention of the Lord, keep not silence,
 
@@ -2604,7 +2604,7 @@
 
 6 But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 
-7 And there is none that calls upon your name, that stirrs up himself to take hold of you: for you have hid your face from us, and have consumed us, because of our iniquities.
+7 And there is none that calls upon your name, that stirs up himself to take hold of you: for you have hid your face from us, and have consumed us, because of our iniquities.
 
 8 But now, O Lord, you are our father; we are the clay, and you our potter; and we all are the work of your hand.
 
@@ -2648,7 +2648,7 @@
 
 15 And you will leave your name for a curse to my chosen: for the Lord God will slay you, and call his servants by another name:
 
-16 That he who blesss himself in the earth will bless himself in the God of truth; and he that swears in the earth will swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.
+16 That he who blesses himself in the earth will bless himself in the God of truth; and he that swears in the earth will swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.
 
 17 For, look, I create new heavens and a new earth: and the former will not be remembered, nor come into mind.
 

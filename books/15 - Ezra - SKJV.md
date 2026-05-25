@@ -414,7 +414,7 @@
 
 14 Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.
 
-15 And I gathered them together to the river that runns to Ahava; and there stayed we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
+15 And I gathered them together to the river that runs to Ahava; and there stayed we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
 
 16 Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
 
@@ -508,7 +508,7 @@
 
 8 And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
 
-9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within three days. It was the ninth month, on the twentis day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
+9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
 10 And Ezra the priest stood up, and said to them, you have sinned, and have taken strange wives, to increase the trespass of Israel.
 

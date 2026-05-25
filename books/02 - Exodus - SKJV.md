@@ -578,7 +578,7 @@
 
 4 And Moses said, Thus says the Lord, About midnight will I go out into the midst of Egypt:
 
-5 And all the firstborn in the land of Egypt will die, from the first born of Pharaoh that sitts upon his throne, even to the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts.
+5 And all the firstborn in the land of Egypt will die, from the first born of Pharaoh that sits upon his throne, even to the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts.
 
 6 And there will be a great cry throughout all the land of Egypt, such as there was none like it, nor will be like it any more.
 
@@ -626,7 +626,7 @@
 
 17 And you will observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore will you observe this day in your generations by an ordinance for ever.
 
-18 In the first month, on the fourteenth day of the month at even, you will eat unleavened bread, until the one and twentis day of the month at even.
+18 In the first month, on the fourteenth day of the month at even, you will eat unleavened bread, until the one and twentieth day of the month at even.
 
 19 Seven days will there be no leaven found in your houses: for whosoever eats that which is leavened, even that soul will be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
 
@@ -1242,7 +1242,7 @@
 
 18 you will not suffer a witch to live.
 
-19 Whosoever lis with a beast will surely be put to death.
+19 Whosoever lies with a beast will surely be put to death.
 
 20 He that sacrifics to any god, save to the Lord only, he will be utterly destroyed.
 
@@ -1258,7 +1258,7 @@
 
 26 If you at all take your neighbour's clothing to pledge, you will deliver it to him by that the sun goes down:
 
-27 For that is his covering only, it is his clothing for his skin: in which will he sleep? and it will come to pass, when he cris to me, that I will hear; for I am gracious.
+27 For that is his covering only, it is his clothing for his skin: in which will he sleep? and it will come to pass, when he cries to me, that I will hear; for I am gracious.
 
 28 you will not revile the gods, nor curse the ruler of your people.
 
@@ -1772,7 +1772,7 @@
 
 6 And you will put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with you.
 
-7 And Aaron will burn thereon sweet incense every morning: when he dresss the lamps, he will burn incense upon it.
+7 And Aaron will burn thereon sweet incense every morning: when he dresses the lamps, he will burn incense upon it.
 
 8 And when Aaron lights the lamps at even, he will burn incense upon it, a perpetual incense before the Lord throughout your generations.
 
@@ -1784,9 +1784,9 @@
 
 12 When you tak the sum of the children of Israel after their number, then will they give every man a ransom for his soul to the Lord, when you number them; that there be no plague among them, when you number them.
 
-13 This they will give, every one that passs among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel will be the offering of the Lord.
+13 This they will give, every one that passes among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel will be the offering of the Lord.
 
-14 Every one that passs among them that are numbered, from twenty years old and above, will give an offering to the Lord.
+14 Every one that passes among them that are numbered, from twenty years old and above, will give an offering to the Lord.
 
 15 The rich will not give more, and the poor will not give less than half a shekel, when they give an offering to the Lord, to make an atonement for your souls.
 
@@ -1824,7 +1824,7 @@
 
 32 Upon man's flesh will it not be poured, neither will you make any other like it, after the composition of it: it is holy, and it will be holy to you.
 
-33 Whosoever compounds any like it, or whosoever putts any of it upon a stranger, will even be cut off from his people.
+33 Whosoever compounds any like it, or whosoever puts any of it upon a stranger, will even be cut off from his people.
 
 34 And the Lord said to Moses, Take to you sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each will there be a like weight:
 
@@ -1990,7 +1990,7 @@
 
 21 And the Lord said, Look, there is a place by me, and you will stand upon a rock:
 
-22 And it will come to pass, while my glory passs by, that I will put you in a clift of the rock, and will cover you with my hand while I pass by:
+22 And it will come to pass, while my glory passes by, that I will put you in a clift of the rock, and will cover you with my hand while I pass by:
 
 23 And I will take away mine hand, and you will see my back parts: but my face will not be seen.
 

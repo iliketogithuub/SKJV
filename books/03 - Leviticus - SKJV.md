@@ -224,7 +224,7 @@
 
 2 If a soul sin, and commit a trespass against the Lord, and lie to his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or has deceived his neighbour;
 
-3 Or have found that which was lost, and lis concerning it, and swears falsely; in any of all these that a man does, sinning in it:
+3 Or have found that which was lost, and lies concerning it, and swears falsely; in any of all these that a man does, sinning in it:
 
 4 Then it will be, because he has sinned, and is guilty, that he will restore that which he took violently away, or the thing which he has deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,
 
@@ -852,7 +852,7 @@
 
 46 Moreover he that goes into the house all the while that it is shut up will be unclean until the even.
 
-47 And he that lis in the house will wash his clothes; and he that eats in the house will wash his clothes.
+47 And he that lies in the house will wash his clothes; and he that eats in the house will wash his clothes.
 
 48 And if the priest will come in, and look upon it, and, look, the plague has not spread in the house, after the house was plaistered: then the priest will pronounce the house clean, because the plague is healed.
 
@@ -882,11 +882,11 @@
 
 3 And this will be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness.
 
-4 Every bed, whereon he lis that has the issue, is unclean: and every thing, whereon he sitts, will be unclean.
+4 Every bed, whereon he lies that has the issue, is unclean: and every thing, whereon he sits, will be unclean.
 
 5 And whosoever touchs his bed will wash his clothes, and bathe himself in water, and be unclean until the even.
 
-6 And he that sitts on any thing whereon he sat that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
+6 And he that sits on any thing whereon he sat that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
 
 7 And he that touchs the flesh of him that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
 
@@ -914,19 +914,19 @@
 
 19 And if a woman have an issue, and her issue in her flesh be blood, she will be put apart seven days: and whosoever touchs her will be unclean until the even.
 
-20 And every thing that she lis upon in her separation will be unclean: every thing also that she sitts upon will be unclean.
+20 And every thing that she lies upon in her separation will be unclean: every thing also that she sits upon will be unclean.
 
 21 And whosoever touchs her bed will wash his clothes, and bathe himself in water, and be unclean until the even.
 
 22 And whosoever touchs any thing that she sat upon will wash his clothes, and bathe himself in water, and be unclean until the even.
 
-23 And if it be on her bed, or on any thing whereon she sitts, when he touchs it, he will be unclean until the even.
+23 And if it be on her bed, or on any thing whereon she sits, when he touchs it, he will be unclean until the even.
 
-24 And if any man lie with her at all, and her flowers be upon him, he will be unclean seven days; and all the bed whereon he lis will be unclean.
+24 And if any man lie with her at all, and her flowers be upon him, he will be unclean seven days; and all the bed whereon he lies will be unclean.
 
 25 And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness will be as the days of her separation: she will be unclean.
 
-26 Every bed whereon she lis all the days of her issue will be to her as the bed of her separation: and whatsoever she sitts upon will be unclean, as the uncleanness of her separation.
+26 Every bed whereon she lies all the days of her issue will be to her as the bed of her separation: and whatsoever she sits upon will be unclean, as the uncleanness of her separation.
 
 27 And whosoever touchs those things will be unclean, and will wash his clothes, and bathe himself in water, and be unclean until the even.
 
@@ -940,7 +940,7 @@
 
 32 This is the law of him that has an issue, and of him whose seed goes from him, and is defiled with it;
 
-33 And of her that is sick of her flowers, and of him that has an issue, of the man, and of the woman, and of him that lis with her that is unclean.
+33 And of her that is sick of her flowers, and of him that has an issue, of the man, and of the woman, and of him that lies with her that is unclean.
 
 ## Leviticus Chapter 16
 
@@ -1148,7 +1148,7 @@
 
 19 you will keep my statutes. you will not let your cattle gender with a diverse kind: you will not sow your field with mingled seed: neither will a garment mingled of linen and woollen come upon you.
 
-20 And whosoever lis carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she will be scourged; they will not be put to death, because she was not free.
+20 And whosoever lies carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she will be scourged; they will not be put to death, because she was not free.
 
 21 And he will bring his trespass offering to the Lord, to the door of the tabernacle of the congregation, even a ram for a trespass offering.
 
@@ -1204,13 +1204,13 @@
 
 9 For every one that curss his father or his mother will be surely put to death: he has cursed his father or his mother; his blood will be upon him.
 
-10 And the man that committs adultery with another man's wife, even he that committs adultery with his neighbour's wife, the adulterer and the adulteress will surely be put to death.
+10 And the man that commits adultery with another man's wife, even he that commits adultery with his neighbour's wife, the adulterer and the adulteress will surely be put to death.
 
-11 And the man that lis with his father's wife has uncovered his father's nakedness: both of them will surely be put to death; their blood will be upon them.
+11 And the man that lies with his father's wife has uncovered his father's nakedness: both of them will surely be put to death; their blood will be upon them.
 
 12 And if a man lie with his daughter in law, both of them will surely be put to death: they have done confusion; their blood will be upon them.
 
-13 If a man also lie with mankind, as he lis with a woman, both of them have committed an abomination: they will surely be put to death; their blood will be upon them.
+13 If a man also lie with mankind, as he lies with a woman, both of them have committed an abomination: they will surely be put to death; their blood will be upon them.
 
 14 And if a man take a wife and her mother, it is wickedness: they will be burnt with fire, both he and they; that there be no wickedness among you.
 
@@ -1516,9 +1516,9 @@
 
 9 Then will you cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement will you make the trumpet sound throughout all your land.
 
-10 And you will hallow the fiftis year, and proclaim liberty throughout all the land to all the inhabitants of it: it will be a jubile to you; and you will return every man to his possession, and you will return every man to his family.
+10 And you will hallow the fiftieth year, and proclaim liberty throughout all the land to all the inhabitants of it: it will be a jubile to you; and you will return every man to his possession, and you will return every man to his family.
 
-11 A jubile will that fiftis year be to you: you will not sow, neither reap that which grows of itself in it, nor gather the grapes in it of your vine undressed.
+11 A jubile will that fiftieth year be to you: you will not sow, neither reap that which grows of itself in it, nor gather the grapes in it of your vine undressed.
 
 12 For it is the jubile; it will be holy to you: you will eat the increase of it out of the field.
 
@@ -1676,9 +1676,9 @@
 
 33 And I will scatter you among the heathen, and will draw out a sword after you: and your land will be desolate, and your cities waste.
 
-34 Then will the land enjoy her sabbaths, as long as it lis desolate, and you be in your enemies' land; even then will the land rest, and enjoy her sabbaths.
+34 Then will the land enjoy her sabbaths, as long as it lies desolate, and you be in your enemies' land; even then will the land rest, and enjoy her sabbaths.
 
-35 As long as it lis desolate it will rest; because it did not rest in your sabbaths, when you dwelt upon it.
+35 As long as it lies desolate it will rest; because it did not rest in your sabbaths, when you dwelt upon it.
 
 36 And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf will chase them; and they will flee, as fleeing from a sword; and they will fall when none pursus.
 
@@ -1694,7 +1694,7 @@
 
 42 Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 
-43 The land also will be left of them, and will enjoy her sabbaths, while she lis desolate without them: and they will accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul despised my statutes.
+43 The land also will be left of them, and will enjoy her sabbaths, while she lies desolate without them: and they will accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul despised my statutes.
 
 44 And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I despise them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.
 
@@ -1766,7 +1766,7 @@
 
 31 And if a man will at all redeem ought of his tithes, he will add to it the fifth part of it.
 
-32 And concerning the tithe of the herd, or of the flock, even of whatsoever passs under the rod, the tenth will be holy to the Lord.
+32 And concerning the tithe of the herd, or of the flock, even of whatsoever passes under the rod, the tenth will be holy to the Lord.
 
 33 He will not search whether it be good or bad, neither will he change it: and if he change it at all, then both it and the change of it will be holy; it will not be redeemed.
 

@@ -74,7 +74,7 @@
 
 3 And think you this, O man, that judg them which do such things, and do the same, that you will escape the judgment of God?
 
-4 Or despis you the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leads you to repentance?
+4 Or despises you the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leads you to repentance?
 
 5 But after your hardness and impenitent heart treasur up to thyself wrath against the day of wrath and revelation of the righteous judgment of God;
 
@@ -200,7 +200,7 @@
 
 4 Now to him that works is the reward not reckoned of grace, but of debt.
 
-5 But to him that works not, but believes on him that justifis the ungodly, his faith is counted for righteousness.
+5 But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness.
 
 6 Even as David also describs the blessedness of the man, to whom God imputs righteousness without works,
 
@@ -452,7 +452,7 @@
 
 32 He that spared not his own Son, but delivered him up for us all, how will he not with him also freely give us all things?
 
-33 Who will lay any thing to the charge of God's elect? It is God that justifis.
+33 Who will lay any thing to the charge of God's elect? It is God that justifies.
 
 34 Who is he that condemns? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also makes intercession for us.
 
@@ -498,7 +498,7 @@
 
 15 For he says to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 
-16 So then it is not of him that wills, nor of him that runns, but of God that shews mercy.
+16 So then it is not of him that wills, nor of him that runs, but of God that shews mercy.
 
 17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth.
 
@@ -520,7 +520,7 @@
 
 26 And it will come to pass, that in the place where it was said to them, you are not my people; there will they be called the children of the living God.
 
-27 Esaias also cris concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant will be saved:
+27 Esaias also cries concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant will be saved:
 
 28 For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.
 
@@ -688,7 +688,7 @@
 
 17 Repay to no man evil for evil. Provide things honest in the sight of all men.
 
-18 If it be possible, as much as lis in you, live peaceably with all men.
+18 If it be possible, as much as lies in you, live peaceably with all men.
 
 19 Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
 
