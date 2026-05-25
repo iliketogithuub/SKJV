@@ -8,7 +8,7 @@
 
 3 In the third year of his reign, he made a feast to all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him:
 
-4 When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days.
+4 When he showed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days.
 
 5 And when these days were expired, the king made a feast to all the people that were present in Shushan the palace, both to great and small, seven days, in the court of the garden of the king's palace;
 
@@ -22,7 +22,7 @@
 
 10 On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,
 
-11 To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she was fair to look on.
+11 To bring Vashti the queen before the king with the crown royal, to show the people and the princes her beauty: for she was fair to look on.
 
 12 But the queen Vashti refused to come at the king's commandment by his chamberlains: therefore was the king very furious, and his anger burned in him.
 
@@ -66,7 +66,7 @@
 
 9 And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, which were meet to be given her, out of the king's house: and he preferred her and her maids to the best place of the house of the women.
 
-10 Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.
+10 Esther had not showed her people nor her kindred: for Mordecai had charged her that she should not show it.
 
 11 And Mordecai walked every day before the court of the women's house, to know how Esther did, and what should become of her.
 
@@ -86,7 +86,7 @@
 
 19 And when the virgins were gathered together the second time, then Mordecai sat in the king's gate.
 
-20 Esther had not yet shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
+20 Esther had not yet showed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
 
 21 In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were furious, and sought to lay hands on the king Ahasuerus.
 
@@ -102,11 +102,11 @@
 
 3 Then the king's servants, which were in the king's gate, said to Mordecai, Why transgress you the king's commandment?
 
-4 Now it came to pass, when they spake daily to him, and he listened not to them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.
+4 Now it came to pass, when they spoke daily to him, and he listened not to them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.
 
 5 And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.
 
-6 And he thought scorn to lay hands on Mordecai alone; for they had shewed him the people of Mordecai: therefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai.
+6 And he thought scorn to lay hands on Mordecai alone; for they had showed him the people of Mordecai: therefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai.
 
 7 In the first month, that is, the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, to the twelfth month, that is, the month Adar.
 
@@ -142,11 +142,11 @@
 
 7 And Mordecai told him of all that had happened to him, and of the sum of the money that Haman had promised to pay to the king's treasuries for the Jews, to destroy them.
 
-8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make prayer to him, and to make request before him for her people.
+8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to show it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make prayer to him, and to make request before him for her people.
 
 9 And Hatach came and told Esther the words of Mordecai.
 
-10 Again Esther spake to Hatach, and gave him commandment to Mordecai;
+10 Again Esther spoke to Hatach, and gave him commandment to Mordecai;
 
 11 All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or women, will come to the king into the inner court, who is not called, there is one law of his to put him to death, except such to whom the king will hold out the golden sceptre, that he may live: but I have not been called to come in to the king these thirty days.
 
@@ -250,7 +250,7 @@
 
 2 And the king took off his ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
 
-3 And Esther spake yet again before the king, and fell down at his feet, and urged him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
+3 And Esther spoke yet again before the king, and fell down at his feet, and urged him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
 
 4 Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,
 
@@ -292,7 +292,7 @@
 
 5 Thus the Jews struck all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would to those that hated them.
 
-6 And in Shushan the palace the Jews slew and destroyed five hundred men.
+6 And in Shushan the palace the Jews killed and destroyed five hundred men.
 
 7 And Parshandatha, and Dalphon, and Aspatha,
 
@@ -300,7 +300,7 @@
 
 9 And Parmashta, and Arisai, and Aridai, and Vajezatha,
 
-10 The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand.
+10 The ten sons of Haman the son of Hammedatha, the enemy of the Jews, killed they; but on the spoil laid they not their hand.
 
 11 On that day the number of those that were slain in Shushan the palace was brought before the king.
 
@@ -310,9 +310,9 @@
 
 14 And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman's ten sons.
 
-15 For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
+15 For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and killed three hundred men at Shushan; but on the prey they laid not their hand.
 
-16 But the other Jews that were in the king's provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,
+16 But the other Jews that were in the king's provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and killed of their foes seventy and five thousand, but they laid not their hands on the prey,
 
 17 On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
 

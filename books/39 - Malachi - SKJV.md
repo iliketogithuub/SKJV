@@ -20,7 +20,7 @@
 
 9 And now, I pray you, urge God that he will be gracious to us: this has been by your means: will he regard your persons? says the Lord of hosts.
 
-10 Who is there even among you that would shut the doors for nought? neither do you kindle fire on mine altar for nought. I have no pleasure in you, says the Lord of hosts, neither will I accept an offering at your hand.
+10 Who is there even among you that would shut the doors for nothing? neither do you kindle fire on mine altar for nothing. I have no pleasure in you, says the Lord of hosts, neither will I accept an offering at your hand.
 
 11 For from the rising of the sun even to the going down of the same my name will be great among the Gentiles; and in every place incense will be offered to my name, and a pure offering: for my name will be great among the heathen, says the Lord of hosts.
 
@@ -98,7 +98,7 @@
 
 15 And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
-16 Then they that feared the Lord spake often one to another: and the Lord listened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name.
+16 Then they that feared the Lord spoke often one to another: and the Lord listened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name.
 
 17 And they will be mine, says the Lord of hosts, in that day when I make up my jewels; and I will spare them, as a man spars his own son that serves him.
 

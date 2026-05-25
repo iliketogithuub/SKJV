@@ -28,7 +28,7 @@
 
 13 Would you tarry for them till they were grown? would you stay for them from having husbands? nay, my daughters; for it grievs me much for your sakes that the hand of the Lord is gone out against me.
 
-14 And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave to her.
+14 And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clung to her.
 
 15 And she said, Look, your sister in law is gone back to her people, and to her gods: return you after your sister in law.
 
@@ -62,13 +62,13 @@
 
 7 And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and has continued even from the morning until now, that she tarried a little in the house.
 
-8 Then said Boaz to Ruth, Hear you not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:
+8 Then said Boaz to Ruth, Hear you not, my daughter? Go not to glean in another field, neither go from here, but abide here fast by my maidens:
 
 9 Let your eyes be on the field that they do reap, and go you after them: have I not charged the young men that they will not touch you? and when you are athirst, go to the vessels, and drink of that which the young men have drawn.
 
 10 Then she fell on her face, and bowed herself to the ground, and said to him, Why have I found grace in your eyes, that you should take knowledge of me, seeing I am a stranger?
 
-11 And Boaz answered and said to her, It has fully been shewed me, all that you have done to your mother in law since the death of your husband: and how you have left your father and your mother, and the land of your nativity, and are come to a people which you knew not heretofore.
+11 And Boaz answered and said to her, It has fully been showed me, all that you have done to your mother in law since the death of your husband: and how you have left your father and your mother, and the land of your nativity, and are come to a people which you knew not previously.
 
 12 The Lord repay your work, and a full reward be given you of the Lord God of Israel, under whose wings you are come to trust.
 
@@ -84,7 +84,7 @@
 
 18 And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
 
-19 And her mother in law said to her, Where have you gleaned to day? and where worked you? blessed be he that did take knowledge of you. And she shewed her mother in law with whom she had done, and said, The man's name with whom I worked to day is Boaz.
+19 And her mother in law said to her, Where have you gleaned to day? and where worked you? blessed be he that did take knowledge of you. And she showed her mother in law with whom she had done, and said, The man's name with whom I worked to day is Boaz.
 
 20 And Naomi said to her daughter in law, Blessed be he of the Lord, who has not left off his kindness to the living and to the dead. And Naomi said to her, The man is near of kin to us, one of our next kinsmen.
 
@@ -114,7 +114,7 @@
 
 9 And he said, Who are you? And she answered, I am Ruth your handmaid: spread therefore your skirt over your handmaid; for you are a near kinsman.
 
-10 And he said, Blessed be you of the Lord, my daughter: for you have shewed more kindness in the latter end than at the beginning, since as you followedst not young men, whether poor or rich.
+10 And he said, Blessed be you of the Lord, my daughter: for you have showed more kindness in the latter end than at the beginning, since as you followedst not young men, whether poor or rich.
 
 11 And now, my daughter, fear not; I will do to you all that you requir: for all the city of my people does know that you are a virtuous woman.
 
@@ -134,7 +134,7 @@
 
 ## Ruth Chapter 4
 
-1 Then went Boaz up to the gate, and sat him down there: and, look, the kinsman of whom Boaz spake came by; to whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
+1 Then went Boaz up to the gate, and sat him down there: and, look, the kinsman of whom Boaz spoke came by; to whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
 
 2 And he took ten men of the elders of the city, and said, Sit you down here. And they sat down.
 

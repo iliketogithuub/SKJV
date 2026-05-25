@@ -90,7 +90,7 @@
 
 14 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 
-15 And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.
+15 And having spoiled principalities and powers, he made a show of them openly, triumphing over them in it.
 
 16 Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
 
@@ -106,7 +106,7 @@
 
 22 Which all are to perish with the using;) after the commandments and doctrines of men?
 
-23 Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.
+23 Which things have indeed a show of wisdom in will worship, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.
 
 ## Colossians Chapter 3
 

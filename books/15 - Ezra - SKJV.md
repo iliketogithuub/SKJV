@@ -142,7 +142,7 @@
 
 58 All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 
-59 And these were they which went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel:
+59 And these were they which went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not show their father's house, and their seed, whether they were of Israel:
 
 60 The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.
 
@@ -474,7 +474,7 @@
 
 7 Since the days of our fathers have we been in a great trespass to this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day.
 
-8 And now for a little space grace has been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
+8 And now for a little space grace has been showed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 
 9 For we were bondmen; yet our God has not forsaken us in our bondage, but has extended mercy to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations of it, and to give us a wall in Judah and in Jerusalem.
 
@@ -486,7 +486,7 @@
 
 13 And after all that is come upon us for our evil deeds, and for our great trespass, seeing that you our God have punished us less than our iniquities deserve, and have given us such deliverance as this;
 
-14 Should we again break your commandments, and join in affinity with the people of these abominations? would not you be angry with us till you hadst consumed us, so that there should be no remnant nor escaping?
+14 Should we again break your commandments, and join in affinity with the people of these abominations? would not you be angry with us till you had consumed us, so that there should be no remnant nor escaping?
 
 15 O Lord God of Israel, you are righteous: for we remain yet escaped, as it is this day: look, we are before you in our trespasses: for we cannot stand before you because of this.
 

@@ -4,7 +4,7 @@
 
 1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 
-2 (For the life was manifested, and we have seen it, and bear witness, and shew to you that eternal life, which was with the Father, and was manifested to us;)
+2 (For the life was manifested, and we have seen it, and bear witness, and show to you that eternal life, which was with the Father, and was manifested to us;)
 
 3 That which we have seen and heard declare we to you, that you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 
@@ -106,7 +106,7 @@
 
 11 For this is the message that you heard from the beginning, that we should love one another.
 
-12 Not as Cain, who was of that wicked one, and slew his brother. And therefore slew he him? Because his own works were evil, and his brother's righteous.
+12 Not as Cain, who was of that wicked one, and killed his brother. And therefore killed he him? Because his own works were evil, and his brother's righteous.
 
 13 Marvel not, my brothers, if the world hate you.
 

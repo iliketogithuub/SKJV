@@ -2,23 +2,23 @@
 
 ## Deuteronomy Chapter 1
 
-1 These be the words which Moses spake to all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
+1 These be the words which Moses spoke to all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 
 2 (There are eleven days' journey from Horeb by the way of mount Seir to Kadeshbarnea.)
 
-3 And it came to pass in the fortis year, in the eleventh month, on the first day of the month, that Moses spake to the children of Israel, according to all that the Lord had given him in commandment to them;
+3 And it came to pass in the fortis year, in the eleventh month, on the first day of the month, that Moses spoke to the children of Israel, according to all that the Lord had given him in commandment to them;
 
 4 After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
 
 5 On this side Jordan, in the land of Moab, began Moses to declare this law, saying,
 
-6 The Lord our God spake to us in Horeb, saying, you have dwelt long enough in this mount:
+6 The Lord our God spoke to us in Horeb, saying, you have dwelt long enough in this mount:
 
 7 Turn you, and take your journey, and go to the mount of the Amorites, and to all the places near thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and to Lebanon, to the great river, the river Euphrates.
 
 8 Look, I have set the land before you: go in and possess the land which the Lord sware to your fathers, Abraham, Isaac, and Jacob, to give to them and to their seed after them.
 
-9 And I spake to you at that time, saying, I am not able to bear you myself alone:
+9 And I spoke to you at that time, saying, I am not able to bear you myself alone:
 
 10 The Lord your God has multiplied you, and, look, you are this day as the stars of heaven for multitude.
 
@@ -66,7 +66,7 @@
 
 32 Yet in this thing you did not believe the Lord your God,
 
-33 Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way you should go, and in a cloud by day.
+33 Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to show you by what way you should go, and in a cloud by day.
 
 34 And the Lord heard the voice of your words, and was furious, and sware, saying,
 
@@ -86,7 +86,7 @@
 
 42 And the Lord said to me, Say to them. Go not up, neither fight; for I am not among you; otherwise you be smitten before your enemies.
 
-43 So I spake to you; and you would not hear, but rebelled against the commandment of the Lord, and went presumptuously up into the hill.
+43 So I spoke to you; and you would not hear, but rebelled against the commandment of the Lord, and went presumptuously up into the hill.
 
 44 And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even to Hormah.
 
@@ -96,9 +96,9 @@
 
 ## Deuteronomy Chapter 2
 
-1 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the Lord spake to me: and we compassed mount Seir many days.
+1 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the Lord spoke to me: and we compassed mount Seir many days.
 
-2 And the Lord spake to me, saying,
+2 And the Lord spoke to me, saying,
 
 3 you have compassed this mountain long enough: turn you northward.
 
@@ -128,7 +128,7 @@
 
 16 So it came to pass, when all the men of war were consumed and dead from among the people,
 
-17 That the Lord spake to me, saying,
+17 That the Lord spoke to me, saying,
 
 18 you are to pass over through Ar, the coast of Moab, this day:
 
@@ -218,7 +218,7 @@
 
 23 And I urged the Lord at that time, saying,
 
-24 O Lord God, you have begun to shew your servant your greatness, and your mighty hand: for what God is there in heaven or in earth, that can do according to your works, and according to your might?
+24 O Lord God, you have begun to show your servant your greatness, and your mighty hand: for what God is there in heaven or in earth, that can do according to your works, and according to your might?
 
 25 I pray you, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon.
 
@@ -254,15 +254,15 @@
 
 11 And you came near and stood under the mountain; and the mountain burned with fire to the midst of heaven, with darkness, clouds, and thick darkness.
 
-12 And the Lord spake to you out of the midst of the fire: you heard the voice of the words, but saw no similitude; only you heard a voice.
+12 And the Lord spoke to you out of the midst of the fire: you heard the voice of the words, but saw no likeness; only you heard a voice.
 
 13 And he declared to you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone.
 
 14 And the Lord commanded me at that time to teach you statutes and judgments, that you might do them in the land where you go over to possess it.
 
-15 Take you therefore good heed to yourselves; for you saw no manner of similitude on the day that the Lord spake to you in Horeb out of the midst of the fire:
+15 Take you therefore good heed to yourselves; for you saw no manner of likeness on the day that the Lord spoke to you in Horeb out of the midst of the fire:
 
-16 otherwise you corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,
+16 otherwise you corrupt yourselves, and make you a graven image, the likeness of any figure, the likeness of male or female,
 
 17 The likeness of any beast that is on the earth, the likeness of any winged fowl that flis in the air,
 
@@ -300,9 +300,9 @@
 
 34 Or has God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
 
-35 to you it was shewed, that you might know that the Lord he is God; there is none else beside him.
+35 to you it was showed, that you might know that the Lord he is God; there is none else beside him.
 
-36 Out of heaven he made you to hear his voice, that he might instruct you: and upon earth he shewed you his great fire; and you heard his words out of the midst of the fire.
+36 Out of heaven he made you to hear his voice, that he might instruct you: and upon earth he showed you his great fire; and you heard his words out of the midst of the fire.
 
 37 And because he loved your fathers, therefore he chose their seed after them, and brought you out in his sight with his mighty power out of Egypt;
 
@@ -320,7 +320,7 @@
 
 44 And this is the law which Moses set before the children of Israel:
 
-45 These are the testimonies, and the statutes, and the judgments, which Moses spake to the children of Israel, after they came forth out of Egypt.
+45 These are the testimonies, and the statutes, and the judgments, which Moses spoke to the children of Israel, after they came forth out of Egypt.
 
 46 On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel struck, after they were come forth out of Egypt:
 
@@ -340,7 +340,7 @@
 
 4 The Lord talked with you face to face in the mount out of the midst of the fire,
 
-5 (I stood between the Lord and you at that time, to shew you the word of the Lord: for you were afraid by reason of the fire, and went not up into the mount;) saying,
+5 (I stood between the Lord and you at that time, to show you the word of the Lord: for you were afraid by reason of the fire, and went not up into the mount;) saying,
 
 6 I am the Lord your God, which brought you out of the land of Egypt, from the house of bondage.
 
@@ -350,7 +350,7 @@
 
 9 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me,
 
-10 And shewing mercy to thousands of them that love me and keep my commandments.
+10 And showing mercy to thousands of them that love me and keep my commandments.
 
 11 you will not take the name of the Lord your God in vain: for the Lord will not hold him guiltless that takes his name in vain.
 
@@ -374,11 +374,11 @@
 
 21 Neither will you desire your neighbour's wife, neither will you covet your neighbour's house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is your neighbour's.
 
-22 These words the Lord spake to all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them to me.
+22 These words the Lord spoke to all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them to me.
 
 23 And it came to pass, when you heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that you came near to me, even all the heads of your tribes, and your elders;
 
-24 And you said, Look, the Lord our God has shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God does talk with man, and he lives.
+24 And you said, Look, the Lord our God has showed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God does talk with man, and he lives.
 
 25 Now therefore why should we die? for this great fire will consume us: if we hear the voice of the Lord our God any more, then we will die.
 
@@ -386,7 +386,7 @@
 
 27 Go you near, and hear all that the Lord our God will say: and speak you to us all that the Lord our God will speak to you; and we will hear it, and do it.
 
-28 And the Lord heard the voice of your words, when you spake to me; and the Lord said to me, I have heard the voice of the words of this people, which they have spoken to you: they have well said all that they have spoken.
+28 And the Lord heard the voice of your words, when you spoke to me; and the Lord said to me, I have heard the voice of the words of this people, which they have spoken to you: they have well said all that they have spoken.
 
 29 O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
 
@@ -442,7 +442,7 @@
 
 21 Then you will say to your son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand:
 
-22 And the Lord shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
+22 And the Lord showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
 
 23 And he brought us out from from there, that he might bring us in, to give us the land which he sware to our fathers.
 
@@ -454,7 +454,7 @@
 
 1 When the Lord your God will bring you into the land where you go to possess it, and has cast out many nations before you, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than you;
 
-2 And when the Lord your God will deliver them before you; you will smite them, and utterly destroy them; you will make no covenant with them, nor shew mercy to them:
+2 And when the Lord your God will deliver them before you; you will smite them, and utterly destroy them; you will make no covenant with them, nor show mercy to them:
 
 3 Neither will you make marriages with them; your daughter you will not give to his son, nor his daughter will you take to your son.
 
@@ -566,13 +566,13 @@
 
 9 When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the Lord made with you, then I stayed in the mount forty days and forty nights, I neither did eat bread nor drink water:
 
-10 And the Lord delivered to me two tables of stone written with the finger of God; and on them was written according to all the words, which the Lord spake with you in the mount out of the midst of the fire in the day of the assembly.
+10 And the Lord delivered to me two tables of stone written with the finger of God; and on them was written according to all the words, which the Lord spoke with you in the mount out of the midst of the fire in the day of the assembly.
 
 11 And it came to pass at the end of forty days and forty nights, that the Lord gave me the two tables of stone, even the tables of the covenant.
 
-12 And the Lord said to me, Arise, get you down quickly from hence; for your people which you have brought forth out of Egypt have corrupted themselves; they are quickly turned aside out of the way which I commanded them; they have made them a melted image.
+12 And the Lord said to me, Arise, get you down quickly from here; for your people which you have brought forth out of Egypt have corrupted themselves; they are quickly turned aside out of the way which I commanded them; they have made them a melted image.
 
-13 Furthermore the Lord spake to me, saying, I have seen this people, and, look, it is a stiffnecked people:
+13 Furthermore the Lord spoke to me, saying, I have seen this people, and, look, it is a stiffnecked people:
 
 14 Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of you a nation mightier and greater than they.
 
@@ -580,7 +580,7 @@
 
 16 And I looked, and, look, you had sinned against the Lord your God, and had made you a melted calf: you had turned aside quickly out of the way which the Lord had commanded you.
 
-17 And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
+17 And I took the two tables, and cast them out of my two hands, and broke them before your eyes.
 
 18 And I fell down before the Lord, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which you sinned, in doing wickedly in the sight of the Lord, to provoke him to anger.
 
@@ -614,7 +614,7 @@
 
 3 And I made an ark of shittim wood, and hewed two tables of stone like to the first, and went up into the mount, having the two tables in mine hand.
 
-4 And he wrote on the tables, according to the first writing, the ten commandments, which the Lord spake to you in the mount out of the midst of the fire in the day of the assembly: and the Lord gave them to me.
+4 And he wrote on the tables, according to the first writing, the ten commandments, which the Lord spoke to you in the mount out of the midst of the fire in the day of the assembly: and the Lord gave them to me.
 
 5 And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the Lord commanded me.
 
@@ -788,7 +788,7 @@
 
 1 If there arise among you a prophet, or a dreamer of dreams, and gives you a sign or a wonder,
 
-2 And the sign or the wonder come to pass, whereof he spake to you, saying, Let us go after other gods, which you have not known, and let us serve them;
+2 And the sign or the wonder come to pass, whereof he spoke to you, saying, Let us go after other gods, which you have not known, and let us serve them;
 
 3 you will not listen to the words of that prophet, or that dreamer of dreams: for the Lord your God proves you, to know whether you love the Lord your God with all your heart and with all your soul.
 
@@ -818,7 +818,7 @@
 
 16 And you will gather all the spoil of it into the midst of the street of it, and will burn with fire the city, and all the spoil of it every whit, for the Lord your God: and it will be an heap for ever; it will not be built again.
 
-17 And there will cleave nought of the cursed thing to your hand: that the Lord may turn from the fierceness of his anger, and shew you mercy, and have compassion upon you, and multiply you, as he has sworn to your fathers;
+17 And there will cleave nothing of the cursed thing to your hand: that the Lord may turn from the fierceness of his anger, and show you mercy, and have compassion upon you, and multiply you, as he has sworn to your fathers;
 
 18 When you will listen to the voice of the Lord your God, to keep all his commandments which I command you this day, to do that which is right in the eyes of the Lord your God.
 
@@ -900,7 +900,7 @@
 
 8 But you will open your hand wide to him, and will surely lend him sufficient for his need, in that which he wants.
 
-9 Beware that there be not a thought in your wicked heart, saying, The seventh year, the year of release, is at hand; and your eye be evil against your poor brother, and you giv him nought; and he cry to the Lord against you, and it be sin to you.
+9 Beware that there be not a thought in your wicked heart, saying, The seventh year, the year of release, is at hand; and your eye be evil against your poor brother, and you giv him nothing; and he cry to the Lord against you, and it be sin to you.
 
 10 you will surely give him, and your heart will not be grieved when you giv to him: because that for this thing the Lord your God will bless you in all your works, and in all that you putt your hand to.
 
@@ -994,11 +994,11 @@
 
 8 If there arise a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates: then will you arise, and get you up into the place which the Lord your God will choose;
 
-9 And you will come to the priests the Levites, and to the judge that will be in those days, and enquire; and they will shew you the sentence of judgment:
+9 And you will come to the priests the Levites, and to the judge that will be in those days, and enquire; and they will show you the sentence of judgment:
 
-10 And you will do according to the sentence, which they of that place which the Lord will choose will shew you; and you will observe to do according to all that they inform you:
+10 And you will do according to the sentence, which they of that place which the Lord will choose will show you; and you will observe to do according to all that they inform you:
 
-11 According to the sentence of the law which they will teach you, and according to the judgment which they will tell you, you will do: you will not decline from the sentence which they will shew you, to the right hand, nor to the left.
+11 According to the sentence of the law which they will teach you, and according to the judgment which they will tell you, you will do: you will not decline from the sentence which they will show you, to the right hand, nor to the left.
 
 12 And the man that will do presumptuously, and will not listen to the priest that stands to minister there before the Lord your God, or to the judge, even that man will die: and you will put away the evil from Israel.
 
@@ -1456,7 +1456,7 @@
 
 8 And you will write upon the stones all the words of this law very plainly.
 
-9 And Moses and the priests the Levites spake to all Israel, saying, Take heed, and listen, O Israel; this day you are become the people of the Lord your God.
+9 And Moses and the priests the Levites spoke to all Israel, saying, Take heed, and listen, O Israel; this day you are become the people of the Lord your God.
 
 10 you will therefore obey the voice of the Lord your God, and do his commandments and his statutes, which I command you this day.
 
@@ -1592,7 +1592,7 @@
 
 49 The Lord will bring a nation against you from far, from the end of the earth, as swift as the eagle flis; a nation whose tongue you will not understand;
 
-50 A nation of fierce countenance, which will not regard the person of the old, nor shew favour to the young:
+50 A nation of fierce countenance, which will not regard the person of the old, nor show favour to the young:
 
 51 And he will eat the fruit of your cattle, and the fruit of your land, until you be destroyed: which also will not leave you either corn, wine, or oil, or the increase of your kine, or flocks of your sheep, until he have destroyed you.
 
@@ -1618,7 +1618,7 @@
 
 62 And you will be left few in number, whereas you were as the stars of heaven for multitude; because you would not obey the voice of the Lord your God.
 
-63 And it will come to pass, that as the Lord rejoiced over you to do you good, and to multiply you; so the Lord will rejoice over you to destroy you, and to bring you to nought; and you will be plucked from off the land where you go to possess it.
+63 And it will come to pass, that as the Lord rejoiced over you to do you good, and to multiply you; so the Lord will rejoice over you to destroy you, and to bring you to nothing; and you will be plucked from off the land where you go to possess it.
 
 64 And the Lord will scatter you among all people, from the one end of the earth even to the other; and there you will serve other gods, which neither you nor your fathers have known, even wood and stone.
 
@@ -1628,7 +1628,7 @@
 
 67 In the morning you will say, Would God it were even! and at even you will say, Would God it were morning! for the fear of your heart with what you will fear, and for the sight of your eyes which you will see.
 
-68 And the Lord will bring you into Egypt again with ships, by the way whereof I spake to you, you will see it no more again: and there you will be sold to your enemies for bondmen and bondwomen, and no man will buy you.
+68 And the Lord will bring you into Egypt again with ships, by the way whereof I spoke to you, you will see it no more again: and there you will be sold to your enemies for bondmen and bondwomen, and no man will buy you.
 
 ## Deuteronomy Chapter 29
 
@@ -1734,7 +1734,7 @@
 
 ## Deuteronomy Chapter 31
 
-1 And Moses went and spake these words to all Israel.
+1 And Moses went and spoke these words to all Israel.
 
 2 And he said to them, I am an hundred and twenty years old this day; I can no more go out and come in: also the Lord has said to me, you will not go over this Jordan.
 
@@ -1792,7 +1792,7 @@
 
 29 For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because you will do evil in the sight of the Lord, to provoke him to anger through the work of your hands.
 
-30 And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.
+30 And Moses spoke in the ears of all the congregation of Israel the words of this song, until they were ended.
 
 ## Deuteronomy Chapter 32
 
@@ -1808,7 +1808,7 @@
 
 6 Do you thus requite the Lord, O foolish people and unwise? is not he your father that has bought you? has he not made you, and established you?
 
-7 Remember the days of old, consider the years of many generations: ask your father, and he will shew you; your elders, and they will tell you.
+7 Remember the days of old, consider the years of many generations: ask your father, and he will show you; your elders, and they will tell you.
 
 8 When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 
@@ -1882,7 +1882,7 @@
 
 43 Rejoice, O you nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful to his land, and to his people.
 
-44 And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
+44 And Moses came and spoke all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
 
 45 And Moses made an end of speaking all these words to all Israel:
 
@@ -1890,7 +1890,7 @@
 
 47 For it is not a vain thing for you; because it is your life: and through this thing you will prolong your days in the land, where you go over Jordan to possess it.
 
-48 And the Lord spake to Moses that selfsame day, saying,
+48 And the Lord spoke to Moses that selfsame day, saying,
 
 49 Get you up into this mountain Abarim, to mount Nebo, which is in the land of Moab, that is over against Jericho; and look at the land of Canaan, which I give to the children of Israel for a possession:
 
@@ -1962,7 +1962,7 @@
 
 ## Deuteronomy Chapter 34
 
-1 And Moses went up from the plains of Moab to the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the Lord shewed him all the land of Gilead, to Dan,
+1 And Moses went up from the plains of Moab to the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the Lord showed him all the land of Gilead, to Dan,
 
 2 And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, to the utmost sea,
 
@@ -1984,7 +1984,7 @@
 
 11 In all the signs and the wonders, which the Lord sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 
-12 And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
+12 And in all that mighty hand, and in all the great terror which Moses showed in the sight of all Israel.
 
 
 ## eof

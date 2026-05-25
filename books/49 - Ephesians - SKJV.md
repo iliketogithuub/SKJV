@@ -62,7 +62,7 @@
 
 6 And has raised us up together, and made us sit together in heavenly places in Christ Jesus:
 
-7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
+7 That in the ages to come he might show the exceeding riches of his grace in his kindness toward us through Christ Jesus.
 
 8 For by grace are you saved through faith; and that not of yourselves: it is the gift of God:
 
@@ -100,7 +100,7 @@
 
 2 If you have heard of the administration of the grace of God which is given me to you-ward:
 
-3 How that by revelation he made known to me the mystery; (as I wrote afore in few words,
+3 How that by revelation he made known to me the mystery; (as I wrote before in few words,
 
 4 Whereby, when you read, you may understand my knowledge in the mystery of Christ)
 

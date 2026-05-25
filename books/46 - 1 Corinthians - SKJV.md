@@ -56,7 +56,7 @@
 
 27 But God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty;
 
-28 And base things of the world, and things which are despised, has God chosen, yea, and things which are not, to bring to nought things that are:
+28 And base things of the world, and things which are despised, has God chosen, yea, and things which are not, to bring to nothing things that are:
 
 29 That no flesh should glory in his presence.
 
@@ -76,7 +76,7 @@
 
 5 That your faith should not stand in the wisdom of men, but in the power of God.
 
-6 However we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
+6 However we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nothing:
 
 7 But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world to our glory:
 
@@ -160,7 +160,7 @@
 
 6 And these things, brothers, I have in a figure transferred to myself and to Apollos for your sakes; that you might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 
-7 For who makes you to differ from another? and what have you that you did not receive? now if you did receive it, why do you glory, as if you hadst not received it?
+7 For who makes you to differ from another? and what have you that you did not receive? now if you did receive it, why do you glory, as if you had not received it?
 
 8 Now you are full, now you are rich, you have reigned as kings without us: and I would to God you did reign, that we also might reign with you.
 
@@ -482,7 +482,7 @@
 
 27 If any of them that believe not bid you to a feast, and you be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.
 
-28 But if any man say to you, this is offered in sacrifice to idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness of it:
+28 But if any man say to you, this is offered in sacrifice to idols, eat not for his sake that showed it, and for conscience sake: for the earth is the Lord's, and the fulness of it:
 
 29 Conscience, I say, not your own, but of the other: for why is my liberty judged of another man's conscience?
 
@@ -542,11 +542,11 @@
 
 23 For I have received of the Lord that which also I delivered to you, that the Lord Jesus the same night in which he was betrayed took bread:
 
-24 And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+24 And when he had given thanks, he broke it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 
-25 After the same manner also he took the cup, when he had supped, saying, this cup is the new testament in my blood: this do you, as oft as you drink it, in remembrance of me.
+25 After the same manner also he took the cup, when he had supped, saying, this cup is the new testament in my blood: this do you, as often as you drink it, in remembrance of me.
 
-26 For as often as you eat this bread, and drink this cup, you do shew the Lord's death till he come.
+26 For as often as you eat this bread, and drink this cup, you do show the Lord's death till he come.
 
 27 therefore whosoever will eat this bread, and drink this cup of the Lord, unworthily, will be guilty of the body and blood of the Lord.
 
@@ -626,7 +626,7 @@
 
 30 Have all the gifts of healing? do all speak with tongues? do all interpret?
 
-31 But covet earnestly the best gifts: and yet shew I to you a more excellent way.
+31 But covet earnestly the best gifts: and yet show I to you a more excellent way.
 
 ## 1 Corinthians Chapter 13
 
@@ -638,7 +638,7 @@
 
 4 love suffers long, and is kind; love envis not; love vaunts not itself, is not puffed up,
 
-5 does not behave itself unseemly, seeks not her own, is not easily provoked, thinks no evil;
+5 does not behave itself improperly, seeks not her own, is not easily provoked, thinks no evil;
 
 6 Rejoics not in iniquity, but rejoics in the truth;
 
@@ -650,7 +650,7 @@
 
 10 But when that which is perfect is come, then that which is in part will be done away.
 
-11 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
+11 When I was a child, I spoke as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
 
 12 For now we see through a glass, darkly; but then face to face: now I know in part; but then will I know even as also I am known.
 
@@ -666,7 +666,7 @@
 
 4 He that speaks in an unknown tongue edifis himself; but he that prophesis edifis the church.
 
-5 I would that you all spake with tongues but rather that you prophesied: for greater is he that prophesis than he that speaks with tongues, except he interpret, that the church may receive edifying.
+5 I would that you all spoke with tongues but rather that you prophesied: for greater is he that prophesis than he that speaks with tongues, except he interpret, that the church may receive edifying.
 
 6 Now, brothers, if I come to you speaking with tongues, what will I profit you, except I will speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 
@@ -840,7 +840,7 @@
 
 50 Now this I say, brothers, that flesh and blood cannot inherit the kingdom of God; neither does corruption inherit incorruption.
 
-51 Look, I shew you a mystery; We will not all sleep, but we will all be changed,
+51 Look, I show you a mystery; We will not all sleep, but we will all be changed,
 
 52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet will sound, and the dead will be raised incorruptible, and we will be changed.
 

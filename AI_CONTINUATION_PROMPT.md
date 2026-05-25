@@ -53,7 +53,8 @@ Ensure the resulting text is uniquely phrased and structurally distinct from the
 To prevent regression, the following words must **never** appear in the translated scripture text (excluding `[Operational Insight:]` or `KJV Skeleton:` comparison blocks):
 * Archaic pronouns: `thee`, `thou`, `ye`, `thy`, `thine`
 * Archaic prepositions/connectors: `unto`, `wherefore`, `lest`
-* Archaic verbs: `hath`, `hast`, `doth`, `dost`, `saith`, `durst`, `wrought`, `entreated`
+* Archaic verbs: `hath`, `hast`, `doth`, `dost`, `saith`, `durst`, `wrought`, `entreated`, `spake`, `shew`, `slew`, `shewed`, `brake`, `nought`, `travail`, `gat`, `clave`, `shewing`, `oft`, `similitude`, `wot`, `heretofore`, `dearth`, `afore`, `aforetime`, `subtilty`, `goodman`, `matrix`, `holpen`, `ofttimes`, `naught`, `seemly`, `anon`, `unseemly`, `trow`, `superfluity`, `eschew`
+* Archaic helper verbs (second person singular, etc.): `didst`, `hadst`, `canst`, `wert`, `wouldst`, `couldst`, `shouldst`, `shalt`, `wilt`
 * Archaic nouns: `charity`, `lasciviousness`, `Holy Ghost`
 * Archaic exclamations: `behold`, `beheld`, `beholding`, `lo`
 * Verb endings ending in `-eth` or `-est` (e.g., `walketh`, `givest`), unless they are on the whitelists in `scripts/verify_translation.py` (e.g. `teeth`, `bethlehem`, `greatest`, `priest`).

@@ -42,7 +42,7 @@
 
 20 For the wrath of man works not the righteousness of God.
 
-21 therefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
+21 therefore lay apart all filthiness and excess of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 
 22 But be you doers of the word, and not hearers only, deceiving your own selves.
 
@@ -82,7 +82,7 @@
 
 12 So speak you, and so do, as they that will be judged by the law of liberty.
 
-13 For he will have judgment without mercy, that has shewed no mercy; and mercy rejoics against judgment.
+13 For he will have judgment without mercy, that has showed no mercy; and mercy rejoics against judgment.
 
 14 What does it profit, my brothers, though a man say he has faith, and have not works? can faith save him?
 
@@ -92,7 +92,7 @@
 
 17 Even so faith, if it has not works, is dead, being alone.
 
-18 Yea, a man may say, you have faith, and I have works: shew me your faith without your works, and I will shew you my faith by my works.
+18 Yea, a man may say, you have faith, and I have works: show me your faith without your works, and I will show you my faith by my works.
 
 19 you believ that there is one God; you do well: the devils also believe, and tremble.
 
@@ -128,7 +128,7 @@
 
 8 But the tongue can no man tame; it is an unruly evil, full of deadly poison.
 
-9 With it bless we God, even the Father; and with it curse we men, which are made after the similitude of God.
+9 With it bless we God, even the Father; and with it curse we men, which are made after the likeness of God.
 
 10 Out of the same mouth proceeds blessing and cursing. My brothers, these things ought not so to be.
 
@@ -136,7 +136,7 @@
 
 12 Can the fig tree, my brothers, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.
 
-13 Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
+13 Who is a wise man and endued with knowledge among you? let him show out of a good conversation his works with meekness of wisdom.
 
 14 But if you have bitter envying and strife in your hearts, glory not, and lie not against the truth.
 
@@ -150,7 +150,7 @@
 
 ## James Chapter 4
 
-1 From from where come wars and fightings among you? come they not hence, even of your lusts that war in your members?
+1 From from where come wars and fightings among you? come they not from here, even of your lusts that war in your members?
 
 2 you lust, and have not: you kill, and desire to have, and cannot obtain: you fight and war, yet you have not, because you ask not.
 

@@ -128,7 +128,7 @@
 
 8 For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory.
 
-9 The shew of their countenance does witness against them; and they declare their sin as Sodom, they hide it not. Woe to their soul! for they have rewarded evil to themselves.
+9 The show of their countenance does witness against them; and they declare their sin as Sodom, they hide it not. Woe to their soul! for they have rewarded evil to themselves.
 
 10 Say you to the righteous, that it will be well with him: for they will eat the fruit of their doings.
 
@@ -288,7 +288,7 @@
 
 9 And the head of Ephraim is Samaria, and the head of Samaria is Remaliah's son. If you will not believe, surely you will not be established.
 
-10 Moreover the Lord spake again to Ahaz, saying,
+10 Moreover the Lord spoke again to Ahaz, saying,
 
 11 Ask you a sign of the Lord your God; ask it either in the depth, or in the height above.
 
@@ -330,7 +330,7 @@
 
 4 For before the child will have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria will be taken away before the king of Assyria.
 
-5 The Lord spake also to me again, saying,
+5 The Lord spoke also to me again, saying,
 
 6 Since as this people refuss the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son;
 
@@ -340,9 +340,9 @@
 
 9 Associate yourselves, O you people, and you will be broken in pieces; and give ear, all you of far countries: gird yourselves, and you will be broken in pieces; gird yourselves, and you will be broken in pieces.
 
-10 Take counsel together, and it will come to nought; speak the word, and it will not stand: for God is with us.
+10 Take counsel together, and it will come to nothing; speak the word, and it will not stand: for God is with us.
 
-11 For the Lord spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
+11 For the Lord spoke thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
 
 12 Say you not, A confederacy, to all them to whom this people will say, A confederacy; neither fear you their fear, nor be afraid.
 
@@ -544,7 +544,7 @@
 
 7 Therefore will all hands be faint, and every man's heart will melt:
 
-8 And they will be afraid: pangs and sorrows will take hold of them; they will be in pain as a woman that travails: they will be amazed one at another; their faces will be as flames.
+8 And they will be afraid: pangs and sorrows will take hold of them; they will be in pain as a woman in labor: they will be amazed one at another; their faces will be as flames.
 
 9 Look, the day of the Lord comes, cruel both with wrath and fierce anger, to lay the land desolate: and he will destroy the sinners of it out of it.
 
@@ -730,7 +730,7 @@
 
 4 For so the Lord said to me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.
 
-5 For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he will both cut off the sprigs with pruning hooks, and take away and cut down the branches.
+5 For before the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he will both cut off the sprigs with pruning hooks, and take away and cut down the branches.
 
 6 They will be left together to the fowls of the mountains, and to the beasts of the earth: and the fowls will summer upon them, and all the beasts of the earth will winter upon them.
 
@@ -792,7 +792,7 @@
 
 1 In the year that Tartan came to Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
 
-2 At the same time spake the Lord by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off your loins, and put off your shoe from your foot. And he did so, walking naked and barefoot.
+2 At the same time spoke the Lord by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off your loins, and put off your shoe from your foot. And he did so, walking naked and barefoot.
 
 3 And the Lord said, Like as my servant Isaiah has walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;
 
@@ -808,7 +808,7 @@
 
 2 A grievous vision is declared to me; the treacherous dealer deals treacherously, and the spoiler spoils. Go up, O Elam: besiege, O Media; all the sighing of it have I made to cease.
 
-3 Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travails: I was bowed down at the hearing of it; I was dismayed at the seeing of it.
+3 Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman in labor: I was bowed down at the hearing of it; I was dismayed at the seeing of it.
 
 4 My heart panted, fearfulness affrighted me: the night of my pleasure has he turned into fear to me.
 
@@ -898,7 +898,7 @@
 
 3 And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
 
-4 Be you ashamed, O Zidon: for the sea has spoken, even the strength of the sea, saying, I travail not, nor bring forth children, neither do I nourish up young men, nor bring up virgins.
+4 Be you ashamed, O Zidon: for the sea has spoken, even the strength of the sea, saying, I labor not, nor bring forth children, neither do I nourish up young men, nor bring up virgins.
 
 5 As at the report concerning Egypt, so will they be sorely pained at the report of Tyre.
 
@@ -1022,7 +1022,7 @@
 
 9 With my soul have I desired you in the night; yea, with my spirit within me will I seek you early: for when your judgments are in the earth, the inhabitants of the world will learn righteousness.
 
-10 Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not look at the majesty of the Lord.
+10 Let favour be showed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not look at the majesty of the Lord.
 
 11 Lord, when your hand is lifted up, they will not see: but they will see, and be ashamed for their envy at the people; yea, the fire of your enemies will devour them.
 
@@ -1032,7 +1032,7 @@
 
 14 They are dead, they will not live; they are deceased, they will not rise: therefore have you visited and destroyed them, and made all their memory to perish.
 
-15 you have increased the nation, O Lord, you have increased the nation: you are glorified: you hadst removed it far to all the ends of the earth.
+15 you have increased the nation, O Lord, you have increased the nation: you are glorified: you had removed it far to all the ends of the earth.
 
 16 Lord, in trouble have they visited you, they poured out a prayer when your chastening was upon them.
 
@@ -1068,7 +1068,7 @@
 
 10 Yet the defenced city will be desolate, and the habitation forsaken, and left like a wilderness: there will the calf feed, and there will he lie down, and consume the branches of it.
 
-11 When the boughs of it are withered, they will be broken off: the women come, and set them on fire: for it is a people of no understanding: therefore he that made them will not have mercy on them, and he that formed them will shew them no favour.
+11 When the boughs of it are withered, they will be broken off: the women come, and set them on fire: for it is a people of no understanding: therefore he that made them will not have mercy on them, and he that formed them will show them no favour.
 
 12 And it will come to pass in that day, that the Lord will beat off from the channel of the river to the stream of Egypt, and you will be gathered one by one, O you children of Israel.
 
@@ -1174,9 +1174,9 @@
 
 19 The meek also will increase their joy in the Lord, and the poor among men will rejoice in the Holy One of Israel.
 
-20 For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
+20 For the terrible one is brought to nothing, and the scorner is consumed, and all that watch for iniquity are cut off:
 
-21 That make a man an offender for a word, and lay a snare for him that reprovs in the gate, and turn aside the just for a thing of nought.
+21 That make a man an offender for a word, and lay a snare for him that reprovs in the gate, and turn aside the just for a thing of nothing.
 
 22 Therefore thus says the Lord, who redeemed Abraham, concerning the house of Jacob, Jacob will not now be ashamed, neither will his face now wax pale.
 
@@ -1228,7 +1228,7 @@
 
 21 And your ears will hear a word behind you, saying, This is the way, walk you in it, when you turn to the right hand, and when you turn to the left.
 
-22 you will defile also the covering of your graven images of silver, and the ornament of your melted images of gold: you will cast them away as a menstruous cloth; you will say to it, Get you hence.
+22 you will defile also the covering of your graven images of silver, and the ornament of your melted images of gold: you will cast them away as a menstruous cloth; you will say to it, Get you from here.
 
 23 Then will he give the rain of your seed, that you will sow the ground also; and bread of the increase of the earth, and it will be fat and plenteous: in that day will your cattle feed in large pastures.
 
@@ -1244,7 +1244,7 @@
 
 29 you will have a song, as in the night when a holy solemnity is kept; and gladness of heart, as when one goes with a pipe to come into the mountain of the Lord, to the mighty One of Israel.
 
-30 And the Lord will cause his glorious voice to be heard, and will shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.
+30 And the Lord will cause his glorious voice to be heard, and will show the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.
 
 31 For through the voice of the Lord will the Assyrian be beaten down, which struck with a rod.
 
@@ -1258,7 +1258,7 @@
 
 2 Yet he also is wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.
 
-3 Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When the Lord will stretch out his hand, both he that helps will fall, and he that is holpen will fall down, and they all will fail together.
+3 Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When the Lord will stretch out his hand, both he that helps will fall, and he that is helped will fall down, and they all will fail together.
 
 4 For thus has the Lord spoken to me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, he will not be afraid of their voice, nor abase himself for the noise of them: so will the Lord of hosts come down to fight for mount Zion, and for the hill of it.
 
@@ -1596,11 +1596,11 @@
 
 1 At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
 
-2 And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
+2 And Hezekiah was glad of them, and showed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
 
 3 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from from where came they to you? And Hezekiah said, They are come from a far country to me, even from Babylon.
 
-4 Then said he, What have they seen in your house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not shewed them.
+4 Then said he, What have they seen in your house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not showed them.
 
 5 Then said Isaiah to Hezekiah, Hear the word of the Lord of hosts:
 
@@ -1638,7 +1638,7 @@
 
 13 Who has directed the Spirit of the Lord, or being his counsellor has taught him?
 
-14 With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?
+14 With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and showed to him the way of understanding?
 
 15 Look, the nations are as a drop of a bucket, and are counted as the small dust of the balance: look, he takes up the isles as a very little thing.
 
@@ -1698,7 +1698,7 @@
 
 11 Look, all they that were incensed against you will be ashamed and confounded: they will be as nothing; and they that strive with you will perish.
 
-12 you will seek them, and will not find them, even them that contended with you: they that war against you will be as nothing, and as a thing of nought.
+12 you will seek them, and will not find them, even them that contended with you: they that war against you will be as nothing, and as a thing of nothing.
 
 13 For I the Lord your God will hold your right hand, saying to you, Fear not; I will help you.
 
@@ -1718,11 +1718,11 @@
 
 21 Produce your cause, says the Lord; bring forth your strong reasons, says the King of Jacob.
 
-22 Let them bring them forth, and shew us what will happen: let them shew the former things, what they be, that we may consider them, and know the latter end of them; or declare us things for to come.
+22 Let them bring them forth, and show us what will happen: let them show the former things, what they be, that we may consider them, and know the latter end of them; or declare us things for to come.
 
-23 Shew the things that are to come from now on, that we may know that you are gods: yea, do good, or do evil, that we may be dismayed, and look at it together.
+23 Show the things that are to come from now on, that we may know that you are gods: yea, do good, or do evil, that we may be dismayed, and look at it together.
 
-24 Look, you are of nothing, and your work of nought: an abomination is he that chooss you.
+24 Look, you are of nothing, and your work of nothing: an abomination is he that chooss you.
 
 25 I have raised up one from the north, and he will come: from the rising of the sun will he call upon my name: and he will come upon princes as upon morter, and as the potter treads clay.
 
@@ -1762,7 +1762,7 @@
 
 13 The Lord will go forth as a mighty man, he will stir up jealousy like a man of war: he will cry, yea, roar; he will prevail against his enemies.
 
-14 I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.
+14 I have long time holden my peace; I have been still, and refrained myself: now will I cry like a woman in labor; I will destroy and devour at once.
 
 15 I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.
 
@@ -1804,13 +1804,13 @@
 
 8 Bring forth the blind people that have eyes, and the deaf that have ears.
 
-9 Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
+9 Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and show us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
 
 10 you are my witnesses, says the Lord, and my servant whom I have chosen: that you may know and believe me, and understand that I am he: before me there was no God formed, neither will there be after me.
 
 11 I, even I, am the Lord; and beside me there is no saviour.
 
-12 I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore you are my witnesses, says the Lord, that I am God.
+12 I have declared, and have saved, and I have showed, when there was no strange god among you: therefore you are my witnesses, says the Lord, that I am God.
 
 13 Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who will let it?
 
@@ -1828,7 +1828,7 @@
 
 20 The beast of the field will honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.
 
-21 This people have I formed for myself; they will shew forth my praise.
+21 This people have I formed for myself; they will show forth my praise.
 
 22 But you have not called upon me, O Jacob; but you have been weary of me, O Israel.
 
@@ -1858,7 +1858,7 @@
 
 6 Thus says the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
-7 And who, as I, will call, and will declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and will come, let them shew to them.
+7 And who, as I, will call, and will declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and will come, let them show to them.
 
 8 Fear you not, neither be afraid: have not I told you from that time, and have declared it? you are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.
 
@@ -1970,7 +1970,7 @@
 
 7 They bear him upon the shoulder, they carry him, and set him in his place, and he stands; from his place will he not remove: yea, one will cry to him, yet can he not answer, nor save him out of his trouble.
 
-8 Remember this, and shew yourselves men: bring it again to mind, O you sinners.
+8 Remember this, and show yourselves men: bring it again to mind, O you sinners.
 
 9 Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
 
@@ -1994,7 +1994,7 @@
 
 5 Sit you silent, and get you into darkness, O daughter of the Chaldeans: for you will no more be called, The lady of kingdoms.
 
-6 I was furious with my people, I have polluted mine inheritance, and given them into your hand: you did shew them no mercy; upon the ancient have you very heavily laid your yoke.
+6 I was furious with my people, I have polluted mine inheritance, and given them into your hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke.
 
 7 And you saidst, I will be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it.
 
@@ -2020,13 +2020,13 @@
 
 2 For they call themselves of the holy city, and stay themselves upon the God of Israel; The Lord of hosts is his name.
 
-3 I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.
+3 I have declared the former things from the beginning; and they went forth out of my mouth, and I showed them; I did them suddenly, and they came to pass.
 
 4 Because I knew that you are obstinate, and your neck is an iron sinew, and your brow brass;
 
-5 I have even from the beginning declared it to you; before it came to pass I shewed it you: otherwise you should say, Mine idol has done them, and my graven image, and my melted image, has commanded them.
+5 I have even from the beginning declared it to you; before it came to pass I showed it you: otherwise you should say, Mine idol has done them, and my graven image, and my melted image, has commanded them.
 
-6 you have heard, see all this; and will not you declare it? I have shewed you new things from this time, even hidden things, and you did not know them.
+6 you have heard, see all this; and will not you declare it? I have showed you new things from this time, even hidden things, and you did not know them.
 
 7 They are created now, and not from the beginning; even before the day when you heard them not; otherwise you should say, Look, I knew them.
 
@@ -2050,13 +2050,13 @@
 
 17 Thus says the Lord, your Redeemer, the Holy One of Israel; I am the Lord your God which teachs you to profit, which leads you by the way that you should go.
 
-18 O that you hadst listened to my commandments! then had your peace been as a river, and your righteousness as the waves of the sea:
+18 O that you had listened to my commandments! then had your peace been as a river, and your righteousness as the waves of the sea:
 
 19 your seed also had been as the sand, and the offspring of your deep affection like the gravel of it; his name should not have been cut off nor destroyed from before me.
 
 20 Go you forth of Babylon, flee you from the Chaldeans, with a voice of singing declare you, tell this, utter it even to the end of the earth; say you, The Lord has redeemed his servant Jacob.
 
-21 And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
+21 And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he split the rock also, and the waters gushed out.
 
 22 There is no peace, says the Lord, to the wicked.
 
@@ -2068,7 +2068,7 @@
 
 3 And said to me, you are my servant, O Israel, in whom I will be glorified.
 
-4 Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the Lord, and my work with my God.
+4 Then I said, I have laboured in vain, I have spent my strength for nothing, and in vain: yet surely my judgment is with the Lord, and my work with my God.
 
 5 And now, says the Lord that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet will I be glorious in the eyes of the Lord, and my God will be my strength.
 
@@ -2078,7 +2078,7 @@
 
 8 Thus says the Lord, In an acceptable time have I heard you, and in a day of salvation have I helped you: and I will preserve you, and give you for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
 
-9 That you may say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They will feed in the ways, and their pastures will be in all high places.
+9 That you may say to the prisoners, Go forth; to them that are in darkness, Show yourselves. They will feed in the ways, and their pastures will be in all high places.
 
 10 They will not hunger nor thirst; neither will the heat nor sun smite them: for he that has mercy on them will lead them, even by the springs of water will he guide them.
 
@@ -2192,11 +2192,11 @@
 
 2 Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of your neck, O captive daughter of Zion.
 
-3 For thus says the Lord, you have sold yourselves for nought; and you will be redeemed without money.
+3 For thus says the Lord, you have sold yourselves for nothing; and you will be redeemed without money.
 
-4 For thus says the Lord God, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.
+4 For thus says the Lord God, My people went down before into Egypt to sojourn there; and the Assyrian oppressed them without cause.
 
-5 Now therefore, what have I here, says the Lord, that my people is taken away for nought? they that rule over them make them to howl, says the Lord; and my name continually every day is blasphemed.
+5 Now therefore, what have I here, says the Lord, that my people is taken away for nothing? they that rule over them make them to howl, says the Lord; and my name continually every day is blasphemed.
 
 6 Therefore my people will know my name: therefore they will know in that day that I am he that does speak: look, it is I.
 
@@ -2240,7 +2240,7 @@
 
 10 Yet it pleased the Lord to bruise him; he has put him to grief: when you will make his soul an offering for sin, he will see his seed, he will prolong his days, and the pleasure of the Lord will prosper in his hand.
 
-11 He will see of the travail of his soul, and will be satisfied: by his knowledge will my righteous servant justify many; for he will bear their iniquities.
+11 He will see of the labor of his soul, and will be satisfied: by his knowledge will my righteous servant justify many; for he will bear their iniquities.
 
 12 Therefore will I divide him a portion with the great, and he will divide the spoil with the strong; because he has poured out his soul to death: and he was numbered with the sinners; and he bare the sin of many, and made intercession for the sinners.
 
@@ -2248,7 +2248,7 @@
 
 ## Isaiah Chapter 54
 
-1 Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not travail with child: for more are the children of the desolate than the children of the married wife, says the Lord.
+1 Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not labor with child: for more are the children of the desolate than the children of the married wife, says the Lord.
 
 2 Enlarge the place of your tent, and let them stretch forth the curtains of your habitations: spare not, lengthen your cords, and strengthen your stakes;
 
@@ -2382,7 +2382,7 @@
 
 ## Isaiah Chapter 58
 
-1 Cry aloud, spare not, lift up your voice like a trumpet, and shew my people their sin, and the house of Jacob their sins.
+1 Cry aloud, spare not, lift up your voice like a trumpet, and show my people their sin, and the house of Jacob their sins.
 
 2 Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
 
@@ -2466,7 +2466,7 @@
 
 5 Then you will see, and flow together, and your heart will fear, and be enlarged; because the abundance of the sea will be converted to you, the forces of the Gentiles will come to you.
 
-6 The multitude of camels will cover you, the dromedaries of Midian and Ephah; all they from Sheba will come: they will bring gold and incense; and they will shew forth the praises of the Lord.
+6 The multitude of camels will cover you, the dromedaries of Midian and Ephah; all they from Sheba will come: they will bring gold and incense; and they will show forth the praises of the Lord.
 
 7 All the flocks of Kedar will be gathered together to you, the rams of Nebaioth will minister to you: they will come up with acceptance on mine altar, and I will glorify the house of my glory.
 
@@ -2640,7 +2640,7 @@
 
 11 But you are they that forsake the Lord, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering to that number.
 
-12 Therefore will I number you to the sword, and you will all bow down to the slaughter: because when I called, you did not answer; when I spake, you did not hear; but did evil before mine eyes, and did choose that in which I delighted not.
+12 Therefore will I number you to the sword, and you will all bow down to the slaughter: because when I called, you did not answer; when I spoke, you did not hear; but did evil before mine eyes, and did choose that in which I delighted not.
 
 13 Therefore thus says the Lord God, Look, my servants will eat, but you will be hungry: look, my servants will drink, but you will be thirsty: look, my servants will rejoice, but you will be ashamed:
 
@@ -2674,17 +2674,17 @@
 
 2 For all those things has mine hand made, and all those things have been, says the Lord: but to this man will I look, even to him that is poor and of a contrite spirit, and trembls at my word.
 
-3 He that kills an ox is as if he slew a man; he that sacrifics a lamb, as if he cut off a dog's neck; he that offers an oblation, as if he offered swine's blood; he that burns incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delights in their abominations.
+3 He that kills an ox is as if he killed a man; he that sacrifics a lamb, as if he cut off a dog's neck; he that offers an oblation, as if he offered swine's blood; he that burns incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delights in their abominations.
 
-4 I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spake, they did not hear: but they did evil before mine eyes, and chose that in which I delighted not.
+4 I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spoke, they did not hear: but they did evil before mine eyes, and chose that in which I delighted not.
 
 5 Hear the word of the Lord, you that tremble at his word; Your brothers that hated you, that cast you out for my name's sake, said, Let the Lord be glorified: but he will appear to your joy, and they will be ashamed.
 
 6 A voice of noise from the city, a voice from the temple, a voice of the Lord that renders recompence to his enemies.
 
-7 Before she travailed, she brought forth; before her pain came, she was delivered of a man child.
+7 Before she went into labor, she brought forth; before her pain came, she was delivered of a man child.
 
-8 Who has heard such a thing? who has seen such things? will the earth be made to bring forth in one day? or will a nation be born at once? for as soon as Zion travailed, she brought forth her children.
+8 Who has heard such a thing? who has seen such things? will the earth be made to bring forth in one day? or will a nation be born at once? for as soon as Zion went into labor, she brought forth her children.
 
 9 will I bring to the birth, and not cause to bring forth? says the Lord: will I cause to bring forth, and shut the womb? says your God.
 

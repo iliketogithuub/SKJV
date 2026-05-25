@@ -48,13 +48,13 @@
 
 6 Young men likewise encourage to be sober minded.
 
-7 In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
+7 In all things showing thyself a pattern of good works: in doctrine showing uncorruptness, gravity, sincerity,
 
 8 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 9 Encourage servants to be obedient to their own masters, and to please them well in all things; not answering again;
 
-10 Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+10 Not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 
 11 For the grace of God that brings salvation has appeared to all men,
 
@@ -70,7 +70,7 @@
 
 1 Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 
-2 To speak evil of no man, to be no brawlers, but gentle, shewing all meekness to all men.
+2 To speak evil of no man, to be no brawlers, but gentle, showing all meekness to all men.
 
 3 For we ourselves also were sometimes foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.
 

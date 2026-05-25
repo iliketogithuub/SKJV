@@ -346,7 +346,7 @@
 
 3 He took his brother by the heel in the womb, and by his strength he had power with God:
 
-4 Yea, he had power over the angel, and prevailed: he wept, and made prayer to him: he found him in Bethel, and there he spake with us;
+4 Yea, he had power over the angel, and prevailed: he wept, and made prayer to him: he found him in Bethel, and there he spoke with us;
 
 5 Even the Lord God of hosts; the Lord is his memorial.
 
@@ -370,7 +370,7 @@
 
 ## Hosea Chapter 13
 
-1 When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
+1 When Ephraim spoke trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 
 2 And now they sin more and more, and have made them melted images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
 
@@ -394,7 +394,7 @@
 
 12 The iniquity of Ephraim is bound up; his sin is hid.
 
-13 The sorrows of a travailing woman will come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.
+13 The sorrows of a woman in labor will come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.
 
 14 I will ransom them from the power of the grave; I will redeem them from death: O death, I will be your plagues; O grave, I will be your destruction: repentance will be hid from mine eyes.
 

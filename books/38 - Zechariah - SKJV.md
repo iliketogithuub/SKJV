@@ -18,7 +18,7 @@
 
 8 I saw by night, and look, a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.
 
-9 Then said I, O my lord, what are these? And the angel that talked with me said to me, I will shew you what these be.
+9 Then said I, O my lord, what are these? And the angel that talked with me said to me, I will show you what these be.
 
 10 And the man that stood among the myrtle trees answered and said, These are they whom the Lord has sent to walk to and fro through the earth.
 
@@ -40,9 +40,9 @@
 
 19 And I said to the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.
 
-20 And the Lord shewed me four carpenters.
+20 And the Lord showed me four carpenters.
 
-21 Then said I, What come these to do? And he spake, saying, These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it.
+21 Then said I, What come these to do? And he spoke, saying, These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it.
 
 ## Zechariah Chapter 2
 
@@ -74,13 +74,13 @@
 
 ## Zechariah Chapter 3
 
-1 And he shewed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to resist him.
+1 And he showed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to resist him.
 
 2 And the Lord said to Satan, The Lord rebuke you, O Satan; even the Lord that has chosen Jerusalem rebuke you: is not this a brand plucked out of the fire?
 
 3 Now Joshua was clothed with filthy garments, and stood before the angel.
 
-4 And he answered and spake to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Look, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
+4 And he answered and spoke to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Look, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
 
 5 And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the Lord stood by.
 
@@ -102,11 +102,11 @@
 
 3 And two olive trees by it, one upon the right side of the bowl, and the other upon the left side of it.
 
-4 So I answered and spake to the angel that talked with me, saying, What are these, my lord?
+4 So I answered and spoke to the angel that talked with me, saying, What are these, my lord?
 
 5 Then the angel that talked with me answered and said to me, Know you not what these be? And I said, No, my lord.
 
-6 Then he answered and spake to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my spirit, says the Lord of hosts.
+6 Then he answered and spoke to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my spirit, says the Lord of hosts.
 
 7 Who are you, O great mountain? before Zerubbabel you will become a plain: and he will bring forth the headstone of it with shoutings, crying, Grace, grace to it.
 
@@ -162,9 +162,9 @@
 
 6 The black horses which are in it go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
 
-7 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
+7 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you from here, walk to and fro through the earth. So they walked to and fro through the earth.
 
-8 Then cried he upon me, and spake to me, saying, Look, these that go toward the north country have quieted my spirit in the north country.
+8 Then cried he upon me, and spoke to me, saying, Look, these that go toward the north country have quieted my spirit in the north country.
 
 9 And the word of the Lord came to me, saying,
 
@@ -198,7 +198,7 @@
 
 8 And the word of the Lord came to Zechariah, saying,
 
-9 Thus speaks the Lord of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:
+9 Thus speaks the Lord of hosts, saying, Execute true judgment, and show mercy and compassions every man to his brother:
 
 10 And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
 

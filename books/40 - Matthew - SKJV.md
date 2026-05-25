@@ -84,7 +84,7 @@
 
 15 And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
 
-16 Then Herod, when he saw that he was mocked of the wise men, was exceeding furious, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts of it, from two years old and under, according to the time which he had diligently inquired of the wise men.
+16 Then Herod, when he saw that he was mocked of the wise men, was exceeding furious, and sent forth, and killed all the children that were in Bethlehem, and in all the coasts of it, from two years old and under, according to the time which he had diligently inquired of the wise men.
 
 17 Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 
@@ -156,7 +156,7 @@
 
 9 And says to him, All these things will I give you, if you will fall down and worship me.
 
-10 Then says Jesus to him, Get you hence, Satan: for it is written, you will worship the Lord your God, and him only will you serve.
+10 Then says Jesus to him, Get you from here, Satan: for it is written, you will worship the Lord your God, and him only will you serve.
 
 11 Then the devil leavs him, and, look, angels came and ministered to him.
 
@@ -424,7 +424,7 @@
 
 3 And Jesus put forth his hand, and touched him, saying, I will; be you clean. And immediately his leprosy was cleansed.
 
-4 And Jesus says to him, See you tell no man; but go your way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony to them.
+4 And Jesus says to him, See you tell no man; but go your way, show thyself to the priest, and offer the gift that Moses commanded, for a testimony to them.
 
 5 And when Jesus was entered into Capernaum, there came to him a centurion, beseeching him,
 
@@ -516,7 +516,7 @@
 
 13 But go you and learn what that means, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
-14 Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but your disciples fast not?
+14 Then came to him the disciples of John, saying, Why do we and the Pharisees fast often, but your disciples fast not?
 
 15 And Jesus said to them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom will be taken from them, and then will they fast.
 
@@ -524,7 +524,7 @@
 
 17 Neither do men put new wine into old bottles: else the bottles break, and the wine runns out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
 
-18 While he spake these things to them, look, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay your hand upon her, and she will live.
+18 While he spoke these things to them, look, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay your hand upon her, and she will live.
 
 19 And Jesus arose, and followed him, and so did his disciples.
 
@@ -554,7 +554,7 @@
 
 32 As they went out, look, they brought to him a dumb man possessed with a devil.
 
-33 And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.
+33 And when the devil was cast out, the dumb spoke: and the multitudes marvelled, saying, It was never so seen in Israel.
 
 34 But the Pharisees said, He casts out devils through the prince of the devils.
 
@@ -660,7 +660,7 @@
 
 3 And said to him, are you he that should come, or do we look for another?
 
-4 Jesus answered and said to them, Go and shew John again those things which you do hear and see:
+4 Jesus answered and said to them, Go and show John again those things which you do hear and see:
 
 5 The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.
 
@@ -750,7 +750,7 @@
 
 17 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 
-18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he will shew judgment to the Gentiles.
+18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he will show judgment to the Gentiles.
 
 19 He will not strive, nor cry; neither will any man hear his voice in the streets.
 
@@ -758,7 +758,7 @@
 
 21 And in his name will the Gentiles trust.
 
-22 Then was brought to him one possessed with a devil, blind, and dumb: and he healed him, so much so that the blind and dumb both spake and saw.
+22 Then was brought to him one possessed with a devil, blind, and dumb: and he healed him, so much so that the blind and dumb both spoke and saw.
 
 23 And all the people were amazed, and said, Is not this the son of David?
 
@@ -822,7 +822,7 @@
 
 2 And great multitudes were gathered together to him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
 
-3 And he spake many things to them in parables, saying, Look, a sower went forth to sow;
+3 And he spoke many things to them in parables, saying, Look, a sower went forth to sow;
 
 4 And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:
 
@@ -856,7 +856,7 @@
 
 19 When any one hears the word of the kingdom, and understands it not, then comes the wicked one, and catchs away that which was sown in his heart. This is he which received seed by the way side.
 
-20 But he that received the seed into stony places, the same is he that hears the word, and anon with joy receives it;
+20 But he that received the seed into stony places, the same is he that hears the word, and immediately with joy receives it;
 
 21 Yet has he not root in himself, but durs for a while: for when suffering or persecution arises because of the word, by and by he is offended.
 
@@ -882,9 +882,9 @@
 
 32 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becomes a tree, so that the birds of the air come and lodge in the branches of it.
 
-33 Another parable spake he to them; The kingdom of heaven is like to leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
+33 Another parable spoke he to them; The kingdom of heaven is like to leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 
-34 All these things spake Jesus to the multitude in parables; and without a parable spake he not to them:
+34 All these things spoke Jesus to the multitude in parables; and without a parable spoke he not to them:
 
 35 That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.
 
@@ -938,7 +938,7 @@
 
 1 At that time Herod the tetrarch heard of the fame of Jesus,
 
-2 And said to his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.
+2 And said to his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do show forth themselves in him.
 
 3 For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife.
 
@@ -972,7 +972,7 @@
 
 18 He said, Bring them here to me.
 
-19 And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.
+19 And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and broke, and gave the loaves to his disciples, and the disciples to the multitude.
 
 20 And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.
 
@@ -988,7 +988,7 @@
 
 26 And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
 
-27 But immediately Jesus spake to them, saying, Be of good cheer; it is I; be not afraid.
+27 But immediately Jesus spoke to them, saying, Be of good cheer; it is I; be not afraid.
 
 28 And Peter answered him and said, Lord, if it be you, bid me come to you on the water.
 
@@ -1080,7 +1080,7 @@
 
 35 And he commanded the multitude to sit down on the ground.
 
-36 And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.
+36 And he took the seven loaves and the fishes, and gave thanks, and broke them, and gave to his disciples, and the disciples to the multitude.
 
 37 And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full.
 
@@ -1090,7 +1090,7 @@
 
 ## Matthew Chapter 16
 
-1 The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
+1 The Pharisees also with the Sadducees came, and tempting desired him that he would show them a sign from heaven.
 
 2 He answered and said to them, When it is evening, you say, It will be fair weather: for the sky is red.
 
@@ -1110,7 +1110,7 @@
 
 10 Neither the seven loaves of the four thousand, and how many baskets you took up?
 
-11 How is it that you do not understand that I spake it not to you concerning bread, that you should beware of the leaven of the Pharisees and of the Sadducees?
+11 How is it that you do not understand that I spoke it not to you concerning bread, that you should beware of the leaven of the Pharisees and of the Sadducees?
 
 12 Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 
@@ -1130,7 +1130,7 @@
 
 20 Then charged he his disciples that they should tell no man that he was Jesus the Christ.
 
-21 From that time forth began Jesus to shew to his disciples, how that he must go to Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
+21 From that time forth began Jesus to show to his disciples, how that he must go to Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 
 22 Then Peter took him, and began to rebuke him, saying, Be it far from you, Lord: this will not be to you.
 
@@ -1156,7 +1156,7 @@
 
 4 Then answered Peter, and said to Jesus, Lord, it is good for us to be here: if you will, let us make here three tabernacles; one for you, and one for Moses, and one for Elias.
 
-5 While he yet spake, look, a bright cloud overshadowed them: and look, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear you him.
+5 While he yet spoke, look, a bright cloud overshadowed them: and look, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear you him.
 
 6 And when the disciples heard it, they fell on their face, and were sore afraid.
 
@@ -1172,11 +1172,11 @@
 
 12 But I say to you, That Elias is come already, and they knew him not, but have done to him whatsoever they listed. Likewise will also the Son of man suffer of them.
 
-13 Then the disciples understood that he spake to them of John the Baptist.
+13 Then the disciples understood that he spoke to them of John the Baptist.
 
 14 And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,
 
-15 Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falls into the fire, and oft into the water.
+15 Lord, have mercy on my son: for he is lunatick, and sore vexed: for often he falls into the fire, and often into the water.
 
 16 And I brought him to your disciples, and they could not cure him.
 
@@ -1186,7 +1186,7 @@
 
 19 Then came the disciples to Jesus apart, and said, Why could not we cast him out?
 
-20 And Jesus said to them, Because of your unbelief: for truly I say to you, If you have faith as a grain of mustard seed, you will say to this mountain, Remove hence to yonder place; and it will remove; and nothing will be impossible to you.
+20 And Jesus said to them, Because of your unbelief: for truly I say to you, If you have faith as a grain of mustard seed, you will say to this mountain, Remove from here to yonder place; and it will remove; and nothing will be impossible to you.
 
 21 However this kind goes not out but by prayer and fasting.
 
@@ -1244,7 +1244,7 @@
 
 20 For where two or three are gathered together in my name, there am I in the midst of them.
 
-21 Then came Peter to him, and said, Lord, how oft will my brother sin against me, and I forgive him? till seven times?
+21 Then came Peter to him, and said, Lord, how often will my brother sin against me, and I forgive him? till seven times?
 
 22 Jesus says to him, I say not to you, Until seven times: but, Until seventy times seven.
 
@@ -1358,7 +1358,7 @@
 
 10 But when the first came, they supposed that they should have received more; and they likewise received every man a penny.
 
-11 And when they had received it, they murmured against the goodman of the house,
+11 And when they had received it, they murmured against the master of the house of the house,
 
 12 Saying, These last have worked only one hour, and you have made them equal to us, which have borne the burden and heat of the day.
 
@@ -1484,7 +1484,7 @@
 
 38 But when the farmers saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.
 
-39 And they caught him, and cast him out of the vineyard, and slew him.
+39 And they caught him, and cast him out of the vineyard, and killed him.
 
 40 When the lord therefore of the vineyard comes, what will he do to those farmers?
 
@@ -1496,13 +1496,13 @@
 
 44 And whosoever will fall on this stone will be broken: but on whomsoever it will fall, it will grind him to powder.
 
-45 And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.
+45 And when the chief priests and Pharisees had heard his parables, they perceived that he spoke of them.
 
 46 But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.
 
 ## Matthew Chapter 22
 
-1 And Jesus answered and spake to them again by parables, and said,
+1 And Jesus answered and spoke to them again by parables, and said,
 
 2 The kingdom of heaven is like to a certain king, which made a marriage for his son,
 
@@ -1512,7 +1512,7 @@
 
 5 But they made light of it, and went their ways, one to his farm, another to his merchandise:
 
-6 And the remnant took his servants, and treated them spitefully, and slew them.
+6 And the remnant took his servants, and treated them spitefully, and killed them.
 
 7 But when the king heard of it, he was furious: and he sent forth his armies, and destroyed those murderers, and burned up their city.
 
@@ -1538,7 +1538,7 @@
 
 18 But Jesus perceived their wickedness, and said, Why tempt you me, you hypocrites?
 
-19 Shew me the tribute money. And they brought to him a penny.
+19 Show me the tribute money. And they brought to him a penny.
 
 20 And he says to them, Whose is this image and superscription?
 
@@ -1596,7 +1596,7 @@
 
 ## Matthew Chapter 23
 
-1 Then spake Jesus to the multitude, and to his disciples,
+1 Then spoke Jesus to the multitude, and to his disciples,
 
 2 Saying The scribes and the Pharisees sit in Moses' seat:
 
@@ -1664,7 +1664,7 @@
 
 34 therefore, look, I send to you prophets, and wise men, and scribes: and some of them you will kill and crucify; and some of them will you scourge in your synagogues, and persecute them from city to city:
 
-35 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you slew between the temple and the altar.
+35 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you killed between the temple and the altar.
 
 36 Truly I say to you, All these things will come upon this generation.
 
@@ -1676,7 +1676,7 @@
 
 ## Matthew Chapter 24
 
-1 And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
+1 And Jesus went out, and departed from the temple: and his disciples came to him for to show him the buildings of the temple.
 
 2 And Jesus said to them, See you not all these things? truly I say to you, There will not be left here one stone upon another, that will not be thrown down.
 
@@ -1722,7 +1722,7 @@
 
 23 Then if any man will say to you, Look, here is Christ, or there; believe it not.
 
-24 For there will arise false Christs, and false prophets, and will shew great signs and wonders; so much so that, if it were possible, they will deceive the very elect.
+24 For there will arise false Christs, and false prophets, and will show great signs and wonders; so much so that, if it were possible, they will deceive the very elect.
 
 25 Look, I have told you before.
 
@@ -1760,7 +1760,7 @@
 
 42 Watch therefore: for you know not what hour your Lord does come.
 
-43 But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+43 But know this, that if the master of the house of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
 
 44 Therefore be you also ready: for in such an hour as you think not the Son of man comes.
 
@@ -1880,7 +1880,7 @@
 
 3 Then assembled together the chief priests, and the scribes, and the elders of the people, to the palace of the high priest, who was called Caiaphas,
 
-4 And consulted that they might take Jesus by subtilty, and kill him.
+4 And consulted that they might take Jesus by cunning, and kill him.
 
 5 But they said, Not on the feast day, otherwise there be an uproar among the people.
 
@@ -1924,7 +1924,7 @@
 
 25 Then Judas, which betrayed him, answered and said, Master, is it I? He said to him, you have said.
 
-26 And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
+26 And as they were eating, Jesus took bread, and blessed it, and broke it, and gave it to the disciples, and said, Take, eat; this is my body.
 
 27 And he took the cup, and gave thanks, and gave it to them, saying, Drink you all of it;
 
@@ -1966,7 +1966,7 @@
 
 46 Rise, let us be going: look, he is at hand that does betray me.
 
-47 And while he yet spake, look, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
+47 And while he yet spoke, look, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
 
 48 Now he that betrayed him gave them a sign, saying, Whomsoever I will kiss, that same is he: hold him fast.
 
@@ -2180,7 +2180,7 @@
 
 10 Then said Jesus to them, Be not afraid: go tell my brothers that they go into Galilee, and there will they see me.
 
-11 Now when they were going, look, some of the watch came into the city, and shewed to the chief priests all the things that were done.
+11 Now when they were going, look, some of the watch came into the city, and showed to the chief priests all the things that were done.
 
 12 And when they were assembled with the elders, and had taken counsel, they gave large money to the soldiers,
 
@@ -2194,7 +2194,7 @@
 
 17 And when they saw him, they worshipped him: but some doubted.
 
-18 And Jesus came and spake to them, saying, All power is given to me in heaven and in earth.
+18 And Jesus came and spoke to them, saying, All power is given to me in heaven and in earth.
 
 19 Go you therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit:
 

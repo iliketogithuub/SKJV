@@ -116,7 +116,7 @@
 
 2 Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 
-3 The sons of Judah; Er, and Onan, and Shelah: which three were born to him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the Lord; and he slew him.
+3 The sons of Judah; Er, and Onan, and Shelah: which three were born to him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the Lord; and he killed him.
 
 4 And Tamar his daughter in law bore him Pharez and Zerah. All the sons of Judah were five.
 
@@ -620,7 +620,7 @@
 
 20 And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,
 
-21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land slew, because they came down to take away their cattle.
+21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land killed, because they came down to take away their cattle.
 
 22 And Ephraim their father mourned many days, and his brothers came to comfort him.
 
@@ -836,7 +836,7 @@
 
 1 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 
-2 And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul.
+2 And the Philistines followed hard after Saul, and after his sons; and the Philistines killed Jonathan, and Abinadab, and Malchishua, the sons of Saul.
 
 3 And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.
 
@@ -860,7 +860,7 @@
 
 13 So Saul died for his sin which he committed against the Lord, even against the word of the Lord, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;
 
-14 And enquired not of the Lord: therefore he slew him, and turned the kingdom to David the son of Jesse.
+14 And enquired not of the Lord: therefore he killed him, and turned the kingdom to David the son of Jesse.
 
 ## 1 Chronicles Chapter 11
 
@@ -890,7 +890,7 @@
 
 13 He was with David at Pasdammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.
 
-14 And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the Lord saved them by a great deliverance.
+14 And they set themselves in the midst of that parcel, and delivered it, and killed the Philistines; and the Lord saved them by a great deliverance.
 
 15 Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.
 
@@ -898,17 +898,17 @@
 
 17 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that is at the gate!
 
-18 And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the Lord.
+18 And the three broke through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the Lord.
 
 19 And said, My God forbid it me, that I should do this thing: will I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.
 
-20 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.
+20 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he killed them, and had a name among the three.
 
 21 Of the three, he was more honourable than the two; for he was their captain: however he attained not to the first three.
 
-22 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.
+22 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he killed two lionlike men of Moab: also he went down and killed a lion in a pit in a snowy day.
 
-23 And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian's hand was a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear.
+23 And he killed an Egyptian, a man of great stature, five cubits high; and in the Egyptian's hand was a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and killed him with his own spear.
 
 24 These things did Benaiah the son of Jehoiada, and had the name among the three mighties.
 
@@ -1138,7 +1138,7 @@
 
 15 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the Lord.
 
-16 And David spake to the chief of the Levites to appoint their brothers to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
+16 And David spoke to the chief of the Levites to appoint their brothers to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
 
 17 So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah;
 
@@ -1212,7 +1212,7 @@
 
 22 Saying, Touch not mine anointed, and do my prophets no harm.
 
-23 Sing to the Lord, all the earth; shew forth from day to day his salvation.
+23 Sing to the Lord, all the earth; show forth from day to day his salvation.
 
 24 Declare his glory among the heathen; his marvellous works among all nations.
 
@@ -1266,7 +1266,7 @@
 
 5 For I have not dwelt in an house since the day that I brought up Israel to this day; but have gone from tent to tent, and from one tabernacle to another.
 
-6 Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have you not built me an house of cedars?
+6 Wheresoever I have walked with all Israel, spoke I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have you not built me an house of cedars?
 
 7 Now therefore thus will you say to my servant David, Thus says the Lord of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
 
@@ -1320,7 +1320,7 @@
 
 4 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.
 
-5 And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.
+5 And when the Syrians of Damascus came to help Hadarezer king of Zobah, David killed of the Syrians two and twenty thousand men.
 
 6 Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the Lord preserved David whithersoever he went.
 
@@ -1334,7 +1334,7 @@
 
 11 Them also king David dedicated to the Lord, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
 
-12 Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.
+12 Moreover Abishai the son of Zeruiah killed of the Edomites in the valley of salt eighteen thousand.
 
 13 And he put garrisons in Edom; and all the Edomites became David's servants. Thus the Lord preserved David whithersoever he went.
 
@@ -1350,7 +1350,7 @@
 
 1 Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead.
 
-2 And David said, I will shew kindness to Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him.
+2 And David said, I will show kindness to Hanun the son of Nahash, because his father showed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him.
 
 3 But the princes of the children of Ammon said to Hanun, Think you that David does honour your father, that he has sent comforters to you? are not his servants come to you for to search, and to overthrow, and to spy out the land?
 
@@ -1382,7 +1382,7 @@
 
 17 And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him.
 
-18 But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host.
+18 But the Syrians fled before Israel; and David killed of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host.
 
 19 And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
 
@@ -1394,13 +1394,13 @@
 
 3 And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 
-4 And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued.
+4 And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite killed Sippai, that was of the children of the giant: and they were subdued.
 
-5 And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver's beam.
+5 And there was war again with the Philistines; and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver's beam.
 
 6 And yet again there was war at Gath, where was a man of great stature, whose fingers and toes were four and twenty, six on each hand, and six on each foot and he also was the son of the giant.
 
-7 But when he defied Israel, Jonathan the son of Shimea David's brother slew him.
+7 But when he defied Israel, Jonathan the son of Shimea David's brother killed him.
 
 8 These were born to the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
 
@@ -1422,7 +1422,7 @@
 
 8 And David said to God, I have sinned greatly, because I have done this thing: but now, I urge you, do away the iniquity of your servant; for I have done very foolishly.
 
-9 And the Lord spake to Gad, David's seer, saying,
+9 And the Lord spoke to Gad, David's seer, saying,
 
 10 Go and tell David, saying, Thus says the Lord, I offer you three things: choose you one of them, that I may do it to you.
 
@@ -1442,7 +1442,7 @@
 
 18 Then the angel of the Lord commanded Gad to say to David, that David should go up, and set up an altar to the Lord in the threshingfloor of Ornan the Jebusite.
 
-19 And David went up at the saying of Gad, which he spake in the name of the Lord.
+19 And David went up at the saying of Gad, which he spoke in the name of the Lord.
 
 20 And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.
 

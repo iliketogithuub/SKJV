@@ -136,7 +136,7 @@
 
 1 But it came to pass, that when Sanballat heard that we builded the wall, he was furious, and took great indignation, and mocked the Jews.
 
-2 And he spake before his brothers and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
+2 And he spoke before his brothers and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
 
 3 Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he will even break down their stone wall.
 
@@ -162,7 +162,7 @@
 
 14 And I looked, and rose up, and said to the nobles, and to the rulers, and to the rest of the people, Be not you afraid of them: remember the Lord, which is great and terrible, and fight for your brothers, your sons, and your daughters, your wives, and your houses.
 
-15 And it came to pass, when our enemies heard that it was known to us, and God had brought their counsel to nought, that we returned all of us to the wall, every one to his work.
+15 And it came to pass, when our enemies heard that it was known to us, and God had brought their counsel to nothing, that we returned all of us to the wall, every one to his work.
 
 16 And it came to pass from that time forth, that the half of my servants worked in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah.
 
@@ -186,7 +186,7 @@
 
 2 For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live.
 
-3 Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.
+3 Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the famine.
 
 4 There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.
 
@@ -382,7 +382,7 @@
 
 60 All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 
-61 And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not shew their father's house, nor their seed, whether they were of Israel.
+61 And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not show their father's house, nor their seed, whether they were of Israel.
 
 62 The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.
 
@@ -410,7 +410,7 @@
 
 ## Nehemiah Chapter 8
 
-1 And all the people gathered themselves together as one man into the street that was before the water gate; and they spake to Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.
+1 And all the people gathered themselves together as one man into the street that was before the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.
 
 2 And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 
@@ -476,7 +476,7 @@
 
 14 And mad known to them your holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses your servant:
 
-15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which you hadst sworn to give them.
+15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which you had sworn to give them.
 
 16 But they and our fathers dealt proudly, and hardened their necks, and listened not to your commandments,
 
@@ -484,7 +484,7 @@
 
 18 Yea, when they had made them a melted calf, and said, This is your God that brought you up out of Egypt, and had done great provocations;
 
-19 Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way in which they should go.
+19 Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to show them light, and the way in which they should go.
 
 20 you gav also your good spirit to instruct them, and withheld not your manna from their mouth, and gav them water for their thirst.
 
@@ -492,13 +492,13 @@
 
 22 Moreover you gav them kingdoms and nations, and did divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 
-23 Their children also multipliedst you as the stars of heaven, and brought them into the land, concerning which you hadst promised to their fathers, that they should go in to possess it.
+23 Their children also multipliedst you as the stars of heaven, and brought them into the land, concerning which you had promised to their fathers, that they should go in to possess it.
 
 24 So the children went in and possessed the land, and you subduedst before them the inhabitants of the land, the Canaanites, and gav them into their hands, with their kings, and the people of the land, that they might do with them as they would.
 
 25 And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in your great goodness.
 
-26 Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and slew your prophets which testified against them to turn them to you, and they worked great provocations.
+26 Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and killed your prophets which testified against them to turn them to you, and they worked great provocations.
 
 27 Therefore you deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
 
@@ -582,7 +582,7 @@
 
 28 And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 
-29 They clave to their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord, and his judgments and his statutes;
+29 They clung to their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord, and his judgments and his statutes;
 
 30 And that we would not give our daughters to the people of the land, not take their daughters for our sons:
 
@@ -784,7 +784,7 @@
 
 4 And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied to Tobiah:
 
-5 And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
+5 And he had prepared for him a great chamber, where before they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
 
 6 But in all this time was not I at Jerusalem: for in the two and thirtis year of Artaxerxes king of Babylon came I to the king, and after certain days obtained I leave of the king:
 
@@ -822,7 +822,7 @@
 
 23 In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:
 
-24 And their children spake half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.
+24 And their children spoke half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.
 
 25 And I contended with them, and cursed them, and struck certain of them, and plucked off their hair, and made them swear by God, saying, you will not give your daughters to their sons, nor take their daughters to your sons, or for yourselves.
 

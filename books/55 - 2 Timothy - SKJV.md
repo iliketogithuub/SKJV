@@ -32,7 +32,7 @@
 
 15 This you know, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
 
-16 The Lord give mercy to the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
+16 The Lord give mercy to the house of Onesiphorus; for he often refreshed me, and was not ashamed of my chain:
 
 17 But, when he was in Rome, he sought me out very diligently, and found me.
 
@@ -68,7 +68,7 @@
 
 14 Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
 
-15 Study to shew thyself approved to God, a workman that needs not to be ashamed, rightly dividing the word of truth.
+15 Study to show thyself approved to God, a workman that needs not to be ashamed, rightly dividing the word of truth.
 
 16 But shun profane and vain babblings: for they will increase to more ungodliness.
 

@@ -6,7 +6,7 @@
 
 2 O Lord, how long will I cry, and you will not hear! even cry out to you of violence, and you will not save!
 
-3 Why do you shew me iniquity, and cause me to see grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
+3 Why do you show me iniquity, and cause me to see grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 
 4 Therefore the law is slacked, and judgment does never go forth: for the wicked does compass about the righteous; therefore wrong judgment proceeds.
 

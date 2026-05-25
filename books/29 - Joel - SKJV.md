@@ -102,7 +102,7 @@
 
 29 And also upon the servants and upon the handmaids in those days will I pour out my spirit.
 
-30 And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
+30 And I will show wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
 
 31 The sun will be turned into darkness, and the moon into blood, before the great and terrible day of the Lord come.
 

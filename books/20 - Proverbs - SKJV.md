@@ -8,7 +8,7 @@
 
 3 To receive the instruction of wisdom, justice, and judgment, and equity;
 
-4 To give subtilty to the simple, to the young man knowledge and discretion.
+4 To give cunning to the simple, to the young man knowledge and discretion.
 
 5 A wise man will hear, and will increase learning; and a man of understanding will attain to wise counsels:
 
@@ -50,7 +50,7 @@
 
 24 Because I have called, and you refused; I have stretched out my hand, and no man regarded;
 
-25 But you have set at nought all my counsel, and would none of my reproof:
+25 But you have set at nothing all my counsel, and would none of my reproof:
 
 26 I also will laugh at your calamity; I will mock when your fear comes;
 
@@ -400,7 +400,7 @@
 
 18 Come, let us take our fill of love until the morning: let us solace ourselves with loves.
 
-19 For the goodman is not at home, he is gone a long journey:
+19 For the master of the house is not at home, he is gone a long journey:
 
 20 He has taken a bag of money with him, and will come home at the day appointed.
 
@@ -1084,7 +1084,7 @@
 
 23 The poor uses intreaties; but the rich answers roughly.
 
-24 A man that has friends must shew himself friendly: and there is a friend that sticks closer than a brother.
+24 A man that has friends must show himself friendly: and there is a friend that sticks closer than a brother.
 
 ## Proverbs Chapter 19
 
@@ -1106,7 +1106,7 @@
 
 9 A false witness will not be unpunished, and he that speaks lies will perish.
 
-10 Delight is not seemly for a fool; much less for a servant to have rule over princes.
+10 Delight is not proper for a fool; much less for a servant to have rule over princes.
 
 11 The discretion of a man deferrs his anger; and it is his glory to pass over a sin.
 
@@ -1174,7 +1174,7 @@
 
 13 Love not sleep, otherwise you come to poverty; open your eyes, and you will be satisfied with bread.
 
-14 It is naught, it is naught, says the buyer: but when he is gone his way, then he boasts.
+14 It is nothing, it is nothing, says the buyer: but when he is gone his way, then he boasts.
 
 15 There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.
 
@@ -1534,7 +1534,7 @@
 
 ## Proverbs Chapter 26
 
-1 As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
+1 As snow in summer, and as rain in harvest, so honour is not proper for a fool.
 
 2 As the bird by wandering, as the swallow by flying, so the curse causeless will not come.
 
@@ -1584,7 +1584,7 @@
 
 25 When he speaks fair, believe him not: for there are seven abominations in his heart.
 
-26 Whose hatred is covered by deceit, his wickedness will be shewed before the whole congregation.
+26 Whose hatred is covered by deceit, his wickedness will be showed before the whole congregation.
 
 27 Whoso diggs a pit will fall in it: and he that rolls a stone, it will return upon him.
 
@@ -1762,7 +1762,7 @@
 
 ## Proverbs Chapter 30
 
-1 The words of Agur the son of Jakeh, even the prophecy: the man spake to Ithiel, even to Ithiel and Ucal,
+1 The words of Agur the son of Jakeh, even the prophecy: the man spoke to Ithiel, even to Ithiel and Ucal,
 
 2 Surely I am more brutish than any man, and have not the understanding of a man.
 

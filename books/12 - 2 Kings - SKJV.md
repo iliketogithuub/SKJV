@@ -18,7 +18,7 @@
 
 8 And they answered him, He was an hairy man, and girt with a belt of leather about his loins. And he said, It is Elijah the Tishbite.
 
-9 Then the king sent to him a captain of fifty with his fifty. And he went up to him: and, look, he sat on the top of an hill. And he spake to him, you man of God, the king has said, Come down.
+9 Then the king sent to him a captain of fifty with his fifty. And he went up to him: and, look, he sat on the top of an hill. And he spoke to him, you man of God, the king has said, Come down.
 
 10 And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume you and your fifty. And there came down fire from heaven, and consumed him and his fifty.
 
@@ -76,13 +76,13 @@
 
 18 And when they came again to him, (for he tarried at Jericho,) he said to them, Did I not say to you, Go not?
 
-19 And the men of the city said to Elisha, Look, I pray you, the situation of this city is pleasant, as my lord sees: but the water is naught, and the ground barren.
+19 And the men of the city said to Elisha, Look, I pray you, the situation of this city is pleasant, as my lord sees: but the water is nothing, and the ground barren.
 
 20 And he said, Bring me a new cruse, and put salt in it. And they brought it to him.
 
 21 And he went forth to the spring of the waters, and cast the salt in there, and said, Thus says the Lord, I have healed these waters; there will not be from from there any more death or barren land.
 
-22 So the waters were healed to this day, according to the saying of Elisha which he spake.
+22 So the waters were healed to this day, according to the saying of Elisha which he spoke.
 
 23 And he went up from from there to Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said to him, Go up, you bald head; go up, you bald head.
 
@@ -162,7 +162,7 @@
 
 7 Then she came and told the man of God. And he said, Go, sell the oil, and pay your debt, and live you and your children of the rest.
 
-8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as oft as he passed by, he turned in there to eat bread.
+8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as often as he passed by, he turned in there to eat bread.
 
 9 And she said to her husband, Look, now, I perceive that this is an holy man of God, which passs by us continually.
 
@@ -222,7 +222,7 @@
 
 37 Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out.
 
-38 And Elisha came again to Gilgal: and there was a dearth in the land; and the sons of the prophets were sitting before him: and he said to his servant, Set on the great pot, and seethe pottage for the sons of the prophets.
+38 And Elisha came again to Gilgal: and there was a famine in the land; and the sons of the prophets were sitting before him: and he said to his servant, Set on the great pot, and seethe pottage for the sons of the prophets.
 
 39 And one went out into the field to gather herbs, and found a wild vine, and gathered of it wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not.
 
@@ -262,7 +262,7 @@
 
 12 Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
 
-13 And his servants came near, and spake to him, and said, My father, if the prophet had bid you do some great thing, would you not have done it? how much rather then, when he says to you, Wash, and be clean?
+13 And his servants came near, and spoke to him, and said, My father, if the prophet had bid you do some great thing, would you not have done it? how much rather then, when he says to you, Wash, and be clean?
 
 14 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like to the flesh of a little child, and he was clean.
 
@@ -304,7 +304,7 @@
 
 5 But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
 
-6 And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in there; and the iron did swim.
+6 And the man of God said, Where fell it? And he showed him the place. And he cut down a stick, and cast it in there; and the iron did swim.
 
 7 Therefore said he, Take it up to you. And he put out his hand, and took it.
 
@@ -314,7 +314,7 @@
 
 10 And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.
 
-11 Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said to them, Will you not shew me which of us is for the king of Israel?
+11 Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said to them, Will you not show me which of us is for the king of Israel?
 
 12 And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, tells the king of Israel the words that you speak in your bedchamber.
 
@@ -384,7 +384,7 @@
 
 11 And he called the porters; and they told it to the king's house within.
 
-12 And the king arose in the night, and said to his servants, I will now shew you what the Syrians have done to us. They know that we be hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we will catch them alive, and get into the city.
+12 And the king arose in the night, and said to his servants, I will now show you what the Syrians have done to us. They know that we be hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we will catch them alive, and get into the city.
 
 13 And one of his servants answered and said, Let some take, I pray you, five of the horses that remain, which are left in the city, (look, they are as all the multitude of Israel that are left in it: look, I say, they are even as all the multitude of the Israelites that are consumed:) and let us send and see.
 
@@ -394,7 +394,7 @@
 
 16 And the people went out, and spoiled the tents of the Syrians. So a measure of fine flour was sold for a shekel, and two measures of barley for a shekel, according to the word of the Lord.
 
-17 And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him.
+17 And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spoke when the king came down to him.
 
 18 And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, will be to morrow about this time in the gate of Samaria:
 
@@ -404,7 +404,7 @@
 
 ## 2 Kings Chapter 8
 
-1 Then spake Elisha to the woman, whose son he had restored to life, saying, Arise, and go you and your household, and sojourn wheresoever you can sojourn: for the Lord has called for a famine; and it will also come upon the land seven years.
+1 Then spoke Elisha to the woman, whose son he had restored to life, saying, Arise, and go you and your household, and sojourn wheresoever you can sojourn: for the Lord has called for a famine; and it will also come upon the land seven years.
 
 2 And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
 
@@ -422,13 +422,13 @@
 
 9 So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels' burden, and came and stood before him, and said, your son Benhadad king of Syria has sent me to you, saying, will I recover of this disease?
 
-10 And Elisha said to him, Go, say to him, you may certainly recover: however the Lord has shewed me that he will surely die.
+10 And Elisha said to him, Go, say to him, you may certainly recover: however the Lord has showed me that he will surely die.
 
 11 And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.
 
 12 And Hazael said, Why weeps my lord? And he answered, Because I know the evil that you will do to the children of Israel: their strong holds will you set on fire, and their young men will you slay with the sword, and will dash their children, and rip up their women with child.
 
-13 And Hazael said, But what, is your servant a dog, that he should do this great thing? And Elisha answered, The Lord has shewed me that you will be king over Syria.
+13 And Hazael said, But what, is your servant a dog, that he should do this great thing? And Elisha answered, The Lord has showed me that you will be king over Syria.
 
 14 So he departed from Elisha, and came to his master; who said to him, What said Elisha to you? And he answered, He told me that you should surely recover.
 
@@ -486,7 +486,7 @@
 
 11 Then Jehu came forth to the servants of his lord: and one said to him, Is all well? therefore came this mad fellow to you? And he said to them, you know the man, and his communication.
 
-12 And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus says the Lord, I have anointed you king over Israel.
+12 And they said, It is false; tell us now. And he said, Thus and thus spoke he to me, saying, Thus says the Lord, I have anointed you king over Israel.
 
 13 Then they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
 
@@ -524,7 +524,7 @@
 
 30 And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window.
 
-31 And as Jehu entered in at the gate, she said, Had Zimri peace, who slew his master?
+31 And as Jehu entered in at the gate, she said, Had Zimri peace, who killed his master?
 
 32 And he lifted up his face to the window, and said, Who is on my side? who? And there looked out to him two or three eunuchs.
 
@@ -534,7 +534,7 @@
 
 35 And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.
 
-36 therefore they came again, and told him. And he said, This is the word of the Lord, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel will dogs eat the flesh of Jezebel:
+36 therefore they came again, and told him. And he said, This is the word of the Lord, which he spoke by his servant Elijah the Tishbite, saying, In the portion of Jezreel will dogs eat the flesh of Jezebel:
 
 37 And the carcase of Jezebel will be as dung upon the face of the field in the portion of Jezreel; so that they will not say, This is Jezebel.
 
@@ -552,31 +552,31 @@
 
 6 Then he wrote a letter the second time to them, saying, If you be mine, and if you will listen to my voice, take you the heads of the men your master's sons, and come to me to Jezreel by to morrow this time. Now the king's sons, being seventy persons, were with the great men of the city, which brought them up.
 
-7 And it came to pass, when the letter came to them, that they took the king's sons, and slew seventy persons, and put their heads in baskets, and sent him them to Jezreel.
+7 And it came to pass, when the letter came to them, that they took the king's sons, and killed seventy persons, and put their heads in baskets, and sent him them to Jezreel.
 
 8 And there came a messenger, and told him, saying, They have brought the heads of the king's sons. And he said, Lay you them in two heaps at the entering in of the gate until the morning.
 
-9 And it came to pass in the morning, that he went out, and stood, and said to all the people, you be righteous: look, I conspired against my master, and slew him: but who slew all these?
+9 And it came to pass in the morning, that he went out, and stood, and said to all the people, you be righteous: look, I conspired against my master, and killed him: but who killed all these?
 
-10 Know now that there will fall to the earth nothing of the word of the Lord, which the Lord spake concerning the house of Ahab: for the Lord has done that which he spake by his servant Elijah.
+10 Know now that there will fall to the earth nothing of the word of the Lord, which the Lord spoke concerning the house of Ahab: for the Lord has done that which he spoke by his servant Elijah.
 
-11 So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.
+11 So Jehu killed all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.
 
 12 And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,
 
 13 Jehu met with the brothers of Ahaziah king of Judah, and said, Who are you? And they answered, We are the brothers of Ahaziah; and we go down to greet the children of the king and the children of the queen.
 
-14 And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, even two and forty men; neither left he any of them.
+14 And he said, Take them alive. And they took them alive, and killed them at the pit of the shearing house, even two and forty men; neither left he any of them.
 
 15 And when he was departed from there, he lighted on Jehonadab the son of Rechab coming to meet him: and he greeted him, and said to him, Is your heart right, as my heart is with your heart? And Jehonadab answered, It is. If it be, give me your hand. And he gave him his hand; and he took him up to him into the chariot.
 
 16 And he said, Come with me, and see my zeal for the Lord. So they made him ride in his chariot.
 
-17 And when he came to Samaria, he slew all that remained to Ahab in Samaria, till he had destroyed him, according to the saying of the Lord, which he spake to Elijah.
+17 And when he came to Samaria, he killed all that remained to Ahab in Samaria, till he had destroyed him, according to the saying of the Lord, which he spoke to Elijah.
 
 18 And Jehu gathered all the people together, and said to them, Ahab served Baal a little; but Jehu will serve him much.
 
-19 Now therefore call to me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever will be wanting, he will not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal.
+19 Now therefore call to me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever will be wanting, he will not live. But Jehu did it in cunning, to the intent that he might destroy the worshippers of Baal.
 
 20 And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.
 
@@ -592,7 +592,7 @@
 
 26 And they brought forth the images out of the house of Baal, and burned them.
 
-27 And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house to this day.
+27 And they broke down the image of Baal, and broke down the house of Baal, and made it a draught house to this day.
 
 28 Thus Jehu destroyed Baal out of Israel.
 
@@ -620,7 +620,7 @@
 
 3 And he was with her hid in the house of the Lord six years. And Athaliah did reign over the land.
 
-4 And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the Lord, and made a covenant with them, and took an oath of them in the house of the Lord, and shewed them the king's son.
+4 And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the Lord, and made a covenant with them, and took an oath of them in the house of the Lord, and showed them the king's son.
 
 5 And he commanded them, saying, This is the thing that you will do; A third part of you that enter in on the sabbath will even be keepers of the watch of the king's house;
 
@@ -648,11 +648,11 @@
 
 17 And Jehoiada made a covenant between the Lord and the king and the people, that they should be the Lord's people; between the king also and the people.
 
-18 And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the Lord.
+18 And all the people of the land went into the house of Baal, and broke it down; his altars and his images broke they in pieces thoroughly, and killed Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the Lord.
 
 19 And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the Lord, and came by the way of the gate of the guard to the king's house. And he sat on the throne of the kings.
 
-20 And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword beside the king's house.
+20 And all the people of the land rejoiced, and the city was in quiet: and they killed Athaliah with the sword beside the king's house.
 
 21 Seven years old was Jehoash when he began to reign.
 
@@ -696,7 +696,7 @@
 
 19 And the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
-20 And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goes down to Silla.
+20 And his servants arose, and made a conspiracy, and killed Joash in the house of Millo, which goes down to Silla.
 
 21 For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
 
@@ -738,7 +738,7 @@
 
 18 And he said, Take the arrows. And he took them. And he said to the king of Israel, Smite upon the ground. And he struck thrice, and stayed.
 
-19 And the man of God was furious with him, and said, you should have smitten five or six times; then hadst you smitten Syria till you hadst consumed it: whereas now you will smite Syria but thrice.
+19 And the man of God was furious with him, and said, you should have smitten five or six times; then had you smitten Syria till you had consumed it: whereas now you will smite Syria but thrice.
 
 20 And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.
 
@@ -762,11 +762,11 @@
 
 4 However the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.
 
-5 And it came to pass, as soon as the kingdom was confirmed in his hand, that he slew his servants which had slain the king his father.
+5 And it came to pass, as soon as the kingdom was confirmed in his hand, that he killed his servants which had slain the king his father.
 
-6 But the children of the murderers he slew not: according to that which is written in the book of the law of Moses, in which the Lord commanded, saying, The fathers will not be put to death for the children, nor the children be put to death for the fathers; but every man will be put to death for his own sin.
+6 But the children of the murderers he killed not: according to that which is written in the book of the law of Moses, in which the Lord commanded, saying, The fathers will not be put to death for the children, nor the children be put to death for the fathers; but every man will be put to death for his own sin.
 
-7 He slew of Edom in the valley of salt ten thousand, and took Selah by war, and called the name of it Joktheel to this day.
+7 He killed of Edom in the valley of salt ten thousand, and took Selah by war, and called the name of it Joktheel to this day.
 
 8 Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.
 
@@ -778,7 +778,7 @@
 
 12 And Judah was put to the worse before Israel; and they fled every man to their tents.
 
-13 And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
+13 And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 
 14 And he took all the gold and silver, and all the vessels that were found in the house of the Lord, and in the treasures of the king's house, and hostages, and returned to Samaria.
 
@@ -790,7 +790,7 @@
 
 18 And the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?
 
-19 Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there.
+19 Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and killed him there.
 
 20 And they brought him on horses: and he was buried at Jerusalem with his fathers in the city of David.
 
@@ -802,7 +802,7 @@
 
 24 And he did that which was evil in the sight of the Lord: he departed not from all the sins of Jeroboam the son of Nebat, who made Israel to sin.
 
-25 He restored the coast of Israel from the entering of Hamath to the sea of the plain, according to the word of the Lord God of Israel, which he spake by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher.
+25 He restored the coast of Israel from the entering of Hamath to the sea of the plain, according to the word of the Lord God of Israel, which he spoke by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher.
 
 26 For the Lord saw the affliction of Israel, that it was very bitter: for there was not any shut up, nor any left, nor any helper for Israel.
 
@@ -832,15 +832,15 @@
 
 9 And he did that which was evil in the sight of the Lord, as his fathers had done: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 
-10 And Shallum the son of Jabesh conspired against him, and struck him before the people, and slew him, and reigned in his stead.
+10 And Shallum the son of Jabesh conspired against him, and struck him before the people, and killed him, and reigned in his stead.
 
 11 And the rest of the acts of Zachariah, look, they are written in the book of the chronicles of the kings of Israel.
 
-12 This was the word of the Lord which he spake to Jehu, saying, your sons will sit on the throne of Israel to the fourth generation. And so it came to pass.
+12 This was the word of the Lord which he spoke to Jehu, saying, your sons will sit on the throne of Israel to the fourth generation. And so it came to pass.
 
 13 Shallum the son of Jabesh began to reign in the nine and thirtis year of Uzziah king of Judah; and he reigned a full month in Samaria.
 
-14 For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and struck Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.
+14 For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and struck Shallum the son of Jabesh in Samaria, and killed him, and reigned in his stead.
 
 15 And the rest of the acts of Shallum, and his conspiracy which he made, look, they are written in the book of the chronicles of the kings of Israel.
 
@@ -872,7 +872,7 @@
 
 29 In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 
-30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him, and slew him, and reigned in his stead, in the twentis year of Jotham the son of Uzziah.
+30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him, and killed him, and reigned in his stead, in the twentis year of Jotham the son of Uzziah.
 
 31 And the rest of the acts of Pekah, and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
 
@@ -908,7 +908,7 @@
 
 8 And Ahaz took the silver and gold that was found in the house of the Lord, and in the treasures of the king's house, and sent it for a present to the king of Assyria.
 
-9 And the king of Assyria listened to him: for the king of Assyria went up against Damascus, and took it, and carried the people of it captive to Kir, and slew Rezin.
+9 And the king of Assyria listened to him: for the king of Assyria went up against Damascus, and took it, and carried the people of it captive to Kir, and killed Rezin.
 
 10 And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw an altar that was at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship of it.
 
@@ -982,9 +982,9 @@
 
 24 And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities of it.
 
-25 And so it was at the beginning of their dwelling there, that they feared not the Lord: therefore the Lord sent lions among them, which slew some of them.
+25 And so it was at the beginning of their dwelling there, that they feared not the Lord: therefore the Lord sent lions among them, which killed some of them.
 
-26 therefore they spake to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, look, they slay them, because they know not the manner of the God of the land.
+26 therefore they spoke to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, look, they slay them, because they know not the manner of the God of the land.
 
 27 Then the king of Assyria commanded, saying, Carry there one of the priests whom you brought from from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
 
@@ -1024,11 +1024,11 @@
 
 3 And he did that which was right in the sight of the Lord, according to all that David his father did.
 
-4 He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for to those days the children of Israel did burn incense to it: and he called it Nehushtan.
+4 He removed the high places, and broke the images, and cut down the groves, and broke in pieces the brasen serpent that Moses had made: for to those days the children of Israel did burn incense to it: and he called it Nehushtan.
 
 5 He trusted in the Lord God of Israel; so that after him was none like him among all the kings of Judah, nor any that were before him.
 
-6 For he clave to the Lord, and departed not from following him, but kept his commandments, which the Lord commanded Moses.
+6 For he clung to the Lord, and departed not from following him, but kept his commandments, which the Lord commanded Moses.
 
 7 And the Lord was with him; and he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not.
 
@@ -1072,7 +1072,7 @@
 
 27 But Rabshakeh said to them, has my master sent me to your master, and to you, to speak these words? has he not sent me to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?
 
-28 Then Rabshakeh stood and cried with a loud voice in the Jews' language, and spake, saying, Hear the word of the great king, the king of Assyria:
+28 Then Rabshakeh stood and cried with a loud voice in the Jews' language, and spoke, saying, Hear the word of the great king, the king of Assyria:
 
 29 Thus says the king, Let not Hezekiah deceive you: for he will not be able to deliver you out of his hand:
 
@@ -1176,7 +1176,7 @@
 
 3 I urge you, O Lord, remember now how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight. And Hezekiah wept sore.
 
-4 And it came to pass, afore Isaiah was gone out into the middle court, that the word of the Lord came to him, saying,
+4 And it came to pass, before Isaiah was gone out into the middle court, that the word of the Lord came to him, saying,
 
 5 Turn again, and tell Hezekiah the captain of my people, Thus says the Lord, the God of David your father, I have heard your prayer, I have seen your tears: look, I will heal you: on the third day you will go up to the house of the Lord.
 
@@ -1194,11 +1194,11 @@
 
 12 At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that Hezekiah had been sick.
 
-13 And Hezekiah listened to them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
+13 And Hezekiah listened to them, and showed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
 
 14 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from from where came they to you? And Hezekiah said, They are come from a far country, even from Babylon.
 
-15 And he said, What have they seen in your house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them.
+15 And he said, What have they seen in your house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not showed them.
 
 16 And Isaiah said to Hezekiah, Hear the word of the Lord.
 
@@ -1232,7 +1232,7 @@
 
 9 But they listened not: and Manasseh seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel.
 
-10 And the Lord spake by his servants the prophets, saying,
+10 And the Lord spoke by his servants the prophets, saying,
 
 11 Because Manasseh king of Judah has done these abominations, and has done wickedly above all that the Amorites did, which were before him, and has made Judah also to sin with his idols:
 
@@ -1258,9 +1258,9 @@
 
 22 And he forsook the Lord God of his fathers, and walked not in the way of the Lord.
 
-23 And the servants of Amon conspired against him, and slew the king in his own house.
+23 And the servants of Amon conspired against him, and killed the king in his own house.
 
-24 And the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
+24 And the people of the land killed all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 
 25 Now the rest of the acts of Amon which he did, are they not written in the book of the chronicles of the kings of Judah?
 
@@ -1286,7 +1286,7 @@
 
 9 And Shaphan the scribe came to the king, and brought the king word again, and said, your servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the Lord.
 
-10 And Shaphan the scribe shewed the king, saying, Hilkiah the priest has delivered me a book. And Shaphan read it before the king.
+10 And Shaphan the scribe showed the king, saying, Hilkiah the priest has delivered me a book. And Shaphan read it before the king.
 
 11 And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.
 
@@ -1304,7 +1304,7 @@
 
 18 But to the king of Judah which sent you to enquire of the Lord, thus will you say to him, Thus says the Lord God of Israel, As touching the words which you have heard;
 
-19 Because your heart was tender, and you have humbled thyself before the Lord, when you heard what I spake against this place, and against the inhabitants of it, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the Lord.
+19 Because your heart was tender, and you have humbled thyself before the Lord, when you heard what I spoke against this place, and against the inhabitants of it, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the Lord.
 
 20 Look therefore, I will gather you to your fathers, and you will be gathered into your grave in peace; and your eyes will not see all the evil which I will bring upon this place. And they brought the king word again.
 
@@ -1322,9 +1322,9 @@
 
 6 And he brought out the grove from the house of the Lord, without Jerusalem, to the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder of it upon the graves of the children of the people.
 
-7 And he brake down the houses of the sodomites, that were by the house of the Lord, where the women wove hangings for the grove.
+7 And he broke down the houses of the sodomites, that were by the house of the Lord, where the women wove hangings for the grove.
 
-8 And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that were in the entering in of the gate of Joshua the governor of the city, which were on a man's left hand at the gate of the city.
+8 And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and broke down the high places of the gates that were in the entering in of the gate of Joshua the governor of the city, which were on a man's left hand at the gate of the city.
 
 9 Nevertheless the priests of the high places came not up to the altar of the Lord in Jerusalem, but they did eat of the unleavened bread among their brothers.
 
@@ -1332,13 +1332,13 @@
 
 11 And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the Lord, by the chamber of Nathanmelech the court official, which was in the suburbs, and burned the chariots of the sun with fire.
 
-12 And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the Lord, did the king beat down, and brake them down from from there, and cast the dust of them into the brook Kidron.
+12 And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the Lord, did the king beat down, and broke them down from from there, and cast the dust of them into the brook Kidron.
 
 13 And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtors the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 
-14 And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.
+14 And he broke in pieces the images, and cut down the groves, and filled their places with the bones of men.
 
-15 Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.
+15 Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he broke down, and burned the high place, and stamped it small to powder, and burned the grove.
 
 16 And as Josiah turned himself, he spied the tombs that were there in the mount, and sent, and took the bones out of the tombs, and burned them upon the altar, and polluted it, according to the word of the Lord which the man of God proclaimed, who proclaimed these words.
 
@@ -1348,7 +1348,7 @@
 
 19 And all the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the Lord to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.
 
-20 And he slew all the priests of the high places that were there upon the altars, and burned men's bones upon them, and returned to Jerusalem.
+20 And he killed all the priests of the high places that were there upon the altars, and burned men's bones upon them, and returned to Jerusalem.
 
 21 And the king commanded all the people, saying, Keep the passover to the Lord your God, as it is written in the book of this covenant.
 
@@ -1366,7 +1366,7 @@
 
 28 Now the rest of the acts of Josiah, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
-29 In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
+29 In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he killed him at Megiddo, when he had seen him.
 
 30 And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own tomb. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead.
 
@@ -1388,7 +1388,7 @@
 
 1 In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 
-2 And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spake by his servants the prophets.
+2 And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spoke by his servants the prophets.
 
 3 Surely at the commandment of the Lord came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;
 
@@ -1440,13 +1440,13 @@
 
 6 So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.
 
-7 And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
+7 And they killed the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
 
 8 And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, to Jerusalem:
 
 9 And he burnt the house of the Lord, and the king's house, and all the houses of Jerusalem, and every great man's house burnt he with fire.
 
-10 And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.
+10 And all the army of the Chaldees, that were with the captain of the guard, broke down the walls of Jerusalem round about.
 
 11 Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away.
 
@@ -1468,7 +1468,7 @@
 
 20 And Nebuzaradan captain of the guard took these, and brought them to the king of Babylon to Riblah:
 
-21 And the king of Babylon struck them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.
+21 And the king of Babylon struck them, and killed them at Riblah in the land of Hamath. So Judah was carried away out of their land.
 
 22 And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
 
@@ -1482,7 +1482,7 @@
 
 27 And it came to pass in the seven and thirtis year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentis day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
 
-28 And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
+28 And he spoke kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
 
 29 And changed his prison garments: and he did eat bread continually before him all the days of his life.
 

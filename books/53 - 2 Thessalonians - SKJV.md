@@ -34,7 +34,7 @@
 
 3 Let no man deceive you by any means: for that day will not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
-4 Who opposs and exalts himself above all that is called God, or that is worshipped; so that he as God sitts in the temple of God, shewing himself that he is God.
+4 Who opposs and exalts himself above all that is called God, or that is worshipped; so that he as God sitts in the temple of God, showing himself that he is God.
 
 5 Remember you not, that, when I was yet with you, I told you these things?
 
@@ -78,7 +78,7 @@
 
 7 For yourselves know how you ought to follow us: for we behaved not ourselves disorderly among you;
 
-8 Neither did we eat any man's bread for nought; but worked with labour and travail night and day, that we might not be chargeable to any of you:
+8 Neither did we eat any man's bread for nothing; but worked with labor and hardship night and day, that we might not be chargeable to any of you:
 
 9 Not because we have not power, but to make ourselves an example to you to follow us.
 

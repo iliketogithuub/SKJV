@@ -28,7 +28,7 @@
 
 13 Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;
 
-14 Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ has shewed me.
+14 Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ has showed me.
 
 15 Moreover I will endeavour that you may be able after my decease to have these things always in remembrance.
 
@@ -42,7 +42,7 @@
 
 20 Knowing this first, that no prophecy of the scripture is of any private interpretation.
 
-21 For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Spirit.
+21 For the prophecy came not in old time by the will of man: but holy men of God spoke as they were moved by the Holy Spirit.
 
 ## 2 Peter Chapter 2
 

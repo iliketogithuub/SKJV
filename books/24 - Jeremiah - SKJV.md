@@ -122,7 +122,7 @@
 
 2 Lift up your eyes to the high places, and see where you have not been lien with. In the ways have you sat for them, as the Arabian in the wilderness; and you have polluted the land with your whoredoms and with your wickedness.
 
-3 Therefore the showers have been withholden, and there has been no latter rain; and you hadst a whore's forehead, you refusedst to be ashamed.
+3 Therefore the showers have been withholden, and there has been no latter rain; and you had a whore's forehead, you refusedst to be ashamed.
 
 4 will you not from this time cry to me, My father, you are the guide of my youth?
 
@@ -230,7 +230,7 @@
 
 30 And when you are spoiled, what will you do? Though you cloth thyself with crimson, though you deck you with ornaments of gold, though you rent your face with painting, in vain will you make thyself fair; your lovers will despise you, they will seek your life.
 
-31 For I have heard a voice as of a woman in travail, and the anguish as of her that brings forth her first child, the voice of the daughter of Zion, that bewails herself, that spreads her hands, saying, Woe is me now! for my soul is wearied because of murderers.
+31 For I have heard a voice as of a woman in labor, and the anguish as of her that brings forth her first child, the voice of the daughter of Zion, that bewails herself, that spreads her hands, saying, Woe is me now! for my soul is wearied because of murderers.
 
 ## Jeremiah Chapter 5
 
@@ -344,7 +344,7 @@
 
 23 They will lay hold on bow and spear; they are cruel, and have no mercy; their voice roars like the sea; and they ride upon horses, set in array as men for war against you, O daughter of Zion.
 
-24 We have heard the fame of it: our hands wax feeble: anguish has taken hold of us, and pain, as of a woman in travail.
+24 We have heard the fame of it: our hands wax feeble: anguish has taken hold of us, and pain, as of a woman in labor.
 
 25 Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side.
 
@@ -384,7 +384,7 @@
 
 12 But go you now to my place which was in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.
 
-13 And now, because you have done all these works, says the Lord, and I spake to you, rising up early and speaking, but you heard not; and I called you, but you answered not;
+13 And now, because you have done all these works, says the Lord, and I spoke to you, rising up early and speaking, but you heard not; and I called you, but you answered not;
 
 14 Therefore will I do to this house, which is called by my name, in which you trust, and to the place which I gave to you and to your fathers, as I have done to Shiloh.
 
@@ -402,7 +402,7 @@
 
 21 Thus says the Lord of hosts, the God of Israel; Put your burnt offerings to your sacrifices, and eat flesh.
 
-22 For I spake not to your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:
+22 For I spoke not to your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:
 
 23 But this thing commanded I them, saying, Obey my voice, and I will be your God, and you will be my people: and walk you in all the ways that I have commanded you, that it may be well to you.
 
@@ -440,7 +440,7 @@
 
 5 Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.
 
-6 I listened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rushs into the battle.
+6 I listened and heard, but they spoke not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rushs into the battle.
 
 7 Yea, the stork in the heaven knows her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the Lord.
 
@@ -706,7 +706,7 @@
 
 20 Lift up your eyes, and look at them that come from the north: where is the flock that was given you, your beautiful flock?
 
-21 What will you say when he will punish you? for you have taught them to be captains, and as chief over you: will not sorrows take you, as a woman in travail?
+21 What will you say when he will punish you? for you have taught them to be captains, and as chief over you: will not sorrows take you, as a woman in labor?
 
 22 And if you say in your heart, therefore come these things upon me? For the greatness of your iniquity are your skirts discovered, and your heels made bare.
 
@@ -722,7 +722,7 @@
 
 ## Jeremiah Chapter 14
 
-1 The word of the Lord that came to Jeremiah concerning the dearth.
+1 The word of the Lord that came to Jeremiah concerning the famine.
 
 2 Judah mourns, and the gates of it languish; they are black to the ground; and the cry of Jerusalem is gone up.
 
@@ -748,7 +748,7 @@
 
 13 Then said I, Ah, Lord God! look, the prophets say to them, you will not see the sword, neither will you have famine; but I will give you assured peace in this place.
 
-14 Then the Lord said to me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake to them: they prophesy to you a false vision and divination, and a thing of nought, and the deceit of their heart.
+14 Then the Lord said to me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spoke to them: they prophesy to you a false vision and divination, and a thing of nothing, and the deceit of their heart.
 
 15 Therefore thus says the Lord concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine will not be in this land; By sword and famine will those prophets be consumed.
 
@@ -830,13 +830,13 @@
 
 9 For thus says the Lord of hosts, the God of Israel; Look, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
 
-10 And it will come to pass, when you will shew this people all these words, and they will say to you, therefore has the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?
+10 And it will come to pass, when you will show this people all these words, and they will say to you, therefore has the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?
 
 11 Then will you say to them, Because your fathers have forsaken me, says the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;
 
 12 And you have done worse than your fathers; for, look, you walk every one after the imagination of his evil heart, that they may not listen to me:
 
-13 Therefore will I cast you out of this land into a land that you know not, neither you nor your fathers; and there will you serve other gods day and night; where I will not shew you favour.
+13 Therefore will I cast you out of this land into a land that you know not, neither you nor your fathers; and there will you serve other gods day and night; where I will not show you favour.
 
 14 Therefore, look, the days come, says the Lord, that it will no more be said, The Lord lives, that brought up the children of Israel out of the land of Egypt;
 
@@ -944,7 +944,7 @@
 
 16 To make their land desolate, and a perpetual hissing; every one that passs by that will be astonished, and wag his head.
 
-17 I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.
+17 I will scatter them as with an east wind before the enemy; I will show them the back, and not the face, in the day of their calamity.
 
 18 Then said they, Come and let us devise devices against Jeremiah; for the law will not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.
 
@@ -968,7 +968,7 @@
 
 4 Because they have forsaken me, and have estranged this place, and have burned incense in it to other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
 
-5 They have built also the high places of Baal, to burn their sons with fire for burnt offerings to Baal, which I commanded not, nor spake it, neither came it into my mind:
+5 They have built also the high places of Baal, to burn their sons with fire for burnt offerings to Baal, which I commanded not, nor spoke it, neither came it into my mind:
 
 6 Therefore, look, the days come, says the Lord, that this place will no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.
 
@@ -1006,7 +1006,7 @@
 
 7 O Lord, you have deceived me, and I was deceived; you are stronger than I, and have prevailed: I am in derision daily, every one mocks me.
 
-8 For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach to me, and a derision, daily.
+8 For since I spoke, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach to me, and a derision, daily.
 
 9 Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
@@ -1024,7 +1024,7 @@
 
 16 And let that man be as the cities which the Lord overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;
 
-17 Because he slew me not from the womb; or that my mother might have been my grave, and her womb to be always great with me.
+17 Because he killed me not from the womb; or that my mother might have been my grave, and her womb to be always great with me.
 
 18 therefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?
 
@@ -1100,11 +1100,11 @@
 
 20 Go up to Lebanon, and cry; and lift up your voice in Bashan, and cry from the passages: for all your lovers are destroyed.
 
-21 I spake to you in your prosperity; but you saidst, I will not hear. This has been your manner from your youth, that you obeyedst not my voice.
+21 I spoke to you in your prosperity; but you saidst, I will not hear. This has been your manner from your youth, that you obeyedst not my voice.
 
 22 The wind will eat up all your pastors, and your lovers will go into captivity: surely then will you be ashamed and confounded for all your wickedness.
 
-23 O inhabitant of Lebanon, that mak your nest in the cedars, how gracious will you be when pangs come upon you, the pain as of a woman in travail!
+23 O inhabitant of Lebanon, that mak your nest in the cedars, how gracious will you be when pangs come upon you, the pain as of a woman in labor!
 
 24 As I live, says the Lord, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck you from there;
 
@@ -1204,7 +1204,7 @@
 
 ## Jeremiah Chapter 24
 
-1 The Lord shewed me, and, look, two baskets of figs were set before the temple of the Lord, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
+1 The Lord showed me, and, look, two baskets of figs were set before the temple of the Lord, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
 
 2 One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.
 
@@ -1228,7 +1228,7 @@
 
 1 The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon;
 
-2 The which Jeremiah the prophet spake to all the people of Judah, and to all the inhabitants of Jerusalem, saying,
+2 The which Jeremiah the prophet spoke to all the people of Judah, and to all the inhabitants of Jerusalem, saying,
 
 3 From the thirteenth year of Josiah the son of Amon king of Judah, even to this day, that is the three and twentis year, the word of the Lord has come to me, and I have spoken to you, rising early and speaking; but you have not listened.
 
@@ -1324,9 +1324,9 @@
 
 10 When the princes of Judah heard these things, then they came up from the king's house to the house of the Lord, and sat down in the entry of the new gate of the Lord's house.
 
-11 Then spake the priests and the prophets to the princes and to all the people, saying, This man is worthy to die; for he has prophesied against this city, as you have heard with your ears.
+11 Then spoke the priests and the prophets to the princes and to all the people, saying, This man is worthy to die; for he has prophesied against this city, as you have heard with your ears.
 
-12 Then spake Jeremiah to all the princes and to all the people, saying, The Lord sent me to prophesy against this house and against this city all the words that you have heard.
+12 Then spoke Jeremiah to all the princes and to all the people, saying, The Lord sent me to prophesy against this house and against this city all the words that you have heard.
 
 13 Therefore now amend your ways and your doings, and obey the voice of the Lord your God; and the Lord will repent him of the evil that he has pronounced against you.
 
@@ -1336,9 +1336,9 @@
 
 16 Then said the princes and all the people to the priests and to the prophets; This man is not worthy to die: for he has spoken to us in the name of the Lord our God.
 
-17 Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,
+17 Then rose up certain of the elders of the land, and spoke to all the assembly of the people, saying,
 
-18 Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus says the Lord of hosts; Zion will be plowed like a field, and Jerusalem will become heaps, and the mountain of the house as the high places of a forest.
+18 Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spoke to all the people of Judah, saying, Thus says the Lord of hosts; Zion will be plowed like a field, and Jerusalem will become heaps, and the mountain of the house as the high places of a forest.
 
 19 Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the Lord, and urged the Lord, and the Lord repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
 
@@ -1348,7 +1348,7 @@
 
 22 And Jehoiakim the king sent men into Egypt, namely, Elnathan the son of Achbor, and certain men with him into Egypt.
 
-23 And they fetched forth Urijah out of Egypt, and brought him to Jehoiakim the king; who slew him with the sword, and cast his dead body into the graves of the common people.
+23 And they fetched forth Urijah out of Egypt, and brought him to Jehoiakim the king; who killed him with the sword, and cast his dead body into the graves of the common people.
 
 24 Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.
 
@@ -1376,7 +1376,7 @@
 
 11 But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, says the Lord; and they will till it, and dwell in it.
 
-12 I spake also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live.
+12 I spoke also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live.
 
 13 Why will you die, you and your people, by the sword, by the famine, and by the pestilence, as the Lord has spoken against the nation that will not serve the king of Babylon?
 
@@ -1384,7 +1384,7 @@
 
 15 For I have not sent them, says the Lord, yet they prophesy a lie in my name; that I might drive you out, and that you might perish, you, and the prophets that prophesy to you.
 
-16 Also I spake to the priests and to all this people, saying, Thus says the Lord; Listen not to the words of your prophets that prophesy to you, saying, Look, the vessels of the Lord's house will now shortly be brought again from Babylon: for they prophesy a lie to you.
+16 Also I spoke to the priests and to all this people, saying, Thus says the Lord; Listen not to the words of your prophets that prophesy to you, saying, Look, the vessels of the Lord's house will now shortly be brought again from Babylon: for they prophesy a lie to you.
 
 17 Listen not to them; serve the king of Babylon, and live: therefore should this city be laid waste?
 
@@ -1400,7 +1400,7 @@
 
 ## Jeremiah Chapter 28
 
-1 And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake to me in the house of the Lord, in the presence of the priests and of all the people, saying,
+1 And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spoke to me in the house of the Lord, in the presence of the priests and of all the people, saying,
 
 2 Thus speaks the Lord of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.
 
@@ -1418,9 +1418,9 @@
 
 9 The prophet which prophesis of peace, when the word of the prophet will come to pass, then will the prophet be known, that the Lord has truly sent him.
 
-10 Then Hananiah the prophet took the yoke from off the prophet Jeremiah's neck, and brake it.
+10 Then Hananiah the prophet took the yoke from off the prophet Jeremiah's neck, and broke it.
 
-11 And Hananiah spake in the presence of all the people, saying, Thus says the Lord; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.
+11 And Hananiah spoke in the presence of all the people, saying, Thus says the Lord; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.
 
 12 Then the word of the Lord came to Jeremiah the prophet, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,
 
@@ -1508,11 +1508,11 @@
 
 3 For, look, the days come, says the Lord, that I will bring again the captivity of my people Israel and Judah, says the Lord: and I will cause them to return to the land that I gave to their fathers, and they will possess it.
 
-4 And these are the words that the Lord spake concerning Israel and concerning Judah.
+4 And these are the words that the Lord spoke concerning Israel and concerning Judah.
 
 5 For thus says the Lord; We have heard a voice of trembling, of fear, and not of peace.
 
-6 Ask you now, and see whether a man does travail with child? therefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
+6 Ask you now, and see whether a man does labor with child? therefore do I see every man with his hands on his loins, as a woman in labor, and all faces are turned into paleness?
 
 7 Alas! for that day is great, so that none is like it: it is even the time of Jacob's trouble, but he will be saved out of it.
 
@@ -1540,7 +1540,7 @@
 
 19 And out of them will proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they will not be few; I will also glorify them, and they will not be small.
 
-20 Their children also will be as aforetime, and their congregation will be established before me, and I will punish all that oppress them.
+20 Their children also will be as before, and their congregation will be established before me, and I will punish all that oppress them.
 
 21 And their nobles will be of themselves, and their governor will proceed from the midst of them; and I will cause him to draw near, and he will approach to me: for who is this that engaged his heart to approach to me? says the Lord.
 
@@ -1566,7 +1566,7 @@
 
 7 For thus says the Lord; Sing with gladness for Jacob, and shout among the chief of the nations: publish you, praise you, and say, O Lord, save your people, the remnant of Israel.
 
-8 Look, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travails with child together: a great company will return there.
+8 Look, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her who is in labor together: a great company will return there.
 
 9 They will come with weeping, and with prayers will I lead them: I will cause them to walk by the rivers of waters in a straight way, in which they will not stumble: for I am a father to Israel, and Ephraim is my firstborn.
 
@@ -1590,7 +1590,7 @@
 
 19 Surely after that I was turned, I repented; and after that I was instructed, I struck upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.
 
-20 Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my heart are troubled for him; I will surely have mercy upon him, says the Lord.
+20 Is Ephraim my dear son? is he a pleasant child? for since I spoke against him, I do earnestly remember him still: therefore my heart are troubled for him; I will surely have mercy upon him, says the Lord.
 
 21 Set you up waymarks, make you high heaps: set your heart toward the highway, even the way which you went: turn again, O virgin of Israel, turn again to these your cities.
 
@@ -1614,7 +1614,7 @@
 
 31 Look, the days come, says the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 
-32 Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband to them, says the Lord:
+32 Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they broke, although I was an husband to them, says the Lord:
 
 33 But this will be the covenant that I will make with the house of Israel; After those days, says the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they will be my people.
 
@@ -1668,7 +1668,7 @@
 
 17 Ah Lord God! look, you have made the heaven and the earth by your great power and stretched out arm, and there is nothing too hard for you:
 
-18 you shew lovingkindness to thousands, and recompens the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the Lord of hosts, is his name,
+18 you show lovingkindness to thousands, and recompens the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the Lord of hosts, is his name,
 
 19 Great in counsel, and mighty in work: for your eyes are open upon all the ways of the sons of men: to give every one according to his ways, and according to the fruit of his doings:
 
@@ -1788,7 +1788,7 @@
 
 5 But you will die in peace: and with the burnings of your fathers, the former kings which were before you, so will they burn odours for you; and they will lament you, saying, Ah lord! for I have pronounced the word, says the Lord.
 
-6 Then Jeremiah the prophet spake all these words to Zedekiah king of Judah in Jerusalem,
+6 Then Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem,
 
 7 When the king of Babylon's army fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azekah: for these defenced cities remained of the cities of Judah.
 
@@ -1866,7 +1866,7 @@
 
 1 And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came to Jeremiah from the Lord, saying,
 
-2 Take you a roll of a book, and write in it all the words that I have spoken to you against Israel, and against Judah, and against all the nations, from the day I spake to you, from the days of Josiah, even to this day.
+2 Take you a roll of a book, and write in it all the words that I have spoken to you against Israel, and against Judah, and against all the nations, from the day I spoke to you, from the days of Josiah, even to this day.
 
 3 It may be that the house of Judah will hear all the evil which I purpose to do to them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.
 
@@ -1932,7 +1932,7 @@
 
 1 And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.
 
-2 But neither he, nor his servants, nor the people of the land, did listen to the words of the Lord, which he spake by the prophet Jeremiah.
+2 But neither he, nor his servants, nor the people of the land, did listen to the words of the Lord, which he spoke by the prophet Jeremiah.
 
 3 And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now to the Lord our God for us.
 
@@ -1988,11 +1988,11 @@
 
 7 Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king's house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;
 
-8 Ebedmelech went forth out of the king's house, and spake to the king saying,
+8 Ebedmelech went forth out of the king's house, and spoke to the king saying,
 
 9 My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city.
 
-10 Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with you, and take up Jeremiah the prophet out of the dungeon, before he die.
+10 Then the king commanded Ebedmelech the Ethiopian, saying, Take from here thirty men with you, and take up Jeremiah the prophet out of the dungeon, before he die.
 
 11 So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took from there old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.
 
@@ -2014,7 +2014,7 @@
 
 20 But Jeremiah said, They will not deliver you. Obey, I urge you, the voice of the Lord, which I speak to you: so it will be well to you, and your soul will live.
 
-21 But if you refuse to go forth, this is the word that the Lord has shewed me:
+21 But if you refuse to go forth, this is the word that the Lord has showed me:
 
 22 And, look, all the women that are left in the king of Judah's house will be brought forth to the king of Babylon's princes, and those women will say, your friends have set you on, and have prevailed against you: your feet are sunk in the mire, and they are turned away back.
 
@@ -2042,11 +2042,11 @@
 
 5 But the Chaldeans' army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
 
-6 Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.
+6 Then the king of Babylon killed the sons of Zedekiah in Riblah before his eyes: also the king of Babylon killed all the nobles of Judah.
 
 7 Moreover he put out Zedekiah's eyes, and bound him with chains, to carry him to Babylon.
 
-8 And the Chaldeans burned the king's house, and the houses of the people, with fire, and brake down the walls of Jerusalem.
+8 And the Chaldeans burned the king's house, and the houses of the people, with fire, and broke down the walls of Jerusalem.
 
 9 Then Nebuzaradan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained.
 
@@ -2098,7 +2098,7 @@
 
 14 And said to him, do you certainly know that Baalis the king of the Ammonites has sent Ishmael the son of Nethaniah to slay you? But Gedaliah the son of Ahikam believed them not.
 
-15 Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly saying, Let me go, I pray you, and I will slay Ishmael the son of Nethaniah, and no man will know it: therefore should he slay you, that all the Jews which are gathered to you should be scattered, and the remnant in Judah perish?
+15 Then Johanan the son of Kareah spoke to Gedaliah in Mizpah secretly saying, Let me go, I pray you, and I will slay Ishmael the son of Nethaniah, and no man will know it: therefore should he slay you, that all the Jews which are gathered to you should be scattered, and the remnant in Judah perish?
 
 16 But Gedaliah the son of Ahikam said to Johanan the son of Kareah, you will not do this thing: for you speak falsely of Ishmael.
 
@@ -2106,9 +2106,9 @@
 
 1 Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came to Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.
 
-2 Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and struck Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.
+2 Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and struck Gedaliah the son of Ahikam the son of Shaphan with the sword, and killed him, whom the king of Babylon had made governor over the land.
 
-3 Ishmael also slew all the Jews that were with him, even with Gedaliah, at Mizpah, and the Chaldeans that were found there, and the men of war.
+3 Ishmael also killed all the Jews that were with him, even with Gedaliah, at Mizpah, and the Chaldeans that were found there, and the men of war.
 
 4 And it came to pass the second day after he had slain Gedaliah, and no man knew it,
 
@@ -2116,9 +2116,9 @@
 
 6 And Ishmael the son of Nethaniah went forth from Mizpah to meet them, weeping all along as he went: and it came to pass, as he met them, he said to them, Come to Gedaliah the son of Ahikam.
 
-7 And it was so, when they came into the midst of the city, that Ishmael the son of Nethaniah slew them, and cast them into the midst of the pit, he, and the men that were with him.
+7 And it was so, when they came into the midst of the city, that Ishmael the son of Nethaniah killed them, and cast them into the midst of the pit, he, and the men that were with him.
 
-8 But ten men were found among them that said to Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brothers.
+8 But ten men were found among them that said to Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and killed them not among their brothers.
 
 9 Now the pit in which Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, was it which Asa the king had made for fear of Baasha king of Israel: and Ishmael the son of Nethaniah filled it with them that were slain.
 
@@ -2146,7 +2146,7 @@
 
 2 And said to Jeremiah the prophet, Let, we urge you, our prayer be accepted before you, and pray for us to the Lord your God, even for all this remnant; (for we are left but a few of many, as your eyes do look at us:)
 
-3 That the Lord your God may shew us the way in which we may walk, and the thing that we may do.
+3 That the Lord your God may show us the way in which we may walk, and the thing that we may do.
 
 4 Then Jeremiah the prophet said to them, I have heard you; look, I will pray to the Lord your God according to your words; and it will come to pass, that whatsoever thing the Lord will answer you, I will declare it to you; I will keep nothing back from you.
 
@@ -2164,7 +2164,7 @@
 
 11 Be not afraid of the king of Babylon, of whom you are afraid; be not afraid of him, says the Lord: for I am with you to save you, and to deliver you from his hand.
 
-12 And I will shew mercies to you, that he may have mercy upon you, and cause you to return to your own land.
+12 And I will show mercies to you, that he may have mercy upon you, and cause you to return to your own land.
 
 13 But if you say, We will not dwell in this land, neither obey the voice of the Lord your God,
 
@@ -2190,7 +2190,7 @@
 
 1 And it came to pass, that when Jeremiah had made an end of speaking to all the people all the words of the Lord their God, for which the Lord their God had sent him to them, even all these words,
 
-2 Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying to Jeremiah, you speak falsely: the Lord our God has not sent you to say, Go not into Egypt to sojourn there:
+2 Then spoke Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying to Jeremiah, you speak falsely: the Lord our God has not sent you to say, Go not into Egypt to sojourn there:
 
 3 But Baruch the son of Neriah setts you on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
 
@@ -2278,7 +2278,7 @@
 
 ## Jeremiah Chapter 45
 
-1 The word that Jeremiah the prophet spake to Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
+1 The word that Jeremiah the prophet spoke to Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
 
 2 Thus says the Lord, the God of Israel, to you, O Baruch:
 
@@ -2314,7 +2314,7 @@
 
 12 The nations have heard of your shame, and your cry has filled the land: for the mighty man has stumbled against the mighty, and they are fallen both together.
 
-13 The word that the Lord spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt.
+13 The word that the Lord spoke to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt.
 
 14 Declare you in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say you, Stand fast, and prepare you; for the sword will devour round about you.
 
@@ -2506,7 +2506,7 @@
 
 23 Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet.
 
-24 Damascus is grew feeble, and turns herself to flee, and fear has seized on her: anguish and sorrows have taken her, as a woman in travail.
+24 Damascus is grew feeble, and turns herself to flee, and fear has seized on her: anguish and sorrows have taken her, as a woman in labor.
 
 25 How is the city of praise not left, the city of my joy!
 
@@ -2540,7 +2540,7 @@
 
 ## Jeremiah Chapter 50
 
-1 The word that the Lord spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.
+1 The word that the Lord spoke against Babylon and against the land of the Chaldeans by Jeremiah the prophet.
 
 2 Declare you among the nations, and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces.
 
@@ -2622,9 +2622,9 @@
 
 41 Look, a people will come from the north, and a great nation, and many kings will be raised up from the coasts of the earth.
 
-42 They will hold the bow and the lance: they are cruel, and will not shew mercy: their voice will roar like the sea, and they will ride upon horses, every one put in array, like a man to the battle, against you, O daughter of Babylon.
+42 They will hold the bow and the lance: they are cruel, and will not show mercy: their voice will roar like the sea, and they will ride upon horses, every one put in array, like a man to the battle, against you, O daughter of Babylon.
 
-43 The king of Babylon has heard the report of them, and his hands grew feeble: anguish took hold of him, and pangs as of a woman in travail.
+43 The king of Babylon has heard the report of them, and his hands grew feeble: anguish took hold of him, and pangs as of a woman in labor.
 
 44 Look, he will come up like a lion from the swelling of Jordan to the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
 
@@ -2656,7 +2656,7 @@
 
 11 Make bright the arrows; gather the shields: the Lord has raised up the spirit of the kings of the Medes: for his device is against Babylon, to destroy it; because it is the vengeance of the Lord, the vengeance of his temple.
 
-12 Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord has both devised and done that which he spake against the inhabitants of Babylon.
+12 Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord has both devised and done that which he spoke against the inhabitants of Babylon.
 
 13 O you that dwell upon many waters, abundant in treasures, your end is come, and the measure of your covetousness.
 
@@ -2694,7 +2694,7 @@
 
 30 The mighty men of Babylon have forborn to fight, they have remained in their holds: their might has failed; they became as women: they have burned her dwellingplaces; her bars are broken.
 
-31 One post will run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end,
+31 One post will run to meet another, and one messenger to meet another, to show the king of Babylon that his city is taken at one end,
 
 32 And that the passages are stopped, and the reeds they have burned with fire, and the men of war are affrighted.
 
@@ -2782,7 +2782,7 @@
 
 9 Then they took the king, and carried him up to the king of Babylon to Riblah in the land of Hamath; where he gave judgment upon him.
 
-10 And the king of Babylon slew the sons of Zedekiah before his eyes: he slew also all the princes of Judah in Riblah.
+10 And the king of Babylon killed the sons of Zedekiah before his eyes: he killed also all the princes of Judah in Riblah.
 
 11 Then he put out the eyes of Zedekiah; and the king of Babylon bound him in chains, and carried him to Babylon, and put him in prison till the day of his death.
 
@@ -2790,13 +2790,13 @@
 
 13 And burned the house of the Lord, and the king's house; and all the houses of Jerusalem, and all the houses of the great men, burned he with fire:
 
-14 And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.
+14 And all the army of the Chaldeans, that were with the captain of the guard, broke down all the walls of Jerusalem round about.
 
 15 Then Nebuzaradan the captain of the guard carried away captive certain of the poor of the people, and the residue of the people that remained in the city, and those that fell away, that fell to the king of Babylon, and the rest of the multitude.
 
 16 But Nebuzaradan the captain of the guard left certain of the poor of the land for vinedressers and for farmers.
 
-17 Also the pillars of brass that were in the house of the Lord, and the bases, and the brasen sea that was in the house of the Lord, the Chaldeans brake, and carried all the brass of them to Babylon.
+17 Also the pillars of brass that were in the house of the Lord, and the bases, and the brasen sea that was in the house of the Lord, the Chaldeans broke, and carried all the brass of them to Babylon.
 
 18 The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass with what they ministered, took they away.
 
@@ -2826,7 +2826,7 @@
 
 31 And it came to pass in the seven and thirtis year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentis day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison.
 
-32 And spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon,
+32 And spoke kindly to him, and set his throne above the throne of the kings that were with him in Babylon,
 
 33 And changed his prison garments: and he did continually eat bread before him all the days of his life.
 

@@ -42,7 +42,7 @@
 
 2 And said, I cried by reason of mine affliction to the Lord, and he heard me; out of the belly of hell cried I, and you heard my voice.
 
-3 For you hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all your billows and your waves passed over me.
+3 For you had cast me into the deep, in the midst of the seas; and the floods compassed me about: all your billows and your waves passed over me.
 
 4 Then I said, I am cast out of your sight; yet I will look again toward your holy temple.
 
@@ -56,7 +56,7 @@
 
 9 But I will sacrifice to you with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.
 
-10 And the Lord spake to the fish, and it vomited out Jonah upon the dry land.
+10 And the Lord spoke to the fish, and it vomited out Jonah upon the dry land.
 
 ## Jonah Chapter 3
 

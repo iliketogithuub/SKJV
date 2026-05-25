@@ -2,7 +2,7 @@
 
 ## Joshua Chapter 1
 
-1 Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake to Joshua the son of Nun, Moses' minister, saying,
+1 Now after the death of Moses the servant of the Lord it came to pass, that the Lord spoke to Joshua the son of Nun, Moses' minister, saying,
 
 2 Moses my servant is dead; now therefore arise, go over this Jordan, you, and all this people, to the land which I do give to them, even to the children of Israel.
 
@@ -24,7 +24,7 @@
 
 11 Pass through the host, and command the people, saying, Prepare you victuals; for within three days you will pass over this Jordan, to go in to possess the land, which the Lord your God gives you to possess it.
 
-12 And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,
+12 And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spoke Joshua, saying,
 
 13 Remember the word which Moses the servant of the Lord commanded you, saying, The Lord your God has given you rest, and has given you this land.
 
@@ -48,7 +48,7 @@
 
 4 And the woman took the two men, and hid them, and said thus, There came men to me, but I knew not from where they were:
 
-5 And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: where the men went I wot not: pursue after them quickly; for you will overtake them.
+5 And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: where the men went I know not: pursue after them quickly; for you will overtake them.
 
 6 But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
 
@@ -62,7 +62,7 @@
 
 11 And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
 
-12 Now therefore, I pray you, swear to me by the Lord, since I have shewed you kindness, that you will also shew kindness to my father's house, and give me a true token:
+12 Now therefore, I pray you, swear to me by the Lord, since I have showed you kindness, that you will also show kindness to my father's house, and give me a true token:
 
 13 And that you will save alive my father, and my mother, and my brothers, and my sisters, and all that they have, and deliver our lives from death.
 
@@ -96,11 +96,11 @@
 
 3 And they commanded the people, saying, When you see the ark of the covenant of the Lord your God, and the priests the Levites bearing it, then you will remove from your place, and go after it.
 
-4 Yet there will be a space between you and it, about two thousand cubits by measure: come not near to it, that you may know the way by which you must go: for you have not passed this way heretofore.
+4 Yet there will be a space between you and it, about two thousand cubits by measure: come not near to it, that you may know the way by which you must go: for you have not passed this way previously.
 
 5 And Joshua said to the people, Sanctify yourselves: for to morrow the Lord will do wonders among you.
 
-6 And Joshua spake to the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
+6 And Joshua spoke to the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
 
 7 And the Lord said to Joshua, This day will I begin to magnify you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.
 
@@ -126,11 +126,11 @@
 
 ## Joshua Chapter 4
 
-1 And it came to pass, when all the people were clean passed over Jordan, that the Lord spake to Joshua, saying,
+1 And it came to pass, when all the people were clean passed over Jordan, that the Lord spoke to Joshua, saying,
 
 2 Take you twelve men out of the people, out of every tribe a man,
 
-3 And command you them, saying, Take you hence out of the midst of Jordan, out of the place where the priests' feet stood firm, twelve stones, and you will carry them over with you, and leave them in the lodging place, where you will lodge this night.
+3 And command you them, saying, Take you from here out of the midst of Jordan, out of the place where the priests' feet stood firm, twelve stones, and you will carry them over with you, and leave them in the lodging place, where you will lodge this night.
 
 4 Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:
 
@@ -140,7 +140,7 @@
 
 7 Then you will answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord; when it passed over Jordan, the waters of Jordan were cut off: and these stones will be for a memorial to the children of Israel for ever.
 
-8 And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the Lord spake to Joshua, according to the number of the tribes of the children of Israel, and carried them over with them to the place where they lodged, and laid them down there.
+8 And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the Lord spoke to Joshua, according to the number of the tribes of the children of Israel, and carried them over with them to the place where they lodged, and laid them down there.
 
 9 And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there to this day.
 
@@ -148,13 +148,13 @@
 
 11 And it came to pass, when all the people were clean passed over, that the ark of the Lord passed over, and the priests, in the presence of the people.
 
-12 And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake to them:
+12 And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spoke to them:
 
 13 About forty thousand prepared for war passed over before the Lord to battle, to the plains of Jericho.
 
 14 On that day the Lord magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.
 
-15 And the Lord spake to Joshua, saying,
+15 And the Lord spoke to Joshua, saying,
 
 16 Command the priests that bear the ark of the testimony, that they come up out of Jordan.
 
@@ -166,7 +166,7 @@
 
 20 And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.
 
-21 And he spake to the children of Israel, saying, When your children will ask their fathers in time to come, saying, What mean these stones?
+21 And he spoke to the children of Israel, saying, When your children will ask their fathers in time to come, saying, What mean these stones?
 
 22 Then you will let your children know, saying, Israel came over this Jordan on dry land.
 
@@ -186,7 +186,7 @@
 
 5 Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised.
 
-6 For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: to whom the Lord sware that he would not shew them the land, which the Lord sware to their fathers that he would give us, a land that flows with milk and honey.
+6 For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: to whom the Lord sware that he would not show them the land, which the Lord sware to their fathers that he would give us, a land that flows with milk and honey.
 
 7 And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
 
@@ -266,7 +266,7 @@
 
 1 But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.
 
-2 And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spake to them, saying, Go up and view the country. And the men went up and viewed Ai.
+2 And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spoke to them, saying, Go up and view the country. And the men went up and viewed Ai.
 
 3 And they returned to Joshua, and said to him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour there; for they are but few.
 
@@ -358,7 +358,7 @@
 
 20 And when the men of Ai looked behind them, they saw, and, look, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
 
-21 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
+21 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and killed the men of Ai.
 
 22 And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they struck them, so that they let none of them remain or escape.
 
@@ -410,7 +410,7 @@
 
 10 And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
 
-11 therefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
+11 therefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
 
 12 This our bread we took hot for our provision out of our houses on the day we came forth to go to you; but now, look, it is dry, and it is mouldy:
 
@@ -432,7 +432,7 @@
 
 21 And the princes said to them, Let them live; but let them be hewers of wood and drawers of water to all the congregation; as the princes had promised them.
 
-22 And Joshua called for them, and he spake to them, saying, therefore have you beguiled us, saying, We are very far from you; when you dwell among us?
+22 And Joshua called for them, and he spoke to them, saying, therefore have you beguiled us, saying, We are very far from you; when you dwell among us?
 
 23 Now therefore you are cursed, and there will none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
 
@@ -440,7 +440,7 @@
 
 25 And now, look, we are in your hand: as it seems good and right to you to do to us, do.
 
-26 And so did he to them, and delivered them out of the hand of the children of Israel, that they slew them not.
+26 And so did he to them, and delivered them out of the hand of the children of Israel, that they killed them not.
 
 27 And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the Lord, even to this day, in the place which he should choose.
 
@@ -464,11 +464,11 @@
 
 9 Joshua therefore came to them suddenly, and went up from Gilgal all night.
 
-10 And the Lord discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goes up to Bethhoron, and struck them to Azekah, and to Makkedah.
+10 And the Lord discomfited them before Israel, and killed them with a great slaughter at Gibeon, and chased them along the way that goes up to Bethhoron, and struck them to Azekah, and to Makkedah.
 
-11 And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the Lord cast down great stones from heaven upon them to Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword.
+11 And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the Lord cast down great stones from heaven upon them to Azekah, and they died: they were more which died with hailstones than they whom the children of Israel killed with the sword.
 
-12 Then spake Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand you still upon Gibeon; and you, Moon, in the valley of Ajalon.
+12 Then spoke Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand you still upon Gibeon; and you, Moon, in the valley of Ajalon.
 
 13 And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 
@@ -496,7 +496,7 @@
 
 25 And Joshua said to them, Fear not, nor be dismayed, be strong and of good courage: for thus will the Lord do to all your enemies against whom you fight.
 
-26 And afterward Joshua struck them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening.
+26 And afterward Joshua struck them, and killed them, and hanged them on five trees: and they were hanging upon the trees until the evening.
 
 27 And it came to pass at the time of the going down of the sun, that Joshua commanded, and they took them down off the trees, and cast them into the cave in which they had been hid, and laid great stones in the cave's mouth, which remain until this very day.
 
@@ -566,7 +566,7 @@
 
 16 So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;
 
-17 Even from the mount Halak, that goes up to Seir, even to Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and struck them, and slew them.
+17 Even from the mount Halak, that goes up to Seir, even to Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and struck them, and killed them.
 
 18 Joshua made war a long time with all those kings.
 
@@ -718,11 +718,11 @@
 
 9 And Moses sware on that day, saying, Surely the land whereon your feet have trodden will be your inheritance, and your children's for ever, because you have wholly followed the Lord my God.
 
-10 And now, look, the Lord has kept me alive, as he said, these forty and five years, even since the Lord spake this word to Moses, while the children of Israel wandered in the wilderness: and now, look, I am this day fourscore and five years old.
+10 And now, look, the Lord has kept me alive, as he said, these forty and five years, even since the Lord spoke this word to Moses, while the children of Israel wandered in the wilderness: and now, look, I am this day fourscore and five years old.
 
 11 As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
 
-12 Now therefore give me this mountain, whereof the Lord spake in that day; for you heard in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I will be able to drive them out, as the Lord said.
+12 Now therefore give me this mountain, whereof the Lord spoke in that day; for you heard in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I will be able to drive them out, as the Lord said.
 
 13 And Joshua blessed him, and gave to Caleb the son of Jephunneh Hebron for an inheritance.
 
@@ -908,13 +908,13 @@
 
 13 Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute, but did not utterly drive them out.
 
-14 And the children of Joseph spake to Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, since as the Lord has blessed me until now?
+14 And the children of Joseph spoke to Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, since as the Lord has blessed me until now?
 
 15 And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
 
 16 And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Bethshean and her towns, and they who are of the valley of Jezreel.
 
-17 And Joshua spake to the house of Joseph, even to Ephraim and to Manasseh, saying, you are a great people, and have great power: you will not have one lot only:
+17 And Joshua spoke to the house of Joseph, even to Ephraim and to Manasseh, saying, you are a great people, and have great power: you will not have one lot only:
 
 18 But the mountain will be your; for it is a wood, and you will cut it down: and the outgoings of it will be your: for you will drive out the Canaanites, though they have iron chariots, and though they be strong.
 
@@ -1082,9 +1082,9 @@
 
 ## Joshua Chapter 20
 
-1 The Lord also spake to Joshua, saying,
+1 The Lord also spoke to Joshua, saying,
 
-2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake to you by the hand of Moses:
+2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spoke to you by the hand of Moses:
 
 3 That the slayer that kills any person unawares and unwittingly may flee there: and they will be your refuge from the avenger of blood.
 
@@ -1104,7 +1104,7 @@
 
 1 Then came near the heads of the fathers of the Levites to Eleazar the priest, and to Joshua the son of Nun, and to the heads of the fathers of the tribes of the children of Israel;
 
-2 And they spake to them at Shiloh in the land of Canaan, saying, The Lord commanded by the hand of Moses to give us cities to dwell in, with the suburbs of it for our cattle.
+2 And they spoke to them at Shiloh in the land of Canaan, saying, The Lord commanded by the hand of Moses to give us cities to dwell in, with the suburbs of it for our cattle.
 
 3 And the children of Israel gave to the Levites out of their inheritance, at the commandment of the Lord, these cities and their suburbs.
 
@@ -1208,7 +1208,7 @@
 
 7 Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but to the other half of it gave Joshua among their brothers on this side Jordan westward. And when Joshua sent them away also to their tents, then he blessed them,
 
-8 And he spake to them, saying, Return with much riches to your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much clothing: divide the spoil of your enemies with your brothers.
+8 And he spoke to them, saying, Return with much riches to your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much clothing: divide the spoil of your enemies with your brothers.
 
 9 And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the Lord by the hand of Moses.
 
@@ -1222,7 +1222,7 @@
 
 14 And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was an head of the house of their fathers among the thousands of Israel.
 
-15 And they came to the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, to the land of Gilead, and they spake with them, saying,
+15 And they came to the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, to the land of Gilead, and they spoke with them, saying,
 
 16 Thus says the whole congregation of the Lord, What trespass is this that you have committed against the God of Israel, to turn away this day from following the Lord, in that you have builded you an altar, that you might rebel this day against the Lord?
 
@@ -1252,7 +1252,7 @@
 
 29 God forbid that we should rebel against the Lord, and turn this day from following the Lord, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the Lord our God that is before his tabernacle.
 
-30 And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
+30 And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spoke, it pleased them.
 
 31 And Phinehas the son of Eleazar the priest said to the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the Lord is among us, because you have not committed this trespass against the Lord: now you have delivered the children of Israel out of the hand of the Lord.
 
@@ -1290,7 +1290,7 @@
 
 13 Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they will be snares and traps to you, and scourges in your sides, and thorns in your eyes, until you perish from off this good land which the Lord your God has given you.
 
-14 And, look, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the Lord your God spake concerning you; all are come to pass to you, and not one thing has failed of it.
+14 And, look, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the Lord your God spoke concerning you; all are come to pass to you, and not one thing has failed of it.
 
 15 Therefore it will come to pass, that as all good things are come upon you, which the Lord your God promised you; so will the Lord bring upon you all evil things, until he have destroyed you from off this good land which the Lord your God has given you.
 
@@ -1350,7 +1350,7 @@
 
 26 And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the Lord.
 
-27 And Joshua said to all the people, Look, this stone will be a witness to us; for it has heard all the words of the Lord which he spake to us: it will be therefore a witness to you, otherwise you deny your God.
+27 And Joshua said to all the people, Look, this stone will be a witness to us; for it has heard all the words of the Lord which he spoke to us: it will be therefore a witness to you, otherwise you deny your God.
 
 28 So Joshua let the people depart, every man to his inheritance.
 

@@ -56,13 +56,13 @@
 
 27 And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
 
-28 As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
+28 As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spoke.
 
 ## Ezekiel Chapter 2
 
 1 And he said to me, Son of man, stand upon your feet, and I will speak to you.
 
-2 And the spirit entered into me when he spake to me, and set me upon my feet, that I heard him that spake to me.
+2 And the spirit entered into me when he spoke to me, and set me upon my feet, that I heard him that spoke to me.
 
 3 And he said to me, Son of man, I send you to the children of Israel, to a rebellious nation that has rebelled against me: they and their fathers have sinned against me, even to this very day.
 
@@ -128,7 +128,7 @@
 
 23 Then I arose, and went forth into the plain: and, look, the glory of the Lord stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
 
-24 Then the spirit entered into me, and set me upon my feet, and spake with me, and said to me, Go, shut thyself within your house.
+24 Then the spirit entered into me, and set me upon my feet, and spoke with me, and said to me, Go, shut thyself within your house.
 
 25 But you, O son of man, look, they will put bands upon you, and will bind you with them, and you will not go out among them:
 
@@ -346,7 +346,7 @@
 
 6 Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house.
 
-7 And he said to them, Defile the house, and fill the courts with the slain: go you forth. And they went forth, and slew in the city.
+7 And he said to them, Defile the house, and fill the courts with the slain: go you forth. And they went forth, and killed in the city.
 
 8 And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord God! will you destroy all the residue of Israel in your pouring out of your fury upon Jerusalem?
 
@@ -360,7 +360,7 @@
 
 1 Then I looked, and, look, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 
-2 And he spake to the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.
+2 And he spoke to the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.
 
 3 Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 
@@ -452,7 +452,7 @@
 
 24 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 
-25 Then I spake to them of the captivity all the things that the Lord had shewed me.
+25 Then I spoke to them of the captivity all the things that the Lord had showed me.
 
 ## Ezekiel Chapter 12
 
@@ -786,7 +786,7 @@
 
 15 But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. will he prosper? will he escape that does such things? or will he break the covenant, and be delivered?
 
-16 As I live, says the Lord God, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he will die.
+16 As I live, says the Lord God, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he broke, even with him in the midst of Babylon he will die.
 
 17 Neither will Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 
@@ -922,7 +922,7 @@
 
 10 therefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
 
-11 And I gave them my statutes, and shewed them my judgments, which if a man do, he will even live in them.
+11 And I gave them my statutes, and showed them my judgments, which if a man do, he will even live in them.
 
 12 Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them.
 
@@ -1070,7 +1070,7 @@
 
 1 Moreover the word of the Lord came to me, saying,
 
-2 Now, you son of man, will you judge, will you judge the bloody city? yea, you will shew her all her abominations.
+2 Now, you son of man, will you judge, will you judge the bloody city? yea, you will show her all her abominations.
 
 3 Then say you, Thus says the Lord God, The city shedds blood in the midst of it, that her time may come, and makes idols against herself to defile herself.
 
@@ -1118,7 +1118,7 @@
 
 25 There is a conspiracy of her prophets in the midst of it, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst of it.
 
-26 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
+26 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they showed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
 27 Her princes in the midst of it are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
 
@@ -1150,7 +1150,7 @@
 
 9 therefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted.
 
-10 These discovered her nakedness: they took her sons and her daughters, and slew her with the sword: and she became famous among women; for they had executed judgment upon her.
+10 These discovered her nakedness: they took her sons and her daughters, and killed her with the sword: and she became famous among women; for they had executed judgment upon her.
 
 11 And when her sister Aholibah saw this, she was more corrupt in her inordinate love than she, and in her whoredoms more than her sister in her whoredoms.
 
@@ -1266,7 +1266,7 @@
 
 17 Forbear to cry, make no mourning for the dead, bind the tire of your head upon you, and put on your shoes upon your feet, and cover not your lips, and eat not the bread of men.
 
-18 So I spake to the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
+18 So I spoke to the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
 
 19 And the people said to me, will you not tell us what these things are to us, that you do so?
 
@@ -1740,7 +1740,7 @@
 
 21 And it came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one that had escaped out of Jerusalem came to me, saying, The city is smitten.
 
-22 Now the hand of the Lord was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
+22 Now the hand of the Lord was upon me in the evening, before he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
 
 23 Then the word of the Lord came to me, saying,
 
@@ -1758,7 +1758,7 @@
 
 30 Also, you son of man, the children of your people still are talking against you by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that comes forth from the Lord.
 
-31 And they come to you as the people comes, and they sit before you as my people, and they hear your words, but they will not do them: for with their mouth they shew much love, but their heart goes after their covetousness.
+31 And they come to you as the people comes, and they sit before you as my people, and they hear your words, but they will not do them: for with their mouth they show much love, but their heart goes after their covetousness.
 
 32 And, look, you are to them as a very lovely song of one that has a pleasant voice, and can play well on an instrument: for they hear your words, but they do them not.
 
@@ -1974,7 +1974,7 @@
 
 17 And join them one to another into one stick; and they will become one in your hand.
 
-18 And when the children of your people will speak to you, saying, will you not shew us what you mean by these?
+18 And when the children of your people will speak to you, saying, will you not show us what you mean by these?
 
 19 Say to them, Thus says the Lord God; Look, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they will be one in mine hand.
 
@@ -2112,7 +2112,7 @@
 
 3 And he brought me there, and, look, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
 
-4 And the man said to me, Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I will shew you; for to the intent that I might shew them to you are you brought here: declare all that you se to the house of Israel.
+4 And the man said to me, Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I will show you; for to the intent that I might show them to you are you brought here: declare all that you se to the house of Israel.
 
 5 And look, a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
 
@@ -2186,9 +2186,9 @@
 
 40 And at the side without, as one goes up to the entry of the north gate, were two tables; and on the other side, which was at the porch of the gate, were two tables.
 
-41 Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew their sacrifices.
+41 Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they killed their sacrifices.
 
-42 And the four tables were of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments with what they slew the burnt offering and the sacrifice.
+42 And the four tables were of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments with what they killed the burnt offering and the sacrifice.
 
 43 And within were hooks, an hand broad, fastened round about: and upon the tables was the flesh of the offering.
 
@@ -2320,9 +2320,9 @@
 
 9 Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.
 
-10 you son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern.
+10 you son of man, show the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern.
 
-11 And if they be ashamed of all that they have done, shew them the form of the house, and the fashion of it, and the goings out of it, and the comings in of it, and all the forms of it, and all the ordinances of it, and all the forms of it, and all the laws of it: and write it in their sight, that they may keep the whole form of it, and all the ordinances of it, and do them.
+11 And if they be ashamed of all that they have done, show them the form of the house, and the fashion of it, and the goings out of it, and the comings in of it, and all the forms of it, and all the ordinances of it, and all the forms of it, and all the laws of it: and write it in their sight, that they may keep the whole form of it, and all the ordinances of it, and do them.
 
 12 This is the law of the house; Upon the top of the mountain the whole limit of it round about will be most holy. Look, this is the law of the house.
 

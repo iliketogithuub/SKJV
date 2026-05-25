@@ -70,7 +70,7 @@
 
 8 And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.
 
-9 But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should shew forth the praises of him who has called you out of darkness into his marvellous light;
+9 But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should show forth the praises of him who has called you out of darkness into his marvellous light;
 
 10 Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
 
@@ -128,7 +128,7 @@
 
 10 For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 
-11 Let him eschew evil, and do good; let him seek peace, and ensue it.
+11 Let him avoid evil, and do good; let him seek peace, and ensue it.
 
 12 For the eyes of the Lord are over the righteous, and his ears are open to their prayers: but the face of the Lord is against them that do evil.
 

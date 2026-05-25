@@ -70,7 +70,7 @@
 
 4 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that sells nations through her whoredoms, and families through her witchcrafts.
 
-5 Look, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will shew the nations your nakedness, and the kingdoms your shame.
+5 Look, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will show the nations your nakedness, and the kingdoms your shame.
 
 6 And I will cast abominable filth upon you, and make you vile, and will set you as a gazingstock.
 

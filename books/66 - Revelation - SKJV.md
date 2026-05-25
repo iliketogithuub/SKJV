@@ -2,7 +2,7 @@
 
 ## Revelation Chapter 1
 
-1 The Revelation of Jesus Christ, which God gave to him, to shew to his servants things which must shortly come to pass; and he sent and signified it by his angel to his servant John:
+1 The Revelation of Jesus Christ, which God gave to him, to show to his servants things which must shortly come to pass; and he sent and signified it by his angel to his servant John:
 
 2 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 
@@ -24,7 +24,7 @@
 
 11 Saying, I am Alpha and Omega, the first and the last: and, What you se, write in a book, and send it to the seven churches which are in Asia; to Ephesus, and to Smyrna, and to Pergamos, and to Thyatira, and to Sardis, and to Philadelphia, and to Laodicea.
 
-12 And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
+12 And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks;
 
 13 And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden belt.
 
@@ -132,7 +132,7 @@
 
 14 And to the angel of the church of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;
 
-15 I know your works, that you are neither cold nor hot: I would you wert cold or hot.
+15 I know your works, that you are neither cold nor hot: I would you were cold or hot.
 
 16 So then because you are lukewarm, and neither cold nor hot, I will spue you out of my mouth.
 
@@ -150,7 +150,7 @@
 
 ## Revelation Chapter 4
 
-1 After this I looked, and, look, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will shew you things which must be from now on.
+1 After this I looked, and, look, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will show you things which must be from now on.
 
 2 And immediately I was in the spirit: and, look, a throne was set in heaven, and one sat on the throne.
 
@@ -362,7 +362,7 @@
 
 7 But in the days of the voice of the seventh angel, when he will begin to sound, the mystery of God should be finished, as he has declared to his servants the prophets.
 
-8 And the voice which I heard from heaven spake to me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth.
+8 And the voice which I heard from heaven spoke to me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth.
 
 9 And I went to the angel, and said to him, Give me the little book. And he said to me, Take it, and eat it up; and it will make your belly bitter, but it will be in your mouth sweet as honey.
 
@@ -414,7 +414,7 @@
 
 1 And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 
-2 And she being with child cried, travailing in birth, and pained to be delivered.
+2 And she being with child cried, in labor, and pained to be delivered.
 
 3 And there appeared another wonder in heaven; and look, a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 
@@ -468,7 +468,7 @@
 
 10 He that leads into captivity will go into captivity: he that kills with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 
-11 And I saw another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+11 And I saw another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon.
 
 12 And he exerciss all the power of the first beast before him, and causes the earth and them which dwell in it to worship the first beast, whose deadly wound was healed.
 
@@ -590,7 +590,7 @@
 
 ## Revelation Chapter 17
 
-1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will shew to you the judgment of the great whore that sitts upon many waters:
+1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great whore that sitts upon many waters:
 
 2 With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 
@@ -660,7 +660,7 @@
 
 16 And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
 
-17 For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
+17 For in one hour so great riches is come to nothing. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
 
 18 And cried when they saw the smoke of her burning, saying, What city is like to this great city!
 
@@ -770,9 +770,9 @@
 
 8 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, will have their part in the lake which burns with fire and brimstone: which is the second death.
 
-9 And there came to me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will shew you the bride, the Lamb's wife.
+9 And there came to me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb's wife.
 
-10 And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
+10 And he carried me away in the spirit to a great and high mountain, and showed me that great city, the holy Jerusalem, descending out of heaven from God,
 
 11 Having the glory of God: and her light was like to a stone most precious, even like a jasper stone, clear as crystal;
 
@@ -810,7 +810,7 @@
 
 ## Revelation Chapter 22
 
-1 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+1 And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 
 2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.
 
@@ -820,11 +820,11 @@
 
 5 And there will be no night there; and they need no candle, neither light of the sun; for the Lord God gives them light: and they will reign for ever and ever.
 
-6 And he said to me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew to his servants the things which must shortly be done.
+6 And he said to me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to show to his servants the things which must shortly be done.
 
 7 Look, I come quickly: blessed is he that keeps the sayings of the prophecy of this book.
 
-8 And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
+8 And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which showed me these things.
 
 9 Then says he to me, See you do it not: for I am your fellowservant, and of your brothers the prophets, and of them which keep the sayings of this book: worship God.
 

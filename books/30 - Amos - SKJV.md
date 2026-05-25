@@ -136,7 +136,7 @@
 
 4 For thus says the Lord to the house of Israel, Seek you me, and you will live:
 
-5 But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal will surely go into captivity, and Bethel will come to nought.
+5 But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal will surely go into captivity, and Bethel will come to nothing.
 
 6 Seek the Lord, and you will live; otherwise he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel.
 
@@ -208,25 +208,25 @@
 
 12 will horses run upon the rock? will one plow there with oxen? for you have turned judgment into gall, and the fruit of righteousness into hemlock:
 
-13 you which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?
+13 you which rejoice in a thing of nothing, which say, Have we not taken to us horns by our own strength?
 
 14 But, look, I will raise up against you a nation, O house of Israel, says the Lord the God of hosts; and they will afflict you from the entering in of Hemath to the river of the wilderness.
 
 ## Amos Chapter 7
 
-1 Thus has the Lord God shewed to me; and, look, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, look, it was the latter growth after the king's mowings.
+1 Thus has the Lord God showed to me; and, look, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, look, it was the latter growth after the king's mowings.
 
 2 And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I urge you: by whom will Jacob arise? for he is small.
 
 3 The Lord repented for this: It will not be, says the Lord.
 
-4 Thus has the Lord God shewed to me: and, look, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.
+4 Thus has the Lord God showed to me: and, look, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.
 
 5 Then said I, O Lord God, cease, I urge you: by whom will Jacob arise? for he is small.
 
 6 The Lord repented for this: This also will not be, says the Lord God.
 
-7 Thus he shewed me: and, look, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.
+7 Thus he showed me: and, look, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.
 
 8 And the Lord said to me, Amos, what se you? And I said, A plumbline. Then said the Lord, Look, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:
 
@@ -250,7 +250,7 @@
 
 ## Amos Chapter 8
 
-1 Thus has the Lord God shewed to me: and look, a basket of summer fruit.
+1 Thus has the Lord God showed to me: and look, a basket of summer fruit.
 
 2 And he said, Amos, what se you? And I said, A basket of summer fruit. Then said the Lord to me, The end is come upon my people of Israel; I will not again pass by them any more.
 

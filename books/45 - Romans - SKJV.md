@@ -4,7 +4,7 @@
 
 1 Paul, a servant of Jesus Christ, called to be an apostle, separated to the gospel of God,
 
-2 (Which he had promised afore by his prophets in the holy scriptures,)
+2 (Which he had promised before by his prophets in the holy scriptures,)
 
 3 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
 
@@ -38,7 +38,7 @@
 
 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 
-19 Because that which may be known of God is manifest in them; for God has shewed it to them.
+19 Because that which may be known of God is manifest in them; for God has showed it to them.
 
 20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
 
@@ -54,7 +54,7 @@
 
 26 For this cause God gave them up to vile affections: for even their women did change the natural use into that which is against nature:
 
-27 And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.
+27 And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is improperly, and receiving in themselves that recompence of their error which was meet.
 
 28 And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;
 
@@ -96,7 +96,7 @@
 
 14 For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law to themselves:
 
-15 Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
+15 Which show the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
 
 16 In the day when God will judge the secrets of men by Jesus Christ according to my gospel.
 
@@ -270,7 +270,7 @@
 
 13 (For until the law sin was in the world: but sin is not credited when there is no law.
 
-14 Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's sin, who is the figure of him that was to come.
+14 Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the likeness of Adam's sin, who is the figure of him that was to come.
 
 15 But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded to many.
 
@@ -356,7 +356,7 @@
 
 10 And the commandment, which was ordained to life, I found to be to death.
 
-11 For sin, taking occasion by the commandment, deceived me, and by it slew me.
+11 For sin, taking occasion by the commandment, deceived me, and by it killed me.
 
 12 therefore the law is holy, and the commandment holy, and just, and good.
 
@@ -430,7 +430,7 @@
 
 21 Because the creature itself also will be delivered from the bondage of corruption into the glorious liberty of the children of God.
 
-22 For we know that the whole creation groans and travails in pain together until now.
+22 For we know that the whole creation groans and groans in labor together until now.
 
 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
 
@@ -500,7 +500,7 @@
 
 16 So then it is not of him that wills, nor of him that runns, but of God that shews mercy.
 
-17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might shew my power in you, and that my name might be declared throughout all the earth.
+17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth.
 
 18 Therefore has he mercy on whom he will have mercy, and whom he will he hardens.
 
@@ -510,9 +510,9 @@
 
 21 has not the potter power over the clay, of the same lump to make one vessel to honour, and another to dishonour?
 
-22 What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+22 What if God, willing to show his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
-23 And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared to glory,
+23 And that he might make known the riches of his glory on the vessels of mercy, which he had before prepared to glory,
 
 24 Even us, whom he has called, not of the Jews only, but also of the Gentiles?
 
@@ -582,7 +582,7 @@
 
 1 I say then, has God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
-2 God has not cast away his people which he foreknew. Wot you not what the scripture says of Elias? how he makes intercession to God against Israel saying,
+2 God has not cast away his people which he foreknew. Know you not what the scripture says of Elias? how he makes intercession to God against Israel saying,
 
 3 Lord, they have killed your prophets, and digged down your altars; and I am left alone, and they seek my life.
 
@@ -612,7 +612,7 @@
 
 16 For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
 
-17 And if some of the branches be broken off, and you, being a wild olive tree, wert grafted in among them, and with them partak of the root and fatness of the olive tree;
+17 And if some of the branches be broken off, and you, being a wild olive tree, were grafted in among them, and with them partak of the root and fatness of the olive tree;
 
 18 Boast not against the branches. But if you boast, you bear not the root, but the root you.
 
@@ -626,7 +626,7 @@
 
 23 And they also, if they abide not still in unbelief, will be grafted in: for God is able to graft them in again.
 
-24 For if you wert cut out of the olive tree which is wild by nature, and wert grafted contrary to nature into a good olive tree: how much more will these, which be the natural branches, be grafted into their own olive tree?
+24 For if you were cut out of the olive tree which is wild by nature, and were grafted contrary to nature into a good olive tree: how much more will these, which be the natural branches, be grafted into their own olive tree?
 
 25 For I would not, brothers, that you should be ignorant of this mystery, otherwise you should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
 
@@ -746,7 +746,7 @@
 
 9 For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.
 
-10 But why do you judge your brother? or why do you set at nought your brother? for we will all stand before the judgment seat of Christ.
+10 But why do you judge your brother? or why do you set at nothing your brother? for we will all stand before the judgment seat of Christ.
 
 11 For it is written, As I live, says the Lord, every knee will bow to me, and every tongue will confess to God.
 
@@ -782,7 +782,7 @@
 
 3 For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached you fell on me.
 
-4 For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+4 For whatsoever things were written before were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
 5 Now the God of patience and comfort grant you to be likeminded one toward another according to Christ Jesus:
 

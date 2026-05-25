@@ -184,7 +184,7 @@
 
 14 And my temptation which was in my flesh you despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
 
-15 Where is then the blessedness you spake of? for I bear you record, that, if it had been possible, you would have plucked out your own eyes, and have given them to me.
+15 Where is then the blessedness you spoke of? for I bear you record, that, if it had been possible, you would have plucked out your own eyes, and have given them to me.
 
 16 Am I therefore become your enemy, because I tell you the truth?
 
@@ -192,7 +192,7 @@
 
 18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-19 My little children, of whom I travail in birth again until Christ be formed in you,
+19 My little children, of whom I labor in birth again until Christ be formed in you,
 
 20 I desire to be present with you now, and to change my voice; for I stand in doubt of you.
 
@@ -208,7 +208,7 @@
 
 26 But Jerusalem which is above is free, which is the mother of us all.
 
-27 For it is written, Rejoice, you barren that bear not; break forth and cry, you that travail not: for the desolate has many more children than she which has an husband.
+27 For it is written, Rejoice, you barren that bear not; break forth and cry, you that labor not: for the desolate has many more children than she which has an husband.
 
 28 Now we, brothers, as Isaac was, are the children of promise.
 
@@ -296,7 +296,7 @@
 
 11 you see how large a letter I have written to you with mine own hand.
 
-12 As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only otherwise they should suffer persecution for the cross of Christ.
+12 As many as desire to make a fair show in the flesh, they constrain you to be circumcised; only otherwise they should suffer persecution for the cross of Christ.
 
 13 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 

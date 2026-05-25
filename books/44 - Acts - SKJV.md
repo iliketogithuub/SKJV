@@ -6,11 +6,11 @@
 
 2 Until the day in which he was taken up, after that he through the Holy Spirit had given commandments to the apostles whom he had chosen:
 
-3 To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
+3 To whom also he showed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 
 4 And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, says he, you have heard of me.
 
-5 For John truly baptized with water; but you will be baptized with the Holy Spirit not many days hence.
+5 For John truly baptized with water; but you will be baptized with the Holy Spirit not many days from here.
 
 6 When they therefore were come together, they asked of him, saying, Lord, will you at this time restore again the kingdom to Israel?
 
@@ -32,7 +32,7 @@
 
 15 And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
 
-16 Men and brothers, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+16 Men and brothers, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spoke before concerning Judas, which was guide to them that took Jesus.
 
 17 For he was numbered with us, and had obtained part of this ministry.
 
@@ -48,7 +48,7 @@
 
 23 And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
 
-24 And they prayed, and said, you, Lord, which know the hearts of all men, shew whether of these two you have chosen,
+24 And they prayed, and said, you, Lord, which know the hearts of all men, show whether of these two you have chosen,
 
 25 That he may take part of this ministry and apostleship, from which Judas by sin fell, that he might go to his own place.
 
@@ -94,7 +94,7 @@
 
 18 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they will prophesy:
 
-19 And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
+19 And I will show wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
 
 20 The sun will be turned into darkness, and the moon into blood, before the great and notable day of the Lord come:
 
@@ -118,7 +118,7 @@
 
 30 Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
 
-31 He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
+31 He seeing this before spoke of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
 
 32 This Jesus has God raised up, whereof we all are witnesses.
 
@@ -188,9 +188,9 @@
 
 16 And his name through faith in his name has made this man strong, whom you see and know: yea, the faith which is by him has given him this perfect soundness in the presence of you all.
 
-17 And now, brothers, I wot that through ignorance you did it, as did also your rulers.
+17 And now, brothers, I know that through ignorance you did it, as did also your rulers.
 
-18 But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he has so fulfilled.
+18 But those things, which God before had showed by the mouth of all his prophets, that Christ should suffer, he has so fulfilled.
 
 19 Repent you therefore, and be converted, that your sins may be blotted out, when the times of refreshing will come from the presence of the Lord.
 
@@ -210,7 +210,7 @@
 
 ## Acts Chapter 4
 
-1 And as they spake to the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
+1 And as they spoke to the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 
 2 Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.
 
@@ -230,7 +230,7 @@
 
 10 Be it known to you all, and to all the people of Israel, that by the name of Jesus Christ of Nazars, whom you crucified, whom God raised from the dead, even by him does this man stand here before you whole.
 
-11 This is the stone which was set at nought of you builders, which is become the head of the corner.
+11 This is the stone which was set at nothing of you builders, which is become the head of the corner.
 
 12 Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
 
@@ -252,7 +252,7 @@
 
 21 So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done.
 
-22 For the man was above forty years old, on whom this miracle of healing was shewed.
+22 For the man was above forty years old, on whom this miracle of healing was showed.
 
 23 And being let go, they went to their own company, and reported all that the chief priests and elders had said to them.
 
@@ -270,7 +270,7 @@
 
 30 By stretching forth your hand to heal; and that signs and wonders may be done by the name of your holy child Jesus.
 
-31 And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Spirit, and they spake the word of God with boldness.
+31 And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Spirit, and they spoke the word of God with boldness.
 
 32 And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.
 
@@ -344,7 +344,7 @@
 
 29 Then Peter and the other apostles answered and said, We ought to obey God rather than men.
 
-30 The God of our fathers raised up Jesus, whom you slew and hanged on a tree.
+30 The God of our fathers raised up Jesus, whom you killed and hanged on a tree.
 
 31 Him has God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
@@ -356,11 +356,11 @@
 
 35 And said to them, you men of Israel, take heed to yourselves what you intend to do as touching these men.
 
-36 For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
+36 For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nothing.
 
 37 After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.
 
-38 And now I say to you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
+38 And now I say to you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nothing:
 
 39 But if it be of God, you cannot overthrow it; otherwise perhaps you be found even to fight against God.
 
@@ -390,7 +390,7 @@
 
 9 Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
 
-10 And they were not able to resist the wisdom and the spirit by which he spake.
+10 And they were not able to resist the wisdom and the spirit by which he spoke.
 
 11 Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
 
@@ -408,13 +408,13 @@
 
 2 And he said, Men, brothers, and fathers, listen; The God of glory appeared to our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 
-3 And said to him, Get you out of your country, and from your kindred, and come into the land which I will shew you.
+3 And said to him, Get you out of your country, and from your kindred, and come into the land which I will show you.
 
 4 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from from there, when his father was dead, he removed him into this land, in which you now dwell.
 
 5 And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
 
-6 And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and plead with them evil four hundred years.
+6 And God spoke on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and plead with them evil four hundred years.
 
 7 And the nation to whom they will be in bondage will I judge, said God: and after that will they come forth, and serve me in this place.
 
@@ -424,7 +424,7 @@
 
 10 And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
 
-11 Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.
+11 Now there came a famine over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.
 
 12 But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
 
@@ -454,7 +454,7 @@
 
 25 For he supposed his brothers would have understood how that God by his hand would deliver them: but they understood not.
 
-26 And the next day he shewed himself to them as they strove, and would have set them at one again, saying, Sirs, you are brothers; why do you wrong one to another?
+26 And the next day he showed himself to them as they strove, and would have set them at one again, saying, Sirs, you are brothers; why do you wrong one to another?
 
 27 But he that did his neighbour wrong thrust him away, saying, Who made you a ruler and a judge over us?
 
@@ -474,15 +474,15 @@
 
 35 This Moses whom they refused, saying, Who made you a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
 
-36 He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
+36 He brought them out, after that he had showed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
 
 37 This is that Moses, which said to the children of Israel, A prophet will the Lord your God raise up to you of your brothers, like to me; him will you hear.
 
-38 This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
+38 This is he, that was in the church in the wilderness with the angel which spoke to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
 
 39 To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
 
-40 Saying to Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
+40 Saying to Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we know not what is become of him.
 
 41 And they made a calf in those days, and offered sacrifice to the idol, and rejoiced in the works of their own hands.
 
@@ -506,7 +506,7 @@
 
 51 you stiffnecked and uncircumcised in heart and ears, you do always resist the Holy Spirit: as your fathers did, so do you.
 
-52 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom you have been now the betrayers and murderers:
+52 Which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One; of whom you have been now the betrayers and murderers:
 
 53 Who have received the law by the disposition of angels, and have not kept it.
 
@@ -536,7 +536,7 @@
 
 5 Then Philip went down to the city of Samaria, and preached Christ to them.
 
-6 And the people with one accord gave heed to those things which Philip spake, hearing and seeing the miracles which he did.
+6 And the people with one accord gave heed to those things which Philip spoke, hearing and seeing the miracles which he did.
 
 7 For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed.
 
@@ -576,7 +576,7 @@
 
 25 And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.
 
-26 And the angel of the Lord spake to Philip, saying, Arise, and go toward the south to the way that goes down from Jerusalem to Gaza, which is desert.
+26 And the angel of the Lord spoke to Philip, saying, Arise, and go toward the south to the way that goes down from Jerusalem to Gaza, which is desert.
 
 27 And he arose and went: and, look, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,
 
@@ -638,7 +638,7 @@
 
 15 But the Lord said to him, Go your way: for he is a chosen vessel to me, to bear my name before the Gentiles, and kings, and the children of Israel:
 
-16 For I will shew him how great things he must suffer for my name's sake.
+16 For I will show him how great things he must suffer for my name's sake.
 
 17 And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared to you in the way as you cam, has sent me, that you might receive your sight, and be filled with the Holy Spirit.
 
@@ -664,7 +664,7 @@
 
 28 And he was with them coming in and going out at Jerusalem.
 
-29 And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
+29 And he spoke boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
 
 30 Which when the brothers knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 
@@ -684,7 +684,7 @@
 
 38 And since as Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him that he would not delay to come to them.
 
-39 Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
+39 Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and showing the coats and garments which Dorcas made, while she was with them.
 
 40 But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.
 
@@ -708,7 +708,7 @@
 
 6 He lodgs with one Simon a tanner, whose house is by the sea side: he will tell you what you ought to do.
 
-7 And when the angel which spake to Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
+7 And when the angel which spoke to Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
 
 8 And when he had declared all these things to them, he sent them to Joppa.
 
@@ -724,7 +724,7 @@
 
 14 But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
 
-15 And the voice spake to him again the second time, What God has cleansed, that call not you common.
+15 And the voice spoke to him again the second time, What God has cleansed, that call not you common.
 
 16 This was done thrice: and the vessel was received up again into heaven.
 
@@ -750,7 +750,7 @@
 
 27 And as he talked with him, he went in, and found many that were come together.
 
-28 And he said to them, you know how that it is an unlawful thing for a man that is a Jew to keep company, or come to one of another nation; but God has shewed me that I should not call any man common or unclean.
+28 And he said to them, you know how that it is an unlawful thing for a man that is a Jew to keep company, or come to one of another nation; but God has showed me that I should not call any man common or unclean.
 
 29 Therefore came I to you without rebellion, as soon as I was sent for: I ask therefore for what intent you have sent for me?
 
@@ -772,9 +772,9 @@
 
 38 How God anointed Jesus of Nazars with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
 
-39 And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
+39 And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they killed and hanged on a tree:
 
-40 Him God raised up the third day, and shewed him openly;
+40 Him God raised up the third day, and showed him openly;
 
 41 Not to all the people, but to witnesses chosen before God, even to us, who did eat and drink with him after he rose from the dead.
 
@@ -782,7 +782,7 @@
 
 43 To him give all the prophets witness, that through his name whosoever believes in him will receive forgiveness of sins.
 
-44 While Peter yet spake these words, the Holy Spirit fell on all them which heard the word.
+44 While Peter yet spoke these words, the Holy Spirit fell on all them which heard the word.
 
 45 And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit.
 
@@ -818,7 +818,7 @@
 
 12 And the Spirit bade me go with them, nothing doubting. Moreover these six brothers accompanied me, and we entered into the man's house:
 
-13 And he shewed us how he had seen an angel in his house, which stood and said to him, Send men to Joppa, and call for Simon, whose surname is Peter;
+13 And he showed us how he had seen an angel in his house, which stood and said to him, Send men to Joppa, and call for Simon, whose surname is Peter;
 
 14 Who will tell you words, whereby you and all your house will be saved.
 
@@ -832,7 +832,7 @@
 
 19 Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but to the Jews only.
 
-20 And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake to the Grecians, preaching the Lord Jesus.
+20 And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spoke to the Grecians, preaching the Lord Jesus.
 
 21 And the hand of the Lord was with them: and a great number believed, and turned to the Lord.
 
@@ -848,7 +848,7 @@
 
 27 And in these days came prophets from Jerusalem to Antioch.
 
-28 And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
+28 And there stood up one of them named Agabus, and signified by the Spirit that there should be great famine throughout all the world: which came to pass in the days of Claudius Caesar.
 
 29 Then the disciples, every man according to his ability, determined to send relief to the brothers which dwelt in Judaea:
 
@@ -888,7 +888,7 @@
 
 16 But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
 
-17 But he, beckoning to them with the hand to hold their peace, declared to them how the Lord had brought him out of the prison. And he said, Go shew these things to James, and to the brothers. And he departed, and went into another place.
+17 But he, beckoning to them with the hand to hold their peace, declared to them how the Lord had brought him out of the prison. And he said, Go show these things to James, and to the brothers. And he departed, and went into another place.
 
 18 Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.
 
@@ -926,7 +926,7 @@
 
 9 Then Saul, (who also is called Paul,) filled with the Holy Spirit, set his eyes on him.
 
-10 And said, O full of all subtilty and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
+10 And said, O full of all cunning and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
 
 11 And now, look, the hand of the Lord is upon you, and you will be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 
@@ -996,7 +996,7 @@
 
 44 And the next sabbath day came almost the whole city together to hear the word of God.
 
-45 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
+45 But when the Jews saw the multitudes, they were filled with envy, and spoke against those things which were spoken by Paul, contradicting and blaspheming.
 
 46 Then Paul and Barnabas grew bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, look, we turn to the Gentiles.
 
@@ -1014,7 +1014,7 @@
 
 ## Acts Chapter 14
 
-1 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
+1 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spoke, that a great multitude both of the Jews and also of the Greeks believed.
 
 2 But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brothers.
 
@@ -1180,7 +1180,7 @@
 
 12 And from from there to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 
-13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake to the women which resorted there.
+13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spoke to the women which resorted there.
 
 14 And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended to the things which were spoken of Paul.
 
@@ -1188,7 +1188,7 @@
 
 16 And it came to pass, as we went to prayer, a certain young woman possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
 
-17 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew to us the way of salvation.
+17 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which show to us the way of salvation.
 
 18 And this did she many days. But Paul, being grieved, turned and said to the spirit, I command you in the name of Jesus Christ to come out of her. And he came out the same hour.
 
@@ -1218,7 +1218,7 @@
 
 31 And they said, Believe on the Lord Jesus Christ, and you will be saved, and your house.
 
-32 And they spake to him the word of the Lord, and to all that were in his house.
+32 And they spoke to him the word of the Lord, and to all that were in his house.
 
 33 And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, immediately.
 
@@ -1304,7 +1304,7 @@
 
 33 So Paul departed from among them.
 
-34 However certain men clave to him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
+34 However certain men clung to him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
 
 ## Acts Chapter 18
 
@@ -1324,7 +1324,7 @@
 
 8 And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
-9 Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not your peace:
+9 Then spoke the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not your peace:
 
 10 For I am with you, and no man will set on you to hurt you: for I have much people in this city.
 
@@ -1356,13 +1356,13 @@
 
 24 And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
 
-25 This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
+25 This man was instructed in the way of the Lord; and being fervent in the spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John.
 
 26 And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him to them, and expounded to him the way of God more perfectly.
 
 27 And when he was disposed to pass into Achaia, the brothers wrote, encouraging the disciples to receive him: who, when he was come, helped them much which had believed through grace:
 
-28 For he mightily convinced the Jews, and that publicly, shewing by the scriptures that Jesus was Christ.
+28 For he mightily convinced the Jews, and that publicly, showing by the scriptures that Jesus was Christ.
 
 ## Acts Chapter 19
 
@@ -1376,13 +1376,13 @@
 
 5 When they heard this, they were baptized in the name of the Lord Jesus.
 
-6 And when Paul had laid his hands upon them, the Holy Spirit came on them; and they spake with tongues, and prophesied.
+6 And when Paul had laid his hands upon them, the Holy Spirit came on them; and they spoke with tongues, and prophesied.
 
 7 And all the men were about twelve.
 
-8 And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.
+8 And he went into the synagogue, and spoke boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.
 
-9 But when various were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
+9 But when various were hardened, and believed not, but spoke evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
 
 10 And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 
@@ -1400,7 +1400,7 @@
 
 17 And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.
 
-18 And many that believed came, and confessed, and shewed their deeds.
+18 And many that believed came, and confessed, and showed their deeds.
 
 19 Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver.
 
@@ -1418,7 +1418,7 @@
 
 26 Moreover you see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul has persuaded and turned away much people, saying that they be no gods, which are made with hands:
 
-27 So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshipps.
+27 So that not only this our craft is in danger to be set at nothing; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshipps.
 
 28 And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.
 
@@ -1488,7 +1488,7 @@
 
 19 Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:
 
-20 And how I kept back nothing that was profitable to you, but have shewed you, and have taught you publicly, and from house to house,
+20 And how I kept back nothing that was profitable to you, but have showed you, and have taught you publicly, and from house to house,
 
 21 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 
@@ -1518,13 +1518,13 @@
 
 34 Yea, you yourselves know, that these hands have ministered to my necessities, and to them that were with me.
 
-35 I have shewed you all things, how that so labouring you ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+35 I have showed you all things, how that so labouring you ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 36 And when he had thus spoken, he kneeled down, and prayed with them all.
 
 37 And they all wept sore, and fell on Paul's neck, and kissed him,
 
-38 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him to the ship.
+38 Sorrowing most of all for the words which he spoke, that they should see his face no more. And they accompanied him to the ship.
 
 ## Acts Chapter 21
 
@@ -1600,19 +1600,19 @@
 
 36 For the multitude of the people followed after, crying, Away with him.
 
-37 And as Paul was to be led into the castle, he said to the chief captain, May I speak to you? Who said, Canst you speak Greek?
+37 And as Paul was to be led into the castle, he said to the chief captain, May I speak to you? Who said, Can you speak Greek?
 
 38 are not you that Egyptian, which before these days mad an uproar, and ledd out into the wilderness four thousand men that were murderers?
 
 39 But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I urge you, suffer me to speak to the people.
 
-40 And when he had given him licence, Paul stood on the stairs, and beckoned with the hand to the people. And when there was made a great silence, he spake to them in the Hebrew tongue, saying,
+40 And when he had given him licence, Paul stood on the stairs, and beckoned with the hand to the people. And when there was made a great silence, he spoke to them in the Hebrew tongue, saying,
 
 ## Acts Chapter 22
 
 1 Men, brothers, and fathers, hear you my defence which I make now to you.
 
-2 (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he says,)
+2 (And when they heard that he spoke in the Hebrew tongue to them, they kept the more silence: and he says,)
 
 3 I am truly a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
 
@@ -1626,7 +1626,7 @@
 
 8 And I answered, Who are you, Lord? And he said to me, I am Jesus of Nazars, whom you persecut.
 
-9 And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.
+9 And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spoke to me.
 
 10 And I said, What will I do, Lord? And the Lord said to me, Arise, and go into Damascus; and there it will be told you of all things which are appointed for you to do.
 
@@ -1648,9 +1648,9 @@
 
 19 And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on you:
 
-20 And when the blood of your martyr Stephen was shed, I also was standing by, and consenting to his death, and kept the clothing of them that slew him.
+20 And when the blood of your martyr Stephen was shed, I also was standing by, and consenting to his death, and kept the clothing of them that killed him.
 
-21 And he said to me, Depart: for I will send you far hence to the Gentiles.
+21 And he said to me, Depart: for I will send you far from here to the Gentiles.
 
 22 And they gave him audience to this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live.
 
@@ -1714,7 +1714,7 @@
 
 21 But do not you yield to them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from you.
 
-22 So the chief captain then let the young man depart, and charged him, See you tell no man that you have shewed these things to me.
+22 So the chief captain then let the young man depart, and charged him, See you tell no man that you have showed these things to me.
 
 23 And he called to him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;
 
@@ -1796,7 +1796,7 @@
 
 26 He hoped also that money should have been given him of Paul, that he might loose him: therefore he sent for him the oftener, and communed with him.
 
-27 But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.
+27 But after two years Porcius Festus came into Felix' room: and Felix, willing to show the Jews a pleasure, left Paul bound.
 
 ## Acts Chapter 25
 
@@ -1876,7 +1876,7 @@
 
 10 Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.
 
-11 And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even to strange cities.
+11 And I punished them often in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even to strange cities.
 
 12 Whereupon as I went to Damascus with authority and commission from the chief priests,
 
@@ -1894,15 +1894,15 @@
 
 19 Whereupon, O king Agrippa, I was not disobedient to the heavenly vision:
 
-20 But shewed first to them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
+20 But showed first to them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
 
 21 For these causes the Jews caught me in the temple, and went about to kill me.
 
 22 Having therefore obtained help of God, I continue to this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:
 
-23 That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light to the people, and to the Gentiles.
+23 That Christ should suffer, and that he should be the first that should rise from the dead, and should show light to the people, and to the Gentiles.
 
-24 And as he thus spake for himself, Festus said with a loud voice, Paul, you are beside thyself; much learning does make you mad.
+24 And as he thus spoke for himself, Festus said with a loud voice, Paul, you are beside thyself; much learning does make you mad.
 
 25 But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.
 
@@ -2014,7 +2014,7 @@
 
 1 And when they were escaped, then they knew that the island was called Melita.
 
-2 And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
+2 And the barbarous people showed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
 
 3 And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.
 
@@ -2048,11 +2048,11 @@
 
 18 Who, when they had examined me, would have let me go, because there was no cause of death in me.
 
-19 But when the Jews spake against it, I was constrained to appeal to Caesar; not that I had ought to accuse my nation of.
+19 But when the Jews spoke against it, I was constrained to appeal to Caesar; not that I had ought to accuse my nation of.
 
 20 For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.
 
-21 And they said to him, We neither received letters out of Judaea concerning you, neither any of the brothers that came shewed or spake any harm of you.
+21 And they said to him, We neither received letters out of Judaea concerning you, neither any of the brothers that came showed or spoke any harm of you.
 
 22 But we desire to hear of you what you think: for as concerning this sect, we know that every where it is spoken against.
 
@@ -2060,7 +2060,7 @@
 
 24 And some believed the things which were spoken, and some believed not.
 
-25 And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Spirit by Esaias the prophet to our fathers,
+25 And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spoke the Holy Spirit by Esaias the prophet to our fathers,
 
 26 Saying, Go to this people, and say, Hearing you will hear, and will not understand; and seeing you will see, and not perceive:
 

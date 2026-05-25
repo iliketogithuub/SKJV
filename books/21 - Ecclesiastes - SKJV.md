@@ -26,7 +26,7 @@
 
 12 I the Preacher was king over Israel in Jerusalem.
 
-13 And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised with it.
+13 And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this difficult labor has God given to the sons of man to be exercised with it.
 
 14 I have seen all the works that are done under the sun; and, look, all is vanity and vexation of spirit.
 
@@ -54,7 +54,7 @@
 
 7 I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
 
-8 I gathered me also silver and gold, and the special treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.
+8 I gathered me also silver and gold, and the special treasure of kings and of the provinces: I got me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.
 
 9 So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
 
@@ -76,7 +76,7 @@
 
 18 Yea, I hated all my labour which I had taken under the sun: because I should leave it to the man that will be after me.
 
-19 And who knows whether he will be a wise man or a fool? yet will he have rule over all my labour in which I have laboured, and in which I have shewed myself wise under the sun. This is also vanity.
+19 And who knows whether he will be a wise man or a fool? yet will he have rule over all my labour in which I have laboured, and in which I have showed myself wise under the sun. This is also vanity.
 
 20 Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
 
@@ -84,13 +84,13 @@
 
 22 For what has man of all his labour, and of the vexation of his heart, in which he has laboured under the sun?
 
-23 For all his days are sorrows, and his travail grief; yea, his heart takes not rest in the night. This is also vanity.
+23 For all his days are sorrows, and his labor grief; yea, his heart takes not rest in the night. This is also vanity.
 
 24 There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 
 25 For who can eat, or who else can hasten for this purpose, more than I?
 
-26 For God gives to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he gives travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
+26 For God gives to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he gives labor, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
 
 ## Ecclesiastes Chapter 3
 
@@ -112,7 +112,7 @@
 
 9 What profit has he that works in that in which he labours?
 
-10 I have seen the travail, which God has given to the sons of men to be exercised in it.
+10 I have seen the labor, which God has given to the sons of men to be exercised in it.
 
 11 He has made every thing beautiful in his time: also he has set the world in their heart, so that no man can find out the work that God makes from the beginning to the end.
 
@@ -146,15 +146,15 @@
 
 3 Yea, better is he than both they, which has not yet been, who has not seen the evil work that is done under the sun.
 
-4 Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
+4 Again, I considered all labor, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
 
 5 The fool folds his hands together, and eats his own flesh.
 
-6 Better is an handful with quietness, than both the hands full with travail and vexation of spirit.
+6 Better is an handful with quietness, than both the hands full with labor and vexation of spirit.
 
 7 Then I returned, and I saw vanity under the sun.
 
-8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.
+8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a difficult labor.
 
 9 Two are better than one; because they have a good reward for their labour.
 
@@ -200,7 +200,7 @@
 
 13 There is a sore evil which I have seen under the sun, namely, riches kept for the owners of it to their hurt.
 
-14 But those riches perish by evil travail: and he begetts a son, and there is nothing in his hand.
+14 But those riches perish by misfortune: and he begetts a son, and there is nothing in his hand.
 
 15 As he came forth of his mother's womb, naked will he return to go as he came, and will take nothing of his labour, which he may carry away in his hand.
 

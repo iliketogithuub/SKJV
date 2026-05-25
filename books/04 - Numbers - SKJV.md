@@ -2,7 +2,7 @@
 
 ## Numbers Chapter 1
 
-1 And the Lord spake to Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
+1 And the Lord spoke to Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 
 2 Take you the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;
 
@@ -112,7 +112,7 @@
 
 ## Numbers Chapter 2
 
-1 And the Lord spake to Moses and to Aaron, saying,
+1 And the Lord spoke to Moses and to Aaron, saying,
 
 2 Every man of the children of Israel will pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation will they pitch.
 
@@ -182,7 +182,7 @@
 
 ## Numbers Chapter 3
 
-1 These also are the generations of Aaron and Moses in the day that the Lord spake with Moses in mount Sinai.
+1 These also are the generations of Aaron and Moses in the day that the Lord spoke with Moses in mount Sinai.
 
 2 And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
@@ -190,7 +190,7 @@
 
 4 And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
 
-5 And the Lord spake to Moses, saying,
+5 And the Lord spoke to Moses, saying,
 
 6 Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister to him.
 
@@ -202,13 +202,13 @@
 
 10 And you will appoint Aaron and his sons, and they will wait on their priest's office: and the stranger that comes near will be put to death.
 
-11 And the Lord spake to Moses, saying,
+11 And the Lord spoke to Moses, saying,
 
-12 And I, look, I have taken the Levites from among the children of Israel instead of all the firstborn that opens the matrix among the children of Israel: therefore the Levites will be mine;
+12 And I, look, I have taken the Levites from among the children of Israel instead of all the firstborn that opens the womb among the children of Israel: therefore the Levites will be mine;
 
 13 Because all the firstborn are mine; for on the day that I struck all the firstborn in the land of Egypt I hallowed to me all the firstborn in Israel, both man and beast: mine will they be: I am the Lord.
 
-14 And the Lord spake to Moses in the wilderness of Sinai, saying,
+14 And the Lord spoke to Moses in the wilderness of Sinai, saying,
 
 15 Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward will you number them.
 
@@ -268,7 +268,7 @@
 
 43 And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.
 
-44 And the Lord spake to Moses, saying,
+44 And the Lord spoke to Moses, saying,
 
 45 Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites will be mine: I am the Lord.
 
@@ -286,7 +286,7 @@
 
 ## Numbers Chapter 4
 
-1 And the Lord spake to Moses and to Aaron, saying,
+1 And the Lord spoke to Moses and to Aaron, saying,
 
 2 Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,
 
@@ -318,7 +318,7 @@
 
 16 And to the office of Eleazar the son of Aaron the priest pertains the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that in it is, in the sanctuary, and in the vessels of it.
 
-17 And the Lord spake to Moses and to Aaron saying,
+17 And the Lord spoke to Moses and to Aaron saying,
 
 18 Cut you not off the tribe of the families of the Kohathites from among the Levites:
 
@@ -326,7 +326,7 @@
 
 20 But they will not go in to see when the holy things are covered, otherwise they die.
 
-21 And the Lord spake to Moses, saying,
+21 And the Lord spoke to Moses, saying,
 
 22 Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;
 
@@ -386,15 +386,15 @@
 
 ## Numbers Chapter 5
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Command the children of Israel, that they put out of the camp every leper, and every one that has an issue, and whosoever is defiled by the dead:
 
 3 Both male and female will you put out, without the camp will you put them; that they defile not their camps, in the midst whereof I dwell.
 
-4 And the children of Israel did so, and put them out without the camp: as the Lord spake to Moses, so did the children of Israel.
+4 And the children of Israel did so, and put them out without the camp: as the Lord spoke to Moses, so did the children of Israel.
 
-5 And the Lord spake to Moses, saying,
+5 And the Lord spoke to Moses, saying,
 
 6 Speak to the children of Israel, When a man or woman will commit any sin that men commit, to do a trespass against the Lord, and that person be guilty;
 
@@ -406,7 +406,7 @@
 
 10 And every man's hallowed things will be his: whatsoever any man gives the priest, it will be his.
 
-11 And the Lord spake to Moses, saying,
+11 And the Lord spoke to Moses, saying,
 
 12 Speak to the children of Israel, and say to them, If any man's wife go aside, and commit a trespass against him,
 
@@ -450,7 +450,7 @@
 
 ## Numbers Chapter 6
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and say to them, When either man or woman will separate themselves to vow a vow of a Nazarite, to separate themselves to the Lord:
 
@@ -492,7 +492,7 @@
 
 21 This is the law of the Nazarite who has vowed, and of his offering to the Lord for his separation, beside that that his hand will get: according to the vow which he vowed, so he must do after the law of his separation.
 
-22 And the Lord spake to Moses, saying,
+22 And the Lord spoke to Moses, saying,
 
 23 Speak to Aaron and to his sons, saying, On this wise you will bless the children of Israel, saying to them,
 
@@ -512,7 +512,7 @@
 
 3 And they brought their offering before the Lord, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
 
-4 And the Lord spake to Moses, saying,
+4 And the Lord spoke to Moses, saying,
 
 5 Take it of them, that they may be to do the service of the tabernacle of the congregation; and you will give them to the Levites, to every man according to his service.
 
@@ -682,19 +682,19 @@
 
 88 And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.
 
-89 And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking to him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake to him.
+89 And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking to him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spoke to him.
 
 ## Numbers Chapter 8
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to Aaron and say to him, When you lightest the lamps, the seven lamps will give light over against the candlestick.
 
 3 And Aaron did so; he lighted the lamps of it over against the candlestick, as the Lord commanded Moses.
 
-4 And this work of the candlestick was of beaten gold, to the shaft of it, to the flowers of it, was beaten work: according to the pattern which the Lord had shewed Moses, so he made the candlestick.
+4 And this work of the candlestick was of beaten gold, to the shaft of it, to the flowers of it, was beaten work: according to the pattern which the Lord had showed Moses, so he made the candlestick.
 
-5 And the Lord spake to Moses, saying,
+5 And the Lord spoke to Moses, saying,
 
 6 Take the Levites from among the children of Israel, and cleanse them.
 
@@ -730,7 +730,7 @@
 
 22 And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the Lord had commanded Moses concerning the Levites, so did they to them.
 
-23 And the Lord spake to Moses, saying,
+23 And the Lord spoke to Moses, saying,
 
 24 This is it that belongs to the Levites: from twenty and five years old and upward they will go in to wait upon the service of the tabernacle of the congregation:
 
@@ -740,13 +740,13 @@
 
 ## Numbers Chapter 9
 
-1 And the Lord spake to Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
+1 And the Lord spoke to Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 
 2 Let the children of Israel also keep the passover at his appointed season.
 
 3 In the fourteenth day of this month, at even, you will keep it in his appointed season: according to all the rites of it, and according to all the ceremonies of it, will you keep it.
 
-4 And Moses spake to the children of Israel, that they should keep the passover.
+4 And Moses spoke to the children of Israel, that they should keep the passover.
 
 5 And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the Lord commanded Moses, so did the children of Israel.
 
@@ -756,7 +756,7 @@
 
 8 And Moses said to them, Stand still, and I will hear what the Lord will command concerning you.
 
-9 And the Lord spake to Moses, saying,
+9 And the Lord spoke to Moses, saying,
 
 10 Speak to the children of Israel, saying, If any man of you or of your posterity will be unclean by reason of a dead body, or be in a journey afar off, yet he will keep the passover to the Lord.
 
@@ -788,7 +788,7 @@
 
 ## Numbers Chapter 10
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Make you two trumpets of silver; of a whole piece will you make them: that you may use them for the calling of the assembly, and for the journeying of the camps.
 
@@ -910,7 +910,7 @@
 
 24 And Moses went out, and told the people the words of the Lord, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.
 
-25 And the Lord came down in a cloud, and spake to him, and took of the spirit that was upon him, and gave it to the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease.
+25 And the Lord came down in a cloud, and spoke to him, and took of the spirit that was upon him, and gave it to the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease.
 
 26 But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out to the tabernacle: and they prophesied in the camp.
 
@@ -920,7 +920,7 @@
 
 29 And Moses said to him, Envi you for my sake? would God that all the Lord'S people were prophets, and that the Lord would put his spirit upon them!
 
-30 And Moses gat him into the camp, he and the elders of Israel.
+30 And Moses got him into the camp, he and the elders of Israel.
 
 31 And there went forth a wind from the Lord, and brought quails from the sea, and let them fall by the camp, as it were a day's journey on this side, and as it were a day's journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth.
 
@@ -934,13 +934,13 @@
 
 ## Numbers Chapter 12
 
-1 And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
+1 And Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 
 2 And they said, has the Lord indeed spoken only by Moses? has he not spoken also by us? And the Lord heard it.
 
 3 (Now the man Moses was very meek, above all the men which were upon the face of the earth.)
 
-4 And the Lord spake suddenly to Moses, and to Aaron, and to Miriam, Come out you three to the tabernacle of the congregation. And they three came out.
+4 And the Lord spoke suddenly to Moses, and to Aaron, and to Miriam, Come out you three to the tabernacle of the congregation. And they three came out.
 
 5 And the Lord came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 
@@ -948,7 +948,7 @@
 
 7 My servant Moses is not so, who is faithful in all mine house.
 
-8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord will he look: therefore then were you not afraid to speak against my servant Moses?
+8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the likeness of the Lord will he look: therefore then were you not afraid to speak against my servant Moses?
 
 9 And the anger of the Lord was kindled against them; and he departed.
 
@@ -968,7 +968,7 @@
 
 ## Numbers Chapter 13
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Send you men, that they may search the land of Canaan, which I give to the children of Israel: of every tribe of their fathers will you send a man, every one a ruler among them.
 
@@ -1018,7 +1018,7 @@
 
 25 And they returned from searching of the land after forty days.
 
-26 And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, to the wilderness of Paran, to Kadesh; and brought back word to them, and to all the congregation, and shewed them the fruit of the land.
+26 And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, to the wilderness of Paran, to Kadesh; and brought back word to them, and to all the congregation, and showed them the fruit of the land.
 
 27 And they told him, and said, We came to the land where you sent us, and surely it flows with milk and honey; and this is the fruit of it.
 
@@ -1048,7 +1048,7 @@
 
 6 And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:
 
-7 And they spake to all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.
+7 And they spoke to all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.
 
 8 If the Lord delight in us, then he will bring us into this land, and give it us; a land which flows with milk and honey.
 
@@ -1056,7 +1056,7 @@
 
 10 But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
 
-11 And the Lord said to Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
+11 And the Lord said to Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have showed among them?
 
 12 I will smite them with the pestilence, and disinherit them, and will make of you a greater nation and mightier than they.
 
@@ -1086,7 +1086,7 @@
 
 25 (Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.
 
-26 And the Lord spake to Moses and to Aaron, saying,
+26 And the Lord spoke to Moses and to Aaron, saying,
 
 27 How long will I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
 
@@ -1114,7 +1114,7 @@
 
 39 And Moses told these sayings to all the children of Israel: and the people mourned greatly.
 
-40 And they rose up early in the morning, and gat them up into the top of the mountain, saying, Look, we be here, and will go up to the place which the Lord has promised: for we have sinned.
+40 And they rose up early in the morning, and got them up into the top of the mountain, saying, Look, we be here, and will go up to the place which the Lord has promised: for we have sinned.
 
 41 And Moses said, therefore now do you transgress the commandment of the Lord? but it will not prosper.
 
@@ -1128,7 +1128,7 @@
 
 ## Numbers Chapter 15
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and say to them, When you be come into the land of your habitations, which I give to you,
 
@@ -1160,7 +1160,7 @@
 
 16 One law and one manner will be for you, and for the stranger that sojourns with you.
 
-17 And the Lord spake to Moses, saying,
+17 And the Lord spoke to Moses, saying,
 
 18 Speak to the children of Israel, and say to them, When you come into the land where I bring you,
 
@@ -1200,7 +1200,7 @@
 
 36 And all the congregation brought him without the camp, and stoned him with stones, and he died; as the Lord commanded Moses.
 
-37 And the Lord spake to Moses, saying,
+37 And the Lord spoke to Moses, saying,
 
 38 Speak to the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
 
@@ -1220,7 +1220,7 @@
 
 4 And when Moses heard it, he fell upon his face:
 
-5 And he spake to Korah and to all his company, saying, Even to morrow the Lord will shew who are his, and who is holy; and will cause him to come near to him: even him whom he has chosen will he cause to come near to him.
+5 And he spoke to Korah and to all his company, saying, Even to morrow the Lord will show who are his, and who is holy; and will cause him to come near to him: even him whom he has chosen will he cause to come near to him.
 
 6 This do; Take you censers, Korah, and all his company;
 
@@ -1250,21 +1250,21 @@
 
 19 And Korah gathered all the congregation against them to the door of the tabernacle of the congregation: and the glory of the Lord appeared to all the congregation.
 
-20 And the Lord spake to Moses and to Aaron, saying,
+20 And the Lord spoke to Moses and to Aaron, saying,
 
 21 Separate yourselves from among this congregation, that I may consume them in a moment.
 
 22 And they fell upon their faces, and said, O God, the God of the spirits of all flesh, will one man sin, and will you be furious with all the congregation?
 
-23 And the Lord spake to Moses, saying,
+23 And the Lord spoke to Moses, saying,
 
 24 Speak to the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
 
 25 And Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him.
 
-26 And he spake to the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of their's, otherwise you be consumed in all their sins.
+26 And he spoke to the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of their's, otherwise you be consumed in all their sins.
 
-27 So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
+27 So they got up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
 
 28 And Moses said, Hereby you will know that the Lord has sent me to do all these works; for I have not done them of mine own mind.
 
@@ -1272,7 +1272,7 @@
 
 30 But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain to them, and they go down quick into the pit; then you will understand that these men have provoked the Lord.
 
-31 And it came to pass, as he had made an end of speaking all these words, that the ground clave apart that was under them:
+31 And it came to pass, as he had made an end of speaking all these words, that the ground split apart that was under them:
 
 32 And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained to Korah, and all their goods.
 
@@ -1282,7 +1282,7 @@
 
 35 And there came out a fire from the Lord, and consumed the two hundred and fifty men that offered incense.
 
-36 And the Lord spake to Moses, saying,
+36 And the Lord spoke to Moses, saying,
 
 37 Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter you the fire yonder; for they are hallowed.
 
@@ -1298,7 +1298,7 @@
 
 43 And Moses and Aaron came before the tabernacle of the congregation.
 
-44 And the Lord spake to Moses, saying,
+44 And the Lord spoke to Moses, saying,
 
 45 Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.
 
@@ -1314,7 +1314,7 @@
 
 ## Numbers Chapter 17
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write you every man's name upon his rod.
 
@@ -1324,7 +1324,7 @@
 
 5 And it will come to pass, that the man's rod, whom I will choose, will blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
 
-6 And Moses spake to the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
+6 And Moses spoke to the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
 
 7 And Moses laid up the rods before the Lord in the tabernacle of witness.
 
@@ -1336,7 +1336,7 @@
 
 11 And Moses did so: as the Lord commanded him, so did he.
 
-12 And the children of Israel spake to Moses, saying, Look, we die, we perish, we all perish.
+12 And the children of Israel spoke to Moses, saying, Look, we die, we perish, we all perish.
 
 13 Whosoever comes any thing near to the tabernacle of the Lord will die: will we be consumed with dying?
 
@@ -1356,7 +1356,7 @@
 
 7 Therefore you and your sons with you will keep your priest's office for everything of the altar, and within the vail; and you will serve: I have given your priest's office to you as a service of gift: and the stranger that comes near will be put to death.
 
-8 And the Lord spake to Aaron, Look, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
+8 And the Lord spoke to Aaron, Look, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
 
 9 This will be your of the most holy things, reserved from the fire: every oblation of their's, every meat offering of their's, and every sin offering of their's, and every trespass offering of their's which they will render to me, will be most holy for you and for your sons.
 
@@ -1370,7 +1370,7 @@
 
 14 Every thing devoted in Israel will be your.
 
-15 Every thing that opens the matrix in all flesh, which they bring to the Lord, whether it be of men or beasts, will be your: nevertheless the firstborn of man will you surely redeem, and the firstling of unclean beasts will you redeem.
+15 Every thing that opens the womb in all flesh, which they bring to the Lord, whether it be of men or beasts, will be your: nevertheless the firstborn of man will you surely redeem, and the firstling of unclean beasts will you redeem.
 
 16 And those that are to be redeemed from a month old will you redeem, according to your estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs.
 
@@ -1380,7 +1380,7 @@
 
 19 All the heave offerings of the holy things, which the children of Israel offer to the Lord, have I given you, and your sons and your daughters with you, by a statute for ever: it is a covenant of salt for ever before the Lord to you and to your seed with you.
 
-20 And the Lord spake to Aaron, you will have no inheritance in their land, neither will you have any part among them: I am your part and your inheritance among the children of Israel.
+20 And the Lord spoke to Aaron, you will have no inheritance in their land, neither will you have any part among them: I am your part and your inheritance among the children of Israel.
 
 21 And, look, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation.
 
@@ -1390,7 +1390,7 @@
 
 24 But the tithes of the children of Israel, which they offer as an heave offering to the Lord, I have given to the Levites to inherit: therefore I have said to them, Among the children of Israel they will have no inheritance.
 
-25 And the Lord spake to Moses, saying,
+25 And the Lord spoke to Moses, saying,
 
 26 Thus speak to the Levites, and say to them, When you take of the children of Israel the tithes which I have given you from them for your inheritance, then you will offer up an heave offering of it for the Lord, even a tenth part of the tithe.
 
@@ -1408,7 +1408,7 @@
 
 ## Numbers Chapter 19
 
-1 And the Lord spake to Moses and to Aaron, saying,
+1 And the Lord spoke to Moses and to Aaron, saying,
 
 2 This is the ordinance of the law which the Lord has commanded, saying, Speak to the children of Israel, that they bring you a red heifer without spot, in which is no blemish, and upon which never came yoke:
 
@@ -1458,7 +1458,7 @@
 
 2 And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
 
-3 And the people chode with Moses, and spake, saying, Would God that we had died when our brothers died before the Lord!
+3 And the people chode with Moses, and spoke, saying, Would God that we had died when our brothers died before the Lord!
 
 4 And why have you brought up the congregation of the Lord into this wilderness, that we and our cattle should die there?
 
@@ -1466,7 +1466,7 @@
 
 6 And Moses and Aaron went from the presence of the assembly to the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the Lord appeared to them.
 
-7 And the Lord spake to Moses, saying,
+7 And the Lord spoke to Moses, saying,
 
 8 Take the rod, and gather you the assembly together, you, and Aaron your brother, and speak you to the rock before their eyes; and it will give forth his water, and you will bring forth to them water out of the rock: so you will give the congregation and their beasts drink.
 
@@ -1476,11 +1476,11 @@
 
 11 And Moses lifted up his hand, and with his rod he struck the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
 
-12 And the Lord spake to Moses and Aaron, Because you believed me not, to sanctify me in the eyes of the children of Israel, therefore you will not bring this congregation into the land which I have given them.
+12 And the Lord spoke to Moses and Aaron, Because you believed me not, to sanctify me in the eyes of the children of Israel, therefore you will not bring this congregation into the land which I have given them.
 
 13 This is the water of Meribah; because the children of Israel strove with the Lord, and he was sanctified in them.
 
-14 And Moses sent messengers from Kadesh to the king of Edom, Thus says your brother Israel, you know all the travail that has befallen us:
+14 And Moses sent messengers from Kadesh to the king of Edom, Thus says your brother Israel, you know all the labor that has befallen us:
 
 15 How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:
 
@@ -1498,7 +1498,7 @@
 
 22 And the children of Israel, even the whole congregation, journeyed from Kadesh, and came to mount Hor.
 
-23 And the Lord spake to Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
+23 And the Lord spoke to Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
 
 24 Aaron will be gathered to his people: for he will not enter into the land which I have given to the children of Israel, because you rebelled against my word at the water of Meribah.
 
@@ -1522,7 +1522,7 @@
 
 4 And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
 
-5 And the people spake against God, and against Moses, therefore have you brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loaths this light bread.
+5 And the people spoke against God, and against Moses, therefore have you brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loaths this light bread.
 
 6 And the Lord sent fiery serpents among the people, and they bit the people; and much people of Israel died.
 
@@ -1544,7 +1544,7 @@
 
 15 And at the stream of the brooks that goes down to the dwelling of Ar, and lis upon the border of Moab.
 
-16 And from from there they went to Beer: that is the well whereof the Lord spake to Moses, Gather the people together, and I will give them water.
+16 And from from there they went to Beer: that is the well whereof the Lord spoke to Moses, Gather the people together, and I will give them water.
 
 17 Then Israel sang this song, Spring up, O well; sing you to it:
 
@@ -1596,9 +1596,9 @@
 
 5 He sent messengers therefore to Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Look, there is a people come out from Egypt: look, they cover the face of the earth, and they abide over against me:
 
-6 Come now therefore, I pray you, curse me this people; for they are too mighty for me: perhaps I will prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom you bless is blessed, and he whom you cures is cursed.
+6 Come now therefore, I pray you, curse me this people; for they are too mighty for me: perhaps I will prevail, that we may smite them, and that I may drive them out of the land: for I know that he whom you bless is blessed, and he whom you cures is cursed.
 
-7 And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came to Balaam, and spake to him the words of Balak.
+7 And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came to Balaam, and spoke to him the words of Balak.
 
 8 And he said to them, Lodge here this night, and I will bring you word again, as the Lord will speak to me: and the princes of Moab stayed with Balaam.
 
@@ -1754,7 +1754,7 @@
 
 11 Therefore now flee you to your place: I thought to promote you to great honour; but, look, the Lord has kept you back from honour.
 
-12 And Balaam said to Balak, Spake I not also to your messengers which you sent to me, saying,
+12 And Balaam said to Balak, Spoke I not also to your messengers which you sent to me, saying,
 
 13 If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the Lord, to do either good or bad of mine own mind; but what the Lord says, that will I speak?
 
@@ -1802,7 +1802,7 @@
 
 9 And those that died in the plague were twenty and four thousand.
 
-10 And the Lord spake to Moses, saying,
+10 And the Lord spoke to Moses, saying,
 
 11 Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
 
@@ -1814,7 +1814,7 @@
 
 15 And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian.
 
-16 And the Lord spake to Moses, saying,
+16 And the Lord spoke to Moses, saying,
 
 17 Vex the Midianites, and smite them:
 
@@ -1822,11 +1822,11 @@
 
 ## Numbers Chapter 26
 
-1 And it came to pass after the plague, that the Lord spake to Moses and to Eleazar the son of Aaron the priest, saying,
+1 And it came to pass after the plague, that the Lord spoke to Moses and to Eleazar the son of Aaron the priest, saying,
 
 2 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel.
 
-3 And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,
+3 And Moses and Eleazar the priest spoke with them in the plains of Moab by Jordan near Jericho, saying,
 
 4 Take the sum of the people, from twenty years old and upward; as the Lord commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 
@@ -1924,7 +1924,7 @@
 
 51 These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
 
-52 And the Lord spake to Moses, saying,
+52 And the Lord spoke to Moses, saying,
 
 53 to these the land will be divided for an inheritance according to the number of names.
 
@@ -1964,7 +1964,7 @@
 
 5 And Moses brought their cause before the Lord.
 
-6 And the Lord spake to Moses, saying,
+6 And the Lord spoke to Moses, saying,
 
 7 The daughters of Zelophehad speak right: you will surely give them a possession of an inheritance among their father's brothers; and you will cause the inheritance of their father to pass to them.
 
@@ -1982,7 +1982,7 @@
 
 14 For you rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin.
 
-15 And Moses spake to the Lord, saying,
+15 And Moses spoke to the Lord, saying,
 
 16 Let the Lord, the God of the spirits of all flesh, set a man over the congregation,
 
@@ -2002,7 +2002,7 @@
 
 ## Numbers Chapter 28
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Command the children of Israel, and say to them, My offering, and my bread for my sacrifices made by fire, for a sweet savour to me, will you observe to offer to me in their due season.
 
@@ -2148,7 +2148,7 @@
 
 ## Numbers Chapter 30
 
-1 And Moses spake to the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord has commanded.
+1 And Moses spoke to the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord has commanded.
 
 2 If a man vow a vow to the Lord, or swear an oath to bind his soul with a bond; he will not break his word, he will do according to all that proceeds out of his mouth.
 
@@ -2182,11 +2182,11 @@
 
 ## Numbers Chapter 31
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Avenge the children of Israel of the Midianites: afterward will you be gathered to your people.
 
-3 And Moses spake to the people, saying, Arm some of yourselves to the war, and let them go against the Midianites, and avenge the Lord of Midian.
+3 And Moses spoke to the people, saying, Arm some of yourselves to the war, and let them go against the Midianites, and avenge the Lord of Midian.
 
 4 Of every tribe a thousand, throughout all the tribes of Israel, will you send to the war.
 
@@ -2194,9 +2194,9 @@
 
 6 And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand.
 
-7 And they warred against the Midianites, as the Lord commanded Moses; and they slew all the males.
+7 And they warred against the Midianites, as the Lord commanded Moses; and they killed all the males.
 
-8 And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
+8 And they killed the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they killed with the sword.
 
 9 And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods.
 
@@ -2230,7 +2230,7 @@
 
 24 And you will wash your clothes on the seventh day, and you will be clean, and afterward you will come into the camp.
 
-25 And the Lord spake to Moses, saying,
+25 And the Lord spoke to Moses, saying,
 
 26 Take the sum of the prey that was taken, both of man and of beast, you, and Eleazar the priest, and the chief fathers of the congregation:
 
@@ -2294,7 +2294,7 @@
 
 1 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, look, the place was a place for cattle;
 
-2 The children of Gad and the children of Reuben came and spake to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,
+2 The children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,
 
 3 Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 
@@ -2340,7 +2340,7 @@
 
 24 Build you cities for your little ones, and folds for your sheep; and do that which has proceeded out of your mouth.
 
-25 And the children of Gad and the children of Reuben spake to Moses, saying, your servants will do as my lord commands.
+25 And the children of Gad and the children of Reuben spoke to Moses, saying, your servants will do as my lord commands.
 
 26 Our little ones, our wives, our flocks, and all our cattle, will be there in the cities of Gilead:
 
@@ -2476,7 +2476,7 @@
 
 49 And they pitched by Jordan, from Bethjesimoth even to Abelshittim in the plains of Moab.
 
-50 And the Lord spake to Moses in the plains of Moab by Jordan near Jericho, saying,
+50 And the Lord spoke to Moses in the plains of Moab by Jordan near Jericho, saying,
 
 51 Speak to the children of Israel, and say to them, When you are passed over Jordan into the land of Canaan;
 
@@ -2492,7 +2492,7 @@
 
 ## Numbers Chapter 34
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Command the children of Israel, and say to them, When you come into the land of Canaan; (this is the land that will fall to you for an inheritance, even the land of Canaan with the coasts of it:)
 
@@ -2522,7 +2522,7 @@
 
 15 The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising.
 
-16 And the Lord spake to Moses, saying,
+16 And the Lord spoke to Moses, saying,
 
 17 These are the names of the men which will divide the land to you: Eleazar the priest, and Joshua the son of Nun.
 
@@ -2552,7 +2552,7 @@
 
 ## Numbers Chapter 35
 
-1 And the Lord spake to Moses in the plains of Moab by Jordan near Jericho, saying,
+1 And the Lord spoke to Moses in the plains of Moab by Jordan near Jericho, saying,
 
 2 Command the children of Israel, that they give to the Levites of the inheritance of their possession cities to dwell in; and you will give also to the Levites suburbs for the cities round about them.
 
@@ -2568,7 +2568,7 @@
 
 8 And the cities which you will give will be of the possession of the children of Israel: from them that have many you will give many; but from them that have few you will give few: every one will give of his cities to the Levites according to his inheritance which he inherits.
 
-9 And the Lord spake to Moses, saying,
+9 And the Lord spoke to Moses, saying,
 
 10 Speak to the children of Israel, and say to them, When you be come over Jordan into the land of Canaan;
 
@@ -2622,7 +2622,7 @@
 
 ## Numbers Chapter 36
 
-1 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
+1 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spoke before Moses, and before the princes, the chief fathers of the children of Israel:
 
 2 And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters.
 

@@ -30,7 +30,7 @@
 
 14 And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, in which they made them serve, was with rigour.
 
-15 And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
+15 And the king of Egypt spoke to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
 
 16 And he said, When you do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then you will kill him: but if it be a daughter, then she will live.
 
@@ -70,7 +70,7 @@
 
 11 And it came to pass in those days, when Moses was grown, that he went out to his brothers, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brothers.
 
-12 And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand.
+12 And he looked this way and that way, and when he saw that there was no man, he killed the Egyptian, and hid him in the sand.
 
 13 And when he went out the second day, look, two men of the Hebrews strove together: and he said to him that did the wrong, therefore smit you your fellow?
 
@@ -164,7 +164,7 @@
 
 9 And it will come to pass, if they will not believe also these two signs, neither listen to your voice, that you will take of the water of the river, and pour it upon the dry land: and the water which you tak out of the river will become blood upon the dry land.
 
-10 And Moses said to the Lord, O my Lord, I am not eloquent, neither heretofore, nor since you have spoken to your servant: but I am slow of speech, and of a slow tongue.
+10 And Moses said to the Lord, O my Lord, I am not eloquent, neither previously, nor since you have spoken to your servant: but I am slow of speech, and of a slow tongue.
 
 11 And the Lord said to him, Who has made man's mouth? or who makes the dumb, or deaf, or the seeing, or the blind? have not I the Lord?
 
@@ -204,7 +204,7 @@
 
 29 And Moses and Aaron went and gathered together all the elders of the children of Israel:
 
-30 And Aaron spake all the words which the Lord had spoken to Moses, and did the signs in the sight of the people.
+30 And Aaron spoke all the words which the Lord had spoken to Moses, and did the signs in the sight of the people.
 
 31 And the people believed: and when they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.
 
@@ -222,13 +222,13 @@
 
 6 And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,
 
-7 you will no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.
+7 you will no more give the people straw to make brick, as previously: let them go and gather straw for themselves.
 
-8 And the tale of the bricks, which they did make heretofore, you will lay upon them; you will not diminish ought of it: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
+8 And the tale of the bricks, which they did make previously, you will lay upon them; you will not diminish ought of it: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
 
 9 Let there more work be laid upon the men, that they may labour in it; and let them not regard vain words.
 
-10 And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus says Pharaoh, I will not give you straw.
+10 And the taskmasters of the people went out, and their officers, and they spoke to the people, saying, Thus says Pharaoh, I will not give you straw.
 
 11 Go you, get you straw where you can find it: yet not ought of your work will be diminished.
 
@@ -236,7 +236,7 @@
 
 13 And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw.
 
-14 And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, and demanded, therefore have you not fulfilled your task in making brick both yesterday and to day, as heretofore?
+14 And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, and demanded, therefore have you not fulfilled your task in making brick both yesterday and to day, as previously?
 
 15 Then the officers of the children of Israel came and cried to Pharaoh, saying, therefore deal you thus with your servants?
 
@@ -260,7 +260,7 @@
 
 1 Then the Lord said to Moses, Now will you see what I will do to Pharaoh: for with a strong hand will he let them go, and with a strong hand will he drive them out of his land.
 
-2 And God spake to Moses, and said to him, I am the Lord:
+2 And God spoke to Moses, and said to him, I am the Lord:
 
 3 And I appeared to Abraham, to Isaac, and to Jacob, by the name of God Almighty, but by my name Jehovah was I not known to them.
 
@@ -274,15 +274,15 @@
 
 8 And I will bring you in to the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the Lord.
 
-9 And Moses spake so to the children of Israel: but they listened not to Moses for anguish of spirit, and for cruel bondage.
+9 And Moses spoke so to the children of Israel: but they listened not to Moses for anguish of spirit, and for cruel bondage.
 
-10 And the Lord spake to Moses, saying,
+10 And the Lord spoke to Moses, saying,
 
 11 Go in, speak to Pharaoh king of Egypt, that he let the children of Israel go out of his land.
 
-12 And Moses spake before the Lord, saying, Look, the children of Israel have not listened to me; how then will Pharaoh hear me, who am of uncircumcised lips?
+12 And Moses spoke before the Lord, saying, Look, the children of Israel have not listened to me; how then will Pharaoh hear me, who am of uncircumcised lips?
 
-13 And the Lord spake to Moses and to Aaron, and gave them a charge to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
+13 And the Lord spoke to Moses and to Aaron, and gave them a charge to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
 
 14 These be the heads of their fathers' houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.
 
@@ -310,11 +310,11 @@
 
 26 These are that Aaron and Moses, to whom the Lord said, Bring out the children of Israel from the land of Egypt according to their armies.
 
-27 These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.
+27 These are they which spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.
 
-28 And it came to pass on the day when the Lord spake to Moses in the land of Egypt,
+28 And it came to pass on the day when the Lord spoke to Moses in the land of Egypt,
 
-29 That the Lord spake to Moses, saying, I am the Lord: speak you to Pharaoh king of Egypt all that I say to you.
+29 That the Lord spoke to Moses, saying, I am the Lord: speak you to Pharaoh king of Egypt all that I say to you.
 
 30 And Moses said before the Lord, Look, I am of uncircumcised lips, and how will Pharaoh listen to me?
 
@@ -332,11 +332,11 @@
 
 6 And Moses and Aaron did as the Lord commanded them, so did they.
 
-7 And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake to Pharaoh.
+7 And Moses was fourscore years old, and Aaron fourscore and three years old, when they spoke to Pharaoh.
 
-8 And the Lord spake to Moses and to Aaron, saying,
+8 And the Lord spoke to Moses and to Aaron, saying,
 
-9 When Pharaoh will speak to you, saying, Shew a miracle for you: then you will say to Aaron, Take your rod, and cast it before Pharaoh, and it will become a serpent.
+9 When Pharaoh will speak to you, saying, Show a miracle for you: then you will say to Aaron, Take your rod, and cast it before Pharaoh, and it will become a serpent.
 
 10 And Moses and Aaron went in to Pharaoh, and they did so as the Lord had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent.
 
@@ -356,7 +356,7 @@
 
 18 And the fish that is in the river will die, and the river will stink; and the Egyptians will lothe to drink of the water of the river.
 
-19 And the Lord spake to Moses, Say to Aaron, Take your rod, and stretch out your hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.
+19 And the Lord spoke to Moses, Say to Aaron, Take your rod, and stretch out your hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.
 
 20 And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and struck the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
 
@@ -372,7 +372,7 @@
 
 ## Exodus Chapter 8
 
-1 And the Lord spake to Moses, Go to Pharaoh, and say to him, Thus says the Lord, Let my people go, that they may serve me.
+1 And the Lord spoke to Moses, Go to Pharaoh, and say to him, Thus says the Lord, Let my people go, that they may serve me.
 
 2 And if you refuse to let them go, look, I will smite all your borders with frogs:
 
@@ -380,7 +380,7 @@
 
 4 And the frogs will come up both on you, and upon your people, and upon all your servants.
 
-5 And the Lord spake to Moses, Say to Aaron, Stretch forth your hand with your rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.
+5 And the Lord spoke to Moses, Say to Aaron, Stretch forth your hand with your rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.
 
 6 And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.
 
@@ -468,7 +468,7 @@
 
 15 For now I will stretch out my hand, that I may smite you and your people with pestilence; and you will be cut off from the earth.
 
-16 And in very deed for this cause have I raised you up, for to shew in you my power; and that my name may be declared throughout all the earth.
+16 And in very deed for this cause have I raised you up, for to show in you my power; and that my name may be declared throughout all the earth.
 
 17 As yet exalt you thyself against my people, that you will not let them go?
 
@@ -486,7 +486,7 @@
 
 24 So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
 
-25 And the hail struck throughout all the land of Egypt all that was in the field, both man and beast; and the hail struck every herb of the field, and brake every tree of the field.
+25 And the hail struck throughout all the land of Egypt all that was in the field, both man and beast; and the hail struck every herb of the field, and broke every tree of the field.
 
 26 Only in the land of Goshen, where the children of Israel were, was there no hail.
 
@@ -510,7 +510,7 @@
 
 ## Exodus Chapter 10
 
-1 And the Lord said to Moses, Go in to Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:
+1 And the Lord said to Moses, Go in to Pharaoh: for I have hardened his heart, and the heart of his servants, that I might show these my signs before him:
 
 2 And that you may tell in the ears of your son, and of your son's son, what things I have done in Egypt, and my signs which I have done among them; that you may know how that I am the Lord.
 
@@ -570,7 +570,7 @@
 
 ## Exodus Chapter 11
 
-1 And the Lord said to Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he will let you go, he will surely thrust you out hence altogether.
+1 And the Lord said to Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go from here: when he will let you go, he will surely thrust you out from here altogether.
 
 2 Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver and jewels of gold.
 
@@ -592,7 +592,7 @@
 
 ## Exodus Chapter 12
 
-1 And the Lord spake to Moses and Aaron in the land of Egypt saying,
+1 And the Lord spoke to Moses and Aaron in the land of Egypt saying,
 
 2 This month will be to you the beginning of months: it will be the first month of the year to you.
 
@@ -696,7 +696,7 @@
 
 ## Exodus Chapter 13
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Sanctify to me all the firstborn, whatsoever opens the womb among the children of Israel, both of man and of beast: it is mine.
 
@@ -710,7 +710,7 @@
 
 7 Unleavened bread will be eaten seven days; and there will no leavened bread be seen with you, neither will there be leaven seen with you in all your quarters.
 
-8 And you will shew your son in that day, saying, This is done because of that which the Lord did to me when I came forth out of Egypt.
+8 And you will show your son in that day, saying, This is done because of that which the Lord did to me when I came forth out of Egypt.
 
 9 And it will be for a sign to you upon your hand, and for a memorial between your eyes, that the Lord's law may be in your mouth: for with a strong hand has the Lord brought you out of Egypt.
 
@@ -718,13 +718,13 @@
 
 11 And it will be when the Lord will bring you into the land of the Canaanites, as he sware to you and to your fathers, and will give it you,
 
-12 That you will set apart to the Lord all that opens the matrix, and every firstling that comes of a beast which you have; the males will be the Lord's.
+12 That you will set apart to the Lord all that opens the womb, and every firstling that comes of a beast which you have; the males will be the Lord's.
 
 13 And every firstling of an ass you will redeem with a lamb; and if you will not redeem it, then you will break his neck: and all the firstborn of man among your children will you redeem.
 
 14 And it will be when your son asks you in time to come, saying, What is this? that you will say to him, By strength of hand the Lord brought us out from Egypt, from the house of bondage:
 
-15 And it came to pass, when Pharaoh would hardly let us go, that the Lord slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the Lord all that opens the matrix, being males; but all the firstborn of my children I redeem.
+15 And it came to pass, when Pharaoh would hardly let us go, that the Lord killed all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the Lord all that opens the womb, being males; but all the firstborn of my children I redeem.
 
 16 And it will be for a token upon your hand, and for frontlets between your eyes: for by strength of hand the Lord brought us forth out of Egypt.
 
@@ -732,7 +732,7 @@
 
 18 But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
 
-19 And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and you will carry up my bones away hence with you.
+19 And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and you will carry up my bones away from here with you.
 
 20 And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
 
@@ -742,7 +742,7 @@
 
 ## Exodus Chapter 14
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it will you encamp by the sea.
 
@@ -766,7 +766,7 @@
 
 12 Is not this the word that we did tell you in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.
 
-13 And Moses said to the people, Fear you not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom you have seen to day, you will see them again no more for ever.
+13 And Moses said to the people, Fear you not, stand still, and see the salvation of the Lord, which he will show to you to day: for the Egyptians whom you have seen to day, you will see them again no more for ever.
 
 14 The Lord will fight for you, and you will hold your peace.
 
@@ -806,7 +806,7 @@
 
 ## Exodus Chapter 15
 
-1 Then sang Moses and the children of Israel this song to the Lord, and spake, saying, I will sing to the Lord, for he has triumphed gloriously: the horse and his rider has he thrown into the sea.
+1 Then sang Moses and the children of Israel this song to the Lord, and spoke, saying, I will sing to the Lord, for he has triumphed gloriously: the horse and his rider has he thrown into the sea.
 
 2 The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.
 
@@ -854,7 +854,7 @@
 
 24 And the people murmured against Moses, saying, What will we drink?
 
-25 And he cried to the Lord; and the Lord shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
+25 And he cried to the Lord; and the Lord showed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
 
 26 And said, If you will diligently listen to the voice of the Lord your God, and will do that which is right in his sight, and will give ear to his commandments, and keep all his statutes, I will put none of these diseases upon you, which I have brought upon the Egyptians: for I am the Lord that heals you.
 
@@ -878,11 +878,11 @@
 
 8 And Moses said, This will be, when the Lord will give you in the evening flesh to eat, and in the morning bread to the full; for that the Lord hears your murmurings which you murmur against him: and what are we? your murmurings are not against us, but against the Lord.
 
-9 And Moses spake to Aaron, Say to all the congregation of the children of Israel, Come near before the Lord: for he has heard your murmurings.
+9 And Moses spoke to Aaron, Say to all the congregation of the children of Israel, Come near before the Lord: for he has heard your murmurings.
 
-10 And it came to pass, as Aaron spake to the whole congregation of the children of Israel, that they looked toward the wilderness, and, look, the glory of the Lord appeared in the cloud.
+10 And it came to pass, as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and, look, the glory of the Lord appeared in the cloud.
 
-11 And the Lord spake to Moses, saying,
+11 And the Lord spoke to Moses, saying,
 
 12 I have heard the murmurings of the children of Israel: speak to them, saying, At even you will eat flesh, and in the morning you will be filled with bread; and you will know that I am the Lord your God.
 
@@ -984,7 +984,7 @@
 
 7 And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.
 
-8 And Moses told his father in law all that the Lord had done to Pharaoh and to the Egyptians for Israel's sake, and all the travail that had come upon them by the way, and how the Lord delivered them.
+8 And Moses told his father in law all that the Lord had done to Pharaoh and to the Egyptians for Israel's sake, and all the labor that had come upon them by the way, and how the Lord delivered them.
 
 9 And Jethro rejoiced for all the goodness which the Lord had done to Israel, whom he had delivered out of the hand of the Egyptians.
 
@@ -1008,7 +1008,7 @@
 
 19 Listen now to my voice, I will give you counsel, and God will be with you: Be you for the people to God-ward, that you may bring the causes to God:
 
-20 And you will teach them ordinances and laws, and will shew them the way in which they must walk, and the work that they must do.
+20 And you will teach them ordinances and laws, and will show them the way in which they must walk, and the work that they must do.
 
 21 Moreover you will provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
 
@@ -1062,7 +1062,7 @@
 
 18 And mount Sinai was altogether on a smoke, because the Lord descended upon it in fire: and the smoke of it ascended as the smoke of a furnace, and the whole mount quaked greatly.
 
-19 And when the voice of the trumpet sounded long, and grew louder and louder, Moses spake, and God answered him by a voice.
+19 And when the voice of the trumpet sounded long, and grew louder and louder, Moses spoke, and God answered him by a voice.
 
 20 And the Lord came down upon mount Sinai, on the top of the mount: and the Lord called Moses up to the top of the mount; and Moses went up.
 
@@ -1074,11 +1074,11 @@
 
 24 And the Lord said to him, Away, get you down, and you will come up, you, and Aaron with you: but let not the priests and the people break through to come up to the Lord, otherwise he break forth upon them.
 
-25 So Moses went down to the people, and spake to them.
+25 So Moses went down to the people, and spoke to them.
 
 ## Exodus Chapter 20
 
-1 And God spake all these words, saying,
+1 And God spoke all these words, saying,
 
 2 I am the Lord your God, which have brought you out of the land of Egypt, out of the house of bondage.
 
@@ -1088,7 +1088,7 @@
 
 5 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me;
 
-6 And shewing mercy to thousands of them that love me, and keep my commandments.
+6 And showing mercy to thousands of them that love me, and keep my commandments.
 
 7 you will not take the name of the Lord your God in vain; for the Lord will not hold him guiltless that takes his name in vain.
 
@@ -1372,11 +1372,11 @@
 
 17 And the sight of the glory of the Lord was like devouring fire on the top of the mount in the eyes of the children of Israel.
 
-18 And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
+18 And Moses went into the midst of the cloud, and got him up into the mount: and Moses was in the mount forty days and forty nights.
 
 ## Exodus Chapter 25
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, that they bring me an offering: of every man that gives it willingly with his heart you will take my offering.
 
@@ -1392,7 +1392,7 @@
 
 8 And let them make me a sanctuary; that I may dwell among them.
 
-9 According to all that I shew you, after the pattern of the tabernacle, and the pattern of all the instruments of it, even so will you make it.
+9 According to all that I show you, after the pattern of the tabernacle, and the pattern of all the instruments of it, even so will you make it.
 
 10 And they will make an ark of shittim wood: two cubits and a half will be the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it.
 
@@ -1454,7 +1454,7 @@
 
 39 Of a talent of pure gold will he make it, with all these vessels.
 
-40 And look that you make them after their pattern, which was shewed you in the mount.
+40 And look that you make them after their pattern, which was showed you in the mount.
 
 ## Exodus Chapter 26
 
@@ -1516,7 +1516,7 @@
 
 29 And you will overlay the boards with gold, and make their rings of gold for places for the bars: and you will overlay the bars with gold.
 
-30 And you will rear up the tabernacle according to the fashion of it which was shewed you in the mount.
+30 And you will rear up the tabernacle according to the fashion of it which was showed you in the mount.
 
 31 And you will make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims will it be made:
 
@@ -1548,7 +1548,7 @@
 
 7 And the staves will be put into the rings, and the staves will be upon the two sides of the altar, to bear it.
 
-8 Hollow with boards will you make it: as it was shewed you in the mount, so will they make it.
+8 Hollow with boards will you make it: as it was showed you in the mount, so will they make it.
 
 9 And you will make the court of the tabernacle: for the south side southward there will be hangings for the court of fine twined linen of an hundred cubits long for one side:
 
@@ -1780,7 +1780,7 @@
 
 10 And Aaron will make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year will he make atonement upon it throughout your generations: it is most holy to the Lord.
 
-11 And the Lord spake to Moses, saying,
+11 And the Lord spoke to Moses, saying,
 
 12 When you tak the sum of the children of Israel after their number, then will they give every man a ransom for his soul to the Lord, when you number them; that there be no plague among them, when you number them.
 
@@ -1792,7 +1792,7 @@
 
 16 And you will take the atonement money of the children of Israel, and will appoint it for the service of the tabernacle of the congregation; that it may be a memorial to the children of Israel before the Lord, to make an atonement for your souls.
 
-17 And the Lord spake to Moses, saying,
+17 And the Lord spoke to Moses, saying,
 
 18 you will also make a laver of brass, and his foot also of brass, to wash also: and you will put it between the tabernacle of the congregation and the altar, and you will put water in it.
 
@@ -1802,7 +1802,7 @@
 
 21 So they will wash their hands and their feet, that they die not: and it will be a statute for ever to them, even to him and to his seed throughout their generations.
 
-22 Moreover the Lord spake to Moses, saying,
+22 Moreover the Lord spoke to Moses, saying,
 
 23 Take you also to you principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,
 
@@ -1838,7 +1838,7 @@
 
 ## Exodus Chapter 31
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 
@@ -1860,7 +1860,7 @@
 
 11 And the anointing oil, and sweet incense for the holy place: according to all that I have commanded you will they do.
 
-12 And the Lord spake to Moses, saying,
+12 And the Lord spoke to Moses, saying,
 
 13 Speak you also to the children of Israel, saying, Truly my sabbaths you will keep: for it is a sign between me and you throughout your generations; that you may know that I am the Lord that does sanctify you.
 
@@ -1876,11 +1876,11 @@
 
 ## Exodus Chapter 32
 
-1 And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together to Aaron, and said to him, Up, make us gods, which will go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
+1 And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together to Aaron, and said to him, Up, make us gods, which will go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we know not what is become of him.
 
 2 And Aaron said to them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them to me.
 
-3 And all the people brake off the golden earrings which were in their ears, and brought them to Aaron.
+3 And all the people broke off the golden earrings which were in their ears, and brought them to Aaron.
 
 4 And he received them at their hand, and fashioned it with a graving tool, after he had made it a melted calf: and they said, These be your gods, O Israel, which brought you up out of the land of Egypt.
 
@@ -1912,7 +1912,7 @@
 
 18 And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.
 
-19 And it came to pass, as soon as he came near to the camp, that he saw the calf, and the dancing: and Moses' anger grew hot, and he cast the tables out of his hands, and brake them beneath the mount.
+19 And it came to pass, as soon as he came near to the camp, that he saw the calf, and the dancing: and Moses' anger grew hot, and he cast the tables out of his hands, and broke them beneath the mount.
 
 20 And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and scattered it upon the water, and made the children of Israel drink of it.
 
@@ -1920,7 +1920,7 @@
 
 22 And Aaron said, Let not the anger of my lord wax hot: you know the people, that they are set on mischief.
 
-23 For they said to me, Make us gods, which will go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
+23 For they said to me, Make us gods, which will go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we know not what is become of him.
 
 24 And I said to them, Whosoever has any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
 
@@ -1948,7 +1948,7 @@
 
 ## Exodus Chapter 33
 
-1 And the Lord said to Moses, Depart, and go up hence, you and the people which you have brought up out of the land of Egypt, to the land which I sware to Abraham, to Isaac, and to Jacob, saying, to your seed will I give it:
+1 And the Lord said to Moses, Depart, and go up from here, you and the people which you have brought up out of the land of Egypt, to the land which I sware to Abraham, to Isaac, and to Jacob, saying, to your seed will I give it:
 
 2 And I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
 
@@ -1968,23 +1968,23 @@
 
 10 And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door.
 
-11 And the Lord spake to Moses face to face, as a man speaks to his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
+11 And the Lord spoke to Moses face to face, as a man speaks to his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 
 12 And Moses said to the Lord, See, you say to me, Bring up this people: and you have not let me know whom you will send with me. Yet you have said, I know you by name, and you have also found grace in my sight.
 
-13 Now therefore, I pray you, if I have found grace in your sight, shew me now your way, that I may know you, that I may find grace in your sight: and consider that this nation is your people.
+13 Now therefore, I pray you, if I have found grace in your sight, show me now your way, that I may know you, that I may find grace in your sight: and consider that this nation is your people.
 
 14 And he said, My presence will go with you, and I will give you rest.
 
-15 And he said to him, If your presence go not with me, carry us not up hence.
+15 And he said to him, If your presence go not with me, carry us not up from here.
 
 16 For in which will it be known here that I and your people have found grace in your sight? is it not in that you go with us? so will we be separated, I and your people, from all the people that are upon the face of the earth.
 
 17 And the Lord said to Moses, I will do this thing also that you have spoken: for you have found grace in my sight, and I know you by name.
 
-18 And he said, I urge you, shew me your glory.
+18 And he said, I urge you, show me your glory.
 
-19 And he said, I will make all my goodness pass before you, and I will proclaim the name of the Lord before you; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.
+19 And he said, I will make all my goodness pass before you, and I will proclaim the name of the Lord before you; and will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.
 
 20 And he said, you can not see my face: for there will no man see me, and live.
 
@@ -2032,7 +2032,7 @@
 
 18 The feast of unleavened bread will you keep. Seven days you will eat unleavened bread, as I commanded you, in the time of the month Abib: for in the month Abib you cam out from Egypt.
 
-19 All that opens the matrix is mine; and every firstling among your cattle, whether ox or sheep, that is male.
+19 All that opens the womb is mine; and every firstling among your cattle, whether ox or sheep, that is male.
 
 20 But the firstling of an ass you will redeem with a lamb: and if you redeem him not, then will you break his neck. All the firstborn of your sons you will redeem. And none will appear before me empty.
 
@@ -2062,7 +2062,7 @@
 
 33 And till Moses had done speaking with them, he put a vail on his face.
 
-34 But when Moses went in before the Lord to speak with him, he took the vail off, until he came out. And he came out, and spake to the children of Israel that which he was commanded.
+34 But when Moses went in before the Lord to speak with him, he took the vail off, until he came out. And he came out, and spoke to the children of Israel that which he was commanded.
 
 35 And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 
@@ -2074,7 +2074,7 @@
 
 3 you will kindle no fire throughout your habitations upon the sabbath day.
 
-4 And Moses spake to all the congregation of the children of Israel, saying, This is the thing which the Lord commanded, saying,
+4 And Moses spoke to all the congregation of the children of Israel, saying, This is the thing which the Lord commanded, saying,
 
 5 Take you from among you an offering to the Lord: whosoever is of a willing heart, let him bring it, an offering of the Lord; gold, and silver, and brass,
 
@@ -2148,7 +2148,7 @@
 
 4 And all the wise men, who worked all the work of the sanctuary, came every man from his work which they made;
 
-5 And they spake to Moses, saying, The people bring much more than enough for the service of the work, which the Lord commanded to make.
+5 And they spoke to Moses, saying, The people bring much more than enough for the service of the work, which the Lord commanded to make.
 
 6 And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
 
@@ -2430,7 +2430,7 @@
 
 ## Exodus Chapter 40
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 On the first day of the first month will you set up the tabernacle of the tent of the congregation.
 

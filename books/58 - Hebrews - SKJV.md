@@ -2,7 +2,7 @@
 
 ## Hebrews Chapter 1
 
-1 God, who at various times and in various manners spake in time past to the fathers by the prophets,
+1 God, who at various times and in various manners spoke in time past to the fathers by the prophets,
 
 2 has in these last days spoken to us by his Son, whom he has appointed heir of all things, by whom also he made the worlds;
 
@@ -116,7 +116,7 @@
 
 3 For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they will enter into my rest: although the works were finished from the foundation of the world.
 
-4 For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
+4 For he spoke in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
 
 5 And in this place again, If they will enter into my rest.
 
@@ -186,15 +186,15 @@
 
 6 If they will fall away, to renew them again to repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
 
-7 For the earth which drinks in the rain that comes oft upon it, and brings forth herbs meet for them by whom it is dressed, receives blessing from God:
+7 For the earth which drinks in the rain that comes often upon it, and brings forth herbs meet for them by whom it is dressed, receives blessing from God:
 
 8 But that which bears thorns and briers is rejected, and is near to cursing; whose end is to be burned.
 
 9 But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
 
-10 For God is not unrighteous to forget your work and labour of love, which you have shewed toward his name, in that you have ministered to the saints, and do minister.
+10 For God is not unrighteous to forget your work and labour of love, which you have showed toward his name, in that you have ministered to the saints, and do minister.
 
-11 And we desire that every one of you do shew the same diligence to the full assurance of hope to the end:
+11 And we desire that every one of you do show the same diligence to the full assurance of hope to the end:
 
 12 That you be not slothful, but followers of them who through faith and patience inherit the promises.
 
@@ -206,7 +206,7 @@
 
 16 For men truly swear by the greater: and an oath for confirmation is to them an end of all strife.
 
-17 In which God, willing more abundantly to shew to the heirs of promise the immutability of his counsel, confirmed it by an oath:
+17 In which God, willing more abundantly to show to the heirs of promise the immutability of his counsel, confirmed it by an oath:
 
 18 That by two immutable things, in which it was impossible for God to lie, we might have a strong comfort, who have fled for refuge to lay hold upon the hope set before us:
 
@@ -242,9 +242,9 @@
 
 13 For he of whom these things are spoken pertains to another tribe, of which no man gave attendance at the altar.
 
-14 For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
+14 For it is evident that our Lord sprang out of Juda; of which tribe Moses spoke nothing concerning priesthood.
 
-15 And it is yet far more evident: for that after the similitude of Melchisedec there arises another priest,
+15 And it is yet far more evident: for that after the likeness of Melchisedec there arises another priest,
 
 16 Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 
@@ -282,7 +282,7 @@
 
 4 For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
 
-5 Who serve to the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, says he, that you make all things according to the pattern shewed to you in the mount.
+5 Who serve to the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, says he, that you make all things according to the pattern showed to you in the mount.
 
 6 But now has he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 
@@ -374,7 +374,7 @@
 
 7 Then said I, Look, I come (in the volume of the book it is written of me,) to do your will, O God.
 
-8 Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither hadst pleasure in it; which are offered by the law;
+8 Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither had pleasure in it; which are offered by the law;
 
 9 Then said he, Look, I come to do your will, O God. He takes away the first, that he may establish the second.
 
@@ -570,7 +570,7 @@
 
 24 And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel.
 
-25 See that you refuse not him that speaks. For if they escaped not who refused him that spake on earth, much more will not we escape, if we turn away from him that speaks from heaven:
+25 See that you refuse not him that speaks. For if they escaped not who refused him that spoke on earth, much more will not we escape, if we turn away from him that speaks from heaven:
 
 26 Whose voice then shook the earth: but now he has promised, saying, Yet once more I shake not the earth only, but also heaven.
 

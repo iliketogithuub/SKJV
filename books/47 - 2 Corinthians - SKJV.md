@@ -272,7 +272,7 @@
 
 13 Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
 
-14 For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
+14 For if I have boasted any thing to him of you, I am not ashamed; but as we spoke all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
 
 15 And his inward affection is more abundant toward you, whilst he remembers the obedience of you all, how with fear and trembling you received him.
 
@@ -326,7 +326,7 @@
 
 23 Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brothers be enquired of, they are the messengers of the churches, and the glory of Christ.
 
-24 therefore shew you to them, and before the churches, the proof of your love, and of our boasting on your behalf.
+24 therefore show you to them, and before the churches, the proof of your love, and of our boasting on your behalf.
 
 ## 2 Corinthians Chapter 9
 
@@ -404,7 +404,7 @@
 
 2 For I am jealous over you with godly jealousy: for I have engaged you to one husband, that I may present you as a chaste virgin to Christ.
 
-3 But I fear, otherwise by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
+3 But I fear, otherwise by any means, as the serpent beguiled Eve through his cunning, so your minds should be corrupted from the simplicity that is in Christ.
 
 4 For if he that comes preachs another Jesus, whom we have not preached, or if you receive another spirit, which you have not received, or another gospel, which you have not accepted, you might well bear with him.
 
@@ -444,7 +444,7 @@
 
 22 Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 
-23 Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
+23 Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths often.
 
 24 Of the Jews five times received I forty stripes save one.
 
@@ -514,7 +514,7 @@
 
 1 This is the third time I am coming to you. In the mouth of two or three witnesses will every word be established.
 
-2 I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
+2 I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which previously have sinned, and to all other, that, if I come again, I will not spare:
 
 3 Since you seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 

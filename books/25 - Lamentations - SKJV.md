@@ -54,7 +54,7 @@
 
 3 He has cut off in his fierce anger all the horn of Israel: he has drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devours round about.
 
-4 He has bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
+4 He has bent his bow like an enemy: he stood with his right hand as an adversary, and killed all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 
 5 The Lord was as an enemy: he has swallowed up Israel, he has swallowed up all her palaces: he has destroyed his strong holds, and has increased in the daughter of Judah mourning and lamentation.
 
@@ -102,7 +102,7 @@
 
 4 My flesh and my skin has he made old; he has broken my bones.
 
-5 He has builded against me, and compassed me with gall and travail.
+5 He has builded against me, and compassed me with bitterness and hardship.
 
 6 He has set me in dark places, as they that be dead of old.
 
@@ -290,7 +290,7 @@
 
 8 Servants have ruled over us: there is none that does deliver us out of their hand.
 
-9 We gat our bread with the peril of our lives because of the sword of the wilderness.
+9 We got our bread with the peril of our lives because of the sword of the wilderness.
 
 10 Our skin was black like an oven because of the terrible famine.
 

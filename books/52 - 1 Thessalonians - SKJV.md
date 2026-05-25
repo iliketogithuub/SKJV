@@ -18,7 +18,7 @@
 
 8 For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.
 
-9 For they themselves shew of us what manner of entering in we had to you, and how you turned to God from idols to serve the living and true God;
+9 For they themselves show of us what manner of entering in we had to you, and how you turned to God from idols to serve the living and true God;
 
 10 And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.
 
@@ -40,7 +40,7 @@
 
 8 So being affectionately desirous of you, we were willing to have imparted to you, not the gospel of God only, but also our own souls, because you were dear to us.
 
-9 For you remember, brothers, our labour and travail: for labouring night and day, because we would not be chargeable to any of you, we preached to you the gospel of God.
+9 For you remember, brothers, our labor and hardship: for labouring night and day, because we would not be chargeable to any of you, we preached to you the gospel of God.
 
 10 you are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:
 
@@ -136,7 +136,7 @@
 
 2 For yourselves know perfectly that the day of the Lord so comes as a thief in the night.
 
-3 For when they will say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they will not escape.
+3 For when they will say, Peace and safety; then sudden destruction comes upon them, as labor upon a woman with child; and they will not escape.
 
 4 But you, brothers, are not in darkness, that that day should overtake you as a thief.
 

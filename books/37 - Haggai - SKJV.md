@@ -26,7 +26,7 @@
 
 12 Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.
 
-13 Then spake Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, says the Lord.
+13 Then spoke Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, says the Lord.
 
 14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
 

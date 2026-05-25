@@ -30,7 +30,7 @@
 
 14 And the Word was made flesh, and dwelt among us, (and we saw his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
-15 John bare witness of him, and cried, saying, This was he of whom I spake, He that comes after me is preferred before me: for he was before me.
+15 John bare witness of him, and cried, saying, This was he of whom I spoke, He that comes after me is preferred before me: for he was before me.
 
 16 And of his fulness have all we received, and grace for grace.
 
@@ -136,17 +136,17 @@
 
 15 And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
 
-16 And said to them that sold doves, Take these things hence; make not my Father's house an house of merchandise.
+16 And said to them that sold doves, Take these things from here; make not my Father's house an house of merchandise.
 
 17 And his disciples remembered that it was written, The zeal of your house has eaten me up.
 
-18 Then answered the Jews and said to him, What sign shew you to us, seeing that you do these things?
+18 Then answered the Jews and said to him, What sign show you to us, seeing that you do these things?
 
 19 Jesus answered and said to them, Destroy this temple, and in three days I will raise it up.
 
 20 Then said the Jews, Forty and six years was this temple in building, and will you rear it up in three days?
 
-21 But he spake of the temple of his body.
+21 But he spoke of the temple of his body.
 
 22 When therefore he was risen from the dead, his disciples remembered that he had said this to them; and they believed the scripture, and the word which Jesus had said.
 
@@ -380,7 +380,7 @@
 
 19 Then answered Jesus and said to them, Truly, truly, I say to you, The Son can do nothing of himself, but what he sees the Father do: for what things soever he does, these also does the Son likewise.
 
-20 For the Father loves the Son, and shews him all things that himself does: and he will shew him greater works than these, that you may marvel.
+20 For the Father loves the Son, and shews him all things that himself does: and he will show him greater works than these, that you may marvel.
 
 21 For as the Father raiss up the dead, and quickens them; even so the Son quickens whom he will.
 
@@ -496,7 +496,7 @@
 
 29 Jesus answered and said to them, This is the work of God, that you believe on him whom he has sent.
 
-30 They said therefore to him, What sign shew you then, that we may see, and believe you? what do you work?
+30 They said therefore to him, What sign show you then, that we may see, and believe you? what do you work?
 
 31 Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
 
@@ -578,7 +578,7 @@
 
 70 Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
 
-71 He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
+71 He spoke of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
 
 ## John Chapter 7
 
@@ -586,9 +586,9 @@
 
 2 Now the Jew's feast of tabernacles was at hand.
 
-3 His brothers therefore said to him, Depart hence, and go into Judaea, that your disciples also may see the works that you do.
+3 His brothers therefore said to him, Depart from here, and go into Judaea, that your disciples also may see the works that you do.
 
-4 For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, shew thyself to the world.
+4 For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, show thyself to the world.
 
 5 For neither did his brothers believe in him.
 
@@ -606,7 +606,7 @@
 
 12 And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceivs the people.
 
-13 However no man spake openly of him for fear of the Jews.
+13 However no man spoke openly of him for fear of the Jews.
 
 14 Now about the midst of the feast Jesus went up into the temple, and taught.
 
@@ -658,7 +658,7 @@
 
 38 He that believes on me, as the scripture has said, out of his belly will flow rivers of living water.
 
-39 (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
+39 (But this spoke he of the Spirit, which they that believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
 
 40 Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.
 
@@ -672,7 +672,7 @@
 
 45 Then came the officers to the chief priests and Pharisees; and they said to them, Why have you not brought him?
 
-46 The officers answered, Never man spake like this man.
+46 The officers answered, Never man spoke like this man.
 
 47 Then answered them the Pharisees, Are you also deceived?
 
@@ -712,7 +712,7 @@
 
 11 She said, No man, Lord. And Jesus said to her, Neither do I condemn you: go, and sin no more.
 
-12 Then spake Jesus again to them, saying, I am the light of the world: he that follows me will not walk in darkness, but will have the light of life.
+12 Then spoke Jesus again to them, saying, I am the light of the world: he that follows me will not walk in darkness, but will have the light of life.
 
 13 The Pharisees therefore said to him, you bear record of thyself; your record is not true.
 
@@ -728,7 +728,7 @@
 
 19 Then said they to him, Where is your Father? Jesus answered, you neither know me, nor my Father: if you had known me, you should have known my Father also.
 
-20 These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
+20 These words spoke Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
 
 21 Then said Jesus again to them, I go my way, and you will seek me, and will die in your sins: where I go, you cannot come.
 
@@ -742,13 +742,13 @@
 
 26 I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
 
-27 They understood not that he spake to them of the Father.
+27 They understood not that he spoke to them of the Father.
 
 28 Then said Jesus to them, When you have lifted up the Son of man, then will you know that I am he, and that I do nothing of myself; but as my Father has taught me, I speak these things.
 
 29 And he that sent me is with me: the Father has not left me alone; for I do always those things that please him.
 
-30 As he spake these words, many believed on him.
+30 As he spoke these words, many believed on him.
 
 31 Then said Jesus to those Jews which believed on him, If you continue in my word, then are you my disciples indeed;
 
@@ -834,7 +834,7 @@
 
 12 Then said they to him, Where is he? He said, I know not.
 
-13 They brought to the Pharisees him that aforetime was blind.
+13 They brought to the Pharisees him that before was blind.
 
 14 And it was the sabbath day when Jesus made the clay, and opened his eyes.
 
@@ -852,7 +852,7 @@
 
 21 But by what means he now sees, we know not; or who has opened his eyes, we know not: he is of age; ask him: he will speak for himself.
 
-22 These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
+22 These words spoke his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
 
 23 Therefore said his parents, He is of age; ask him.
 
@@ -866,7 +866,7 @@
 
 28 Then they reviled him, and said, you are his disciple; but we are Moses' disciples.
 
-29 We know that God spake to Moses: as for this fellow, we know not from from where he is.
+29 We know that God spoke to Moses: as for this fellow, we know not from from where he is.
 
 30 The man answered and said to them, Why in this is a marvellous thing, that you know not from from where he is, and yet he has opened mine eyes.
 
@@ -904,7 +904,7 @@
 
 5 And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
 
-6 This parable spake Jesus to them: but they understood not what things they were which he spake to them.
+6 This parable spoke Jesus to them: but they understood not what things they were which he spoke to them.
 
 7 Then said Jesus to them again, Truly, truly, I say to you, I am the door of the sheep.
 
@@ -956,7 +956,7 @@
 
 31 Then the Jews took up stones again to stone him.
 
-32 Jesus answered them, Many good works have I shewed you from my Father; for which of those works do you stone me?
+32 Jesus answered them, Many good works have I showed you from my Father; for which of those works do you stone me?
 
 33 The Jews answered him, saying, For a good work we stone you not; but for blasphemy; and because that you, being a man, mak thyself God.
 
@@ -974,7 +974,7 @@
 
 40 And went away again beyond Jordan into the place where John at first baptized; and there he stayed.
 
-41 And many resorted to him, and said, John did no miracle: but all things that John spake of this man were true.
+41 And many resorted to him, and said, John did no miracle: but all things that John spoke of this man were true.
 
 42 And many believed on him there.
 
@@ -1004,7 +1004,7 @@
 
 12 Then said his disciples, Lord, if he sleep, he will do well.
 
-13 However Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
+13 However Jesus spoke of his death: but they thought that he had spoken of taking of rest in sleep.
 
 14 Then said Jesus to them plainly, Lazarus is dead.
 
@@ -1020,7 +1020,7 @@
 
 20 Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.
 
-21 Then said Martha to Jesus, Lord, if you hadst been here, my brother had not died.
+21 Then said Martha to Jesus, Lord, if you had been here, my brother had not died.
 
 22 But I know, that even now, whatsoever you will ask of God, God will give it you.
 
@@ -1042,7 +1042,7 @@
 
 31 The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goes to the grave to weep there.
 
-32 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying to him, Lord, if you hadst been here, my brother had not died.
+32 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying to him, Lord, if you had been here, my brother had not died.
 
 33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled.
 
@@ -1080,7 +1080,7 @@
 
 50 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 
-51 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+51 And this spoke he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 
 52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
@@ -1090,9 +1090,9 @@
 
 55 And the Jews' passover was near at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
 
-56 Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think you, that he will not come to the feast?
+56 Then sought they for Jesus, and spoke among themselves, as they stood in the temple, What think you, that he will not come to the feast?
 
-57 Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.
+57 Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should show it, that they might take him.
 
 ## John Chapter 12
 
@@ -1152,7 +1152,7 @@
 
 28 Father, glorify your name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
 
-29 The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.
+29 The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spoke to him.
 
 30 Jesus answered and said, This voice came not because of me, but for your sakes.
 
@@ -1166,17 +1166,17 @@
 
 35 Then Jesus said to them, Yet a little while is the light with you. Walk while you have the light, otherwise darkness come upon you: for he that walks in darkness knows not where he goes.
 
-36 While you have light, believe in the light, that you may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
+36 While you have light, believe in the light, that you may be the children of light. These things spoke Jesus, and departed, and did hide himself from them.
 
 37 But though he had done so many miracles before them, yet they believed not on him:
 
-38 That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who has believed our report? and to whom has the arm of the Lord been revealed?
+38 That the saying of Esaias the prophet might be fulfilled, which he spoke, Lord, who has believed our report? and to whom has the arm of the Lord been revealed?
 
 39 Therefore they could not believe, because that Esaias said again,
 
 40 He has blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.
 
-41 These things said Esaias, when he saw his glory, and spake of him.
+41 These things said Esaias, when he saw his glory, and spoke of him.
 
 42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, otherwise they should be put out of the synagogue:
 
@@ -1240,11 +1240,11 @@
 
 21 When Jesus had thus said, he was troubled in spirit, and testified, and said, Truly, truly, I say to you, that one of you will betray me.
 
-22 Then the disciples looked one on another, doubting of whom he spake.
+22 Then the disciples looked one on another, doubting of whom he spoke.
 
 23 Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.
 
-24 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.
+24 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spoke.
 
 25 He then lying on Jesus' breast says to him, Lord, who is it?
 
@@ -1252,7 +1252,7 @@
 
 27 And after the sop Satan entered into him. Then said Jesus to him, That you do, do quickly.
 
-28 Now no man at the table knew for what intent he spake this to him.
+28 Now no man at the table knew for what intent he spoke this to him.
 
 29 For some of them thought, because Judas had the bag, that Jesus had said to him, Buy those things that we have need of against the feast; or, that he should give something to the poor.
 
@@ -1336,7 +1336,7 @@
 
 30 From now on I will not talk much with you: for the prince of this world comes, and has nothing in me.
 
-31 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
+31 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go from here.
 
 ## John Chapter 15
 
@@ -1420,11 +1420,11 @@
 
 12 I have yet many things to say to you, but you cannot bear them now.
 
-13 However when he, the Spirit of truth, is come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will shew you things to come.
+13 However when he, the Spirit of truth, is come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will show you things to come.
 
-14 He will glorify me: for he will receive of mine, and will shew it to you.
+14 He will glorify me: for he will receive of mine, and will show it to you.
 
-15 All things that the Father has are mine: therefore said I, that he will take of mine, and will shew it to you.
+15 All things that the Father has are mine: therefore said I, that he will take of mine, and will show it to you.
 
 16 A little while, and you will not see me: and again, a little while, and you will see me, because I go to the Father.
 
@@ -1436,7 +1436,7 @@
 
 20 Truly, truly, I say to you, That you will weep and lament, but the world will rejoice: and you will be sorrowful, but your sorrow will be turned into joy.
 
-21 A woman when she is in travail has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
+21 A woman when she is in labor has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
 
 22 And you now therefore have sorrow: but I will see you again, and your heart will rejoice, and your joy no man takes from you.
 
@@ -1444,7 +1444,7 @@
 
 24 Until now have you asked nothing in my name: ask, and you will receive, that your joy may be full.
 
-25 These things have I spoken to you in proverbs: but the time comes, when I will no more speak to you in proverbs, but I will shew you plainly of the Father.
+25 These things have I spoken to you in proverbs: but the time comes, when I will no more speak to you in proverbs, but I will show you plainly of the Father.
 
 26 At that day you will ask in my name: and I say not to you, that I will pray the Father for you:
 
@@ -1464,7 +1464,7 @@
 
 ## John Chapter 17
 
-1 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify your Son, that your Son also may glorify you:
+1 These words spoke Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify your Son, that your Son also may glorify you:
 
 2 As you have given him power over all flesh, that he should give eternal life to as many as you have given him.
 
@@ -1520,7 +1520,7 @@
 
 1 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 
-2 And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted there with his disciples.
+2 And Judas also, which betrayed him, knew the place: for Jesus often resorted there with his disciples.
 
 3 Judas then, having received a band of men and officers from the chief priests and Pharisees, comes there with lanterns and torches and weapons.
 
@@ -1534,7 +1534,7 @@
 
 8 Jesus answered, I have told you that I am he: if therefore you seek me, let these go their way:
 
-9 That the saying might be fulfilled, which he spake, Of them which you gav me have I lost none.
+9 That the saying might be fulfilled, which he spoke, Of them which you gav me have I lost none.
 
 10 Then Simon Peter having a sword drew it, and struck the high priest's servant, and cut off his right ear. The servant's name was Malchus.
 
@@ -1548,7 +1548,7 @@
 
 15 And Simon Peter followed Jesus, and so did another disciple: that disciple was known to the high priest, and went in with Jesus into the palace of the high priest.
 
-16 But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spake to her that kept the door, and brought in Peter.
+16 But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spoke to her that kept the door, and brought in Peter.
 
 17 Then says the young woman that kept the door to Peter, are not you also one of this man's disciples? He says, I am not.
 
@@ -1556,7 +1556,7 @@
 
 19 The high priest then asked Jesus of his disciples, and of his doctrine.
 
-20 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
+20 Jesus answered him, I spoke openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
 
 21 Why ask you me? ask them which heard me, what I have said to them: look, they know what I said.
 
@@ -1580,7 +1580,7 @@
 
 31 Then said Pilate to them, Take you him, and judge him according to your law. The Jews therefore said to him, It is not lawful for us to put any man to death:
 
-32 That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
+32 That the saying of Jesus might be fulfilled, which he spoke, signifying what death he should die.
 
 33 Then Pilate entered into the judgment hall again, and called Jesus, and said to him, are you the King of the Jews?
 
@@ -1588,7 +1588,7 @@
 
 35 Pilate answered, Am I a Jew? your own nation and the chief priests have delivered you to me: what have you done?
 
-36 Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
+36 Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from here.
 
 37 Pilate therefore said to him, are you a king then? Jesus answered, you say that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness to the truth. Every one that is of the truth hears my voice.
 
@@ -1662,9 +1662,9 @@
 
 31 The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) urged Pilate that their legs might be broken, and that they might be taken away.
 
-32 Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.
+32 Then came the soldiers, and broke the legs of the first, and of the other which was crucified with him.
 
-33 But when they came to Jesus, and saw that he was dead already, they brake not his legs:
+33 But when they came to Jesus, and saw that he was dead already, they broke not his legs:
 
 34 But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
 
@@ -1714,7 +1714,7 @@
 
 14 And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
 
-15 Jesus says to her, Woman, why weep you? whom seek you? She, supposing him to be the gardener, says to him, Sir, if you have borne him hence, tell me where you have laid him, and I will take him away.
+15 Jesus says to her, Woman, why weep you? whom seek you? She, supposing him to be the gardener, says to him, Sir, if you have borne him from here, tell me where you have laid him, and I will take him away.
 
 16 Jesus says to her, Mary. She turned herself, and says to him, Rabboni; which is to say, Master.
 
@@ -1724,7 +1724,7 @@
 
 19 Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and says to them, Peace be to you.
 
-20 And when he had so said, he shewed to them his hands and his side. Then were the disciples glad, when they saw the Lord.
+20 And when he had so said, he showed to them his hands and his side. Then were the disciples glad, when they saw the Lord.
 
 21 Then said Jesus to them again, Peace be to you: as my Father has sent me, even so send I you.
 
@@ -1750,7 +1750,7 @@
 
 ## John Chapter 21
 
-1 After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
+1 After these things Jesus showed himself again to the disciples at the sea of Tiberias; and on this wise showed he himself.
 
 2 There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.
 
@@ -1776,7 +1776,7 @@
 
 13 Jesus then comes, and takes bread, and gives them, and fish likewise.
 
-14 This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.
+14 This is now the third time that Jesus showed himself to his disciples, after that he was risen from the dead.
 
 15 So when they had dined, Jesus says to Simon Peter, Simon, son of Jonas, lov you me more than these? He says to him, Yea, Lord; you know that I love you. He says to him, Feed my lambs.
 
@@ -1786,7 +1786,7 @@
 
 18 Truly, truly, I say to you, When you wast young, you gird thyself, and walkedst where you would: but when you will be old, you will stretch forth your hands, and another will gird you, and carry you where you would not.
 
-19 This spake he, signifying by what death he should glorify God. And when he had spoken this, he says to him, Follow me.
+19 This spoke he, signifying by what death he should glorify God. And when he had spoken this, he says to him, Follow me.
 
 20 Then Peter, turning about, sees the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrays you?
 

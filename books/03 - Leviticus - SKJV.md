@@ -2,7 +2,7 @@
 
 ## Leviticus Chapter 1
 
-1 And the Lord called to Moses, and spake to him out of the tabernacle of the congregation, saying,
+1 And the Lord called to Moses, and spoke to him out of the tabernacle of the congregation, saying,
 
 2 Speak to the children of Israel, and say to them, If any man of you bring an offering to the Lord, you will bring your offering of the cattle, even of the herd, and of the flock.
 
@@ -108,7 +108,7 @@
 
 ## Leviticus Chapter 4
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, saying, If a soul will sin through ignorance against any of the commandments of the Lord concerning things which ought not to be done, and will do against any of them:
 
@@ -206,7 +206,7 @@
 
 13 And the priest will make an atonement for him as touching his sin that he has sinned in one of these, and it will be forgiven him: and the remnant will be the priest's, as a meat offering.
 
-14 And the Lord spake to Moses, saying,
+14 And the Lord spoke to Moses, saying,
 
 15 If a soul commit a trespass, and sin through ignorance, in the holy things of the Lord; then he will bring for his trespass to the Lord a ram without blemish out of the flocks, with your estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.
 
@@ -220,7 +220,7 @@
 
 ## Leviticus Chapter 6
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 If a soul sin, and commit a trespass against the Lord, and lie to his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or has deceived his neighbour;
 
@@ -234,7 +234,7 @@
 
 7 And the priest will make an atonement for him before the Lord: and it will be forgiven him for any thing of all that he has done in trespassing in it.
 
-8 And the Lord spake to Moses, saying,
+8 And the Lord spoke to Moses, saying,
 
 9 Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night to the morning, and the fire of the altar will be burning in it.
 
@@ -256,7 +256,7 @@
 
 18 All the males among the children of Aaron will eat of it. It will be a statute for ever in your generations concerning the offerings of the Lord made by fire: every one that touchs them will be holy.
 
-19 And the Lord spake to Moses, saying,
+19 And the Lord spoke to Moses, saying,
 
 20 This is the offering of Aaron and of his sons, which they will offer to the Lord in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half of it at night.
 
@@ -266,7 +266,7 @@
 
 23 For every meat offering for the priest will be wholly burnt: it will not be eaten.
 
-24 And the Lord spake to Moses, saying,
+24 And the Lord spoke to Moses, saying,
 
 25 Speak to Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed will the sin offering be killed before the Lord: it is most holy.
 
@@ -324,7 +324,7 @@
 
 21 Moreover the soul that will touch any unclean thing, as the uncleanness of man, or any unclean beast, or any abominable unclean thing, and eat of the flesh of the sacrifice of peace offerings, which pertain to the Lord, even that soul will be cut off from his people.
 
-22 And the Lord spake to Moses, saying,
+22 And the Lord spoke to Moses, saying,
 
 23 Speak to the children of Israel, saying, you will eat no manner of fat, of ox, or of sheep, or of goat.
 
@@ -336,7 +336,7 @@
 
 27 Whatsoever soul it be that eats any manner of blood, even that soul will be cut off from his people.
 
-28 And the Lord spake to Moses, saying,
+28 And the Lord spoke to Moses, saying,
 
 29 Speak to the children of Israel, saying, He that offers the sacrifice of his peace offerings to the Lord will bring his oblation to the Lord of the sacrifice of his peace offerings.
 
@@ -360,7 +360,7 @@
 
 ## Leviticus Chapter 8
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;
 
@@ -388,7 +388,7 @@
 
 14 And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.
 
-15 And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.
+15 And he killed it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.
 
 16 And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar.
 
@@ -404,7 +404,7 @@
 
 22 And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.
 
-23 And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron's right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.
+23 And he killed it; and Moses took of the blood of it, and put it upon the tip of Aaron's right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.
 
 24 And he brought Aaron's sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.
 
@@ -448,7 +448,7 @@
 
 7 And Moses said to Aaron, Go to the altar, and offer your sin offering, and your burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the Lord commanded.
 
-8 Aaron therefore went to the altar, and slew the calf of the sin offering, which was for himself.
+8 Aaron therefore went to the altar, and killed the calf of the sin offering, which was for himself.
 
 9 And the sons of Aaron brought the blood to him: and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the bottom of the altar:
 
@@ -456,19 +456,19 @@
 
 11 And the flesh and the hide he burnt with fire without the camp.
 
-12 And he slew the burnt offering; and Aaron's sons presented to him the blood, which he sprinkled round about upon the altar.
+12 And he killed the burnt offering; and Aaron's sons presented to him the blood, which he sprinkled round about upon the altar.
 
 13 And they presented the burnt offering to him, with the pieces of it, and the head: and he burnt them upon the altar.
 
 14 And he did wash the inwards and the legs, and burnt them upon the burnt offering on the altar.
 
-15 And he brought the people's offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first.
+15 And he brought the people's offering, and took the goat, which was the sin offering for the people, and killed it, and offered it for sin, as the first.
 
 16 And he brought the burnt offering, and offered it according to the manner.
 
 17 And he brought the meat offering, and took an handful of it, and burnt it upon the altar, beside the burnt sacrifice of the morning.
 
-18 He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron's sons presented to him the blood, which he sprinkled upon the altar round about,
+18 He killed also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron's sons presented to him the blood, which he sprinkled upon the altar round about,
 
 19 And the fat of the bullock and of the ram, the rump, and that which covers the inwards, and the kidneys, and the caul above the liver:
 
@@ -488,7 +488,7 @@
 
 2 And there went out fire from the Lord, and devoured them, and they died before the Lord.
 
-3 Then Moses said to Aaron, This is it that the Lord spake, saying, I will be sanctified in them that come near me, and before all the people I will be glorified. And Aaron held his peace.
+3 Then Moses said to Aaron, This is it that the Lord spoke, saying, I will be sanctified in them that come near me, and before all the people I will be glorified. And Aaron held his peace.
 
 4 And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, Come near, carry your brothers from before the sanctuary out of the camp.
 
@@ -498,7 +498,7 @@
 
 7 And you will not go out from the door of the tabernacle of the congregation, otherwise you die: for the anointing oil of the Lord is upon you. And they did according to the word of Moses.
 
-8 And the Lord spake to Aaron, saying,
+8 And the Lord spoke to Aaron, saying,
 
 9 Do not drink wine nor strong drink, you, nor your sons with you, when you go into the tabernacle of the congregation, otherwise you die: it will be a statute for ever throughout your generations:
 
@@ -506,7 +506,7 @@
 
 11 And that you may teach the children of Israel all the statutes which the Lord has spoken to them by the hand of Moses.
 
-12 And Moses spake to Aaron, and to Eleazar and to Ithamar, his sons that were left, Take the meat offering that remains of the offerings of the Lord made by fire, and eat it without leaven beside the altar: for it is most holy:
+12 And Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons that were left, Take the meat offering that remains of the offerings of the Lord made by fire, and eat it without leaven beside the altar: for it is most holy:
 
 13 And you will eat it in the holy place, because it is your due, and your sons' due, of the sacrifices of the Lord made by fire: for so I am commanded.
 
@@ -526,7 +526,7 @@
 
 ## Leviticus Chapter 11
 
-1 And the Lord spake to Moses and to Aaron, saying to them,
+1 And the Lord spoke to Moses and to Aaron, saying to them,
 
 2 Speak to the children of Israel, saying, These are the beasts which you will eat among all the beasts that are on the earth.
 
@@ -622,7 +622,7 @@
 
 ## Leviticus Chapter 12
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, saying, If a woman have conceived seed, and born a man child: then she will be unclean seven days; according to the days of the separation for her infirmity will she be unclean.
 
@@ -640,7 +640,7 @@
 
 ## Leviticus Chapter 13
 
-1 And the Lord spake to Moses and Aaron, saying,
+1 And the Lord spoke to Moses and Aaron, saying,
 
 2 When a man will have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he will be brought to Aaron the priest, or to one of his sons the priests:
 
@@ -676,7 +676,7 @@
 
 18 The flesh also, in which, even in the skin of it, was a boil, and is healed,
 
-19 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;
+19 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be showed to the priest;
 
 20 And if, when the priest sees it, look, it be in sight lower than the skin, and the hair of it be turned white; the priest will pronounce him unclean: it is a plague of leprosy broken out of the boil.
 
@@ -736,7 +736,7 @@
 
 48 Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;
 
-49 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and will be shewed to the priest:
+49 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and will be showed to the priest:
 
 50 And the priest will look upon the plague, and shut up it that has the plague seven days:
 
@@ -760,7 +760,7 @@
 
 ## Leviticus Chapter 14
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 This will be the law of the leper in the day of his cleansing: He will be brought to the priest:
 
@@ -824,7 +824,7 @@
 
 32 This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertains to his cleansing.
 
-33 And the Lord spake to Moses and to Aaron, saying,
+33 And the Lord spoke to Moses and to Aaron, saying,
 
 34 When you be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;
 
@@ -876,7 +876,7 @@
 
 ## Leviticus Chapter 15
 
-1 And the Lord spake to Moses and to Aaron, saying,
+1 And the Lord spoke to Moses and to Aaron, saying,
 
 2 Speak to the children of Israel, and say to them, When any man has a running issue out of his flesh, because of his issue he is unclean.
 
@@ -944,7 +944,7 @@
 
 ## Leviticus Chapter 16
 
-1 And the Lord spake to Moses after the death of the two sons of Aaron, when they offered before the Lord, and died;
+1 And the Lord spoke to Moses after the death of the two sons of Aaron, when they offered before the Lord, and died;
 
 2 And the Lord said to Moses, Speak to Aaron your brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
 
@@ -1014,7 +1014,7 @@
 
 ## Leviticus Chapter 17
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to Aaron, and to his sons, and to all the children of Israel, and say to them; This is the thing which the Lord has commanded, saying,
 
@@ -1048,7 +1048,7 @@
 
 ## Leviticus Chapter 18
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and say to them, I am the Lord your God.
 
@@ -1110,7 +1110,7 @@
 
 ## Leviticus Chapter 19
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to all the congregation of the children of Israel, and say to them, you will be holy: for I the Lord your God am holy.
 
@@ -1186,7 +1186,7 @@
 
 ## Leviticus Chapter 20
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Again, you will say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that gives any of his seed to Molech; he will surely be put to death: the people of the land will stone him with stones.
 
@@ -1272,7 +1272,7 @@
 
 15 Neither will he profane his seed among his people: for I the Lord do sanctify him.
 
-16 And the Lord spake to Moses, saying,
+16 And the Lord spoke to Moses, saying,
 
 17 Speak to Aaron, saying, Whosoever he be of your seed in their generations that has any blemish, let him not approach to offer the bread of his God.
 
@@ -1292,7 +1292,7 @@
 
 ## Leviticus Chapter 22
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow to me: I am the Lord.
 
@@ -1324,7 +1324,7 @@
 
 16 Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the Lord do sanctify them.
 
-17 And the Lord spake to Moses, saying,
+17 And the Lord spoke to Moses, saying,
 
 18 Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer to the Lord for a burnt offering;
 
@@ -1342,7 +1342,7 @@
 
 25 Neither from a stranger's hand will you offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they will not be accepted for you.
 
-26 And the Lord spake to Moses, saying,
+26 And the Lord spoke to Moses, saying,
 
 27 When a bullock, or a sheep, or a goat, is brought forth, then it will be seven days under the dam; and from the eighth day and from then on it will be accepted for an offering made by fire to the Lord.
 
@@ -1360,7 +1360,7 @@
 
 ## Leviticus Chapter 23
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and say to them, Concerning the feasts of the Lord, which you will proclaim to be holy convocations, even these are my feasts.
 
@@ -1376,7 +1376,7 @@
 
 8 But you will offer an offering made by fire to the Lord seven days: in the seventh day is an holy convocation: you will do no servile work in it.
 
-9 And the Lord spake to Moses, saying,
+9 And the Lord spoke to Moses, saying,
 
 10 Speak to the children of Israel, and say to them, When you be come into the land which I give to you, and will reap the harvest of it, then you will bring a sheaf of the firstfruits of your harvest to the priest:
 
@@ -1404,13 +1404,13 @@
 
 22 And when you reap the harvest of your land, you will not make clean riddance of the corners of your field when you reap, neither will you gather any gleaning of your harvest: you will leave them to the poor, and to the stranger: I am the Lord your God.
 
-23 And the Lord spake to Moses, saying,
+23 And the Lord spoke to Moses, saying,
 
 24 Speak to the children of Israel, saying, In the seventh month, in the first day of the month, will you have a sabbath, a memorial of blowing of trumpets, an holy convocation.
 
 25 you will do no servile work in it: but you will offer an offering made by fire to the Lord.
 
-26 And the Lord spake to Moses, saying,
+26 And the Lord spoke to Moses, saying,
 
 27 Also on the tenth day of this seventh month there will be a day of atonement: it will be an holy convocation to you; and you will afflict your souls, and offer an offering made by fire to the Lord.
 
@@ -1424,7 +1424,7 @@
 
 32 It will be to you a sabbath of rest, and you will afflict your souls: in the ninth day of the month at even, from even to even, will you celebrate your sabbath.
 
-33 And the Lord spake to Moses, saying,
+33 And the Lord spoke to Moses, saying,
 
 34 Speak to the children of Israel, saying, The fifteenth day of this seventh month will be the feast of tabernacles for seven days to the Lord.
 
@@ -1450,7 +1450,7 @@
 
 ## Leviticus Chapter 24
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Command the children of Israel, that they bring to you pure oil olive beaten for the light, to cause the lamps to burn continually.
 
@@ -1472,9 +1472,9 @@
 
 11 And the Israelitish woman's son blasphemed the name of the Lord, and cursed. And they brought him to Moses: (and his mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan:)
 
-12 And they put him in ward, that the mind of the Lord might be shewed them.
+12 And they put him in ward, that the mind of the Lord might be showed them.
 
-13 And the Lord spake to Moses, saying,
+13 And the Lord spoke to Moses, saying,
 
 14 Bring forth him that has cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.
 
@@ -1494,11 +1494,11 @@
 
 22 you will have one manner of law, as well for the stranger, as for one of your own country: for I am the Lord your God.
 
-23 And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the Lord commanded Moses.
+23 And Moses spoke to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the Lord commanded Moses.
 
 ## Leviticus Chapter 25
 
-1 And the Lord spake to Moses in mount Sinai, saying,
+1 And the Lord spoke to Moses in mount Sinai, saying,
 
 2 Speak to the children of Israel, and say to them, When you come into the land which I give you, then will the land keep a sabbath to the Lord.
 
@@ -1704,7 +1704,7 @@
 
 ## Leviticus Chapter 27
 
-1 And the Lord spake to Moses, saying,
+1 And the Lord spoke to Moses, saying,
 
 2 Speak to the children of Israel, and say to them, When a man will make a singular vow, the persons will be for the Lord by your estimation.
 

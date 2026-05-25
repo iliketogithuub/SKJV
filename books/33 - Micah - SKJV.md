@@ -106,9 +106,9 @@
 
 8 And you, O tower of the flock, the strong hold of the daughter of Zion, to you will it come, even the first dominion; the kingdom will come to the daughter of Jerusalem.
 
-9 Now why do you cry out aloud? is there no king in you? is your counsellor perished? for pangs have taken you as a woman in travail.
+9 Now why do you cry out aloud? is there no king in you? is your counsellor perished? for pangs have taken you as a woman in labor.
 
-10 Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now will you go forth out of the city, and you will dwell in the field, and you will go even to Babylon; there will you be delivered; there the Lord will redeem you from the hand of your enemies.
+10 Be in pain, and labour to bring forth, O daughter of Zion, like a woman in labor: for now will you go forth out of the city, and you will dwell in the field, and you will go even to Babylon; there will you be delivered; there the Lord will redeem you from the hand of your enemies.
 
 11 Now also many nations are gathered against you, that say, Let her be defiled, and let our eye look upon Zion.
 
@@ -122,7 +122,7 @@
 
 2 But you, Bethlehem Ephratah, though you be little among the thousands of Judah, yet out of you will he come forth to me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
 
-3 Therefore will he give them up, until the time that she which travails has brought forth: then the remnant of his brothers will return to the children of Israel.
+3 Therefore will he give them up, until the time that she which labors has brought forth: then the remnant of his brothers will return to the children of Israel.
 
 4 And he will stand and feed in the strength of the Lord, in the majesty of the name of the Lord his God; and they will abide: for now will he be great to the ends of the earth.
 
@@ -164,7 +164,7 @@
 
 7 Will the Lord be pleased with thousands of rams, or with ten thousands of rivers of oil? will I give my firstborn for my sin, the fruit of my body for the sin of my soul?
 
-8 He has shewed you, O man, what is good; and what does the Lord require of you, but to do justly, and to love mercy, and to walk humbly with your God?
+8 He has showed you, O man, what is good; and what does the Lord require of you, but to do justly, and to love mercy, and to walk humbly with your God?
 
 9 The Lord's voice cris to the city, and the man of wisdom will see your name: hear you the rod, and who has appointed it.
 
@@ -212,7 +212,7 @@
 
 14 Feed your people with your rod, the flock of your heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.
 
-15 According to the days of your coming out of the land of Egypt will I shew to him marvellous things.
+15 According to the days of your coming out of the land of Egypt will I show to him marvellous things.
 
 16 The nations will see and be confounded at all their might: they will lay their hand upon their mouth, their ears will be deaf.
 

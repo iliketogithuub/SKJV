@@ -44,7 +44,7 @@
 
 21 For to me to live is Christ, and to die is gain.
 
-22 But if I live in the flesh, this is the fruit of my labour: yet what I will choose I wot not.
+22 But if I live in the flesh, this is the fruit of my labour: yet what I will choose I know not.
 
 23 For I am in a strait between two, having a desire to depart, and to be with Christ; which is far better:
 

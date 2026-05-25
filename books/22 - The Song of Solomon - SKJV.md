@@ -54,9 +54,9 @@
 
 8 The voice of my beloved! look, he comes leaping upon the mountains, skipping upon the hills.
 
-9 My beloved is like a roe or a young hart: look, he stands behind our wall, he looks forth at the windows, shewing himself through the lattice.
+9 My beloved is like a roe or a young hart: look, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.
 
-10 My beloved spake, and said to me, Rise up, my love, my fair one, and come away.
+10 My beloved spoke, and said to me, Rise up, my love, my fair one, and come away.
 
 11 For, look, the winter is past, the rain is over and gone;
 
@@ -142,7 +142,7 @@
 
 5 I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.
 
-6 I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.
+6 I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spoke: I sought him, but I could not find him; I called him, but he gave me no answer.
 
 7 The watchmen that went about the city found me, they struck me, they wounded me; the keepers of the walls took away my veil from me.
 
@@ -222,7 +222,7 @@
 
 ## Song of Solomon Chapter 8
 
-1 O that you wert as my brother, that sucked the breasts of my mother! when I should find you without, I would kiss you; yea, I should not be despised.
+1 O that you were as my brother, that sucked the breasts of my mother! when I should find you without, I would kiss you; yea, I should not be despised.
 
 2 I would lead you, and bring you into my mother's house, who would instruct me: I would cause you to drink of spiced wine of the juice of my pomegranate.
 

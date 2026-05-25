@@ -32,7 +32,7 @@
 
 15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 
-16 However for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should from now on believe on him to life everlasting.
+16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to them which should from now on believe on him to life everlasting.
 
 17 Now to the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
 
@@ -150,7 +150,7 @@
 
 3 Honour widows that are widows indeed.
 
-4 But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
+4 But if any widow have children or nephews, let them learn first to show piety at home, and to requite their parents: for that is good and acceptable before God.
 
 5 Now she that is a widow indeed, and desolate, trusts in God, and continus in prayers and prayers night and day.
 
@@ -224,7 +224,7 @@
 
 14 That you keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ:
 
-15 Which in his times he will shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;
+15 Which in his times he will show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 
 16 Who only has immortality, dwelling in the light which no man can approach to; whom no man has seen, nor can see: to whom be honour and power everlasting. Amen.
 

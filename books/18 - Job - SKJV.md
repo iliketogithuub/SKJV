@@ -18,7 +18,7 @@
 
 8 And the Lord said to Satan, have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that fears God, and eschews evil?
 
-9 Then Satan answered the Lord, and said, does Job fear God for nought?
+9 Then Satan answered the Lord, and said, does Job fear God for nothing?
 
 10 have not you made an hedge about him, and about his house, and about all that he has on every side? you have blessed the work of his hands, and his substance is increased in the land.
 
@@ -72,13 +72,13 @@
 
 12 And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.
 
-13 So they sat down with him upon the ground seven days and seven nights, and none spake a word to him: for they saw that his grief was very great.
+13 So they sat down with him upon the ground seven days and seven nights, and none spoke a word to him: for they saw that his grief was very great.
 
 ## Job Chapter 3
 
 1 After this opened Job his mouth, and cursed his day.
 
-2 And Job spake, and said,
+2 And Job spoke, and said,
 
 3 Let the day perish in which I was born, and the night in which it was said, There is a man child conceived.
 
@@ -256,7 +256,7 @@
 
 13 Is not my help in me? and is wisdom driven quite from me?
 
-14 To him that is afflicted pity should be shewed from his friend; but he forsaks the fear of the Almighty.
+14 To him that is afflicted pity should be showed from his friend; but he forsaks the fear of the Almighty.
 
 15 My brothers have dealt deceitfully as a brook, and as the stream of brooks they pass away;
 
@@ -346,7 +346,7 @@
 
 5 If you would seek to God betimes, and make your prayer to the Almighty;
 
-6 If you wert pure and upright; surely now he would awake for you, and make the habitation of your righteousness prosperous.
+6 If you were pure and upright; surely now he would awake for you, and make the habitation of your righteousness prosperous.
 
 7 Though your beginning was small, yet your latter end should greatly increase.
 
@@ -378,7 +378,7 @@
 
 21 Till he fill your mouth with laughing, and your lips with rejoicing.
 
-22 They that hate you will be clothed with shame; and the dwelling place of the wicked will come to nought.
+22 They that hate you will be clothed with shame; and the dwelling place of the wicked will come to nothing.
 
 ## Job Chapter 9
 
@@ -456,7 +456,7 @@
 
 1 My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 
-2 I will say to God, Do not condemn me; shew me therefore you contend with me.
+2 I will say to God, Do not condemn me; show me therefore you contend with me.
 
 3 Is it good to you that you should oppress, that you should despise the work of your hands, and shine upon the counsel of the wicked?
 
@@ -484,7 +484,7 @@
 
 15 If I be wicked, woe to me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see you mine affliction;
 
-16 For it increass. you hunt me as a fierce lion: and again you shew thyself marvellous upon me.
+16 For it increass. you hunt me as a fierce lion: and again you show thyself marvellous upon me.
 
 17 you renew your witnesses against me, and increas your indignation upon me; changes and war are against me.
 
@@ -510,9 +510,9 @@
 
 5 But oh that God would speak, and open his lips against you;
 
-6 And that he would shew you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than your iniquity deserves.
+6 And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than your iniquity deserves.
 
-7 Canst you by searching find out God? can you find out the Almighty to perfection?
+7 Can you by searching find out God? can you find out the Almighty to perfection?
 
 8 It is as high as heaven; what can you do? deeper than hell; what can you know?
 
@@ -686,7 +686,7 @@
 
 17 My sin is sealed up in a bag, and you sew up mine iniquity.
 
-18 And surely the mountains falling comes to nought, and the rock is removed out of his place.
+18 And surely the mountains falling comes to nothing, and the rock is removed out of his place.
 
 19 The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroy the hope of man.
 
@@ -730,13 +730,13 @@
 
 16 How much more abominable and filthy is man, which drinks iniquity like water?
 
-17 I will shew you, hear me; and that which I have seen I will declare;
+17 I will show you, hear me; and that which I have seen I will declare;
 
 18 Which wise men have told from their fathers, and have not hid it:
 
 19 to whom alone the earth was given, and no stranger passed among them.
 
-20 The wicked man travails with pain all his days, and the number of years is hidden to the oppressor.
+20 The wicked man labors with pain all his days, and the number of years is hidden to the oppressor.
 
 21 A dreadful sound is in his ears: in prosperity the destroyer will come upon him.
 
@@ -826,7 +826,7 @@
 
 5 He that speaks flattery to his friends, even the eyes of his children will fail.
 
-6 He has made me also a byword of the people; and aforetime I was as a tabret.
+6 He has made me also a byword of the people; and before I was as a tabret.
 
 7 Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
 
@@ -928,7 +928,7 @@
 
 17 My breath is strange to my wife, though I intreated for the children's sake of mine own body.
 
-18 Yea, young children despised me; I arose, and they spake against me.
+18 Yea, young children despised me; I arose, and they spoke against me.
 
 19 All my inward friends despised me: and they whom I loved are turned against me.
 
@@ -1046,7 +1046,7 @@
 
 16 Look, their good is not in their hand: the counsel of the wicked is far from me.
 
-17 How oft is the candle of the wicked put out! and how oft comes their destruction upon them! God distributs sorrows in his anger.
+17 How often is the candle of the wicked put out! and how often comes their destruction upon them! God distributs sorrows in his anger.
 
 18 They are as stubble before the wind, and as chaff that the storm carris away.
 
@@ -1094,7 +1094,7 @@
 
 5 Is not your wickedness great? and your iniquities infinite?
 
-6 For you have taken a pledge from your brother for nought, and stripped the naked of their clothing.
+6 For you have taken a pledge from your brother for nothing, and stripped the naked of their clothing.
 
 7 you have not given water to the weary to drink, and you have withholden bread from the hungry.
 
@@ -1416,7 +1416,7 @@
 
 16 I was a father to the poor: and the cause which I knew not I searched out.
 
-17 And I brake the jaws of the wicked, and plucked the spoil out of his tes.
+17 And I broke the jaws of the wicked, and plucked the spoil out of his tes.
 
 18 Then I said, I will die in my nest, and I will multiply my days as the sand.
 
@@ -1426,7 +1426,7 @@
 
 21 to me men gave ear, and waited, and kept silence at my counsel.
 
-22 After my words they spake not again; and my speech dropped upon them.
+22 After my words they spoke not again; and my speech dropped upon them.
 
 23 And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.
 
@@ -1592,7 +1592,7 @@
 
 5 When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.
 
-6 And Elihu the son of Barachel the Buzite answered and said, I am young, and you are very old; therefore I was afraid, and dared not shew you mine opinion.
+6 And Elihu the son of Barachel the Buzite answered and said, I am young, and you are very old; therefore I was afraid, and dared not show you mine opinion.
 
 7 I said, Days should speak, and multitude of years should teach wisdom.
 
@@ -1600,7 +1600,7 @@
 
 9 Great men are not always wise: neither do the aged understand judgment.
 
-10 Therefore I said, Listen to me; I also will shew mine opinion.
+10 Therefore I said, Listen to me; I also will show mine opinion.
 
 11 Look, I waited for your words; I gave ear to your reasons, whilst you searched out what to say.
 
@@ -1612,9 +1612,9 @@
 
 15 They were amazed, they answered no more: they left off speaking.
 
-16 When I had waited, (for they spake not, but stood still, and answered no more;)
+16 When I had waited, (for they spoke not, but stood still, and answered no more;)
 
-17 I said, I will answer also my part, I also will shew mine opinion.
+17 I said, I will answer also my part, I also will show mine opinion.
 
 18 For I am full of matter, the spirit within me constrains me.
 
@@ -1672,7 +1672,7 @@
 
 22 Yea, his soul draws near to the grave, and his life to the destroyers.
 
-23 If there be a messenger with him, an interpreter, one among a thousand, to shew to man his uprightness:
+23 If there be a messenger with him, an interpreter, one among a thousand, to show to man his uprightness:
 
 24 Then he is gracious to him, and says, Deliver him from going down to the pit: I have found a ransom.
 
@@ -1772,7 +1772,7 @@
 
 ## Job Chapter 35
 
-1 Elihu spake moreover, and said,
+1 Elihu spoke moreover, and said,
 
 2 Think you this to be right, that you saidst, My righteousness is more than God's?
 
@@ -1808,7 +1808,7 @@
 
 1 Elihu also proceeded, and said,
 
-2 Suffer me a little, and I will shew you that I have yet to speak on God's behalf.
+2 Suffer me a little, and I will show you that I have yet to speak on God's behalf.
 
 3 I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
 
@@ -1938,11 +1938,11 @@
 
 7 When the morning stars sang together, and all the sons of God shouted for joy?
 
-8 Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?
+8 Or who shut up the sea with doors, when it broke forth, as if it had issued out of the womb?
 
 9 When I made the cloud the garment of it, and thick darkness a swaddlingband for it,
 
-10 And brake up for it my decreed place, and set bars and doors,
+10 And broke up for it my decreed place, and set bars and doors,
 
 11 And said, Until now will you come, but no further: and here will your proud waves be stayed?
 
@@ -1984,15 +1984,15 @@
 
 30 The waters are hid as with a stone, and the face of the deep is frozen.
 
-31 Canst you bind the sweet influences of Pleiades, or loose the bands of Orion?
+31 Can you bind the sweet influences of Pleiades, or loose the bands of Orion?
 
-32 Canst you bring forth Mazzaroth in his season? or can you guide Arcturus with his sons?
+32 Can you bring forth Mazzaroth in his season? or can you guide Arcturus with his sons?
 
 33 Know you the ordinances of heaven? can you set the dominion of it in the earth?
 
-34 Canst you lift up your voice to the clouds, that abundance of waters may cover you?
+34 Can you lift up your voice to the clouds, that abundance of waters may cover you?
 
-35 Canst you send lightnings, that they may go and say to you, Here we are?
+35 Can you send lightnings, that they may go and say to you, Here we are?
 
 36 Who has put wisdom in the inward parts? or who has given understanding to the heart?
 
@@ -2010,7 +2010,7 @@
 
 1 Know you the time when the wild goats of the rock bring forth? or can you mark when the hinds do calve?
 
-2 Canst you number the months that they fulfil? or know you the time when they bring forth?
+2 Can you number the months that they fulfil? or know you the time when they bring forth?
 
 3 They bow themselves, they bring forth their young ones, they cast out their sorrows.
 
@@ -2026,7 +2026,7 @@
 
 9 Will the unicorn be willing to serve you, or abide by your crib?
 
-10 Canst you bind the unicorn with his band in the furrow? or will he harrow the valleys after you?
+10 Can you bind the unicorn with his band in the furrow? or will he harrow the valleys after you?
 
 11 will you trust him, because his strength is great? or will you leave your labour to him?
 
@@ -2046,7 +2046,7 @@
 
 19 have you given the horse strength? have you clothed his neck with thunder?
 
-20 Canst you make him afraid as a grasshopper? the glory of his nostrils is terrible.
+20 Can you make him afraid as a grasshopper? the glory of his nostrils is terrible.
 
 21 He paws in the valley, and rejoics in his strength: he goes on to meet the armed men.
 
@@ -2120,9 +2120,9 @@
 
 ## Job Chapter 41
 
-1 Canst you draw out leviathan with an hook? or his tongue with a cord which you lett down?
+1 Can you draw out leviathan with an hook? or his tongue with a cord which you lett down?
 
-2 Canst you put an hook into his nose? or bore his jaw through with a thorn?
+2 Can you put an hook into his nose? or bore his jaw through with a thorn?
 
 3 Will he make many prayers to you? will he speak soft words to you?
 
@@ -2132,7 +2132,7 @@
 
 6 will the companions make a banquet of him? will they part him among the merchants?
 
-7 Canst you fill his skin with barbed irons? or his head with fish spears?
+7 Can you fill his skin with barbed irons? or his head with fish spears?
 
 8 Lay your hand upon him, remember the battle, do no more.
 
