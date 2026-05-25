@@ -4,7 +4,7 @@
 
 1 The beginning of the gospel of Jesus Christ, the Son of God;
 
-2 As it is written in the prophets, Behold, I send my messenger before your face, which will prepare your way before you.
+2 As it is written in the prophets, Look, I send my messenger before your face, which will prepare your way before you.
 
 3 The voice of one crying in the wilderness, Prepare you the way of the Lord, make his paths straight.
 
@@ -140,7 +140,7 @@
 
 23 And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.
 
-24 And the Pharisees said to him, Behold, why do they on the sabbath day that which is not lawful?
+24 And the Pharisees said to him, Look, why do they on the sabbath day that which is not lawful?
 
 25 And he said to them, Have you never read what David did, when he had need, and was an hungred, he, and they that were with him?
 
@@ -214,11 +214,11 @@
 
 31 There came then his brothers and his mother, and, standing without, sent to him, calling him.
 
-32 And the multitude sat about him, and they said to him, Behold, your mother and your brothers without seek for you.
+32 And the multitude sat about him, and they said to him, Look, your mother and your brothers without seek for you.
 
 33 And he answered them, saying, Who is my mother, or my brothers?
 
-34 And he looked round about on them which sat about him, and said, Behold my mother and my brothers!
+34 And he looked round about on them which sat about him, and said, Look at my mother and my brothers!
 
 35 For whosoever will do the will of God, the same is my brother, and my sister, and mother.
 
@@ -228,7 +228,7 @@
 
 2 And he taught them many things by parables, and said to them in his doctrine,
 
-3 Listen; Behold, there went out a sower to sow:
+3 Listen; Look, there went out a sower to sow:
 
 4 And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.
 
@@ -350,7 +350,7 @@
 
 21 And when Jesus was passed over again by ship to the other side, much people gathered to him: and he was near to the sea.
 
-22 And, behold, there comes one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
+22 And, look, there comes one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
 
 23 And urged him greatly, saying, My little daughter lis at the point of death: I pray you, come and lay your hands on her, that she may be healed; and she will live.
 
@@ -398,7 +398,7 @@
 
 1 And he went out from from there, and came into his own country; and his disciples follow him.
 
-2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are wrought by his hands?
+2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
 
 3 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
@@ -552,7 +552,7 @@
 
 21 For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 
-22 Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+22 Thefts, covetousness, wickedness, deceit, sensuality, an evil eye, blasphemy, pride, foolishness:
 
 23 All these evil things come from within, and defile the man.
 
@@ -692,7 +692,7 @@
 
 14 And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them.
 
-15 And immediately all the people, when they beheld him, were greatly amazed, and running to him greeted him.
+15 And immediately all the people, when they saw him, were greatly amazed, and running to him greeted him.
 
 16 And he asked the scribes, What question you with them?
 
@@ -806,7 +806,7 @@
 
 20 And he answered and said to him, Master, all these have I observed from my youth.
 
-21 Then Jesus beholding him loved him, and said to him, One thing you lack: go your way, sell whatsoever you have, and give to the poor, and you will have treasure in heaven: and come, take up the cross, and follow me.
+21 Then Jesus looking him loved him, and said to him, One thing you lack: go your way, sell whatsoever you have, and give to the poor, and you will have treasure in heaven: and come, take up the cross, and follow me.
 
 22 And he was sad at that saying, and went away grieved: for he had great possessions.
 
@@ -820,7 +820,7 @@
 
 27 And Jesus looking upon them says, With men it is impossible, but not with God: for with God all things are possible.
 
-28 Then Peter began to say to him, Lo, we have left all, and have followed you.
+28 Then Peter began to say to him, Look, we have left all, and have followed you.
 
 29 And Jesus answered and said, Truly I say to you, There is no man that has left house, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,
 
@@ -830,7 +830,7 @@
 
 32 And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen to him,
 
-33 Saying, Behold, we go up to Jerusalem; and the Son of man will be delivered to the chief priests, and to the scribes; and they will condemn him to death, and will deliver him to the Gentiles:
+33 Saying, Look, we go up to Jerusalem; and the Son of man will be delivered to the chief priests, and to the scribes; and they will condemn him to death, and will deliver him to the Gentiles:
 
 34 And they will mock him, and will scourge him, and will spit upon him, and will kill him: and the third day he will rise again.
 
@@ -912,7 +912,7 @@
 
 20 And in the morning, as they passed by, they saw the fig tree dried up from the roots.
 
-21 And Peter calling to remembrance says to him, Master, behold, the fig tree which you cursedst is withered away.
+21 And Peter calling to remembrance says to him, Master, look, the fig tree which you cursedst is withered away.
 
 22 Jesus answered and said, "Have faith in God.
 
@@ -1008,7 +1008,7 @@
 
 33 And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.
 
-34 And when Jesus saw that he answered discreetly, he said to him, you are not far from the kingdom of God. And no man after that durst ask him any question.
+34 And when Jesus saw that he answered discreetly, he said to him, you are not far from the kingdom of God. And no man after that dared ask him any question.
 
 35 And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the son of David?
 
@@ -1022,7 +1022,7 @@
 
 40 Which devour widows' houses, and for a pretence make long prayers: these will receive greater damnation.
 
-41 And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.
+41 And Jesus sat over against the treasury, and saw how the people cast money into the treasury: and many that were rich cast in much.
 
 42 And there came a certain poor widow, and she threw in two mites, which make a farthing.
 
@@ -1072,11 +1072,11 @@
 
 20 And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he has chosen, he has shortened the days.
 
-21 And then if any man will say to you, Lo, here is Christ; or, lo, he is there; believe him not:
+21 And then if any man will say to you, Look, here is Christ; or, look, he is there; believe him not:
 
 22 For false Christs and false prophets will rise, and will shew signs and wonders, to seduce, if it were possible, even the elect.
 
-23 But take you heed: behold, I have foretold you all things.
+23 But take you heed: look, I have foretold you all things.
 
 24 But in those days, after that suffering, the sun will be darkened, and the moon will not give her light,
 
@@ -1118,7 +1118,7 @@
 
 5 For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.
 
-6 And Jesus said, Let her alone; why trouble you her? she has wrought a good work on me.
+6 And Jesus said, Let her alone; why trouble you her? she has done a good work on me.
 
 7 For you have the poor with you always, and whensoever you will you may do them good: but me you have not always.
 
@@ -1188,9 +1188,9 @@
 
 40 And when he returned, he found them asleep again, (for their eyes were heavy,) neither knew they what to answer him.
 
-41 And he comes the third time, and says to them, Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
+41 And he comes the third time, and says to them, Sleep on now, and take your rest: it is enough, the hour is come; look, the Son of man is betrayed into the hands of sinners.
 
-42 Rise up, let us go; lo, he that betrays me is at hand.
+42 Rise up, let us go; look, he that betrays me is at hand.
 
 43 And immediately, while he yet spake, comes Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.
 
@@ -1260,7 +1260,7 @@
 
 3 And the chief priests accused him of many things: but he answered nothing.
 
-4 And Pilate asked him again, saying, Answer you nothing? behold how many things they witness against you.
+4 And Pilate asked him again, saying, Answer you nothing? look how many things they witness against you.
 
 5 But Jesus yet answered nothing; so that Pilate marvelled.
 
@@ -1322,7 +1322,7 @@
 
 34 And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why have you forsaken me?
 
-35 And some of them that stood by, when they heard it, said, Behold, he calls Elias.
+35 And some of them that stood by, when they heard it, said, Look, he calls Elias.
 
 36 And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.
 
@@ -1346,7 +1346,7 @@
 
 46 And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a tomb which was hewn out of a rock, and rolled a stone to the door of the tomb.
 
-47 And Mary Magdalene and Mary the mother of Joses beheld where he was laid.
+47 And Mary Magdalene and Mary the mother of Joses saw where he was laid.
 
 ## Mark Chapter 16
 
@@ -1360,7 +1360,7 @@
 
 5 And entering into the tomb, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
 
-6 And he says to them, Be not affrighted: you seek Jesus of Nazars, which was crucified: he is risen; he is not here: behold the place where they laid him.
+6 And he says to them, Be not affrighted: you seek Jesus of Nazars, which was crucified: he is risen; he is not here: look at the place where they laid him.
 
 7 But go your way, tell his disciples and Peter that he goes before you into Galilee: there will you see him, as he said to you.
 

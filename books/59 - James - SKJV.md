@@ -46,7 +46,7 @@
 
 22 But be you doers of the word, and not hearers only, deceiving your own selves.
 
-23 For if any be a hearer of the word, and not a doer, he is like to a man beholding his natural face in a glass:
+23 For if any be a hearer of the word, and not a doer, he is like to a man looking at his natural face in a glass:
 
 24 For he beholds himself, and goes his way, and immediately forgetts what manner of man he was.
 
@@ -100,7 +100,7 @@
 
 21 Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 
-22 Se you how faith wrought with his works, and by works was faith made perfect?
+22 Se you how faith worked with his works, and by works was faith made perfect?
 
 23 And the scripture was fulfilled which says, Abraham believed God, and it was credited to him for righteousness: and he was called the Friend of God.
 
@@ -116,11 +116,11 @@
 
 2 For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.
 
-3 Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.
+3 Look, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.
 
-4 Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor lists.
+4 Look also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor lists.
 
-5 Even so the tongue is a little member, and boasts great things. Behold, how great a matter a little fire kindls!
+5 Even so the tongue is a little member, and boasts great things. Look, how great a matter a little fire kindls!
 
 6 And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and setts on fire the course of nature; and it is set on fire of hell.
 
@@ -192,21 +192,21 @@
 
 3 Your gold and silver is cankered; and the rust of them will be a witness against you, and will eat your flesh as it were fire. you have heaped treasure together for the last days.
 
-4 Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cris: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
+4 Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cris: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 
 5 you have lived in pleasure on the earth, and been wanton; you have nourished your hearts, as in a day of slaughter.
 
 6 you have condemned and killed the just; and he does not resist you.
 
-7 Be patient therefore, brothers, to the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, and has long patience for it, until he receive the early and latter rain.
+7 Be patient therefore, brothers, to the coming of the Lord. Look, the farmer waits for the precious fruit of the earth, and has long patience for it, until he receive the early and latter rain.
 
 8 Be you also patient; stablish your hearts: for the coming of the Lord draws near.
 
-9 Grudge not one against another, brothers, otherwise you be condemned: behold, the judge stands before the door.
+9 Grudge not one against another, brothers, otherwise you be condemned: look, the judge stands before the door.
 
 10 Take, my brothers, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.
 
-11 Behold, we count them happy which endure. you have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
+11 Look, we count them happy which endure. you have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 
 12 But above all things, my brothers, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; otherwise you fall into judgment.
 

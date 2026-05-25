@@ -80,7 +80,7 @@
 
 18 Then will the Lord be jealous for his land, and pity his people.
 
-19 Yea, the Lord will answer and say to his people, Behold, I will send you corn, and wine, and oil, and you will be satisfied with it: and I will no more make you a reproach among the heathen:
+19 Yea, the Lord will answer and say to his people, Look, I will send you corn, and wine, and oil, and you will be satisfied with it: and I will no more make you a reproach among the heathen:
 
 20 But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink will come up, and his ill savour will come up, because he has done great things.
 
@@ -110,7 +110,7 @@
 
 ## Joel Chapter 3
 
-1 For, behold, in those days, and in that time, when I will bring again the captivity of Judah and Jerusalem,
+1 For, look, in those days, and in that time, when I will bring again the captivity of Judah and Jerusalem,
 
 2 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
 
@@ -122,7 +122,7 @@
 
 6 The children also of Judah and the children of Jerusalem have you sold to the Grecians, that you might remove them far from their border.
 
-7 Behold, I will raise them out of the place where you have sold them, and will return your recompence upon your own head:
+7 Look, I will raise them out of the place where you have sold them, and will return your recompence upon your own head:
 
 8 And I will sell your sons and your daughters into the hand of the children of Judah, and they will sell them to the Sabeans, to a people far off: for the Lord has spoken it.
 

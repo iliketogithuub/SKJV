@@ -26,7 +26,7 @@
 
 12 But you have profaned it, in that you say, The table of the Lord is polluted; and the fruit of it, even his meat, is contemptible.
 
-13 you said also, Behold, what a weariness is it! and you have snuffed at it, says the Lord of hosts; and you brought that which was torn, and the lame, and the sick; thus you brought an offering: should I accept this of your hand? says the Lord.
+13 you said also, Look, what a weariness is it! and you have snuffed at it, says the Lord of hosts; and you brought that which was torn, and the lame, and the sick; thus you brought an offering: should I accept this of your hand? says the Lord.
 
 14 But cursed be the deceiver, which has in his flock a male, and vows, and sacrifics to the Lord a corrupt thing: for I am a great King, says the Lord of hosts, and my name is dreadful among the heathen.
 
@@ -36,7 +36,7 @@
 
 2 If you will not hear, and if you will not lay it to heart, to give glory to my name, says the Lord of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because you do not lay it to heart.
 
-3 Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one will take you away with it.
+3 Look, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one will take you away with it.
 
 4 And you will know that I have sent this commandment to you, that my covenant might be with Levi, says the Lord of hosts.
 
@@ -68,7 +68,7 @@
 
 ## Malachi Chapter 3
 
-1 Behold, I will send my messenger, and he will prepare the way before me: and the Lord, whom you seek, will suddenly come to his temple, even the messenger of the covenant, whom you delight in: behold, he will come, says the Lord of hosts.
+1 Look, I will send my messenger, and he will prepare the way before me: and the Lord, whom you seek, will suddenly come to his temple, even the messenger of the covenant, whom you delight in: look, he will come, says the Lord of hosts.
 
 2 But who may abide the day of his coming? and who will stand when he appears? for he is like a refiner's fire, and like fullers' soap:
 
@@ -106,7 +106,7 @@
 
 ## Malachi Chapter 4
 
-1 For, behold, the day comes, that will burn as an oven; and all the proud, yea, and all that do wickedly, will be stubble: and the day that comes will burn them up, says the Lord of hosts, that it will leave them neither root nor branch.
+1 For, look, the day comes, that will burn as an oven; and all the proud, yea, and all that do wickedly, will be stubble: and the day that comes will burn them up, says the Lord of hosts, that it will leave them neither root nor branch.
 
 2 But to you that fear my name will the Sun of righteousness arise with healing in his wings; and you will go forth, and grow up as calves of the stall.
 
@@ -114,7 +114,7 @@
 
 4 Remember you the law of Moses my servant, which I commanded to him in Horeb for all Israel, with the statutes and judgments.
 
-5 Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:
+5 Look, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:
 
 6 And he will turn the heart of the fathers to the children, and the heart of the children to their fathers, otherwise I come and smite the earth with a curse.
 

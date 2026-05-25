@@ -26,7 +26,7 @@
 
 1 For yourselves, brothers, know our entrance in to you, that it was not in vain:
 
-2 But even after that we had suffered before, and were shamefully entreated, as you know, at Philippi, we were bold in our God to speak to you the gospel of God with much contention.
+2 But even after that we had suffered before, and were shamefully treated, as you know, at Philippi, we were bold in our God to speak to you the gospel of God with much contention.
 
 3 For our encouragement was not of deceit, nor of uncleanness, nor in guile:
 

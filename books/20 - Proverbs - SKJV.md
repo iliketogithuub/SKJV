@@ -46,7 +46,7 @@
 
 22 How long, you simple ones, will you love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
 
-23 Turn you at my reproof: behold, I will pour out my spirit to you, I will make known my words to you.
+23 Turn you at my reproof: look, I will pour out my spirit to you, I will make known my words to you.
 
 24 Because I have called, and you refused; I have stretched out my hand, and no man regarded;
 
@@ -376,13 +376,13 @@
 
 6 For at the window of my house I looked through my casement,
 
-7 And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
+7 And saw among the simple ones, I discerned among the youths, a young man void of understanding,
 
 8 Passing through the street near her corner; and he went the way to her house,
 
 9 In the twilight, in the evening, in the black and dark night:
 
-10 And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+10 And, look, there met him a woman with the attire of an harlot, and subtil of heart.
 
 11 (She is loud and stubborn; her feet abide not in her house:
 
@@ -658,7 +658,7 @@
 
 30 The fruit of the righteous is a tree of life; and he that winns souls is wise.
 
-31 Behold, the righteous will be recompensed in the earth: much more the wicked and the sinner.
+31 Look, the righteous will be recompensed in the earth: much more the wicked and the sinner.
 
 ## Proverbs Chapter 12
 
@@ -848,7 +848,7 @@
 
 2 The tongue of the wise uses knowledge aright: but the mouth of fools pours out foolishness.
 
-3 The eyes of the Lord are in every place, beholding the evil and the good.
+3 The eyes of the Lord are in every place, watching the evil and the good.
 
 4 A wholesome tongue is a tree of life: but perverseness in it is a breach in the spirit.
 
@@ -1398,7 +1398,7 @@
 
 32 At the last it bits like a serpent, and stings like an adder.
 
-33 your eyes will behold strange women, and your heart will utter perverse things.
+33 your eyes will see strange women, and your heart will utter perverse things.
 
 34 Yea, you will be as he that lis down in the midst of the sea, or as he that lis upon the top of a mast.
 
@@ -1428,7 +1428,7 @@
 
 11 If you forbear to deliver them that are drawn to death, and those that are ready to be slain;
 
-12 If you say, Behold, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and will not he render to every man according to his works?
+12 If you say, Look, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and will not he render to every man according to his works?
 
 13 My son, eat you honey, because it is good; and the honeycomb, which is sweet to your taste:
 
@@ -1466,7 +1466,7 @@
 
 30 I went by the field of the slothful, and by the vineyard of the man void of understanding;
 
-31 And, lo, it was all grown over with thorns, and nettles had covered the face of it, and the stone wall of it was broken down.
+31 And, look, it was all grown over with thorns, and nettles had covered the face of it, and the stone wall of it was broken down.
 
 32 Then I saw, and considered it well: I looked upon it, and received instruction.
 

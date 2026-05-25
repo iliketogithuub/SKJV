@@ -106,7 +106,7 @@
 
 30 But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that will make known the interpretation to the king, and that you might know the thoughts of your heart.
 
-31 you, O king, saw, and behold a great image. This great image, whose brightness was excellent, stood before you; and the form of it was terrible.
+31 you, O king, saw, and look, a great image. This great image, whose brightness was excellent, stood before you; and the form of it was terrible.
 
 32 This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
 
@@ -194,7 +194,7 @@
 
 24 Then Nebuchadnezzar the king was astonished, and rose up in haste, and spake, and said to his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said to the king, True, O king.
 
-25 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
+25 He answered and said, Look, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
 
 26 Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, you servants of the most high God, come forth, and come here. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
 
@@ -210,7 +210,7 @@
 
 1 Nebuchadnezzar the king, to all people, nations, and languages, that dwell in all the earth; Peace be multiplied to you.
 
-2 I thought it good to shew the signs and wonders that the high God has wrought toward me.
+2 I thought it good to shew the signs and wonders that the high God has done toward me.
 
 3 How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.
 
@@ -226,13 +226,13 @@
 
 9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubls you, tell me the visions of my dream that I have seen, and the interpretation of it.
 
-10 Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height of it was great.
+10 Thus were the visions of mine head in my bed; I saw, and look, a tree in the midst of the earth, and the height of it was great.
 
 11 The tree grew, and was strong, and the height of it reached to heaven, and the sight of it to the end of all the earth:
 
 12 The leaves of it were fair, and the fruit of it much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs of it, and all flesh was fed of it.
 
-13 I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;
+13 I saw in the visions of my head upon my bed, and, look, a watcher and an holy one came down from heaven;
 
 14 He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:
 
@@ -408,29 +408,29 @@
 
 1 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.
 
-2 Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
+2 Daniel spake and said, I saw in my vision by night, and, look, the four winds of the heaven strove upon the great sea.
 
 3 And four great beasts came up from the sea, diverse one from another.
 
-4 The first was like a lion, and had eagle's wings: I beheld till the wings of it were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
+4 The first was like a lion, and had eagle's wings: I looked until the wings of it were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
 
-5 And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the tes of it: and they said thus to it, Arise, devour much flesh.
+5 And look another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the tes of it: and they said thus to it, Arise, devour much flesh.
 
-6 After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
+6 After this I looked, and look another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
 
-7 After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron tes: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
+7 After this I saw in the night visions, and look, a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron tes: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
-8 I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.
+8 I considered the horns, and, look, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, look, in this horn were eyes like the eyes of man, and a mouth speaking great things.
 
-9 I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
+9 I looked until the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
 
 10 A fiery stream issued and came forth from before him: thousand thousands ministered to him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 
-11 I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
+11 I looked then because of the voice of the great words which the horn spake: I looked even until the beast was slain, and his body destroyed, and given to the burning flame.
 
 12 As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
-13 I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+13 I saw in the night visions, and, look, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 
 14 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which will not pass away, and his kingdom that which will not be destroyed.
 
@@ -446,7 +446,7 @@
 
 20 And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows.
 
-21 I beheld, and the same horn made war with the saints, and prevailed against them;
+21 I looked, and the same horn made war with the saints, and prevailed against them;
 
 22 Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
 
@@ -468,11 +468,11 @@
 
 2 And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
 
-3 Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
+3 Then I lifted up mine eyes, and saw, and, look, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
 
 4 I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
 
-5 And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.
+5 And as I was considering, look, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.
 
 6 And he came to the ram that had two horns, which I had seen standing before the river, and ran to him in the fury of his power.
 
@@ -492,7 +492,7 @@
 
 14 And he said to me, to two thousand and three hundred days; then will the sanctuary be cleansed.
 
-15 And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.
+15 And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, look, there stood before me as the appearance of a man.
 
 16 And I heard a man's voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.
 
@@ -500,7 +500,7 @@
 
 18 Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
 
-19 And he said, Behold, I will make you know what will be in the last end of the indignation: for at the time appointed the end will be.
+19 And he said, Look, I will make you know what will be in the last end of the indignation: for at the time appointed the end will be.
 
 20 The ram which you saw having two horns are the kings of Media and Persia.
 
@@ -554,7 +554,7 @@
 
 17 Now therefore, O our God, hear the prayer of your servant, and his prayers, and cause your face to shine upon your sanctuary that is desolate, for the Lord's sake.
 
-18 O my God, incline your ear, and hear; open your eyes, and behold our desolations, and the city which is called by your name: for we do not present our prayers before you for our righteousnesses, but for your great mercies.
+18 O my God, incline your ear, and hear; open your eyes, and look at our desolations, and the city which is called by your name: for we do not present our prayers before you for our righteousnesses, but for your great mercies.
 
 19 O Lord, hear; O Lord, forgive; O Lord, listen and do; defer not, for your own sake, O my God: for your city and your people are called by your name.
 
@@ -584,7 +584,7 @@
 
 4 And in the four and twentis day of the first month, as I was by the side of the great river, which is Hiddekel;
 
-5 Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:
+5 Then I lifted up mine eyes, and looked, and look, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:
 
 6 His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
 
@@ -594,19 +594,19 @@
 
 9 Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.
 
-10 And, behold, an hand touched me, which set me upon my knees and upon the palms of my hands.
+10 And, look, an hand touched me, which set me upon my knees and upon the palms of my hands.
 
 11 And he said to me, O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright: for to you am I now sent. And when he had spoken this word to me, I stood trembling.
 
 12 Then said he to me, Fear not, Daniel: for from the first day that you did set your heart to understand, and to chasten thyself before your God, your words were heard, and I am come for your words.
 
-13 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
+13 But the prince of the kingdom of Persia withstood me one and twenty days: but, look, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 
 14 Now I am come to make you understand what will befall your people in the latter days: for yet the vision is for many days.
 
 15 And when he had spoken such words to me, I set my face toward the ground, and I became dumb.
 
-16 And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said to him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
+16 And, look, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said to him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
 
 17 For how can the servant of this my lord talk with this my lord? for as for me, immediately there remained no strength in me, neither is there breath left in me.
 
@@ -614,7 +614,7 @@
 
 19 And said, O man greatly beloved, fear not: peace be to you, be strong, yea, be strong. And when he had spoken to me, I was strengthened, and said, Let my lord speak; for you have strengthened me.
 
-20 Then said he, Know you therefore I come to you? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia will come.
+20 Then said he, Know you therefore I come to you? and now will I return to fight with the prince of Persia: and when I am gone forth, look, the prince of Grecia will come.
 
 21 But I will shew you that which is noted in the scripture of truth: and there is none that holds with me in these things, but Michael your prince.
 
@@ -622,7 +622,7 @@
 
 1 Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.
 
-2 And now will I shew you the truth. Behold, there will stand up yet three kings in Persia; and the fourth will be far richer than they all: and by his strength through his riches he will stir up all against the realm of Grecia.
+2 And now will I shew you the truth. Look, there will stand up yet three kings in Persia; and the fourth will be far richer than they all: and by his strength through his riches he will stir up all against the realm of Grecia.
 
 3 And a mighty king will stand up, that will rule with great dominion, and do according to his will.
 
@@ -720,7 +720,7 @@
 
 4 But you, O Daniel, shut up the words, and seal the book, even to the time of the end: many will run to and fro, and knowledge will be increased.
 
-5 Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.
+5 Then I Daniel looked, and, look, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.
 
 6 And one said to the man clothed in linen, which was upon the waters of the river, How long will it be to the end of these wonders?
 

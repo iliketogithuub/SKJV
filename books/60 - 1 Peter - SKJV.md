@@ -64,7 +64,7 @@
 
 5 you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
-6 therefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believes on him will not be confounded.
+6 therefore also it is contained in the scripture, Look, I lay in Sion a chief corner stone, elect, precious: and he that believes on him will not be confounded.
 
 7 to you therefore which believe he is precious: but to them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 
@@ -76,7 +76,7 @@
 
 11 Dearly beloved, I urge you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
-12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will behold, glorify God in the day of visitation.
+12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will see, glorify God in the day of visitation.
 
 13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
 
@@ -110,7 +110,7 @@
 
 1 Likewise, you wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 
-2 While they behold your chaste conversation coupled with fear.
+2 While they look at your chaste conversation coupled with fear.
 
 3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
 
@@ -158,7 +158,7 @@
 
 2 That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 
-3 For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
+3 For the time past of our life may suffice us to have done the will of the Gentiles, when we walked in sensuality, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 
 4 In which they think it strange that you run not with them to the same excess of riot, speaking evil of you:
 

@@ -24,7 +24,7 @@
 
 11 But put forth your hand now, and touch all that he has, and he will curse you to your face.
 
-12 And the Lord said to Satan, Behold, all that he has is in your power; only upon himself put not forth your hand. So Satan went forth from the presence of the Lord.
+12 And the Lord said to Satan, Look, all that he has is in your power; only upon himself put not forth your hand. So Satan went forth from the presence of the Lord.
 
 13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:
 
@@ -38,7 +38,7 @@
 
 18 While he was yet speaking, there came also another, and said, your sons and your daughters were eating and drinking wine in their eldest brother's house:
 
-19 And, behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell you.
+19 And, look, there came a great wind from the wilderness, and struck the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell you.
 
 20 Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
 
@@ -58,7 +58,7 @@
 
 5 But put forth your hand now, and touch his bone and his flesh, and he will curse you to your face.
 
-6 And the Lord said to Satan, Behold, he is in your hand; but save his life.
+6 And the Lord said to Satan, Look, he is in your hand; but save his life.
 
 7 So went Satan forth from the presence of the Lord, and struck Job with sore boils from the sole of his foot to his crown.
 
@@ -88,7 +88,7 @@
 
 6 As for that night, let darkness seize upon it; let it not be joined to the days of the year, let it not come into the number of the months.
 
-7 Lo, let that night be solitary, let no joyful voice come in it.
+7 Look, let that night be solitary, let no joyful voice come in it.
 
 8 Let them curse it that curse the day, who are ready to raise up their mourning.
 
@@ -134,7 +134,7 @@
 
 2 If we assay to commune with you, will you be grieved? but who can withhold himself from speaking?
 
-3 Behold, you have instructed many, and you have strengthened the weak hands.
+3 Look, you have instructed many, and you have strengthened the weak hands.
 
 4 your words have upholden him that was falling, and you have strengthened the feeble knees.
 
@@ -164,7 +164,7 @@
 
 17 will mortal man be more just than God? will a man be more pure than his maker?
 
-18 Behold, he put no trust in his servants; and his angels he charged with folly:
+18 Look, he put no trust in his servants; and his angels he charged with folly:
 
 19 How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?
 
@@ -206,7 +206,7 @@
 
 16 So the poor has hope, and iniquity stopps her mouth.
 
-17 Behold, happy is the man whom God corrects: therefore despise not you the chastening of the Almighty:
+17 Look, happy is the man whom God corrects: therefore despise not you the chastening of the Almighty:
 
 18 For he makes sore, and binds up: he wounds, and his hands make whole.
 
@@ -226,7 +226,7 @@
 
 26 you will come to your grave in a full age, like as a shock of corn comes in in his season.
 
-27 Lo this, we have searched it, so it is; hear it, and know you it for your good.
+27 Look this, we have searched it, so it is; hear it, and know you it for your good.
 
 ## Job Chapter 6
 
@@ -372,9 +372,9 @@
 
 18 If he destroy him from his place, then it will deny him, saying, I have not seen you.
 
-19 Behold, this is the joy of his way, and out of the earth will others grow.
+19 Look, this is the joy of his way, and out of the earth will others grow.
 
-20 Behold, God will not cast away a perfect man, neither will he help the evil doers:
+20 Look, God will not cast away a perfect man, neither will he help the evil doers:
 
 21 Till he fill your mouth with laughing, and your lips with rejoicing.
 
@@ -402,9 +402,9 @@
 
 10 Which does great things past finding out; yea, and wonders without number.
 
-11 Lo, he goes by me, and I see him not: he passs on also, but I perceive him not.
+11 Look, he goes by me, and I see him not: he passs on also, but I perceive him not.
 
-12 Behold, he takes away, who can hinder him? who will say to him, What do you?
+12 Look, he takes away, who can hinder him? who will say to him, What do you?
 
 13 If God will not withdraw his anger, the proud helpers do stoop under him.
 
@@ -418,7 +418,7 @@
 
 18 He will not suffer me to take my breath, but fills me with bitterness.
 
-19 If I speak of strength, lo, he is strong: and if of judgment, who will set me a time to plead?
+19 If I speak of strength, look, he is strong: and if of judgment, who will set me a time to plead?
 
 20 If I justify myself, mine own mouth will condemn me: if I say, I am perfect, it will also prove me perverse.
 
@@ -558,7 +558,7 @@
 
 8 Or speak to the earth, and it will teach you: and the fishes of the sea will declare to you.
 
-9 Who knows not in all these that the hand of the Lord has wrought this?
+9 Who knows not in all these that the hand of the Lord has done this?
 
 10 In whose hand is the soul of every living thing, and the breath of all mankind.
 
@@ -568,9 +568,9 @@
 
 13 With him is wisdom and strength, he has counsel and understanding.
 
-14 Behold, he breaks down, and it cannot be built again: he shutts up a man, and there can be no opening.
+14 Look, he breaks down, and it cannot be built again: he shutts up a man, and there can be no opening.
 
-15 Behold, he withholds the waters, and they dry up: also he sends them out, and they overturn the earth.
+15 Look, he withholds the waters, and they dry up: also he sends them out, and they overturn the earth.
 
 16 With him is strength and wisdom: the deceived and the deceiver are his.
 
@@ -594,7 +594,7 @@
 
 ## Job Chapter 13
 
-1 Lo, mine eye has seen all this, mine ear has heard and understood it.
+1 Look, mine eye has seen all this, mine ear has heard and understood it.
 
 2 What you know, the same do I know also: I am not inferior to you.
 
@@ -628,7 +628,7 @@
 
 17 Hear diligently my speech, and my declaration with your ears.
 
-18 Behold now, I have ordered my cause; I know that I will be justified.
+18 Look, now, I have ordered my cause; I know that I will be justified.
 
 19 Who is he that will plead with me? for now, if I hold my tongue, I will give up the ghost.
 
@@ -726,7 +726,7 @@
 
 14 What is man, that he should be clean? and he which is born of a woman, that he should be righteous?
 
-15 Behold, he putts no trust in his saints; yea, the heavens are not clean in his sight.
+15 Look, he putts no trust in his saints; yea, the heavens are not clean in his sight.
 
 16 How much more abominable and filthy is man, which drinks iniquity like water?
 
@@ -806,7 +806,7 @@
 
 18 O earth, cover not you my blood, and let my cry have no place.
 
-19 Also now, behold, my witness is in heaven, and my record is on high.
+19 Also now, look, my witness is in heaven, and my record is on high.
 
 20 My friends scorn me: but mine eye pours out tears to God.
 
@@ -906,7 +906,7 @@
 
 6 Know now that God has overthrown me, and has compassed me with his net.
 
-7 Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
+7 Look, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
 
 8 He has fenced up my way that I cannot pass, and he has set darkness in my paths.
 
@@ -946,7 +946,7 @@
 
 26 And though after my skin worms destroy this body, yet in my flesh will I see God:
 
-27 Whom I will see for myself, and mine eyes will behold, and not another; though my reins be consumed within me.
+27 Whom I will see for myself, and mine eyes will see, and not another; though my reins be consumed within me.
 
 28 But you should say, Why persecute we him, seeing the root of the matter is found in me?
 
@@ -970,7 +970,7 @@
 
 8 He will fly away as a dream, and will not be found: yea, he will be chased away as a vision of the night.
 
-9 The eye also which saw him will see him no more; neither will his place any more behold him.
+9 The eye also which saw him will see him no more; neither will his place any more look at him.
 
 10 His children will seek to please the poor, and his hands will restore their goods.
 
@@ -1044,7 +1044,7 @@
 
 15 What is the Almighty, that we should serve him? and what profit should we have, if we pray to him?
 
-16 Lo, their good is not in their hand: the counsel of the wicked is far from me.
+16 Look, their good is not in their hand: the counsel of the wicked is far from me.
 
 17 How oft is the candle of the wicked put out! and how oft comes their destruction upon them! God distributs sorrows in his anger.
 
@@ -1066,7 +1066,7 @@
 
 26 They will lie down alike in the dust, and the worms will cover them.
 
-27 Behold, I know your thoughts, and the devices which you wrongfully imagine against me.
+27 Look, I know your thoughts, and the devices which you wrongfully imagine against me.
 
 28 For you say, Where is the house of the prince? and where are the dwelling places of the wicked?
 
@@ -1106,7 +1106,7 @@
 
 11 Or darkness, that you can not see; and abundance of waters cover you.
 
-12 Is not God in the height of heaven? and behold the height of the stars, how high they are!
+12 Is not God in the height of heaven? and look at the height of the stars, how high they are!
 
 13 And you say, How does God know? can he judge through the dark cloud?
 
@@ -1160,9 +1160,9 @@
 
 7 There the righteous might dispute with him; so should I be delivered for ever from my judge.
 
-8 Behold, I go forward, but he is not there; and backward, but I cannot perceive him:
+8 Look, I go forward, but he is not there; and backward, but I cannot perceive him:
 
-9 On the left hand, where he does work, but I cannot behold him: he hides himself on the right hand, that I cannot see him:
+9 On the left hand, where he does work, but I cannot look at him: he hides himself on the right hand, that I cannot see him:
 
 10 But he knows the way that I take: when he has tried me, I will come forth as gold.
 
@@ -1190,7 +1190,7 @@
 
 4 They turn the needy out of the way: the poor of the earth hide themselves together.
 
-5 Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yields food for them and for their children.
+5 Look, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yields food for them and for their children.
 
 6 They reap every one his corn in the field: and they gather the vintage of the wicked.
 
@@ -1242,7 +1242,7 @@
 
 4 How then can man be justified with God? or how can he be clean that is born of a woman?
 
-5 Behold even to the moon, and it shins not; yea, the stars are not pure in his sight.
+5 Look even to the moon, and it shins not; yea, the stars are not pure in his sight.
 
 6 How much less man, that is a worm? and the son of man, which is a worm?
 
@@ -1274,7 +1274,7 @@
 
 13 By his spirit he has garnished the heavens; his hand has formed the crooked serpent.
 
-14 Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
+14 Look, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
 
 ## Job Chapter 27
 
@@ -1300,7 +1300,7 @@
 
 11 I will teach you by the hand of God: that which is with the Almighty will I not conceal.
 
-12 Behold, all you yourselves have seen it; why then are you thus altogether vain?
+12 Look, all you yourselves have seen it; why then are you thus altogether vain?
 
 13 This is the portion of a wicked man with God, and the heritage of oppressors, which they will receive of the Almighty.
 
@@ -1380,7 +1380,7 @@
 
 27 Then did he see it, and declare it; he prepared it, yea, and searched it out.
 
-28 And to man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding.
+28 And to man he said, Look, the fear of the Lord, that is wisdom; and to depart from evil is understanding.
 
 ## Job Chapter 29
 
@@ -1550,7 +1550,7 @@
 
 25 If I rejoice because my wealth was great, and because mine hand had gotten much;
 
-26 If I beheld the sun when it shined, or the moon walking in brightness;
+26 If I saw the sun when it shined, or the moon walking in brightness;
 
 27 And my heart has been secretly enticed, or my mouth has kissed my hand:
 
@@ -1568,7 +1568,7 @@
 
 34 Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
 
-35 Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.
+35 Oh that one would hear me! look, my desire is, that the Almighty would answer me, and that mine adversary had written a book.
 
 36 Surely I would take it upon my shoulder, and bind it as a crown to me.
 
@@ -1592,7 +1592,7 @@
 
 5 When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.
 
-6 And Elihu the son of Barachel the Buzite answered and said, I am young, and you are very old; therefore I was afraid, and durst not shew you mine opinion.
+6 And Elihu the son of Barachel the Buzite answered and said, I am young, and you are very old; therefore I was afraid, and dared not shew you mine opinion.
 
 7 I said, Days should speak, and multitude of years should teach wisdom.
 
@@ -1602,9 +1602,9 @@
 
 10 Therefore I said, Listen to me; I also will shew mine opinion.
 
-11 Behold, I waited for your words; I gave ear to your reasons, whilst you searched out what to say.
+11 Look, I waited for your words; I gave ear to your reasons, whilst you searched out what to say.
 
-12 Yea, I attended to you, and, behold, there was none of you that convinced Job, or that answered his words:
+12 Yea, I attended to you, and, look, there was none of you that convinced Job, or that answered his words:
 
 13 otherwise you should say, We have found out wisdom: God thrusts him down, not man.
 
@@ -1618,7 +1618,7 @@
 
 18 For I am full of matter, the spirit within me constrains me.
 
-19 Behold, my belly is as wine which has no vent; it is ready to burst like new bottles.
+19 Look, my belly is as wine which has no vent; it is ready to burst like new bottles.
 
 20 I will speak, that I may be refreshed: I will open my lips and answer.
 
@@ -1630,7 +1630,7 @@
 
 1 therefore, Job, I pray you, hear my speeches, and listen to all my words.
 
-2 Behold, now I have opened my mouth, my tongue has spoken in my mouth.
+2 Look, now I have opened my mouth, my tongue has spoken in my mouth.
 
 3 My words will be of the uprightness of my heart: and my lips will utter knowledge clearly.
 
@@ -1638,19 +1638,19 @@
 
 5 If you can answer me, set your words in order before me, stand up.
 
-6 Behold, I am according to your wish in God's stead: I also am formed out of the clay.
+6 Look, I am according to your wish in God's stead: I also am formed out of the clay.
 
-7 Behold, my terror will not make you afraid, neither will my hand be heavy upon you.
+7 Look, my terror will not make you afraid, neither will my hand be heavy upon you.
 
 8 Surely you have spoken in mine hearing, and I have heard the voice of your words, saying,
 
 9 I am clean without sin, I am innocent; neither is there iniquity in me.
 
-10 Behold, he finds occasions against me, he counts me for his enemy,
+10 Look, he finds occasions against me, he counts me for his enemy,
 
 11 He putts my feet in the stocks, he marks all my paths.
 
-12 Behold, in this you are not just: I will answer you, that God is greater than man.
+12 Look, in this you are not just: I will answer you, that God is greater than man.
 
 13 Why do you strive against him? for he gives not account of any of his matters.
 
@@ -1684,7 +1684,7 @@
 
 28 He will deliver his soul from going into the pit, and his life will see the light.
 
-29 Lo, all these things works God oftentimes with man,
+29 Look, all these things works God oftentimes with man,
 
 30 To bring back his soul from the pit, to be enlightened with the light of the living.
 
@@ -1752,7 +1752,7 @@
 
 28 So that they cause the cry of the poor to come to him, and he hears the cry of the afflicted.
 
-29 When he gives quietness, who then can make trouble? and when he hides his face, who then can behold him? whether it be done against a nation, or against a man only:
+29 When he gives quietness, who then can make trouble? and when he hides his face, who then can look at him? whether it be done against a nation, or against a man only:
 
 30 That the hypocrite reign not, otherwise the people be ensnared.
 
@@ -1780,7 +1780,7 @@
 
 4 I will answer you, and your companions with you.
 
-5 Look to the heavens, and see; and behold the clouds which are higher than you.
+5 Look to the heavens, and see; and look at the clouds which are higher than you.
 
 6 If you sinn, what do you against him? or if your sins be multiplied, what do you to him?
 
@@ -1814,7 +1814,7 @@
 
 4 For truly my words will not be false: he that is perfect in knowledge is with you.
 
-5 Behold, God is mighty, and despiss not any: he is mighty in strength and wisdom.
+5 Look, God is mighty, and despiss not any: he is mighty in strength and wisdom.
 
 6 He preserves not the life of the wicked: but gives right to the poor.
 
@@ -1848,15 +1848,15 @@
 
 21 Take heed, regard not iniquity: for this have you chosen rather than affliction.
 
-22 Behold, God exalts by his power: who teachs like him?
+22 Look, God exalts by his power: who teachs like him?
 
-23 Who has enjoined him his way? or who can say, you have wrought iniquity?
+23 Who has enjoined him his way? or who can say, you have done iniquity?
 
-24 Remember that you magnify his work, which men behold.
+24 Remember that you magnify his work, which men look.
 
-25 Every man may see it; man may behold it afar off.
+25 Every man may see it; man may see it afar off.
 
-26 Behold, God is great, and we know him not, neither can the number of his years be searched out.
+26 Look, God is great, and we know him not, neither can the number of his years be searched out.
 
 27 For he makes small the drops of water: they pour down rain according to the vapour of it:
 
@@ -1864,7 +1864,7 @@
 
 29 Also can any understand the spreadings of the clouds, or the noise of his tabernacle?
 
-30 Behold, he spreads his light upon it, and covers the bottom of the sea.
+30 Look, he spreads his light upon it, and covers the bottom of the sea.
 
 31 For by them judges he the people; he gives meat in abundance.
 
@@ -2064,7 +2064,7 @@
 
 28 She dwells and abides on the rock, upon the crag of the rock, and the strong place.
 
-29 From from there she seeks the prey, and her eyes behold afar off.
+29 From from there she seeks the prey, and her eyes look afar off.
 
 30 Her young ones also suck up blood: and where the slain are, there is she.
 
@@ -2076,7 +2076,7 @@
 
 3 Then Job answered the Lord, and said,
 
-4 Behold, I am vile; what will I answer you? I will lay mine hand upon my mouth.
+4 Look, I am vile; what will I answer you? I will lay mine hand upon my mouth.
 
 5 Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.
 
@@ -2090,7 +2090,7 @@
 
 10 Deck thyself now with majesty and excellency; and array thyself with glory and beauty.
 
-11 Cast abroad the rage of your wrath: and behold every one that is proud, and abase him.
+11 Cast abroad the rage of your wrath: and look every one that is proud, and abase him.
 
 12 Look on every one that is proud, and bring him low; and tread down the wicked in their place.
 
@@ -2098,9 +2098,9 @@
 
 14 Then will I also confess to you that your own right hand can save you.
 
-15 Behold now behemoth, which I made with you; he eats grass as an ox.
+15 Look, now behemoth, which I made with you; he eats grass as an ox.
 
-16 Lo now, his strength is in his loins, and his force is in the navel of his belly.
+16 Look, now, his strength is in his loins, and his force is in the navel of his belly.
 
 17 He moves his tail like a cedar: the sinews of his stones are wrapped together.
 
@@ -2114,7 +2114,7 @@
 
 22 The shady trees cover him with their shadow; the willows of the brook compass him about.
 
-23 Behold, he drinks up a river, and hasts not: he trusts that he can draw up Jordan into his mouth.
+23 Look, he drinks up a river, and hasts not: he trusts that he can draw up Jordan into his mouth.
 
 24 He takes it with his eyes: his nose piercs through snares.
 
@@ -2136,7 +2136,7 @@
 
 8 Lay your hand upon him, remember the battle, do no more.
 
-9 Behold, the hope of him is in vain: will not one be cast down even at the sight of him?
+9 Look, the hope of him is in vain: will not one be cast down even at the sight of him?
 
 10 None is so fierce that dare stir him up: who then is able to stand before me?
 

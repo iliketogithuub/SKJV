@@ -314,7 +314,7 @@
 
 20 And the sons of Shimon were, Amnon, and Rinnah, Benhanan, and Tilon. And the sons of Ishi were, Zohs, and Benzohs.
 
-21 The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,
+21 The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them who worked fine linen, of the house of Ashbea,
 
 22 And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And these are ancient things.
 
@@ -744,7 +744,7 @@
 
 ## 1 Chronicles Chapter 9
 
-1 So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their sin.
+1 So all Israel were reckoned by genealogies; and, look, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their sin.
 
 2 Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims.
 
@@ -864,7 +864,7 @@
 
 ## 1 Chronicles Chapter 11
 
-1 Then all Israel gathered themselves to David to Hebron, saying, Behold, we are your bone and your flesh.
+1 Then all Israel gathered themselves to David to Hebron, saying, Look, we are your bone and your flesh.
 
 2 And moreover in time past, even when Saul was king, you wast he that ledd out and brought in Israel: and the Lord your God said to you, you will feed my people Israel, and you will be ruler over my people Israel.
 
@@ -912,7 +912,7 @@
 
 24 These things did Benaiah the son of Jehoiada, and had the name among the three mighties.
 
-25 Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard.
+25 Look, he was honourable among the thirty, but attained not to the first three: and David set him over his guard.
 
 26 Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
 
@@ -1256,7 +1256,7 @@
 
 ## 1 Chronicles Chapter 17
 
-1 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the Lord remains under curtains.
+1 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Look, I dwell in an house of cedars, but the ark of the covenant of the Lord remains under curtains.
 
 2 Then Nathan said to David, Do all that is in your heart; for God is with you.
 
@@ -1434,7 +1434,7 @@
 
 14 So the Lord sent pestilence upon Israel: and there fell of Israel seventy thousand men.
 
-15 And God sent an angel to Jerusalem to destroy it: and as he was destroying, the Lord beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now your hand. And the angel of the Lord stood by the threshingfloor of Ornan the Jebusite.
+15 And God sent an angel to Jerusalem to destroy it: and as he was destroying, the Lord saw, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now your hand. And the angel of the Lord stood by the threshingfloor of Ornan the Jebusite.
 
 16 And David lifted up his eyes, and saw the angel of the Lord stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces.
 
@@ -1450,7 +1450,7 @@
 
 22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar in it to the Lord: you will grant it me for the full price: that the plague may be stayed from the people.
 
-23 And Ornan said to David, Take it to you, and let my lord the king do that which is good in his eyes: lo, I give you the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
+23 And Ornan said to David, Take it to you, and let my lord the king do that which is good in his eyes: look, I give you the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
 
 24 And king David said to Ornan, Nay; but I will truly buy it for the full price: for I will not take that which is your for the Lord, nor offer burnt offerings without cost.
 
@@ -1470,7 +1470,7 @@
 
 1 Then David said, This is the house of the Lord God, and this is the altar of the burnt offering for Israel.
 
-2 And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God.
+2 And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew worked stones to build the house of God.
 
 3 And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;
 
@@ -1484,7 +1484,7 @@
 
 8 But the word of the Lord came to me, saying, you have shed blood abundantly, and have made great wars: you will not build an house to my name, because you have shed much blood upon the earth in my sight.
 
-9 Behold, a son will be born to you, who will be a man of rest; and I will give him rest from all his enemies round about: for his name will be Solomon, and I will give peace and quietness to Israel in his days.
+9 Look, a son will be born to you, who will be a man of rest; and I will give him rest from all his enemies round about: for his name will be Solomon, and I will give peace and quietness to Israel in his days.
 
 10 He will build an house for my name; and he will be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.
 
@@ -1494,7 +1494,7 @@
 
 13 Then will you prosper, if you tak heed to fulfil the statutes and judgments which the Lord charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.
 
-14 Now, behold, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add to it.
+14 Now, look, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add to it.
 
 15 Moreover there are workmen with you in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.
 
@@ -1878,7 +1878,7 @@
 
 20 And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the Lord God, even my God, will be with you; he will not fail you, nor forsake you, until you have finished all the work for the service of the house of the Lord.
 
-21 And, behold, the courses of the priests and the Levites, even they will be with you for all the service of the house of God: and there will be with you for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at your commandment.
+21 And, look, the courses of the priests and the Levites, even they will be with you for all the service of the house of God: and there will be with you for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at your commandment.
 
 ## 1 Chronicles Chapter 29
 
@@ -1938,7 +1938,7 @@
 
 28 And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.
 
-29 Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
+29 Now the acts of David the king, first and last, look, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
 
 30 With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.
 

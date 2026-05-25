@@ -202,7 +202,7 @@
 
 4 And the king said, Who is in the court? Now Haman was come into the outward court of the king's house, to speak to the king to hang Mordecai on the gallows that he had prepared for him.
 
-5 And the king's servants said to him, Behold, Haman stands in the court. And the king said, Let him come in.
+5 And the king's servants said to him, Look, Haman stands in the court. And the king said, Let him come in.
 
 6 So Haman came in. And the king said to him, What will be done to the man whom the king delights to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?
 
@@ -232,7 +232,7 @@
 
 4 For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage.
 
-5 Then the king Ahasuerus answered and said to Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?
+5 Then the king Ahasuerus answered and said to Esther the queen, Who is he, and where is he, that dared presume in his heart to do so?
 
 6 And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen.
 
@@ -240,7 +240,7 @@
 
 8 Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face.
 
-9 And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who spoken good for the king, stands in the house of Haman. Then the king said, Hang him thereon.
+9 And Harbonah, one of the chamberlains, said before the king, Look also, the gallows fifty cubits high, which Haman had made for Mordecai, who spoken good for the king, stands in the house of Haman. Then the king said, Hang him thereon.
 
 10 So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.
 
@@ -258,7 +258,7 @@
 
 6 For how can I endure to see the evil that will come to my people? or how can I endure to see the destruction of my kindred?
 
-7 Then the king Ahasuerus said to Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.
+7 Then the king Ahasuerus said to Esther the queen and to Mordecai the Jew, Look, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.
 
 8 Write you also for the Jews, as it liks you, in the king's name, and seal it with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.
 

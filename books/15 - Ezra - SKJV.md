@@ -488,7 +488,7 @@
 
 14 Should we again break your commandments, and join in affinity with the people of these abominations? would not you be angry with us till you hadst consumed us, so that there should be no remnant nor escaping?
 
-15 O Lord God of Israel, you are righteous: for we remain yet escaped, as it is this day: behold, we are before you in our trespasses: for we cannot stand before you because of this.
+15 O Lord God of Israel, you are righteous: for we remain yet escaped, as it is this day: look, we are before you in our trespasses: for we cannot stand before you because of this.
 
 ## Ezra Chapter 10
 

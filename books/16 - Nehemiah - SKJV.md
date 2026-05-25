@@ -164,9 +164,9 @@
 
 15 And it came to pass, when our enemies heard that it was known to us, and God had brought their counsel to nought, that we returned all of us to the wall, every one to his work.
 
-16 And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah.
+16 And it came to pass from that time forth, that the half of my servants worked in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah.
 
-17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
+17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands worked in the work, and with the other hand held a weapon.
 
 18 For the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me.
 
@@ -190,7 +190,7 @@
 
 4 There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.
 
-5 Yet now our flesh is as the flesh of our brothers, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought to bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.
+5 Yet now our flesh is as the flesh of our brothers, our children as their children: and, look, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought to bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.
 
 6 And I was very angry when I heard their cry and these words.
 
@@ -244,7 +244,7 @@
 
 11 And I said, Should such a man as I flee? and who is there, that, being as I am, would go into the temple to save his life? I will not go in.
 
-12 And, lo, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.
+12 And, look, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.
 
 13 Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.
 
@@ -252,7 +252,7 @@
 
 15 So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days.
 
-16 And it came to pass, that when all our enemies heard of it, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
+16 And it came to pass, that when all our enemies heard of it, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was worked of our God.
 
 17 Moreover in those days the nobles of Judah sent many letters to Tobiah, and the letters of Tobiah came to them.
 
@@ -482,7 +482,7 @@
 
 17 And refused to obey, neither were mindful of your wonders that you did among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but you are a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsook them not.
 
-18 Yea, when they had made them a melted calf, and said, This is your God that brought you up out of Egypt, and had wrought great provocations;
+18 Yea, when they had made them a melted calf, and said, This is your God that brought you up out of Egypt, and had done great provocations;
 
 19 Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way in which they should go.
 
@@ -498,7 +498,7 @@
 
 25 And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in your great goodness.
 
-26 Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and slew your prophets which testified against them to turn them to you, and they wrought great provocations.
+26 Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and slew your prophets which testified against them to turn them to you, and they worked great provocations.
 
 27 Therefore you deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
 
@@ -518,7 +518,7 @@
 
 35 For they have not served you in their kingdom, and in your great goodness that you gav them, and in the large and fat land which you gav before them, neither turned they from their wicked works.
 
-36 Behold, we are servants this day, and for the land that you gav to our fathers to eat the fruit of it and the good of it, behold, we are servants in it:
+36 Look, we are servants this day, and for the land that you gav to our fathers to eat the fruit of it and the good of it, look, we are servants in it:
 
 37 And it yields much increase to the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
 

@@ -30,9 +30,9 @@
 
 14 My beloved is to me as a cluster of camphire in the vineyards of Engedi.
 
-15 Behold, you are fair, my love; behold, you are fair; you have doves' eyes.
+15 Look, you are fair, my love; look, you are fair; you have doves' eyes.
 
-16 Behold, you are fair, my beloved, yea, pleasant: also our bed is green.
+16 Look, you are fair, my beloved, yea, pleasant: also our bed is green.
 
 17 The beams of our house are cedar, and our rafters of fir.
 
@@ -52,13 +52,13 @@
 
 7 I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love, till he please.
 
-8 The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills.
+8 The voice of my beloved! look, he comes leaping upon the mountains, skipping upon the hills.
 
-9 My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, shewing himself through the lattice.
+9 My beloved is like a roe or a young hart: look, he stands behind our wall, he looks forth at the windows, shewing himself through the lattice.
 
 10 My beloved spake, and said to me, Rise up, my love, my fair one, and come away.
 
-11 For, lo, the winter is past, the rain is over and gone;
+11 For, look, the winter is past, the rain is over and gone;
 
 12 The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;
 
@@ -86,7 +86,7 @@
 
 6 Who is this that comes out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
 
-7 Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
+7 Look at his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
 
 8 They all hold swords, being expert in war: every man has his sword upon his thigh because of fear in the night.
 
@@ -94,11 +94,11 @@
 
 10 He made the pillars of it of silver, the bottom of it of gold, the covering of it of purple, the midst of it being paved with love, for the daughters of Jerusalem.
 
-11 Go forth, O you daughters of Zion, and behold king Solomon with the crown with what his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
+11 Go forth, O you daughters of Zion, and look king Solomon with the crown with what his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
 
 ## Song of Solomon Chapter 4
 
-1 Behold, you are fair, my love; behold, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
+1 Look, you are fair, my love; look, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
 
 2 your tes are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
 

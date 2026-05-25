@@ -14,7 +14,7 @@
 
 6 And has made us kings and priests to God and his Father; to him be glory and dominion for ever and ever. Amen.
 
-7 Behold, he comes with clouds; and every eye will see him, and they also which pierced him: and all kindreds of the earth will wail because of him. Even so, Amen.
+7 Look, he comes with clouds; and every eye will see him, and they also which pierced him: and all kindreds of the earth will wail because of him. Even so, Amen.
 
 8 I am Alpha and Omega, the beginning and the ending, says the Lord, which is, and which was, and which is to come, the Almighty.
 
@@ -36,7 +36,7 @@
 
 17 And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying to me, Fear not; I am the first and the last:
 
-18 I am he that lives, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+18 I am he that lives, and was dead; and, look, I am alive for evermore, Amen; and have the keys of hell and of death.
 
 19 Write the things which you have seen, and the things which are, and the things which will be from now on;
 
@@ -62,7 +62,7 @@
 
 9 I know your works, and suffering, and poverty, (but you are rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
-10 Fear none of those things which you will suffer: behold, the devil will cast some of you into prison, that you may be tried; and you will have suffering ten days: be you faithful to death, and I will give you a crown of life.
+10 Fear none of those things which you will suffer: look, the devil will cast some of you into prison, that you may be tried; and you will have suffering ten days: be you faithful to death, and I will give you a crown of life.
 
 11 He that has an ear, let him hear what the Spirit says to the churches; He that overcomes will not be hurt of the second death.
 
@@ -86,7 +86,7 @@
 
 21 And I gave her space to repent of her fornication; and she repented not.
 
-22 Behold, I will cast her into a bed, and them that commit adultery with her into great suffering, except they repent of their deeds.
+22 Look, I will cast her into a bed, and them that commit adultery with her into great suffering, except they repent of their deeds.
 
 23 And I will kill her children with death; and all the churches will know that I am he which searchs the reins and hearts: and I will give to every one of you according to your works.
 
@@ -118,13 +118,13 @@
 
 7 And to the angel of the church in Philadelphia write; These things says he that is holy, he that is true, he that has the key of David, he that opens, and no man shutts; and shutts, and no man opens;
 
-8 I know your works: behold, I have set before you an open door, and no man can shut it: for you have a little strength, and have kept my word, and have not denied my name.
+8 I know your works: look, I have set before you an open door, and no man can shut it: for you have a little strength, and have kept my word, and have not denied my name.
 
-9 Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before your feet, and to know that I have loved you.
+9 Look, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; look, I will make them to come and worship before your feet, and to know that I have loved you.
 
 10 Because you have kept the word of my patience, I also will keep you from the hour of temptation, which will come upon all the world, to try them that dwell upon the earth.
 
-11 Behold, I come quickly: hold that fast which you have, that no man take your crown.
+11 Look, I come quickly: hold that fast which you have, that no man take your crown.
 
 12 Him that overcomes will I make a pillar in the temple of my God, and he will go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which comes down out of heaven from my God: and I will write upon him my new name.
 
@@ -142,7 +142,7 @@
 
 19 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 
-20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+20 Look, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 
 21 To him that overcomes will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
 
@@ -150,9 +150,9 @@
 
 ## Revelation Chapter 4
 
-1 After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will shew you things which must be from now on.
+1 After this I looked, and, look, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will shew you things which must be from now on.
 
-2 And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
+2 And immediately I was in the spirit: and, look, a throne was set in heaven, and one sat on the throne.
 
 3 And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like to an emerald.
 
@@ -182,9 +182,9 @@
 
 4 And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
 
-5 And one of the elders says to me, Weep not: behold, the Lion of the tribe of Judah, the Root of David, has prevailed to open the book, and to loose the seven seals of it.
+5 And one of the elders says to me, Weep not: look, the Lion of the tribe of Judah, the Root of David, has prevailed to open the book, and to loose the seven seals of it.
 
-6 And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+6 And I looked, and, look, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 
 7 And he came and took the book out of the right hand of him that sat upon the throne.
 
@@ -194,7 +194,7 @@
 
 10 And have made us to our God kings and priests: and we will reign on the earth.
 
-11 And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+11 And I looked, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
 
 12 Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 
@@ -206,19 +206,19 @@
 
 1 And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 
-2 And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given to him: and he went forth conquering, and to conquer.
+2 And I saw, and look, a white horse: and he that sat on him had a bow; and a crown was given to him: and he went forth conquering, and to conquer.
 
 3 And when he had opened the second seal, I heard the second beast say, Come and see.
 
 4 And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given to him a great sword.
 
-5 And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
+5 And when he had opened the third seal, I heard the third beast say, Come and see. And I looked, and look, a black horse; and he that sat on him had a pair of balances in his hand.
 
 6 And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see you hurt not the oil and the wine.
 
 7 And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
 
-8 And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given to them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
+8 And I looked, and look, a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given to them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 
 9 And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
 
@@ -226,7 +226,7 @@
 
 11 And white robes were given to every one of them; and it was said to them, that they should rest yet for a little season, until their fellowservants also and their brothers, that should be killed as they were, should be fulfilled.
 
-12 And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+12 And I saw when he had opened the sixth seal, and, look, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
 
 13 And the stars of heaven fell to the earth, even as a fig tree casts her untimely figs, when she is shaken of a mighty wind.
 
@@ -256,7 +256,7 @@
 
 8 Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 
-9 After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+9 After this I looked, and, look, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
 
 10 And cried with a loud voice, saying, Salvation to our God which sitts upon the throne, and to the Lamb.
 
@@ -300,7 +300,7 @@
 
 12 And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
 
-13 And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
+13 And I looked, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
 
 ## Revelation Chapter 9
 
@@ -326,7 +326,7 @@
 
 11 And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue has his name Apollyon.
 
-12 One woe is past; and, behold, there come two woes more from now on.
+12 One woe is past; and, look, there come two woes more from now on.
 
 13 And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
 
@@ -394,11 +394,11 @@
 
 11 And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 
-12 And they heard a great voice from heaven saying to them, Come up here. And they ascended up to heaven in a cloud; and their enemies beheld them.
+12 And they heard a great voice from heaven saying to them, Come up here. And they ascended up to heaven in a cloud; and their enemies saw them.
 
 13 And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven.
 
-14 The second woe is past; and, behold, the third woe comes quickly.
+14 The second woe is past; and, look, the third woe comes quickly.
 
 15 And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he will reign for ever and ever.
 
@@ -416,7 +416,7 @@
 
 2 And she being with child cried, travailing in birth, and pained to be delivered.
 
-3 And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
+3 And there appeared another wonder in heaven; and look, a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 
 4 And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 
@@ -468,7 +468,7 @@
 
 10 He that leads into captivity will go into captivity: he that kills with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 
-11 And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+11 And I saw another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 
 12 And he exerciss all the power of the first beast before him, and causes the earth and them which dwell in it to worship the first beast, whose deadly wound was healed.
 
@@ -486,7 +486,7 @@
 
 ## Revelation Chapter 14
 
-1 And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads.
+1 And I looked, and, look, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads.
 
 2 And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
 
@@ -512,7 +512,7 @@
 
 13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Spirit, that they may rest from their labours; and their works do follow them.
 
-14 And I looked, and behold a white cloud, and upon the cloud one sat like to the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
+14 And I looked, and look, a white cloud, and upon the cloud one sat like to the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 
 15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in your sickle, and reap: for the time is come for you to reap; for the harvest of the earth is ripe.
 
@@ -536,7 +536,7 @@
 
 4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made manifest.
 
-5 And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
+5 And after that I looked, and, look, the temple of the tabernacle of the testimony in heaven was opened:
 
 6 And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
 
@@ -574,7 +574,7 @@
 
 14 For they are the spirits of devils, working miracles, which go forth to the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 
-15 Behold, I come as a thief. Blessed is he that watchs, and keeps his garments, otherwise he walk naked, and they see his shame.
+15 Look, I come as a thief. Blessed is he that watchs, and keeps his garments, otherwise he walk naked, and they see his shame.
 
 16 And he gathered them together into a place called in the Hebrew tongue Armageddon.
 
@@ -604,7 +604,7 @@
 
 7 And the angel said to me, therefore did you marvel? I will tell you the mystery of the woman, and of the beast that carris her, which has the seven heads and ten horns.
 
-8 The beast that you saw was, and is not; and will ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth will wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
+8 The beast that you saw was, and is not; and will ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth will wonder, whose names were not written in the book of life from the foundation of the world, when they look at the beast that was, and is not, and yet is.
 
 9 And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sitts.
 
@@ -698,7 +698,7 @@
 
 10 And I fell at his feet to worship him. And he said to me, See you do it not: I am your fellowservant, and of your brothers that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
-11 And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he does judge and make war.
+11 And I saw heaven opened, and look, a white horse; and he that sat upon him was called Faithful and True, and in righteousness he does judge and make war.
 
 12 His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
 
@@ -716,7 +716,7 @@
 
 19 And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
 
-20 And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
+20 And the beast was taken, and with him the false prophet that performed miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
 21 And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
@@ -758,11 +758,11 @@
 
 2 And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 
-3 And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they will be his people, and God himself will be with them, and be their God.
+3 And I heard a great voice out of heaven saying, Look, the tabernacle of God is with men, and he will dwell with them, and they will be his people, and God himself will be with them, and be their God.
 
 4 And God will wipe away all tears from their eyes; and there will be no more death, neither sorrow, nor crying, neither will there be any more pain: for the former things are passed away.
 
-5 And he that sat upon the throne said, Behold, I make all things new. And he said to me, Write: for these words are true and faithful.
+5 And he that sat upon the throne said, Look, I make all things new. And he said to me, Write: for these words are true and faithful.
 
 6 And he said to me, It is done. I am Alpha and Omega, the beginning and the end. I will give to him that is athirst of the fountain of the water of life freely.
 
@@ -822,7 +822,7 @@
 
 6 And he said to me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew to his servants the things which must shortly be done.
 
-7 Behold, I come quickly: blessed is he that keeps the sayings of the prophecy of this book.
+7 Look, I come quickly: blessed is he that keeps the sayings of the prophecy of this book.
 
 8 And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
 
@@ -832,7 +832,7 @@
 
 11 He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
 
-12 And, behold, I come quickly; and my reward is with me, to give every man according as his work will be.
+12 And, look, I come quickly; and my reward is with me, to give every man according as his work will be.
 
 13 I am Alpha and Omega, the beginning and the end, the first and the last.
 

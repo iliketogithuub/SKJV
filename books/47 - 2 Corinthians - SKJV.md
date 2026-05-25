@@ -100,7 +100,7 @@
 
 6 Who also has made us able ministers of the new testament; not of the letter, but of the spirit: for the letter kills, but the spirit gives life.
 
-7 But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:
+7 But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly look at the face of Moses for the glory of his countenance; which glory was to be done away:
 
 8 How will not the ministration of the spirit be rather glorious?
 
@@ -122,7 +122,7 @@
 
 17 Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
 
-18 But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
+18 But we all, with open face looking as in a mirror the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
 
 ## 2 Corinthians Chapter 4
 
@@ -172,7 +172,7 @@
 
 4 For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
-5 Now he that has wrought us for the selfsame thing is God, who also has given to us the earnest of the Spirit.
+5 Now he that has done us for the selfsame thing is God, who also has given to us the earnest of the Spirit.
 
 6 Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
 
@@ -210,7 +210,7 @@
 
 1 We then, as workers together with him, urge you also that you receive not the grace of God in vain.
 
-2 (For he says, I have heard you in a time accepted, and in the day of salvation have I succoured you: behold, now is the accepted time; behold, now is the day of salvation.)
+2 (For he says, I have heard you in a time accepted, and in the day of salvation have I succoured you: look, now is the accepted time; look, now is the day of salvation.)
 
 3 Giving no offence in any thing, that the ministry be not blamed:
 
@@ -224,7 +224,7 @@
 
 8 By honour and dishonour, by evil report and good report: as deceivers, and yet true;
 
-9 As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;
+9 As unknown, and yet well known; as dying, and, look, we live; as chastened, and not killed;
 
 10 As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
 
@@ -266,7 +266,7 @@
 
 10 For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
 
-11 For behold this selfsame thing, that you sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things you have approved yourselves to be clear in this matter.
+11 For look this selfsame thing, that you sorrowed after a godly sort, what carefulness it worked in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things you have approved yourselves to be clear in this matter.
 
 12 therefore, though I wrote to you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear to you.
 
@@ -490,11 +490,11 @@
 
 11 I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
 
-12 Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+12 Truly the signs of an apostle were performed among you in all patience, in signs, and wonders, and mighty deeds.
 
 13 For what is it in which you were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
 
-14 Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours but you: for the children ought not to lay up for the parents, but the parents for the children.
+14 Look, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours but you: for the children ought not to lay up for the parents, but the parents for the children.
 
 15 And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
 
@@ -508,7 +508,7 @@
 
 20 For I fear, otherwise, when I come, I will not find you such as I would, and that I will be found to you such as you would not: otherwise there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 
-21 And otherwise, when I come again, my God will humble me among you, and that I will bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.
+21 And otherwise, when I come again, my God will humble me among you, and that I will bewail many which have sinned already, and have not repented of the uncleanness and fornication and sensuality which they have committed.
 
 ## 2 Corinthians Chapter 13
 

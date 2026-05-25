@@ -8,7 +8,7 @@
 
 3 Beloved, when I gave all diligence to write to you of the common salvation, it was needful for me to write to you, and encourage you that you should earnestly contend for the faith which was once delivered to the saints.
 
-4 For there are certain men crept in unawares, who were before of old ordained to this judgment, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
+4 For there are certain men crept in unawares, who were before of old ordained to this judgment, ungodly men, turning the grace of our God into sensuality, and denying the only Lord God, and our Lord Jesus Christ.
 
 5 I will therefore put you in remembrance, though you once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 
@@ -18,17 +18,17 @@
 
 8 Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
-9 Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke you.
+9 Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, dared not bring against him a railing accusation, but said, The Lord rebuke you.
 
 10 But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.
 
 11 Woe to them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the rebellion of Core.
 
-12 These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withers, without fruit, twice dead, plucked up by the roots;
+12 These are spots in your love feasts, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withers, without fruit, twice dead, plucked up by the roots;
 
 13 Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
 
-14 And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord comes with ten thousands of his saints,
+14 And Enoch also, the seventh from Adam, prophesied of these, saying, Look, the Lord comes with ten thousands of his saints,
 
 15 To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
 

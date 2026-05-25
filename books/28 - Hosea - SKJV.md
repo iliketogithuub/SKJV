@@ -36,7 +36,7 @@
 
 5 For their mother has played the harlot: she that conceived them has done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.
 
-6 Therefore, behold, I will hedge up your way with thorns, and make a wall, that she will not find her paths.
+6 Therefore, look, I will hedge up your way with thorns, and make a wall, that she will not find her paths.
 
 7 And she will follow after her lovers, but she will not overtake them; and she will seek them, but will not find them: then will she say, I will go and return to my first husband; for then was it better with me than now.
 
@@ -52,7 +52,7 @@
 
 13 And I will visit upon her the days of Baalim, in which she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, says the Lord.
 
-14 Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably to her.
+14 Therefore, look, I will allure her, and bring her into the wilderness, and speak comfortably to her.
 
 15 And I will give her her vineyards from from there, and the valley of Achor for a door of hope: and she will sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 
@@ -256,7 +256,7 @@
 
 5 What will you do in the solemn day, and in the day of the feast of the Lord?
 
-6 For, lo, they are gone because of destruction: Egypt will gather them up, Memphis will bury them: the pleasant places for their silver, nettles will possess them: thorns will be in their tabernacles.
+6 For, look, they are gone because of destruction: Egypt will gather them up, Memphis will bury them: the pleasant places for their silver, nettles will possess them: thorns will be in their tabernacles.
 
 7 The days of visitation are come, the days of recompence are come; Israel will know it: the prophet is a fool, the spiritual man is mad, for the multitude of your iniquity, and the great hatred.
 

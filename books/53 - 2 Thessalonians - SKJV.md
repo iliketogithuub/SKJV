@@ -78,7 +78,7 @@
 
 7 For yourselves know how you ought to follow us: for we behaved not ourselves disorderly among you;
 
-8 Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
+8 Neither did we eat any man's bread for nought; but worked with labour and travail night and day, that we might not be chargeable to any of you:
 
 9 Not because we have not power, but to make ourselves an example to you to follow us.
 

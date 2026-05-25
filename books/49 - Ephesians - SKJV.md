@@ -40,7 +40,7 @@
 
 19 And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
 
-20 Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+20 Which he worked in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
 
 21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
 
@@ -176,7 +176,7 @@
 
 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 
-19 Who being past feeling have given themselves over to lasciviousness, to work all uncleanness with greediness.
+19 Who being past feeling have given themselves over to sensuality, to work all uncleanness with greediness.
 
 20 But you have not so learned Christ;
 

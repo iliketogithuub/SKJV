@@ -16,11 +16,11 @@
 
 7 Turn you, and take your journey, and go to the mount of the Amorites, and to all the places near thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and to Lebanon, to the great river, the river Euphrates.
 
-8 Behold, I have set the land before you: go in and possess the land which the Lord sware to your fathers, Abraham, Isaac, and Jacob, to give to them and to their seed after them.
+8 Look, I have set the land before you: go in and possess the land which the Lord sware to your fathers, Abraham, Isaac, and Jacob, to give to them and to their seed after them.
 
 9 And I spake to you at that time, saying, I am not able to bear you myself alone:
 
-10 The Lord your God has multiplied you, and, behold, you are this day as the stars of heaven for multitude.
+10 The Lord your God has multiplied you, and, look, you are this day as the stars of heaven for multitude.
 
 11 (The Lord God of your fathers make you a thousand times so many more as you are, and bless you, as he has promised you!)
 
@@ -42,7 +42,7 @@
 
 20 And I said to you, you are come to the mountain of the Amorites, which the Lord our God does give to us.
 
-21 Behold, the Lord your God has set the land before you: go up and possess it, as the Lord God of your fathers has said to you; fear not, neither be discouraged.
+21 Look, the Lord your God has set the land before you: go up and possess it, as the Lord God of your fathers has said to you; fear not, neither be discouraged.
 
 22 And you came near to me every one of you, and said, We will send men before us, and they will search us out the land, and bring us word again by what way we must go up, and into what cities we will come.
 
@@ -142,7 +142,7 @@
 
 23 And the Avims which dwelt in Hazerim, even to Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
 
-24 Rise you up, take your journey, and pass over the river Arnon: behold, I have given into your hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle.
+24 Rise you up, take your journey, and pass over the river Arnon: look, I have given into your hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle.
 
 25 This day will I begin to put the dread of you and the fear of you upon the nations that are under the whole heaven, who will hear report of you, and will tremble, and be in anguish because of you.
 
@@ -156,7 +156,7 @@
 
 30 But Sihon king of Heshbon would not let us pass by him: for the Lord your God hardened his spirit, and made his heart obstinate, that he might deliver him into your hand, as appears this day.
 
-31 And the Lord said to me, Behold, I have begun to give Sihon and his land before you: begin to possess, that you may inherit his land.
+31 And the Lord said to me, Look, I have begun to give Sihon and his land before you: begin to possess, that you may inherit his land.
 
 32 Then Sihon came out against us, he and all his people, to fight at Jahaz.
 
@@ -192,7 +192,7 @@
 
 10 All the cities of the plain, and all Gilead, and all Bashan, to Salchah and Edrei, cities of the kingdom of Og in Bashan.
 
-11 For only Og king of Bashan remained of the remnant of giants; behold his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length of it, and four cubits the breadth of it, after the cubit of a man.
+11 For only Og king of Bashan remained of the remnant of giants; look at his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length of it, and four cubits the breadth of it, after the cubit of a man.
 
 12 And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities of it, gave I to the Reubenites and to the Gadites.
 
@@ -224,7 +224,7 @@
 
 26 But the Lord was furious with me for your sakes, and would not hear me: and the Lord said to me, Let it suffice you; speak no more to me of this matter.
 
-27 Get you up into the top of Pisgah, and lift up your eyes westward, and northward, and southward, and eastward, and behold it with your eyes: for you will not go over this Jordan.
+27 Get you up into the top of Pisgah, and lift up your eyes westward, and northward, and southward, and eastward, and look at it with your eyes: for you will not go over this Jordan.
 
 28 But charge Joshua, and encourage him, and strengthen him: for he will go over before this people, and he will cause them to inherit the land which you will see.
 
@@ -240,7 +240,7 @@
 
 4 But you that did cleave to the Lord your God are alive every one of you this day.
 
-5 Behold, I have taught you statutes and judgments, even as the Lord my God commanded me, that you should do so in the land where you go to possess it.
+5 Look, I have taught you statutes and judgments, even as the Lord my God commanded me, that you should do so in the land where you go to possess it.
 
 6 Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which will hear all these statutes, and say, Surely this great nation is a wise and understanding people.
 
@@ -378,7 +378,7 @@
 
 23 And it came to pass, when you heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that you came near to me, even all the heads of your tribes, and your elders;
 
-24 And you said, Behold, the Lord our God has shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God does talk with man, and he lives.
+24 And you said, Look, the Lord our God has shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God does talk with man, and he lives.
 
 25 Now therefore why should we die? for this great fire will consume us: if we hear the voice of the Lord our God any more, then we will die.
 
@@ -572,13 +572,13 @@
 
 12 And the Lord said to me, Arise, get you down quickly from hence; for your people which you have brought forth out of Egypt have corrupted themselves; they are quickly turned aside out of the way which I commanded them; they have made them a melted image.
 
-13 Furthermore the Lord spake to me, saying, I have seen this people, and, behold, it is a stiffnecked people:
+13 Furthermore the Lord spake to me, saying, I have seen this people, and, look, it is a stiffnecked people:
 
 14 Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of you a nation mightier and greater than they.
 
 15 So I turned and came down from the mount, and the mount burned with fire: and the two tables of the covenant were in my two hands.
 
-16 And I looked, and, behold, you had sinned against the Lord your God, and had made you a melted calf: you had turned aside quickly out of the way which the Lord had commanded you.
+16 And I looked, and, look, you had sinned against the Lord your God, and had made you a melted calf: you had turned aside quickly out of the way which the Lord had commanded you.
 
 17 And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
 
@@ -634,7 +634,7 @@
 
 13 To keep the commandments of the Lord, and his statutes, which I command you this day for your good?
 
-14 Behold, the heaven and the heaven of heavens is the Lord's your God, the earth also, with all that in it is.
+14 Look, the heaven and the heaven of heavens is the Lord's your God, the earth also, with all that in it is.
 
 15 Only the Lord had a delight in your fathers to love them, and he chose their seed after them, even you above all people, as it is this day.
 
@@ -704,7 +704,7 @@
 
 25 There will no man be able to stand before you: for the Lord your God will lay the fear of you and the dread of you upon all the land that you will tread upon, as he has said to you.
 
-26 Behold, I set before you this day a blessing and a curse;
+26 Look, I set before you this day a blessing and a curse;
 
 27 A blessing, if you obey the commandments of the Lord your God, which I command you this day:
 
@@ -812,7 +812,7 @@
 
 13 Certain men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which you have not known;
 
-14 Then will you enquire, and make search, and ask diligently; and, behold, if it be truth, and the thing certain, that such abomination is wrought among you;
+14 Then will you enquire, and make search, and ask diligently; and, look, if it be truth, and the thing certain, that such abomination is performed among you;
 
 15 you will surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that is in it, and the cattle of it, with the edge of the sword.
 
@@ -980,11 +980,11 @@
 
 1 you will not sacrifice to the Lord your God any bullock, or sheep, in which is blemish, or any evilfavouredness: for that is an abomination to the Lord your God.
 
-2 If there be found among you, within any of your gates which the Lord your God gives you, man or woman, that has wrought wickedness in the sight of the Lord your God, in transgressing his covenant,
+2 If there be found among you, within any of your gates which the Lord your God gives you, man or woman, that has done wickedness in the sight of the Lord your God, in transgressing his covenant,
 
 3 And has gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;
 
-4 And it be told you, and you have heard of it, and enquired diligently, and, behold, it be true, and the thing certain, that such abomination is wrought in Israel:
+4 And it be told you, and you have heard of it, and enquired diligently, and, look, it be true, and the thing certain, that such abomination is done in Israel:
 
 5 Then will you bring forth that man or that woman, which have committed that wicked thing, to your gates, even that man or that woman, and will stone them with stones, till they die.
 
@@ -1100,7 +1100,7 @@
 
 17 Then both the men, between whom the controversy is, will stand before the Lord, before the priests and the judges, which will be in those days;
 
-18 And the judges will make diligent inquisition: and, behold, if the witness be a false witness, and has testified falsely against his brother;
+18 And the judges will make diligent inquisition: and, look, if the witness be a false witness, and has testified falsely against his brother;
 
 19 Then will you do to him, as he had thought to have done to his brother: so will you put the evil away from among you.
 
@@ -1156,7 +1156,7 @@
 
 2 Then your elders and your judges will come forth, and they will measure to the cities which are round about him that is slain:
 
-3 And it will be, that the city which is next to the slain man, even the elders of that city will take an heifer, which has not been wrought with, and which has not drawn in the yoke;
+3 And it will be, that the city which is next to the slain man, even the elders of that city will take an heifer, which has not worked, and which has not drawn in the yoke;
 
 4 And the elders of that city will bring down the heifer to a rough valley, which is neither eared nor sown, and will strike off the heifer's neck there in the valley:
 
@@ -1232,7 +1232,7 @@
 
 16 And the young woman's father will say to the elders, I gave my daughter to this man to wife, and he hates her;
 
-17 And, lo, he has given occasions of speech against her, saying, I found not your daughter a maid; and yet these are the tokens of my daughter's virginity. And they will spread the cloth before the elders of the city.
+17 And, look, he has given occasions of speech against her, saying, I found not your daughter a maid; and yet these are the tokens of my daughter's virginity. And they will spread the cloth before the elders of the city.
 
 18 And the elders of that city will take that man and discipline him;
 
@@ -1240,7 +1240,7 @@
 
 20 But if this thing be true, and the tokens of virginity be not found for the young woman:
 
-21 Then they will bring out the young woman to the door of her father's house, and the men of her city will stone her with stones that she die: because she has wrought folly in Israel, to play the whore in her father's house: so will you put evil away from among you.
+21 Then they will bring out the young woman to the door of her father's house, and the men of her city will stone her with stones that she die: because she has done folly in Israel, to play the whore in her father's house: so will you put evil away from among you.
 
 22 If a man be found lying with a woman married to an husband, then they will both of them die, both the man that lay with the woman, and the woman: so will you put away evil from Israel.
 
@@ -1410,7 +1410,7 @@
 
 5 And you will speak and say before the Lord your God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
 
-6 And the Egyptians evil entreated us, and afflicted us, and laid upon us hard bondage:
+6 And the Egyptians mistreated us, and afflicted us, and laid upon us hard bondage:
 
 7 And when we cried to the Lord God of our fathers, the Lord heard our voice, and looked on our affliction, and our labour, and our oppression:
 
@@ -1418,7 +1418,7 @@
 
 9 And he has brought us into this place, and has given us this land, even a land that flows with milk and honey.
 
-10 And now, behold, I have brought the firstfruits of the land, which you, O Lord, have given me. And you will set it before the Lord your God, and worship before the Lord your God:
+10 And now, look, I have brought the firstfruits of the land, which you, O Lord, have given me. And you will set it before the Lord your God, and worship before the Lord your God:
 
 11 And you will rejoice in every good thing which the Lord your God has given to you, and to your house, you, and the Levite, and the stranger that is among you.
 
@@ -1760,15 +1760,15 @@
 
 13 And that their children, which have not known any thing, may hear, and learn to fear the Lord your God, as long as you live in the land where you go over Jordan to possess it.
 
-14 And the Lord said to Moses, Behold, your days approach that you must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
+14 And the Lord said to Moses, Look, your days approach that you must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
 
 15 And the Lord appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.
 
-16 And the Lord said to Moses, Behold, you will sleep with your fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
+16 And the Lord said to Moses, Look, you will sleep with your fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
 
 17 Then my anger will be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?
 
-18 And I will surely hide my face in that day for all the evils which they will have wrought, in that they are turned to other gods.
+18 And I will surely hide my face in that day for all the evils which they will have done, in that they are turned to other gods.
 
 19 Now therefore write you this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
 
@@ -1786,7 +1786,7 @@
 
 26 Take this book of the law, and put it in the side of the ark of the covenant of the Lord your God, that it may be there for a witness against you.
 
-27 For I know your rebellion, and your stiff neck: behold, while I am yet alive with you this day, you have been rebellious against the Lord; and how much more after my death?
+27 For I know your rebellion, and your stiff neck: look, while I am yet alive with you this day, you have been rebellious against the Lord; and how much more after my death?
 
 28 Gather to me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
 
@@ -1892,7 +1892,7 @@
 
 48 And the Lord spake to Moses that selfsame day, saying,
 
-49 Get you up into this mountain Abarim, to mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give to the children of Israel for a possession:
+49 Get you up into this mountain Abarim, to mount Nebo, which is in the land of Moab, that is over against Jericho; and look at the land of Canaan, which I give to the children of Israel for a possession:
 
 50 And die in the mount where you go up, and be gathered to your people; as Aaron your brother died in mount Hor, and was gathered to his people:
 

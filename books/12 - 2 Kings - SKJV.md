@@ -18,7 +18,7 @@
 
 8 And they answered him, He was an hairy man, and girt with a belt of leather about his loins. And he said, It is Elijah the Tishbite.
 
-9 Then the king sent to him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake to him, you man of God, the king has said, Come down.
+9 Then the king sent to him a captain of fifty with his fifty. And he went up to him: and, look, he sat on the top of an hill. And he spake to him, you man of God, the king has said, Come down.
 
 10 And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume you and your fifty. And there came down fire from heaven, and consumed him and his fifty.
 
@@ -28,7 +28,7 @@
 
 13 And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and urged him, and said to him, O man of God, I pray you, let my life, and the life of these fifty your servants, be precious in your sight.
 
-14 Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in your sight.
+14 Look, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in your sight.
 
 15 And the angel of the Lord said to Elijah, Go down with him: be not afraid of him. And he arose, and went down with him to the king.
 
@@ -60,7 +60,7 @@
 
 10 And he said, you have asked a hard thing: nevertheless, if you see me when I am taken from you, it will be so to you; but if not, it will not be so.
 
-11 And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both apart; and Elijah went up by a whirlwind into heaven.
+11 And it came to pass, as they still went on, and talked, that, look, there appeared a chariot of fire, and horses of fire, and parted them both apart; and Elijah went up by a whirlwind into heaven.
 
 12 And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen of it. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.
 
@@ -70,13 +70,13 @@
 
 15 And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah does rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.
 
-16 And they said to him, Behold now, there be with your servants fifty strong men; let them go, we pray you, and seek your master: otherwise perhaps the Spirit of the Lord has taken him up, and cast him upon some mountain, or into some valley. And he said, you will not send.
+16 And they said to him, Look, now, there be with your servants fifty strong men; let them go, we pray you, and seek your master: otherwise perhaps the Spirit of the Lord has taken him up, and cast him upon some mountain, or into some valley. And he said, you will not send.
 
 17 And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.
 
 18 And when they came again to him, (for he tarried at Jericho,) he said to them, Did I not say to you, Go not?
 
-19 And the men of the city said to Elisha, Behold, I pray you, the situation of this city is pleasant, as my lord sees: but the water is naught, and the ground barren.
+19 And the men of the city said to Elisha, Look, I pray you, the situation of this city is pleasant, as my lord sees: but the water is naught, and the ground barren.
 
 20 And he said, Bring me a new cruse, and put salt in it. And they brought it to him.
 
@@ -94,7 +94,7 @@
 
 1 Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 
-2 And he wrought evil in the sight of the Lord; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
+2 And he worked evil in the sight of the Lord; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
 
 3 Nevertheless he cleaved to the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
 
@@ -130,7 +130,7 @@
 
 19 And you will smite every fenced city, and every choice city, and will fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
 
-20 And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.
+20 And it came to pass in the morning, when the meat offering was offered, that, look, there came water by the way of Edom, and the country was filled with water.
 
 21 And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.
 
@@ -164,7 +164,7 @@
 
 8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as oft as he passed by, he turned in there to eat bread.
 
-9 And she said to her husband, Behold now, I perceive that this is an holy man of God, which passs by us continually.
+9 And she said to her husband, Look, now, I perceive that this is an holy man of God, which passs by us continually.
 
 10 Let us make a little chamber, I pray you, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it will be, when he comes to us, that he will turn in there.
 
@@ -172,7 +172,7 @@
 
 12 And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him.
 
-13 And he said to him, Say now to her, Behold, you have been careful for us with all this care; what is to be done for you? would you be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.
+13 And he said to him, Say now to her, Look, you have been careful for us with all this care; what is to be done for you? would you be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.
 
 14 And he said, What then is to be done for her? And Gehazi answered, Truly she has no child, and her husband is old.
 
@@ -196,7 +196,7 @@
 
 24 Then she saddled an ass, and said to her servant, Drive, and go forward; slack not your riding for me, except I bid you.
 
-25 So she went and came to the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:
+25 So she went and came to the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Look, yonder is that Shunammite:
 
 26 Run now, I pray you, to meet her, and say to her, Is it well with you? is it well with your husband? is it well with the child? And she answered, It is well:
 
@@ -210,7 +210,7 @@
 
 31 And Gehazi passed on before them, and laid the staff upon the face of the child; but there was neither voice, nor hearing. therefore he went again to meet him, and told him, saying, The child is not awaked.
 
-32 And when Elisha was come into the house, behold, the child was dead, and laid upon his bed.
+32 And when Elisha was come into the house, look, the child was dead, and laid upon his bed.
 
 33 He went in therefore, and shut the door upon them two, and prayed to the Lord.
 
@@ -248,7 +248,7 @@
 
 5 And the king of Syria said, Go to, go, and I will send a letter to the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of clothing.
 
-6 And he brought the letter to the king of Israel, saying, Now when this letter is come to you, behold, I have with it sent Naaman my servant to you, that you may recover him of his leprosy.
+6 And he brought the letter to the king of Israel, saying, Now when this letter is come to you, look, I have with it sent Naaman my servant to you, that you may recover him of his leprosy.
 
 7 And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man does send to me to recover a man of his leprosy? therefore consider, I pray you, and see how he seeks a quarrel against me.
 
@@ -258,7 +258,7 @@
 
 10 And Elisha sent a messenger to him, saying, Go and wash in Jordan seven times, and your flesh will come again to you, and you will be clean.
 
-11 But Naaman was furious, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the Lord his God, and strike his hand over the place, and recover the leper.
+11 But Naaman was furious, and went away, and said, Look, I thought, He will surely come out to me, and stand, and call on the name of the Lord his God, and strike his hand over the place, and recover the leper.
 
 12 Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
 
@@ -266,7 +266,7 @@
 
 14 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like to the flesh of a little child, and he was clean.
 
-15 And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray you, take a blessing of your servant.
+15 And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Look, now I know that there is no God in all the earth, but in Israel: now therefore, I pray you, take a blessing of your servant.
 
 16 But he said, As the Lord lives, before whom I stand, I will receive none. And he urged him to take it; but he refused.
 
@@ -276,11 +276,11 @@
 
 19 And he said to him, Go in peace. So he departed from him a little way.
 
-20 But Gehazi, the servant of Elisha the man of God, said, Behold, my master has spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the Lord lives, I will run after him, and take somewhat of him.
+20 But Gehazi, the servant of Elisha the man of God, said, Look, my master has spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the Lord lives, I will run after him, and take somewhat of him.
 
 21 So Gehazi followed after Naaman. And when Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well?
 
-22 And he said, All is well. My master has sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray you, a talent of silver, and two changes of garments.
+22 And he said, All is well. My master has sent me, saying, Look, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray you, a talent of silver, and two changes of garments.
 
 23 And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him.
 
@@ -294,7 +294,7 @@
 
 ## 2 Kings Chapter 6
 
-1 And the sons of the prophets said to Elisha, Behold now, the place where we dwell with you is too strait for us.
+1 And the sons of the prophets said to Elisha, Look, now, the place where we dwell with you is too strait for us.
 
 2 Let us go, we pray you, to Jordan, and take from there every man a beam, and let us make us a place there, where we may dwell. And he answered, Go you.
 
@@ -318,21 +318,21 @@
 
 12 And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, tells the king of Israel the words that you speak in your bedchamber.
 
-13 And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Behold, he is in Dothan.
+13 And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Look, he is in Dothan.
 
 14 Therefore sent he there horses, and chariots, and a great host: and they came by night, and compassed the city about.
 
-15 And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said to him, Alas, my master! how will we do?
+15 And when the servant of the man of God was risen early, and gone forth, look, an host compassed the city both with horses and chariots. And his servant said to him, Alas, my master! how will we do?
 
 16 And he answered, Fear not: for they that be with us are more than they that be with them.
 
-17 And Elisha prayed, and said, Lord, I pray you, open his eyes, that he may see. And the Lord opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha.
+17 And Elisha prayed, and said, Lord, I pray you, open his eyes, that he may see. And the Lord opened the eyes of the young man; and he saw: and, look, the mountain was full of horses and chariots of fire round about Elisha.
 
 18 And when they came down to him, Elisha prayed to the Lord, and said, Smite this people, I pray you, with blindness. And he struck them with blindness according to the word of Elisha.
 
 19 And Elisha said to them, This is not the way, neither is this the city: follow me, and I will bring you to the man whom you seek. But he led them to Samaria.
 
-20 And it came to pass, when they were come into Samaria, that Elisha said, Lord, open the eyes of these men, that they may see. And the Lord opened their eyes, and they saw; and, behold, they were in the midst of Samaria.
+20 And it came to pass, when they were come into Samaria, that Elisha said, Lord, open the eyes of these men, that they may see. And the Lord opened their eyes, and they saw; and, look, they were in the midst of Samaria.
 
 21 And the king of Israel said to Elisha, when he saw them, My father, will I smite them? will I smite them?
 
@@ -342,7 +342,7 @@
 
 24 And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.
 
-25 And there was a great famine in Samaria: and, behold, they besieged it, until an ass's head was sold for fourscore pieces of silver, and the fourth part of a cab of dove's dung for five pieces of silver.
+25 And there was a great famine in Samaria: and, look, they besieged it, until an ass's head was sold for fourscore pieces of silver, and the fourth part of a cab of dove's dung for five pieces of silver.
 
 26 And as the king of Israel was passing by upon the wall, there cried a woman to him, saying, Help, my lord, O king.
 
@@ -352,27 +352,27 @@
 
 29 So we boiled my son, and did eat him: and I said to her on the next day, Give your son, that we may eat him: and she has hid her son.
 
-30 And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh.
+30 And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, look, he had sackcloth within upon his flesh.
 
 31 Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat will stand on him this day.
 
 32 But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See you how this son of a murderer has sent to take away mine head? look, when the messenger comes, shut the door, and hold him fast at the door: is not the sound of his master's feet behind him?
 
-33 And while he yet talked with them, behold, the messenger came down to him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer?
+33 And while he yet talked with them, look, the messenger came down to him: and he said, Look, this evil is of the Lord; what should I wait for the Lord any longer?
 
 ## 2 Kings Chapter 7
 
 1 Then Elisha said, Hear you the word of the Lord; Thus says the Lord, To morrow about this time will a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
 
-2 Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the Lord would make windows in heaven, might this thing be? And he said, Behold, you will see it with your eyes, but will not eat of it.
+2 Then a lord on whose hand the king leaned answered the man of God, and said, Look, if the Lord would make windows in heaven, might this thing be? And he said, Look, you will see it with your eyes, but will not eat of it.
 
 3 And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?
 
 4 If we say, We will enter into the city, then the famine is in the city, and we will die there: and if we sit still here, we die also. Now therefore come, and let us fall to the host of the Syrians: if they save us alive, we will live; and if they kill us, we will but die.
 
-5 And they rose up in the twilight, to go to the camp of the Syrians: and when they were come to the uttermost part of the camp of Syria, behold, there was no man there.
+5 And they rose up in the twilight, to go to the camp of the Syrians: and when they were come to the uttermost part of the camp of Syria, look, there was no man there.
 
-6 For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel has hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
+6 For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Look, the king of Israel has hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 
 7 therefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.
 
@@ -380,17 +380,17 @@
 
 9 Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king's household.
 
-10 So they came and called to the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were.
+10 So they came and called to the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, look, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were.
 
 11 And he called the porters; and they told it to the king's house within.
 
 12 And the king arose in the night, and said to his servants, I will now shew you what the Syrians have done to us. They know that we be hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we will catch them alive, and get into the city.
 
-13 And one of his servants answered and said, Let some take, I pray you, five of the horses that remain, which are left in the city, (behold, they are as all the multitude of Israel that are left in it: behold, I say, they are even as all the multitude of the Israelites that are consumed:) and let us send and see.
+13 And one of his servants answered and said, Let some take, I pray you, five of the horses that remain, which are left in the city, (look, they are as all the multitude of Israel that are left in it: look, I say, they are even as all the multitude of the Israelites that are consumed:) and let us send and see.
 
 14 They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see.
 
-15 And they went after them to Jordan: and, lo, all the way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.
+15 And they went after them to Jordan: and, look, all the way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.
 
 16 And the people went out, and spoiled the tents of the Syrians. So a measure of fine flour was sold for a shekel, and two measures of barley for a shekel, according to the word of the Lord.
 
@@ -398,7 +398,7 @@
 
 18 And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, will be to morrow about this time in the gate of Samaria:
 
-19 And that lord answered the man of God, and said, Now, behold, if the Lord should make windows in heaven, might such a thing be? And he said, Behold, you will see it with your eyes, but will not eat of it.
+19 And that lord answered the man of God, and said, Now, look, if the Lord should make windows in heaven, might such a thing be? And he said, Look, you will see it with your eyes, but will not eat of it.
 
 20 And so it fell out to him: for the people trode upon him in the gate, and he died.
 
@@ -412,7 +412,7 @@
 
 4 And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray you, all the great things that Elisha has done.
 
-5 And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life.
+5 And it came to pass, as he was telling the king how he had restored a dead body to life, that, look, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life.
 
 6 And when the king asked the woman, she told him. So the king appointed to her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now.
 
@@ -472,7 +472,7 @@
 
 4 So the young man, even the young man the prophet, went to Ramothgilead.
 
-5 And when he came, behold, the captains of the host were sitting; and he said, I have an errand to you, O captain. And Jehu said, to which of all us? And he said, To you, O captain.
+5 And when he came, look, the captains of the host were sitting; and he said, I have an errand to you, O captain. And Jehu said, to which of all us? And he said, To you, O captain.
 
 6 And he arose, and went into the house; and he poured the oil on his head, and said to him, Thus says the Lord God of Israel, I have anointed you king over the people of the Lord, even over Israel.
 
@@ -546,7 +546,7 @@
 
 3 Look even out the best and meetest of your master's sons, and set him on his father's throne, and fight for your master's house.
 
-4 But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then will we stand?
+4 But they were exceedingly afraid, and said, Look, two kings stood not before him: how then will we stand?
 
 5 And he that was over the house, and he that was over the city, the elders also, and the bringers up of the children, sent to Jehu, saying, We are your servants, and will do all that you will bid us; we will not make any king: do you that which is good in your eyes.
 
@@ -556,7 +556,7 @@
 
 8 And there came a messenger, and told him, saying, They have brought the heads of the king's sons. And he said, Lay you them in two heaps at the entering in of the gate until the morning.
 
-9 And it came to pass in the morning, that he went out, and stood, and said to all the people, you be righteous: behold, I conspired against my master, and slew him: but who slew all these?
+9 And it came to pass in the morning, that he went out, and stood, and said to all the people, you be righteous: look, I conspired against my master, and slew him: but who slew all these?
 
 10 Know now that there will fall to the earth nothing of the word of the Lord, which the Lord spake concerning the house of Ahab: for the Lord has done that which he spake by his servant Elijah.
 
@@ -640,7 +640,7 @@
 
 13 And when Athaliah heard the noise of the guard and of the people, she came to the people into the temple of the Lord.
 
-14 And when she looked, behold, the king stood by a pillar, as the manner was, and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.
+14 And when she looked, look, the king stood by a pillar, as the manner was, and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.
 
 15 But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said to them, Have her forth without the ranges: and him that follows her kill with the sword. For the priest had said, Let her not be slain in the house of the Lord.
 
@@ -678,7 +678,7 @@
 
 10 And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the Lord.
 
-11 And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the Lord: and they laid it out to the carpenters and builders, that wrought upon the house of the Lord,
+11 And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the Lord: and they laid it out to the carpenters and builders, who worked upon the house of the Lord,
 
 12 And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the Lord, and for all that was laid out for the house to repair it.
 
@@ -742,7 +742,7 @@
 
 20 And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.
 
-21 And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the tomb of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
+21 And it came to pass, as they were burying a man, that, look, they spied a band of men; and they cast the man into the tomb of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
 
 22 But Hazael king of Syria oppressed Israel all the days of Jehoahaz.
 
@@ -834,7 +834,7 @@
 
 10 And Shallum the son of Jabesh conspired against him, and struck him before the people, and slew him, and reigned in his stead.
 
-11 And the rest of the acts of Zachariah, behold, they are written in the book of the chronicles of the kings of Israel.
+11 And the rest of the acts of Zachariah, look, they are written in the book of the chronicles of the kings of Israel.
 
 12 This was the word of the Lord which he spake to Jehu, saying, your sons will sit on the throne of Israel to the fourth generation. And so it came to pass.
 
@@ -842,7 +842,7 @@
 
 14 For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and struck Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.
 
-15 And the rest of the acts of Shallum, and his conspiracy which he made, behold, they are written in the book of the chronicles of the kings of Israel.
+15 And the rest of the acts of Shallum, and his conspiracy which he made, look, they are written in the book of the chronicles of the kings of Israel.
 
 16 Then Menahem struck Tiphsah, and all that were in it, and the coasts of it from Tirzah: because they opened not to him, therefore he struck it; and all the women in it that were with child he ripped up.
 
@@ -864,7 +864,7 @@
 
 25 But Pekah the son of Remaliah, a captain of his, conspired against him, and struck him in Samaria, in the palace of the king's house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
 
-26 And the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
+26 And the rest of the acts of Pekahiah, and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
 
 27 In the two and fiftis year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
 
@@ -874,7 +874,7 @@
 
 30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him, and slew him, and reigned in his stead, in the twentis year of Jotham the son of Uzziah.
 
-31 And the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
+31 And the rest of the acts of Pekah, and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
 
 32 In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign.
 
@@ -954,7 +954,7 @@
 
 10 And they set them up images and groves in every high hill, and under every green tree:
 
-11 And there they burnt incense in all the high places, as did the heathen whom the Lord carried away before them; and wrought wicked things to provoke the Lord to anger:
+11 And there they burnt incense in all the high places, as did the heathen whom the Lord carried away before them; and worked wicked things to provoke the Lord to anger:
 
 12 For they served idols, whereof the Lord had said to them, you will not do this thing.
 
@@ -984,7 +984,7 @@
 
 25 And so it was at the beginning of their dwelling there, that they feared not the Lord: therefore the Lord sent lions among them, which slew some of them.
 
-26 therefore they spake to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land.
+26 therefore they spake to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, look, they slay them, because they know not the manner of the God of the land.
 
 27 Then the king of Assyria commanded, saying, Carry there one of the priests whom you brought from from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
 
@@ -1058,7 +1058,7 @@
 
 20 you say, (but they are but vain words,) I have counsel and strength for the war. Now on whom do you trust, that you rebell against me?
 
-21 Now, behold, you trust upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust on him.
+21 Now, look, you trust upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust on him.
 
 22 But if you say to me, We trust in the Lord our God: is not that he, whose high places and whose altars Hezekiah has taken away, and has said to Judah and Jerusalem, you will worship before this altar in Jerusalem?
 
@@ -1106,15 +1106,15 @@
 
 6 And Isaiah said to them, Thus will you say to your master, Thus says the Lord, Be not afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed me.
 
-7 Behold, I will send a blast upon him, and he will hear a rumour, and will return to his own land; and I will cause him to fall by the sword in his own land.
+7 Look, I will send a blast upon him, and he will hear a rumour, and will return to his own land; and I will cause him to fall by the sword in his own land.
 
 8 So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 
-9 And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against you: he sent messengers again to Hezekiah, saying,
+9 And when he heard say of Tirhakah king of Ethiopia, Look, he is come out to fight against you: he sent messengers again to Hezekiah, saying,
 
 10 Thus will you speak to Hezekiah king of Judah, saying, Let not your God in whom you trust deceive you, saying, Jerusalem will not be delivered into the hand of the king of Assyria.
 
-11 Behold, you have heard what the kings of Assyria have done to all lands, by destroying them utterly: and will you be delivered?
+11 Look, you have heard what the kings of Assyria have done to all lands, by destroying them utterly: and will you be delivered?
 
 12 Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?
 
@@ -1162,7 +1162,7 @@
 
 34 For I will defend this city, to save it, for mine own sake, and for my servant David's sake.
 
-35 And it came to pass that night, that the angel of the Lord went out, and struck in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses.
+35 And it came to pass that night, that the angel of the Lord went out, and struck in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, look, they were all dead corpses.
 
 36 So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 
@@ -1178,7 +1178,7 @@
 
 4 And it came to pass, afore Isaiah was gone out into the middle court, that the word of the Lord came to him, saying,
 
-5 Turn again, and tell Hezekiah the captain of my people, Thus says the Lord, the God of David your father, I have heard your prayer, I have seen your tears: behold, I will heal you: on the third day you will go up to the house of the Lord.
+5 Turn again, and tell Hezekiah the captain of my people, Thus says the Lord, the God of David your father, I have heard your prayer, I have seen your tears: look, I will heal you: on the third day you will go up to the house of the Lord.
 
 6 And I will add to your days fifteen years; and I will deliver you and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David's sake.
 
@@ -1202,7 +1202,7 @@
 
 16 And Isaiah said to Hezekiah, Hear the word of the Lord.
 
-17 Behold, the days come, that all that is in your house, and that which your fathers have laid up in store to this day, will be carried into Babylon: nothing will be left, says the Lord.
+17 Look, the days come, that all that is in your house, and that which your fathers have laid up in store to this day, will be carried into Babylon: nothing will be left, says the Lord.
 
 18 And of your sons that will issue from you, which you will beget, will they take away; and they will be eunuchs in the palace of the king of Babylon.
 
@@ -1224,7 +1224,7 @@
 
 5 And he built altars for all the host of heaven in the two courts of the house of the Lord.
 
-6 And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the Lord, to provoke him to anger.
+6 And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he worked much wickedness in the sight of the Lord, to provoke him to anger.
 
 7 And he set a graven image of the grove that he had made in the house, of which the Lord said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
 
@@ -1236,7 +1236,7 @@
 
 11 Because Manasseh king of Judah has done these abominations, and has done wickedly above all that the Amorites did, which were before him, and has made Judah also to sin with his idols:
 
-12 Therefore thus says the Lord God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever hears of it, both his ears will tingle.
+12 Therefore thus says the Lord God of Israel, Look, I am bringing such evil upon Jerusalem and Judah, that whosoever hears of it, both his ears will tingle.
 
 13 And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wips a dish, wiping it, and turning it upside down.
 
@@ -1298,7 +1298,7 @@
 
 15 And she said to them, Thus says the Lord God of Israel, Tell the man that sent you to me,
 
-16 Thus says the Lord, Behold, I will bring evil upon this place, and upon the inhabitants of it, even all the words of the book which the king of Judah has read:
+16 Thus says the Lord, Look, I will bring evil upon this place, and upon the inhabitants of it, even all the words of the book which the king of Judah has read:
 
 17 Because they have forsaken me, and have burned incense to other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath will be kindled against this place, and will not be quenched.
 
@@ -1306,7 +1306,7 @@
 
 19 Because your heart was tender, and you have humbled thyself before the Lord, when you heard what I spake against this place, and against the inhabitants of it, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the Lord.
 
-20 Behold therefore, I will gather you to your fathers, and you will be gathered into your grave in peace; and your eyes will not see all the evil which I will bring upon this place. And they brought the king word again.
+20 Look therefore, I will gather you to your fathers, and you will be gathered into your grave in peace; and your eyes will not see all the evil which I will bring upon this place. And they brought the king word again.
 
 ## 2 Kings Chapter 23
 

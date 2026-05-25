@@ -204,7 +204,7 @@
 
 11 And the Lord spake to Moses, saying,
 
-12 And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that opens the matrix among the children of Israel: therefore the Levites will be mine;
+12 And I, look, I have taken the Levites from among the children of Israel instead of all the firstborn that opens the matrix among the children of Israel: therefore the Levites will be mine;
 
 13 Because all the firstborn are mine; for on the day that I struck all the firstborn in the land of Egypt I hallowed to me all the firstborn in Israel, both man and beast: mine will they be: I am the Lord.
 
@@ -948,11 +948,11 @@
 
 7 My servant Moses is not so, who is faithful in all mine house.
 
-8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord will he behold: therefore then were you not afraid to speak against my servant Moses?
+8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord will he look: therefore then were you not afraid to speak against my servant Moses?
 
 9 And the anger of the Lord was kindled against them; and he departed.
 
-10 And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous.
+10 And the cloud departed from off the tabernacle; and, look, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, look, she was leprous.
 
 11 And Aaron said to Moses, Alas, my lord, I urge you, lay not the sin upon us, in which we have done foolishly, and in which we have sinned.
 
@@ -1114,7 +1114,7 @@
 
 39 And Moses told these sayings to all the children of Israel: and the people mourned greatly.
 
-40 And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up to the place which the Lord has promised: for we have sinned.
+40 And they rose up early in the morning, and gat them up into the top of the mountain, saying, Look, we be here, and will go up to the place which the Lord has promised: for we have sinned.
 
 41 And Moses said, therefore now do you transgress the commandment of the Lord? but it will not prosper.
 
@@ -1294,7 +1294,7 @@
 
 41 But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, you have killed the people of the Lord.
 
-42 And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the Lord appeared.
+42 And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, look, the cloud covered it, and the glory of the Lord appeared.
 
 43 And Moses and Aaron came before the tabernacle of the congregation.
 
@@ -1304,7 +1304,7 @@
 
 46 And Moses said to Aaron, Take a censer, and put fire in it from off the altar, and put on incense, and go quickly to the congregation, and make an atonement for them: for there is wrath gone out from the Lord; the plague is begun.
 
-47 And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people.
+47 And Aaron took as Moses commanded, and ran into the midst of the congregation; and, look, the plague was begun among the people: and he put on incense, and made an atonement for the people.
 
 48 And he stood between the dead and the living; and the plague was stayed.
 
@@ -1328,7 +1328,7 @@
 
 7 And Moses laid up the rods before the Lord in the tabernacle of witness.
 
-8 And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
+8 And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, look, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
 
 9 And Moses brought out all the rods from before the Lord to all the children of Israel: and they looked, and took every man his rod.
 
@@ -1336,7 +1336,7 @@
 
 11 And Moses did so: as the Lord commanded him, so did he.
 
-12 And the children of Israel spake to Moses, saying, Behold, we die, we perish, we all perish.
+12 And the children of Israel spake to Moses, saying, Look, we die, we perish, we all perish.
 
 13 Whosoever comes any thing near to the tabernacle of the Lord will die: will we be consumed with dying?
 
@@ -1352,11 +1352,11 @@
 
 5 And you will keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
 
-6 And I, behold, I have taken your brothers the Levites from among the children of Israel: to you they are given as a gift for the Lord, to do the service of the tabernacle of the congregation.
+6 And I, look, I have taken your brothers the Levites from among the children of Israel: to you they are given as a gift for the Lord, to do the service of the tabernacle of the congregation.
 
 7 Therefore you and your sons with you will keep your priest's office for everything of the altar, and within the vail; and you will serve: I have given your priest's office to you as a service of gift: and the stranger that comes near will be put to death.
 
-8 And the Lord spake to Aaron, Behold, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
+8 And the Lord spake to Aaron, Look, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
 
 9 This will be your of the most holy things, reserved from the fire: every oblation of their's, every meat offering of their's, and every sin offering of their's, and every trespass offering of their's which they will render to me, will be most holy for you and for your sons.
 
@@ -1382,7 +1382,7 @@
 
 20 And the Lord spake to Aaron, you will have no inheritance in their land, neither will you have any part among them: I am your part and your inheritance among the children of Israel.
 
-21 And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation.
+21 And, look, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation.
 
 22 Neither must the children of Israel from now on come near the tabernacle of the congregation, otherwise they bear sin, and die.
 
@@ -1484,7 +1484,7 @@
 
 15 How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:
 
-16 And when we cried to the Lord, he heard our voice, and sent an angel, and has brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of your border:
+16 And when we cried to the Lord, he heard our voice, and sent an angel, and has brought us forth out of Egypt: and, look, we are in Kadesh, a city in the uttermost of your border:
 
 17 Let us pass, I pray you, through your country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king's high way, we will not turn to the right hand nor to the left, until we have passed your borders.
 
@@ -1530,7 +1530,7 @@
 
 8 And the Lord said to Moses, Make you a fiery serpent, and set it upon a pole: and it will come to pass, that every one that is bitten, when he looks upon it, will live.
 
-9 And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
+9 And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he saw the serpent of brass, he lived.
 
 10 And the children of Israel set forward, and pitched in Oboth.
 
@@ -1594,7 +1594,7 @@
 
 4 And Moab said to the elders of Midian, Now will this company lick up all that are round about us, as the ox licks up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 
-5 He sent messengers therefore to Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
+5 He sent messengers therefore to Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Look, there is a people come out from Egypt: look, they cover the face of the earth, and they abide over against me:
 
 6 Come now therefore, I pray you, curse me this people; for they are too mighty for me: perhaps I will prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom you bless is blessed, and he whom you cures is cursed.
 
@@ -1606,7 +1606,7 @@
 
 10 And Balaam said to God, Balak the son of Zippor, king of Moab, has sent to me, saying,
 
-11 Behold, there is a people come out of Egypt, which covers the face of the earth: come now, curse me them; perhaps I will be able to overcome them, and drive them out.
+11 Look, there is a people come out of Egypt, which covers the face of the earth: come now, curse me them; perhaps I will be able to overcome them, and drive them out.
 
 12 And God said to Balaam, you will not go with them; you will not curse the people: for they are blessed.
 
@@ -1648,7 +1648,7 @@
 
 31 Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
 
-32 And the angel of the Lord said to him, therefore have you smitten your ass these three times? behold, I went out to withstand you, because your way is perverse before me:
+32 And the angel of the Lord said to him, therefore have you smitten your ass these three times? look, I went out to withstand you, because your way is perverse before me:
 
 33 And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain you, and saved her alive.
 
@@ -1660,7 +1660,7 @@
 
 37 And Balak said to Balaam, Did I not earnestly send to you to call you? therefore cam you not to me? am I not able indeed to promote you to honour?
 
-38 And Balaam said to Balak, Lo, I am come to you: have I now any power at all to say any thing? the word that God putts in my mouth, that will I speak.
+38 And Balaam said to Balak, Look, I am come to you: have I now any power at all to say any thing? the word that God putts in my mouth, that will I speak.
 
 39 And Balaam went with Balak, and they came to Kirjathhuzoth.
 
@@ -1680,17 +1680,17 @@
 
 5 And the Lord put a word in Balaam's mouth, and said, Return to Balak, and thus you will speak.
 
-6 And he returned to him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
+6 And he returned to him, and, look, he stood by his burnt sacrifice, he, and all the princes of Moab.
 
 7 And he took up his parable, and said, Balak the king of Moab has brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.
 
 8 How will I curse, whom God has not cursed? or how will I defy, whom the Lord has not defied?
 
-9 For from the top of the rocks I see him, and from the hills I behold him: lo, the people will dwell alone, and will not be reckoned among the nations.
+9 For from the top of the rocks I see him, and from the hills I look at him: look, the people will dwell alone, and will not be reckoned among the nations.
 
 10 Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
 
-11 And Balak said to Balaam, What have you done to me? I took you to curse mine enemies, and, behold, you have blessed them altogether.
+11 And Balak said to Balaam, What have you done to me? I took you to curse mine enemies, and, look, you have blessed them altogether.
 
 12 And he answered and said, Must I not take heed to speak that which the Lord has put in my mouth?
 
@@ -1702,21 +1702,21 @@
 
 16 And the Lord met Balaam, and put a word in his mouth, and said, Go again to Balak, and say thus.
 
-17 And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said to him, What has the Lord spoken?
+17 And when he came to him, look, he stood by his burnt offering, and the princes of Moab with him. And Balak said to him, What has the Lord spoken?
 
 18 And he took up his parable, and said, Rise up, Balak, and hear; listen to me, you son of Zippor:
 
 19 God is not a man, that he should lie; neither the son of man, that he should repent: has he said, and will he not do it? or has he spoken, and will he not make it good?
 
-20 Behold, I have received commandment to bless: and he has blessed; and I cannot reverse it.
+20 Look, I have received commandment to bless: and he has blessed; and I cannot reverse it.
 
-21 He has not beheld iniquity in Jacob, neither has he seen perverseness in Israel: the Lord his God is with him, and the shout of a king is among them.
+21 He has not saw iniquity in Jacob, neither has he seen perverseness in Israel: the Lord his God is with him, and the shout of a king is among them.
 
 22 God brought them out of Egypt; he has as it were the strength of an unicorn.
 
-23 Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it will be said of Jacob and of Israel, What has God wrought!
+23 Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it will be said of Jacob and of Israel, What has God worked!
 
-24 Behold, the people will rise up as a great lion, and lift up himself as a young lion: he will not lie down until he eat of the prey, and drink the blood of the slain.
+24 Look, the people will rise up as a great lion, and lift up himself as a young lion: he will not lie down until he eat of the prey, and drink the blood of the slain.
 
 25 And Balak said to Balaam, Neither curse them at all, nor bless them at all.
 
@@ -1750,21 +1750,21 @@
 
 9 He couched, he lay down as a lion, and as a great lion: who will stir him up? Blessed is he that blesss you, and cursed is he that curss you.
 
-10 And Balak's anger was kindled against Balaam, and he struck his hands together: and Balak said to Balaam, I called you to curse mine enemies, and, behold, you have altogether blessed them these three times.
+10 And Balak's anger was kindled against Balaam, and he struck his hands together: and Balak said to Balaam, I called you to curse mine enemies, and, look, you have altogether blessed them these three times.
 
-11 Therefore now flee you to your place: I thought to promote you to great honour; but, lo, the Lord has kept you back from honour.
+11 Therefore now flee you to your place: I thought to promote you to great honour; but, look, the Lord has kept you back from honour.
 
 12 And Balaam said to Balak, Spake I not also to your messengers which you sent to me, saying,
 
 13 If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the Lord, to do either good or bad of mine own mind; but what the Lord says, that will I speak?
 
-14 And now, behold, I go to my people: come therefore, and I will advertise you what this people will do to your people in the latter days.
+14 And now, look, I go to my people: come therefore, and I will advertise you what this people will do to your people in the latter days.
 
 15 And he took up his parable, and said, Balaam the son of Beor has said, and the man whose eyes are open has said:
 
 16 He has said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
 
-17 I will see him, but not now: I will behold him, but not near: there will come a Star out of Jacob, and a Sceptre will rise out of Israel, and will smite the corners of Moab, and destroy all the children of Shs.
+17 I will see him, but not now: I will see him, but not near: there will come a Star out of Jacob, and a Sceptre will rise out of Israel, and will smite the corners of Moab, and destroy all the children of Shs.
 
 18 And Edom will be a possession, Seir also will be a possession for his enemies; and Israel will do valiantly.
 
@@ -1794,7 +1794,7 @@
 
 5 And Moses said to the judges of Israel, Slay you every one his men that were joined to Baalpeor.
 
-6 And, behold, one of the children of Israel came and brought to his brothers a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
+6 And, look, one of the children of Israel came and brought to his brothers a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
 
 7 And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;
 
@@ -1806,7 +1806,7 @@
 
 11 Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
 
-12 therefore say, Behold, I give to him my covenant of peace:
+12 therefore say, Look, I give to him my covenant of peace:
 
 13 And he will have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
 
@@ -2212,7 +2212,7 @@
 
 15 And Moses said to them, Have you saved all the women alive?
 
-16 Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
+16 Look, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
 
 17 Now therefore kill every male among the little ones, and kill every woman that has known man by lying with him.
 
@@ -2282,7 +2282,7 @@
 
 50 We have therefore brought an oblation for the Lord, what every man has gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.
 
-51 And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
+51 And Moses and Eleazar the priest took the gold of them, even all crafted jewels.
 
 52 And all the gold of the offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
 
@@ -2292,7 +2292,7 @@
 
 ## Numbers Chapter 32
 
-1 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
+1 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, look, the place was a place for cattle;
 
 2 The children of Gad and the children of Reuben came and spake to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,
 
@@ -2318,7 +2318,7 @@
 
 13 And the Lord'S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the Lord, was consumed.
 
-14 And, behold, you are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the Lord toward Israel.
+14 And, look, you are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the Lord toward Israel.
 
 15 For if you turn away from after him, he will yet again leave them in the wilderness; and you will destroy all this people.
 
@@ -2336,7 +2336,7 @@
 
 22 And the land be subdued before the Lord: then afterward you will return, and be guiltless before the Lord, and before Israel; and this land will be your possession before the Lord.
 
-23 But if you will not do so, behold, you have sinned against the Lord: and be sure your sin will find you out.
+23 But if you will not do so, look, you have sinned against the Lord: and be sure your sin will find you out.
 
 24 Build you cities for your little ones, and folds for your sheep; and do that which has proceeded out of your mouth.
 

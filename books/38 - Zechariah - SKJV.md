@@ -16,13 +16,13 @@
 
 7 Upon the four and twentis day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the Lord to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 
-8 I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.
+8 I saw by night, and look, a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.
 
 9 Then said I, O my lord, what are these? And the angel that talked with me said to me, I will shew you what these be.
 
 10 And the man that stood among the myrtle trees answered and said, These are they whom the Lord has sent to walk to and fro through the earth.
 
-11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitts still, and is at rest.
+11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, look, all the earth sitts still, and is at rest.
 
 12 Then the angel of the Lord answered and said, O Lord of hosts, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these threescore and ten years?
 
@@ -36,7 +36,7 @@
 
 17 Cry yet, saying, Thus says the Lord of hosts; My cities through prosperity will yet be spread abroad; and the Lord will yet comfort Zion, and will yet choose Jerusalem.
 
-18 Then lifted I up mine eyes, and saw, and behold four horns.
+18 Then lifted I up mine eyes, and saw, and look four horns.
 
 19 And I said to the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.
 
@@ -46,11 +46,11 @@
 
 ## Zechariah Chapter 2
 
-1 I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
+1 I lifted up mine eyes again, and looked, and look, a man with a measuring line in his hand.
 
 2 Then said I, Where go you? And he said to me, To measure Jerusalem, to see what is the breadth of it, and what is the length of it.
 
-3 And, behold, the angel that talked with me went forth, and another angel went out to meet him,
+3 And, look, the angel that talked with me went forth, and another angel went out to meet him,
 
 4 And said to him, Run, speak to this young man, saying, Jerusalem will be inhabited as towns without walls for the multitude of men and cattle in it:
 
@@ -62,9 +62,9 @@
 
 8 For thus says the Lord of hosts; After the glory has he sent me to the nations which spoiled you: for he that touchs you touchs the apple of his eye.
 
-9 For, behold, I will shake mine hand upon them, and they will be a spoil to their servants: and you will know that the Lord of hosts has sent me.
+9 For, look, I will shake mine hand upon them, and they will be a spoil to their servants: and you will know that the Lord of hosts has sent me.
 
-10 Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of you, says the Lord.
+10 Sing and rejoice, O daughter of Zion: for, look, I come, and I will dwell in the midst of you, says the Lord.
 
 11 And many nations will be joined to the Lord in that day, and will be my people: and I will dwell in the midst of you, and you will know that the Lord of hosts has sent me to you.
 
@@ -80,7 +80,7 @@
 
 3 Now Joshua was clothed with filthy garments, and stood before the angel.
 
-4 And he answered and spake to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Behold, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
+4 And he answered and spake to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Look, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
 
 5 And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the Lord stood by.
 
@@ -88,9 +88,9 @@
 
 7 Thus says the Lord of hosts; If you will walk in my ways, and if you will keep my charge, then you will also judge my house, and will also keep my courts, and I will give you places to walk among these that stand by.
 
-8 Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the Branch.
+8 Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, look, I will bring forth my servant the Branch.
 
-9 For behold the stone that I have laid before Joshua; upon one stone will be seven eyes: behold, I will engrave the graving of it, says the Lord of hosts, and I will remove the iniquity of that land in one day.
+9 For look at the stone that I have laid before Joshua; upon one stone will be seven eyes: look, I will engrave the graving of it, says the Lord of hosts, and I will remove the iniquity of that land in one day.
 
 10 In that day, says the Lord of hosts, will you call every man his neighbour under the vine and under the fig tree.
 
@@ -98,7 +98,7 @@
 
 1 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.
 
-2 And said to me, What se you? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top of it:
+2 And said to me, What se you? And I said, I have looked, and look, a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top of it:
 
 3 And two olive trees by it, one upon the right side of the bowl, and the other upon the left side of it.
 
@@ -126,7 +126,7 @@
 
 ## Zechariah Chapter 5
 
-1 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
+1 Then I turned, and lifted up mine eyes, and looked, and look, a flying roll.
 
 2 And he said to me, What se you? And I answered, I see a flying roll; the length of it is twenty cubits, and the breadth of it ten cubits.
 
@@ -138,11 +138,11 @@
 
 6 And I said, What is it? And he said, This is an ephah that goes forth. He said moreover, This is their resemblance through all the earth.
 
-7 And, behold, there was lifted up a talent of lead: and this is a woman that sitts in the midst of the ephah.
+7 And, look, there was lifted up a talent of lead: and this is a woman that sitts in the midst of the ephah.
 
 8 And he said, This is wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth of it.
 
-9 Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind was in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
+9 Then lifted I up mine eyes, and looked, and, look, there came out two women, and the wind was in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
 
 10 Then said I to the angel that talked with me, Where do these bear the ephah?
 
@@ -150,7 +150,7 @@
 
 ## Zechariah Chapter 6
 
-1 And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.
+1 And I turned, and lifted up mine eyes, and looked, and, look, there came four chariots out from between two mountains; and the mountains were mountains of brass.
 
 2 In the first chariot were red horses; and in the second chariot black horses;
 
@@ -164,7 +164,7 @@
 
 7 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
 
-8 Then cried he upon me, and spake to me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.
+8 Then cried he upon me, and spake to me, saying, Look, these that go toward the north country have quieted my spirit in the north country.
 
 9 And the word of the Lord came to me, saying,
 
@@ -172,7 +172,7 @@
 
 11 Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;
 
-12 And speak to him, saying, Thus speaks the Lord of hosts, saying, Behold the man whose name is The Branch; and he will grow up out of his place, and he will build the temple of the Lord:
+12 And speak to him, saying, Thus speaks the Lord of hosts, saying, Look at the man whose name is The Branch; and he will grow up out of his place, and he will build the temple of the Lord:
 
 13 Even he will build the temple of the Lord; and he will bear the glory, and will sit and rule upon his throne; and he will be a priest upon his throne: and the counsel of peace will be between them both.
 
@@ -224,7 +224,7 @@
 
 6 Thus says the Lord of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? says the Lord of hosts.
 
-7 Thus says the Lord of hosts; Behold, I will save my people from the east country, and from the west country;
+7 Thus says the Lord of hosts; Look, I will save my people from the east country, and from the west country;
 
 8 And I will bring them, and they will dwell in the midst of Jerusalem: and they will be my people, and I will be their God, in truth and in righteousness.
 
@@ -266,7 +266,7 @@
 
 3 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
 
-4 Behold, the Lord will cast her out, and he will smite her power in the sea; and she will be devoured with fire.
+4 Look, the Lord will cast her out, and he will smite her power in the sea; and she will be devoured with fire.
 
 5 Ashkelon will see it, and fear; Gaza also will see it, and be very sorrowful, and Ekron; for her expectation will be ashamed; and the king will perish from Gaza, and Ashkelon will not be inhabited.
 
@@ -276,7 +276,7 @@
 
 8 And I will encamp about mine house because of the army, because of him that passs by, and because of him that returns: and no oppressor will pass through them any more: for now have I seen with mine eyes.
 
-9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, your King comes to you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: look, your King comes to you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 
 10 And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow will be cut off: and he will speak peace to the heathen: and his dominion will be from sea even to sea, and from the river even to the ends of the earth.
 
@@ -332,7 +332,7 @@
 
 5 Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
-6 For I will no more pity the inhabitants of the land, says the Lord: but, lo, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they will smite the land, and out of their hand I will not deliver them.
+6 For I will no more pity the inhabitants of the land, says the Lord: but, look, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they will smite the land, and out of their hand I will not deliver them.
 
 7 And I will feed the flock of slaughter, even you, O poor of the flock. And I took to me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 
@@ -352,7 +352,7 @@
 
 15 And the Lord said to me, Take to you yet the instruments of a foolish shepherd.
 
-16 For, lo, I will raise up a shepherd in the land, which will not visit those that be cut off, neither will seek the young one, nor heal that that is broken, nor feed that that stands still: but he will eat the flesh of the fat, and tear their claws in pieces.
+16 For, look, I will raise up a shepherd in the land, which will not visit those that be cut off, neither will seek the young one, nor heal that that is broken, nor feed that that stands still: but he will eat the flesh of the fat, and tear their claws in pieces.
 
 17 Woe to the idol shepherd that leavs the flock! the sword will be upon his arm, and upon his right eye: his arm will be clean dried up, and his right eye will be utterly darkened.
 
@@ -360,7 +360,7 @@
 
 1 The burden of the word of the Lord for Israel, says the Lord, which stretchs forth the heavens, and lays the foundation of the earth, and forms the spirit of man within him.
 
-2 Behold, I will make Jerusalem a cup of trembling to all the people round about, when they will be in the siege both against Judah and against Jerusalem.
+2 Look, I will make Jerusalem a cup of trembling to all the people round about, when they will be in the siege both against Judah and against Jerusalem.
 
 3 And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it will be cut in pieces, though all the people of the earth be gathered together against it.
 
@@ -408,7 +408,7 @@
 
 ## Zechariah Chapter 14
 
-1 Behold, the day of the Lord comes, and your spoil will be divided in the midst of you.
+1 Look, the day of the Lord comes, and your spoil will be divided in the midst of you.
 
 2 For I will gather all nations against Jerusalem to battle; and the city will be taken, and the houses rifled, and the women ravished; and half of the city will go forth into captivity, and the residue of the people will not be cut off from the city.
 

@@ -56,7 +56,7 @@
 
 12 Saying, I will declare your name to my brothers, in the midst of the church will I sing praise to you.
 
-13 And again, I will put my trust in him. And again, Behold I and the children which God has given me.
+13 And again, I will put my trust in him. And again, Look, I and the children which God has given me.
 
 14 Since then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
 
@@ -288,7 +288,7 @@
 
 7 For if that first covenant had been faultless, then should no place have been sought for the second.
 
-8 For finding fault with them, he says, Behold, the days come, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
+8 For finding fault with them, he says, Look, the days come, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
 
 9 Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, says the Lord.
 
@@ -372,11 +372,11 @@
 
 6 In burnt offerings and sacrifices for sin you have had no pleasure.
 
-7 Then said I, Lo, I come (in the volume of the book it is written of me,) to do your will, O God.
+7 Then said I, Look, I come (in the volume of the book it is written of me,) to do your will, O God.
 
 8 Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither hadst pleasure in it; which are offered by the law;
 
-9 Then said he, Lo, I come to do your will, O God. He takes away the first, that he may establish the second.
+9 Then said he, Look, I come to do your will, O God. He takes away the first, that he may establish the second.
 
 10 By the which will we are sanctified through the offering of the body of Jesus Christ once for all.
 
@@ -504,7 +504,7 @@
 
 32 And what will I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 
-33 Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions.
+33 Who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions.
 
 34 Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, grew valiant in fight, turned to flight the armies of the aliens.
 

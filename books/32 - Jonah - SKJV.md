@@ -22,11 +22,11 @@
 
 10 Then were the men exceedingly afraid, and said to him. Why have you done this? For the men knew that he fled from the presence of the Lord, because he had told them.
 
-11 Then said they to him, What will we do to you, that the sea may be calm to us? for the sea wrought, and was tempestuous.
+11 Then said they to him, What will we do to you, that the sea may be calm to us? for the sea worked, and was tempestuous.
 
 12 And he said to them, Take me up, and cast me forth into the sea; so will the sea be calm to you: for I know that for my sake this great tempest is upon you.
 
-13 Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
+13 Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea worked, and was tempestuous against them.
 
 14 therefore they cried to the Lord, and said, We urge you, O Lord, we urge you, let us not perish for this man's life, and lay not upon us innocent blood: for you, O Lord, have done as it pleased you.
 

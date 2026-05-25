@@ -100,7 +100,7 @@
 
 16 In the day when God will judge the secrets of men by Jesus Christ according to my gospel.
 
-17 Behold, you are called a Jew, and rest in the law, and mak your boast of God,
+17 Look, you are called a Jew, and rest in the law, and mak your boast of God,
 
 18 And know his will, and approv the things that are more excellent, being instructed out of the law;
 
@@ -350,7 +350,7 @@
 
 7 What will we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, you will not covet.
 
-8 But sin, taking occasion by the commandment, wrought in me all manner of sinful desire. For without the law sin was dead.
+8 But sin, taking occasion by the commandment, worked in me all manner of sinful desire. For without the law sin was dead.
 
 9 For I was alive without the law once: but when the commandment came, sin revived, and I died.
 
@@ -532,7 +532,7 @@
 
 32 therefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;
 
-33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believes on him will not be ashamed.
+33 As it is written, Look, I lay in Sion a stumblingstone and rock of offence: and whosoever believes on him will not be ashamed.
 
 ## Romans Chapter 10
 
@@ -622,7 +622,7 @@
 
 21 For if God spared not the natural branches, take heed otherwise he also spare not you.
 
-22 Behold therefore the goodness and severity of God: on them which fell, severity; but toward you, goodness, if you continue in his goodness: otherwise you also will be cut off.
+22 Look therefore the goodness and severity of God: on them which fell, severity; but toward you, goodness, if you continue in his goodness: otherwise you also will be cut off.
 
 23 And they also, if they abide not still in unbelief, will be grafted in: for God is able to graft them in again.
 
@@ -810,7 +810,7 @@
 
 17 I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.
 
-18 For I will not dare to speak of any of those things which Christ has not wrought by me, to make the Gentiles obedient, by word and deed,
+18 For I will not dare to speak of any of those things which Christ has not worked by me, to make the Gentiles obedient, by word and deed,
 
 19 Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about to Illyricum, I have fully preached the gospel of Christ.
 

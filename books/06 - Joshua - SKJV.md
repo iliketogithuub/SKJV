@@ -42,7 +42,7 @@
 
 1 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.
 
-2 And it was told the king of Jericho, saying, Behold, there came men in here to night of the children of Israel to search out the country.
+2 And it was told the king of Jericho, saying, Look, there came men in here to night of the children of Israel to search out the country.
 
 3 And the king of Jericho sent to Rahab, saying, Bring forth the men that are come to you, which are entered into your house: for they be come to search out all the country.
 
@@ -74,7 +74,7 @@
 
 17 And the men said to her, We will be blameless of this your oath which you have made us swear.
 
-18 Behold, when we come into the land, you will bind this line of scarlet thread in the window which you did let us down by: and you will bring your father, and your mother, and your brothers, and all your father's household, home to you.
+18 Look, when we come into the land, you will bind this line of scarlet thread in the window which you did let us down by: and you will bring your father, and your mother, and your brothers, and all your father's household, home to you.
 
 19 And it will be, that whosoever will go out of the doors of your house into the street, his blood will be upon his head, and we will be guiltless: and whosoever will be with you in the house, his blood will be on our head, if any hand be upon him.
 
@@ -110,7 +110,7 @@
 
 10 And Joshua said, Hereby you will know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
 
-11 Behold, the ark of the covenant of the Lord of all the earth passs over before you into Jordan.
+11 Look, the ark of the covenant of the Lord of all the earth passs over before you into Jordan.
 
 12 Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man.
 
@@ -200,7 +200,7 @@
 
 12 And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
 
-13 And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went to him, and said to him, are you for us, or for our adversaries?
+13 And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, look, there stood a man over against him with his sword drawn in his hand: and Joshua went to him, and said to him, are you for us, or for our adversaries?
 
 14 And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said to him, What says my Lord to his servant?
 
@@ -292,7 +292,7 @@
 
 14 In the morning therefore you will be brought according to your tribes: and it will be, that the tribe which the Lord takes will come according to the families of it; and the family which the Lord will take will come by households; and the household which the Lord will take will come man by man.
 
-15 And it will be, that he that is taken with the accursed thing will be burnt with fire, he and all that he has: because he has sinned the covenant of the Lord, and because he has wrought folly in Israel.
+15 And it will be, that he that is taken with the accursed thing will be burnt with fire, he and all that he has: because he has sinned the covenant of the Lord, and because he has done folly in Israel.
 
 16 So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
 
@@ -304,9 +304,9 @@
 
 20 And Achan answered Joshua, and said, Indeed I have sinned against the Lord God of Israel, and thus and thus have I done:
 
-21 When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.
+21 When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, look, they are hid in the earth in the midst of my tent, and the silver under it.
 
-22 So Joshua sent messengers, and they ran to the tent; and, behold, it was hid in his tent, and the silver under it.
+22 So Joshua sent messengers, and they ran to the tent; and, look, it was hid in his tent, and the silver under it.
 
 23 And they took them out of the midst of the tent, and brought them to Joshua, and to all the children of Israel, and laid them out before the Lord.
 
@@ -324,7 +324,7 @@
 
 3 So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.
 
-4 And he commanded them, saying, Behold, you will lie in wait against the city, even behind the city: go not very far from the city, but be you all ready:
+4 And he commanded them, saying, Look, you will lie in wait against the city, even behind the city: go not very far from the city, but be you all ready:
 
 5 And I, and all the people that are with me, will approach to the city: and it will come to pass, when they come out against us, as at the first, that we will flee before them,
 
@@ -356,7 +356,7 @@
 
 19 And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.
 
-20 And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
+20 And when the men of Ai looked behind them, they saw, and, look, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
 
 21 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
 
@@ -412,9 +412,9 @@
 
 11 therefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
 
-12 This our bread we took hot for our provision out of our houses on the day we came forth to go to you; but now, behold, it is dry, and it is mouldy:
+12 This our bread we took hot for our provision out of our houses on the day we came forth to go to you; but now, look, it is dry, and it is mouldy:
 
-13 And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
+13 And these bottles of wine, which we filled, were new; and, look, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
 
 14 And the men took of their victuals, and asked not counsel at the mouth of the Lord.
 
@@ -438,7 +438,7 @@
 
 24 And they answered Joshua, and said, Because it was certainly told your servants, how that the Lord your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
 
-25 And now, behold, we are in your hand: as it seems good and right to you to do to us, do.
+25 And now, look, we are in your hand: as it seems good and right to you to do to us, do.
 
 26 And so did he to them, and delivered them out of the hand of the children of Israel, that they slew them not.
 
@@ -718,7 +718,7 @@
 
 9 And Moses sware on that day, saying, Surely the land whereon your feet have trodden will be your inheritance, and your children's for ever, because you have wholly followed the Lord my God.
 
-10 And now, behold, the Lord has kept me alive, as he said, these forty and five years, even since the Lord spake this word to Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
+10 And now, look, the Lord has kept me alive, as he said, these forty and five years, even since the Lord spake this word to Moses, while the children of Israel wandered in the wilderness: and now, look, I am this day fourscore and five years old.
 
 11 As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
 
@@ -1214,7 +1214,7 @@
 
 10 And when they came to the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
 
-11 And the children of Israel heard say, Behold, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.
+11 And the children of Israel heard say, Look, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.
 
 12 And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up to war against them.
 
@@ -1248,7 +1248,7 @@
 
 27 But that it may be a witness between us, and you, and our generations after us, that we might do the service of the Lord before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not say to our children in time to come, you have no part in the Lord.
 
-28 Therefore said we, that it will be, when they should so say to us or to our generations in time to come, that we may say again, Behold the pattern of the altar of the Lord, which our fathers made, not for burnt offerings, nor for sacrifices; but it is a witness between us and you.
+28 Therefore said we, that it will be, when they should so say to us or to our generations in time to come, that we may say again, Look at the pattern of the altar of the Lord, which our fathers made, not for burnt offerings, nor for sacrifices; but it is a witness between us and you.
 
 29 God forbid that we should rebel against the Lord, and turn this day from following the Lord, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the Lord our God that is before his tabernacle.
 
@@ -1270,7 +1270,7 @@
 
 3 And you have seen all that the Lord your God has done to all these nations because of you; for the Lord your God is he that has fought for you.
 
-4 Behold, I have divided to you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even to the great sea westward.
+4 Look, I have divided to you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even to the great sea westward.
 
 5 And the Lord your God, he will expel them from before you, and drive them from out of your sight; and you will possess their land, as the Lord your God has promised to you.
 
@@ -1290,7 +1290,7 @@
 
 13 Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they will be snares and traps to you, and scourges in your sides, and thorns in your eyes, until you perish from off this good land which the Lord your God has given you.
 
-14 And, behold, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the Lord your God spake concerning you; all are come to pass to you, and not one thing has failed of it.
+14 And, look, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the Lord your God spake concerning you; all are come to pass to you, and not one thing has failed of it.
 
 15 Therefore it will come to pass, that as all good things are come upon you, which the Lord your God promised you; so will the Lord bring upon you all evil things, until he have destroyed you from off this good land which the Lord your God has given you.
 
@@ -1350,7 +1350,7 @@
 
 26 And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the Lord.
 
-27 And Joshua said to all the people, Behold, this stone will be a witness to us; for it has heard all the words of the Lord which he spake to us: it will be therefore a witness to you, otherwise you deny your God.
+27 And Joshua said to all the people, Look, this stone will be a witness to us; for it has heard all the words of the Lord which he spake to us: it will be therefore a witness to you, otherwise you deny your God.
 
 28 So Joshua let the people depart, every man to his inheritance.
 

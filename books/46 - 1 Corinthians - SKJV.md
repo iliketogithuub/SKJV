@@ -462,7 +462,7 @@
 
 17 For we being many are one bread, and one body: for we are all partakers of that one bread.
 
-18 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
+18 Look Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
 
 19 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?
 
@@ -840,7 +840,7 @@
 
 50 Now this I say, brothers, that flesh and blood cannot inherit the kingdom of God; neither does corruption inherit incorruption.
 
-51 Behold, I shew you a mystery; We will not all sleep, but we will all be changed,
+51 Look, I shew you a mystery; We will not all sleep, but we will all be changed,
 
 52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet will sound, and the dead will be raised incorruptible, and we will be changed.
 

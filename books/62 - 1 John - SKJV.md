@@ -84,7 +84,7 @@
 
 ## 1 John Chapter 3
 
-1 Behold, what manner of love the Father has bestowed upon us, that we should be called the sons of God: therefore the world knows us not, because it knew him not.
+1 Look, what manner of love the Father has bestowed upon us, that we should be called the sons of God: therefore the world knows us not, because it knew him not.
 
 2 Beloved, now are we the sons of God, and it does not yet appear what we will be: but we know that, when he will appear, we will be like him; for we will see him as he is.
 

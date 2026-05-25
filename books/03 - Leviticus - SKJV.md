@@ -514,13 +514,13 @@
 
 15 The heave shoulder and the wave breast will they bring with the offerings made by fire of the fat, to wave it for a wave offering before the Lord; and it will be your, and your sons' with you, by a statute for ever; as the Lord has commanded.
 
-16 And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron which were left alive, saying,
+16 And Moses diligently sought the goat of the sin offering, and, look, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron which were left alive, saying,
 
 17 therefore have you not eaten the sin offering in the holy place, seeing it is most holy, and God has given it you to bear the iniquity of the congregation, to make atonement for them before the Lord?
 
-18 Behold, the blood of it was not brought in within the holy place: you should indeed have eaten it in the holy place, as I commanded.
+18 Look, the blood of it was not brought in within the holy place: you should indeed have eaten it in the holy place, as I commanded.
 
-19 And Aaron said to Moses, Behold, this day have they offered their sin offering and their burnt offering before the Lord; and such things have befallen me: and if I had eaten the sin offering to day, should it have been accepted in the sight of the Lord?
+19 And Aaron said to Moses, Look, this day have they offered their sin offering and their burnt offering before the Lord; and such things have befallen me: and if I had eaten the sin offering to day, should it have been accepted in the sight of the Lord?
 
 20 And when Moses heard that, he was content.
 
@@ -648,23 +648,23 @@
 
 4 If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair of it be not turned white; then the priest will shut up him that has the plague seven days:
 
-5 And the priest will look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest will shut him up seven days more:
+5 And the priest will look on him the seventh day: and, look, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest will shut him up seven days more:
 
-6 And the priest will look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest will pronounce him clean: it is but a scab: and he will wash his clothes, and be clean.
+6 And the priest will look on him again the seventh day: and, look, if the plague be somewhat dark, and the plague spread not in the skin, the priest will pronounce him clean: it is but a scab: and he will wash his clothes, and be clean.
 
 7 But if the scab spread much abroad in the skin, after that he has been seen of the priest for his cleansing, he will be seen of the priest again.
 
-8 And if the priest see that, behold, the scab spreads in the skin, then the priest will pronounce him unclean: it is a leprosy.
+8 And if the priest see that, look, the scab spreads in the skin, then the priest will pronounce him unclean: it is a leprosy.
 
 9 When the plague of leprosy is in a man, then he will be brought to the priest;
 
-10 And the priest will see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
+10 And the priest will see him: and, look, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
 
 11 It is an old leprosy in the skin of his flesh, and the priest will pronounce him unclean, and will not shut him up: for he is unclean.
 
 12 And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that has the plague from his head even to his foot, wheresoever the priest looks;
 
-13 Then the priest will consider: and, behold, if the leprosy have covered all his flesh, he will pronounce him clean that has the plague: it is all turned white: he is clean.
+13 Then the priest will consider: and, look, if the leprosy have covered all his flesh, he will pronounce him clean that has the plague: it is all turned white: he is clean.
 
 14 But when raw flesh appears in him, he will be unclean.
 
@@ -672,15 +672,15 @@
 
 16 Or if the raw flesh turn again, and be changed to white, he will come to the priest;
 
-17 And the priest will see him: and, behold, if the plague be turned into white; then the priest will pronounce him clean that has the plague: he is clean.
+17 And the priest will see him: and, look, if the plague be turned into white; then the priest will pronounce him clean that has the plague: he is clean.
 
 18 The flesh also, in which, even in the skin of it, was a boil, and is healed,
 
 19 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;
 
-20 And if, when the priest sees it, behold, it be in sight lower than the skin, and the hair of it be turned white; the priest will pronounce him unclean: it is a plague of leprosy broken out of the boil.
+20 And if, when the priest sees it, look, it be in sight lower than the skin, and the hair of it be turned white; the priest will pronounce him unclean: it is a plague of leprosy broken out of the boil.
 
-21 But if the priest look on it, and, behold, there be no white hairs in it, and if it be not lower than the skin, but be somewhat dark; then the priest will shut him up seven days:
+21 But if the priest look on it, and, look, there be no white hairs in it, and if it be not lower than the skin, but be somewhat dark; then the priest will shut him up seven days:
 
 22 And if it spread much abroad in the skin, then the priest will pronounce him unclean: it is a plague.
 
@@ -688,9 +688,9 @@
 
 24 Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burns have a white bright spot, somewhat reddish, or white;
 
-25 Then the priest will look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the priest will pronounce him unclean: it is the plague of leprosy.
+25 Then the priest will look upon it: and, look, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the priest will pronounce him unclean: it is the plague of leprosy.
 
-26 But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest will shut him up seven days:
+26 But if the priest look on it, and, look, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest will shut him up seven days:
 
 27 And the priest will look upon him the seventh day: and if it be spread much abroad in the skin, then the priest will pronounce him unclean: it is the plague of leprosy.
 
@@ -698,25 +698,25 @@
 
 29 If a man or woman have a plague upon the head or the beard;
 
-30 Then the priest will see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest will pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
+30 Then the priest will see the plague: and, look, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest will pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
 
-31 And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest will shut up him that has the plague of the scall seven days:
+31 And if the priest look on the plague of the scall, and, look, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest will shut up him that has the plague of the scall seven days:
 
-32 And in the seventh day the priest will look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;
+32 And in the seventh day the priest will look on the plague: and, look, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;
 
 33 He will be shaven, but the scall will he not shave; and the priest will shut up him that has the scall seven days more:
 
-34 And in the seventh day the priest will look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest will pronounce him clean: and he will wash his clothes, and be clean.
+34 And in the seventh day the priest will look on the scall: and, look, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest will pronounce him clean: and he will wash his clothes, and be clean.
 
 35 But if the scall spread much in the skin after his cleansing;
 
-36 Then the priest will look on him: and, behold, if the scall be spread in the skin, the priest will not seek for yellow hair; he is unclean.
+36 Then the priest will look on him: and, look, if the scall be spread in the skin, the priest will not seek for yellow hair; he is unclean.
 
 37 But if the scall be in his sight at a stay, and that there is black hair grown up in it; the scall is healed, he is clean: and the priest will pronounce him clean.
 
 38 If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;
 
-39 Then the priest will look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that grows in the skin; he is clean.
+39 Then the priest will look: and, look, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that grows in the skin; he is clean.
 
 40 And the man whose hair is fallen off his head, he is bald; yet is he clean.
 
@@ -724,7 +724,7 @@
 
 42 And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.
 
-43 Then the priest will look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appears in the skin of the flesh;
+43 Then the priest will look upon it: and, look, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appears in the skin of the flesh;
 
 44 He is a leprous man, he is unclean: the priest will pronounce him utterly unclean; his plague is in his head.
 
@@ -744,13 +744,13 @@
 
 52 He will therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, in which the plague is: for it is a fretting leprosy; it will be burnt in the fire.
 
-53 And if the priest will look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
+53 And if the priest will look, and, look, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
 
 54 Then the priest will command that they wash the thing in which the plague is, and he will shut it up seven days more:
 
-55 And the priest will look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; you will burn it in the fire; it is fret inward, whether it be bare within or without.
+55 And the priest will look on the plague, after that it is washed: and, look, if the plague have not changed his colour, and the plague be not spread; it is unclean; you will burn it in the fire; it is fret inward, whether it be bare within or without.
 
-56 And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he will rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:
+56 And if the priest look, and, look, the plague be somewhat dark after the washing of it; then he will rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:
 
 57 And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: you will burn that in which the plague is with fire.
 
@@ -764,7 +764,7 @@
 
 2 This will be the law of the leper in the day of his cleansing: He will be brought to the priest:
 
-3 And the priest will go forth out of the camp; and the priest will look, and, behold, if the plague of leprosy be healed in the leper;
+3 And the priest will go forth out of the camp; and the priest will look, and, look, if the plague of leprosy be healed in the leper;
 
 4 Then will the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
 
@@ -832,11 +832,11 @@
 
 36 Then the priest will command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest will go in to see the house:
 
-37 And he will look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;
+37 And he will look on the plague, and, look, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;
 
 38 Then the priest will go out of the house to the door of the house, and shut up the house seven days:
 
-39 And the priest will come again the seventh day, and will look: and, behold, if the plague be spread in the walls of the house;
+39 And the priest will come again the seventh day, and will look: and, look, if the plague be spread in the walls of the house;
 
 40 Then the priest will command that they take away the stones in which the plague is, and they will cast them into an unclean place without the city:
 
@@ -846,7 +846,7 @@
 
 43 And if the plague come again, and break out in the house, after that he has taken away the stones, and after he has scraped the house, and after it is plaistered;
 
-44 Then the priest will come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house; it is unclean.
+44 Then the priest will come and look, and, look, if the plague be spread in the house, it is a fretting leprosy in the house; it is unclean.
 
 45 And he will break down the house, the stones of it, and the timber of it, and all the morter of the house; and he will carry them forth out of the city into an unclean place.
 
@@ -854,7 +854,7 @@
 
 47 And he that lis in the house will wash his clothes; and he that eats in the house will wash his clothes.
 
-48 And if the priest will come in, and look upon it, and, behold, the plague has not spread in the house, after the house was plaistered: then the priest will pronounce the house clean, because the plague is healed.
+48 And if the priest will come in, and look upon it, and, look, the plague has not spread in the house, after the house was plaistered: then the priest will pronounce the house clean, because the plague is healed.
 
 49 And he will take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
 
@@ -1208,7 +1208,7 @@
 
 11 And the man that lis with his father's wife has uncovered his father's nakedness: both of them will surely be put to death; their blood will be upon them.
 
-12 And if a man lie with his daughter in law, both of them will surely be put to death: they have wrought confusion; their blood will be upon them.
+12 And if a man lie with his daughter in law, both of them will surely be put to death: they have done confusion; their blood will be upon them.
 
 13 If a man also lie with mankind, as he lis with a woman, both of them have committed an abomination: they will surely be put to death; their blood will be upon them.
 
@@ -1536,7 +1536,7 @@
 
 19 And the land will yield her fruit, and you will eat your fill, and dwell in it in safety.
 
-20 And if you will say, What will we eat the seventh year? behold, we will not sow, nor gather in our increase:
+20 And if you will say, What will we eat the seventh year? look, we will not sow, nor gather in our increase:
 
 21 Then I will command my blessing upon you in the sixth year, and it will bring forth fruit for three years.
 

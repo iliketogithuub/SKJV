@@ -30,7 +30,7 @@
 
 14 And the Lord has given a commandment concerning you, that no more of your name be sown: out of the house of your gods will I cut off the graven image and the melted image: I will make your grave; for you are vile.
 
-15 Behold upon the mountains the feet of him that brings good tidings, that publishs peace! O Judah, keep your solemn feasts, perform your vows: for the wicked will no more pass through you; he is utterly cut off.
+15 Look upon the mountains the feet of him that brings good tidings, that publishs peace! O Judah, keep your solemn feasts, perform your vows: for the wicked will no more pass through you; he is utterly cut off.
 
 ## Nahum Chapter 2
 
@@ -58,7 +58,7 @@
 
 12 The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
 
-13 Behold, I am against you, says the Lord of hosts, and I will burn her chariots in the smoke, and the sword will devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers will no more be heard.
+13 Look, I am against you, says the Lord of hosts, and I will burn her chariots in the smoke, and the sword will devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers will no more be heard.
 
 ## Nahum Chapter 3
 
@@ -70,7 +70,7 @@
 
 4 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that sells nations through her whoredoms, and families through her witchcrafts.
 
-5 Behold, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will shew the nations your nakedness, and the kingdoms your shame.
+5 Look, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will shew the nations your nakedness, and the kingdoms your shame.
 
 6 And I will cast abominable filth upon you, and make you vile, and will set you as a gazingstock.
 
@@ -86,7 +86,7 @@
 
 12 All your strong holds will be like fig trees with the firstripe figs: if they be shaken, they will even fall into the mouth of the eater.
 
-13 Behold, your people in the midst of you are women: the gates of your land will be set wide open to your enemies: the fire will devour your bars.
+13 Look, your people in the midst of you are women: the gates of your land will be set wide open to your enemies: the fire will devour your bars.
 
 14 Draw you waters for the siege, fortify your strong holds: go into clay, and tread the morter, make strong the brickkiln.
 

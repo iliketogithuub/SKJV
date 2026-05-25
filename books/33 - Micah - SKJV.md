@@ -6,7 +6,7 @@
 
 2 Hear, all you people; listen, O earth, and all that in it is: and let the Lord God be witness against you, the Lord from his holy temple.
 
-3 For, behold, the Lord comes forth out of his place, and will come down, and tread upon the high places of the earth.
+3 For, look, the Lord comes forth out of his place, and will come down, and tread upon the high places of the earth.
 
 4 And the mountains will be melted under him, and the valleys will be cleft, as wax before the fire, and as the waters that are poured down a steep place.
 
@@ -40,7 +40,7 @@
 
 2 And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
-3 Therefore thus says the Lord; Behold, against this family do I devise an evil, from which you will not remove your necks; neither will you go haughtily: for this time is evil.
+3 Therefore thus says the Lord; Look, against this family do I devise an evil, from which you will not remove your necks; neither will you go haughtily: for this time is evil.
 
 4 In that day will one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he has changed the portion of my people: how has he removed it from me! turning away he has divided our fields.
 
@@ -200,9 +200,9 @@
 
 8 Rejoice not against me, O mine enemy: when I fall, I will arise; when I sit in darkness, the Lord will be a light to me.
 
-9 I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I will behold his righteousness.
+9 I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I will see his righteousness.
 
-10 Then she that is mine enemy will see it, and shame will cover her which said to me, Where is the Lord your God? mine eyes will behold her: now will she be trodden down as the mire of the streets.
+10 Then she that is mine enemy will see it, and shame will cover her which said to me, Where is the Lord your God? mine eyes will see her: now will she be trodden down as the mire of the streets.
 
 11 In the day that your walls are to be built, in that day will the decree be far removed.
 

@@ -8,7 +8,7 @@
 
 3 The word of the Lord came expressly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
 
-4 And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst of it as the colour of amber, out of the midst of the fire.
+4 And I looked, and, look, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst of it as the colour of amber, out of the midst of the fire.
 
 5 Also out of the midst of it came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.
 
@@ -30,7 +30,7 @@
 
 14 And the living creatures ran and returned as the appearance of a flash of lightning.
 
-15 Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
+15 Now as I saw the living creatures, look one wheel upon the earth by the living creatures, with his four faces.
 
 16 The appearance of the wheels and their work was like to the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.
 
@@ -76,7 +76,7 @@
 
 8 But you, son of man, hear what I say to you; Be not you rebellious like that rebellious house: open your mouth, and eat that I give you.
 
-9 And when I looked, behold, an hand was sent to me; and, lo, a roll of a book was in it;
+9 And when I looked, look, an hand was sent to me; and, look, a roll of a book was in it;
 
 10 And he spread it before me; and it was written within and without: and there was written in it lamentations, and mourning, and woe.
 
@@ -96,7 +96,7 @@
 
 7 But the house of Israel will not listen to you; for they will not listen to me: for all the house of Israel are impudent and hardhearted.
 
-8 Behold, I have made your face strong against their faces, and your forehead strong against their foreheads.
+8 Look, I have made your face strong against their faces, and your forehead strong against their foreheads.
 
 9 As an adamant harder than flint have I made your forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house.
 
@@ -126,11 +126,11 @@
 
 22 And the hand of the Lord was there upon me; and he said to me, Arise, go forth into the plain, and I will there talk with you.
 
-23 Then I arose, and went forth into the plain: and, behold, the glory of the Lord stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
+23 Then I arose, and went forth into the plain: and, look, the glory of the Lord stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
 
 24 Then the spirit entered into me, and set me upon my feet, and spake with me, and said to me, Go, shut thyself within your house.
 
-25 But you, O son of man, behold, they will put bands upon you, and will bind you with them, and you will not go out among them:
+25 But you, O son of man, look, they will put bands upon you, and will bind you with them, and you will not go out among them:
 
 26 And I will make your tongue cleave to the roof of your mouth, that you will be dumb, and will not be to them a reprover: for they are a rebellious house.
 
@@ -152,7 +152,7 @@
 
 7 Therefore you will set your face toward the siege of Jerusalem, and your arm will be uncovered, and you will prophesy against it.
 
-8 And, behold, I will lay bands upon you, and you will not turn you from one side to another, till you have ended the days of your siege.
+8 And, look, I will lay bands upon you, and you will not turn you from one side to another, till you have ended the days of your siege.
 
 9 Take you also to you wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make you bread of it, according to the number of the days that you will lie upon your side, three hundred and ninety days will you eat of it.
 
@@ -164,11 +164,11 @@
 
 13 And the Lord said, Even thus will the children of Israel eat their defiled bread among the Gentiles, where I will drive them.
 
-14 Then said I, Ah Lord God! behold, my soul has not been polluted: for from my youth up even till now have I not eaten of that which dies of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
+14 Then said I, Ah Lord God! look, my soul has not been polluted: for from my youth up even till now have I not eaten of that which dies of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
 
-15 Then he said to me, Lo, I have given you cow's dung for man's dung, and you will prepare your bread with it.
+15 Then he said to me, Look, I have given you cow's dung for man's dung, and you will prepare your bread with it.
 
-16 Moreover he said to me, Son of man, behold, I will break the staff of bread in Jerusalem: and they will eat bread by weight, and with care; and they will drink water by measure, and with astonishment:
+16 Moreover he said to me, Son of man, look, I will break the staff of bread in Jerusalem: and they will eat bread by weight, and with care; and they will drink water by measure, and with astonishment:
 
 17 That they may want bread and water, and be astonied one with another, and consume away for their iniquity.
 
@@ -188,7 +188,7 @@
 
 7 Therefore thus says the Lord God; Because you multiplied more than the nations that are round about you, and have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that are round about you;
 
-8 Therefore thus says the Lord God; Behold, I, even I, am against you, and will execute judgments in the midst of you in the sight of the nations.
+8 Therefore thus says the Lord God; Look, I, even I, am against you, and will execute judgments in the midst of you in the sight of the nations.
 
 9 And I will do in you that which I have not done, and whereunto I will not do any more the like, because of all your abominations.
 
@@ -214,7 +214,7 @@
 
 2 Son of man, set your face toward the mountains of Israel, and prophesy against them,
 
-3 And say, you mountains of Israel, hear the word of the Lord God; Thus says the Lord God to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
+3 And say, you mountains of Israel, hear the word of the Lord God; Thus says the Lord God to the mountains, and to the hills, to the rivers, and to the valleys; Look, I, even I, will bring a sword upon you, and I will destroy your high places.
 
 4 And your altars will be desolate, and your images will be broken: and I will cast down your slain men before your idols.
 
@@ -248,9 +248,9 @@
 
 4 And mine eye will not spare you, neither will I have pity: but I will repay your ways upon you, and your abominations will be in the midst of you: and you will know that I am the Lord.
 
-5 Thus says the Lord God; An evil, an only evil, behold, is come.
+5 Thus says the Lord God; An evil, an only evil, look, is come.
 
-6 An end is come, the end is come: it watchs for you; behold, it is come.
+6 An end is come, the end is come: it watchs for you; look, it is come.
 
 7 The morning is come to you, O you that dwell in the land: the time is come, the day of trouble is near, and not the sounding again of the mountains.
 
@@ -258,7 +258,7 @@
 
 9 And mine eye will not spare, neither will I have pity: I will repay you according to your ways and your abominations that are in the midst of you; and you will know that I am the Lord that smits.
 
-10 Behold the day, behold, it is come: the morning is gone forth; the rod has blossomed, pride has budded.
+10 Look at the day, look, it is come: the morning is gone forth; the rod has blossomed, pride has budded.
 
 11 Violence is risen up into a rod of wickedness: none of them will remain, nor of their multitude, nor of any of their's: neither will there be wailing for them.
 
@@ -298,23 +298,23 @@
 
 1 And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord God fell there upon me.
 
-2 Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
+2 Then I looked, and look, a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
 
 3 And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looks toward the north; where was the seat of the image of jealousy, which provoks to jealousy.
 
-4 And, behold, the glory of the God of Israel was there, according to the vision that I saw in the plain.
+4 And, look, the glory of the God of Israel was there, according to the vision that I saw in the plain.
 
-5 Then said he to me, Son of man, lift up your eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry.
+5 Then said he to me, Son of man, lift up your eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and look northward at the gate of the altar this image of jealousy in the entry.
 
 6 He said furthermore to me, Son of man, se you what they do? even the great abominations that the house of Israel committs here, that I should go far off from my sanctuary? but turn you yet again, and you will see greater abominations.
 
-7 And he brought me to the door of the court; and when I looked, behold a hole in the wall.
+7 And he brought me to the door of the court; and when I looked, look, a hole in the wall.
 
-8 Then said he to me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.
+8 Then said he to me, Son of man, dig now in the wall: and when I had digged in the wall, look, a door.
 
-9 And he said to me, Go in, and behold the wicked abominations that they do here.
+9 And he said to me, Go in, and look at the wicked abominations that they do here.
 
-10 So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
+10 So I went in and saw; and look every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 
 11 And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
 
@@ -322,13 +322,13 @@
 
 13 He said also to me, Turn you yet again, and you will see greater abominations that they do.
 
-14 Then he brought me to the door of the gate of the Lord's house which was toward the north; and, behold, there sat women weeping for Tammuz.
+14 Then he brought me to the door of the gate of the Lord's house which was toward the north; and, look, there sat women weeping for Tammuz.
 
 15 Then said he to me, have you seen this, O son of man? turn you yet again, and you will see greater abominations than these.
 
-16 And he brought me into the inner court of the Lord's house, and, behold, at the door of the temple of the Lord, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the Lord, and their faces toward the east; and they worshipped the sun toward the east.
+16 And he brought me into the inner court of the Lord's house, and, look, at the door of the temple of the Lord, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the Lord, and their faces toward the east; and they worshipped the sun toward the east.
 
-17 Then he said to me, have you seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
+17 Then he said to me, have you seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, look, they put the branch to their nose.
 
 18 Therefore will I also deal in fury: mine eye will not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 
@@ -336,7 +336,7 @@
 
 1 He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 
-2 And, behold, six men came from the way of the higher gate, which lis toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
+2 And, look, six men came from the way of the higher gate, which lis toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
 
 3 And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer's inkhorn by his side;
 
@@ -354,11 +354,11 @@
 
 10 And as for me also, mine eye will not spare, neither will I have pity, but I will repay their way upon their head.
 
-11 And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as you have commanded me.
+11 And, look, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as you have commanded me.
 
 ## Ezekiel Chapter 10
 
-1 Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
+1 Then I looked, and, look, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 
 2 And he spake to the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.
 
@@ -374,7 +374,7 @@
 
 8 And there appeared in the cherubims the form of a man's hand under their wings.
 
-9 And when I looked, behold the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the colour of a beryl stone.
+9 And when I looked, look at the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the colour of a beryl stone.
 
 10 And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
 
@@ -404,7 +404,7 @@
 
 ## Ezekiel Chapter 11
 
-1 Moreover the spirit lifted me up, and brought me to the east gate of the Lord's house, which looks eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
+1 Moreover the spirit lifted me up, and brought me to the east gate of the Lord's house, which looks eastward: and look at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
 
 2 Then said he to me, Son of man, these are the men that devise mischief, and give wicked counsel in this city:
 
@@ -508,7 +508,7 @@
 
 26 Again the word of the Lord came to me, saying.
 
-27 Son of man, behold, they of the house of Israel say, The vision that he sees is for many days to come, and he prophesis of the times that are far off.
+27 Son of man, look, they of the house of Israel say, The vision that he sees is for many days to come, and he prophesis of the times that are far off.
 
 28 Therefore say to them, Thus says the Lord God; There will none of my words be prolonged any more, but the word which I have spoken will be done, says the Lord God.
 
@@ -528,15 +528,15 @@
 
 7 Have you not seen a vain vision, and have you not spoken a lying divination, whereas you say, The Lord says it; even though I have not spoken?
 
-8 Therefore thus says the Lord God; Because you have spoken vanity, and seen lies, therefore, behold, I am against you, says the Lord God.
+8 Therefore thus says the Lord God; Because you have spoken vanity, and seen lies, therefore, look, I am against you, says the Lord God.
 
 9 And mine hand will be upon the prophets that see vanity, and that divine lies: they will not be in the assembly of my people, neither will they be written in the writing of the house of Israel, neither will they enter into the land of Israel; and you will know that I am the Lord God.
 
-10 Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter:
+10 Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, look, others daubed it with untempered morter:
 
 11 Say to them which daub it with untempered morter, that it will fall: there will be an overflowing shower; and you, O great hailstones, will fall; and a stormy wind will rend it.
 
-12 Lo, when the wall is fallen, will it not be said to you, Where is the daubing with what you have daubed it?
+12 Look, when the wall is fallen, will it not be said to you, Where is the daubing with what you have daubed it?
 
 13 Therefore thus says the Lord God; I will even rend it with a stormy wind in my fury; and there will be an overflowing shower in mine anger, and great hailstones in my fury to consume it.
 
@@ -552,7 +552,7 @@
 
 19 And will you pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
 
-20 therefore thus says the Lord God; Behold, I am against your pillows, with what you there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that you hunt to make them fly.
+20 therefore thus says the Lord God; Look, I am against your pillows, with what you there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that you hunt to make them fly.
 
 21 Your kerchiefs also will I tear, and deliver my people out of your hand, and they will be no more in your hand to be hunted; and you will know that I am the Lord.
 
@@ -604,7 +604,7 @@
 
 21 For thus says the Lord God; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?
 
-22 Yet, behold, in it will be left a remnant that will be brought forth, both sons and daughters: behold, they will come forth to you, and you will see their way and their doings: and you will be comforted concerning the evil that I have brought upon Jerusalem, even concerning all that I have brought upon it.
+22 Yet, look, in it will be left a remnant that will be brought forth, both sons and daughters: look, they will come forth to you, and you will see their way and their doings: and you will be comforted concerning the evil that I have brought upon Jerusalem, even concerning all that I have brought upon it.
 
 23 And they will comfort you, when you see their ways and their doings: and you will know that I have not done without cause all that I have done in it, says the Lord God.
 
@@ -616,9 +616,9 @@
 
 3 will wood be taken of it to do any work? or will men take a pin of it to hang any vessel thereon?
 
-4 Behold, it is cast into the fire for fuel; the fire devours both the ends of it, and the midst of it is burned. Is it meet for any work?
+4 Look, it is cast into the fire for fuel; the fire devours both the ends of it, and the midst of it is burned. Is it meet for any work?
 
-5 Behold, when it was whole, it was meet for no work: how much less will it be meet yet for any work, when the fire has devoured it, and it is burned?
+5 Look, when it was whole, it was meet for no work: how much less will it be meet yet for any work, when the fire has devoured it, and it is burned?
 
 6 Therefore thus says the Lord God; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
 
@@ -642,7 +642,7 @@
 
 7 I have caused you to multiply as the bud of the field, and you have increased and waxen great, and you are come to excellent ornaments: your breasts are fashioned, and your hair is grown, whereas you wast naked and bare.
 
-8 Now when I passed by you, and looked upon you, behold, your time was the time of love; and I spread my skirt over you, and covered your nakedness: yea, I sware to you, and entered into a covenant with you, says the Lord God, and you becam mine.
+8 Now when I passed by you, and looked upon you, look, your time was the time of love; and I spread my skirt over you, and covered your nakedness: yea, I sware to you, and entered into a covenant with you, says the Lord God, and you becam mine.
 
 9 Then washed I you with water; yea, I throughly washed away your blood from you, and I anointed you with oil.
 
@@ -680,7 +680,7 @@
 
 26 you have also committed fornication with the Egyptians your neighbours, great of flesh; and have increased your whoredoms, to provoke me to anger.
 
-27 Behold, therefore I have stretched out my hand over you, and have diminished your ordinary food, and delivered you to the will of them that hate you, the daughters of the Philistines, which are ashamed of your lewd way.
+27 Look, therefore I have stretched out my hand over you, and have diminished your ordinary food, and delivered you to the will of them that hate you, the daughters of the Philistines, which are ashamed of your lewd way.
 
 28 you have played the whore also with the Assyrians, because you wast unsatiable; yea, you have played the harlot with them, and yet could not be satisfied.
 
@@ -700,7 +700,7 @@
 
 36 Thus says the Lord God; Because your filthiness was poured out, and your nakedness discovered through your whoredoms with your lovers, and with all the idols of your abominations, and by the blood of your children, which you did give to them;
 
-37 Behold, therefore I will gather all your lovers, with whom you have taken pleasure, and all them that you have loved, with all them that you have hated; I will even gather them round about against you, and will discover your nakedness to them, that they may see all your nakedness.
+37 Look, therefore I will gather all your lovers, with whom you have taken pleasure, and all them that you have loved, with all them that you have hated; I will even gather them round about against you, and will discover your nakedness to them, that they may see all your nakedness.
 
 38 And I will judge you, as women that break wedlock and shed blood are judged; and I will give you blood in fury and jealousy.
 
@@ -712,9 +712,9 @@
 
 42 So will I make my fury toward you to rest, and my jealousy will depart from you, and I will be quiet, and will be no more angry.
 
-43 Because you have not remembered the days of your youth, but have fretted me in all these things; behold, therefore I also will repay your way upon your head, says the Lord God: and you will not commit this lewdness above all your abominations.
+43 Because you have not remembered the days of your youth, but have fretted me in all these things; look, therefore I also will repay your way upon your head, says the Lord God: and you will not commit this lewdness above all your abominations.
 
-44 Behold, every one that uses proverbs will use this proverb against you, saying, As is the mother, so is her daughter.
+44 Look, every one that uses proverbs will use this proverb against you, saying, As is the mother, so is her daughter.
 
 45 you are your mother's daughter, that loths her husband and her children; and you are the sister of your sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
 
@@ -724,7 +724,7 @@
 
 48 As I live, says the Lord God, Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters.
 
-49 Behold, this was the iniquity of your sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
+49 Look, this was the iniquity of your sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
 
 50 And they were haughty, and committed abomination before me: therefore I took them away as I saw good.
 
@@ -768,17 +768,17 @@
 
 6 And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots of it were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
 
-7 There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
+7 There was also another great eagle with great wings and many feathers: and, look, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
 
 8 It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.
 
 9 Say you, Thus says the Lord God; will it prosper? will he not pull up the roots of it, and cut off the fruit of it, that it wither? it will wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots of it.
 
-10 Yea, behold, being planted, will it prosper? will it not utterly wither, when the east wind touchs it? it will wither in the furrows where it grew.
+10 Yea, look, being planted, will it prosper? will it not utterly wither, when the east wind touchs it? it will wither in the furrows where it grew.
 
 11 Moreover the word of the Lord came to me, saying,
 
-12 Say now to the rebellious house, Know you not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and has taken the king of it, and the princes of it, and led them with him to Babylon;
+12 Say now to the rebellious house, Know you not what these things mean? tell them, Look, the king of Babylon is come to Jerusalem, and has taken the king of it, and the princes of it, and led them with him to Babylon;
 
 13 And has taken of the king's seed, and made a covenant with him, and has taken an oath of him: he has also taken the mighty of the land:
 
@@ -790,7 +790,7 @@
 
 17 Neither will Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 
-18 Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and has done all these things, he will not escape.
+18 Seeing he despised the oath by breaking the covenant, when, look, he had given his hand, and has done all these things, he will not escape.
 
 19 Therefore thus says the Lord God; As I live, surely mine oath that he has despised, and my covenant that he has broken, even it will I repay upon his own head.
 
@@ -812,7 +812,7 @@
 
 3 As I live, says the Lord God, you will not have occasion any more to use this proverb in Israel.
 
-4 Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinns, it will die.
+4 Look, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinns, it will die.
 
 5 But if a man be just, and do that which is lawful and right,
 
@@ -832,7 +832,7 @@
 
 13 has given forth upon usury, and has taken increase: will he then live? he will not live: he has done all these abominations; he will surely die; his blood will be upon him.
 
-14 Now, lo, if he beget a son, that sees all his father's sins which he has done, and considers, and does not such like,
+14 Now, look, if he beget a son, that sees all his father's sins which he has done, and considers, and does not such like,
 
 15 That has not eaten upon the mountains, neither has lifted up his eyes to the idols of the house of Israel, has not defiled his neighbour's wife,
 
@@ -840,7 +840,7 @@
 
 17 That has taken off his hand from the poor, that has not received usury nor increase, has executed my judgments, has walked in my statutes; he will not die for the iniquity of his father, he will surely live.
 
-18 As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he will die in his iniquity.
+18 As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, look, even he will die in his iniquity.
 
 19 Yet say you, Why? does not the son bear the iniquity of the father? When the son has done that which is lawful and right, and has kept all my statutes, and has done them, he will surely live.
 
@@ -918,7 +918,7 @@
 
 8 But they rebelled against me, and would not listen to me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.
 
-9 But I wrought for my name's sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known to them, in bringing them forth out of the land of Egypt.
+9 But I worked for my name's sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known to them, in bringing them forth out of the land of Egypt.
 
 10 therefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
 
@@ -928,7 +928,7 @@
 
 13 But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which if a man do, he will even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.
 
-14 But I wrought for my name's sake, that it should not be polluted before the heathen, in whose sight I brought them out.
+14 But I worked for my name's sake, that it should not be polluted before the heathen, in whose sight I brought them out.
 
 15 Yet also I lifted up my hand to them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands;
 
@@ -944,7 +944,7 @@
 
 21 Nevertheless the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which if a man do, he will even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.
 
-22 Nevertheless I withdrew mine hand, and wrought for my name's sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.
+22 Nevertheless I withdrew mine hand, and worked for my name's sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.
 
 23 I lifted up mine hand to them also in the wilderness, that I would scatter them among the heathen, and disperse them through the countries;
 
@@ -988,13 +988,13 @@
 
 43 And there will you remember your ways, and all your doings, in which you have been defiled; and you will lothe yourselves in your own sight for all your evils that you have committed.
 
-44 And you will know that I am the Lord when I have wrought with you for my name's sake, not according to your wicked ways, nor according to your corrupt doings, O you house of Israel, says the Lord God.
+44 And you will know that I am the Lord when I have done with you for my name's sake, not according to your wicked ways, nor according to your corrupt doings, O you house of Israel, says the Lord God.
 
 45 Moreover the word of the Lord came to me, saying,
 
 46 Son of man, set your face toward the south, and drop your word toward the south, and prophesy against the forest of the south field;
 
-47 And say to the forest of the south, Hear the word of the Lord; Thus says the Lord God; Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree: the flaming flame will not be quenched, and all faces from the south to the north will be burned in it.
+47 And say to the forest of the south, Hear the word of the Lord; Thus says the Lord God; Look, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree: the flaming flame will not be quenched, and all faces from the south to the north will be burned in it.
 
 48 And all flesh will see that I the Lord have kindled it: it will not be quenched.
 
@@ -1006,7 +1006,7 @@
 
 2 Son of man, set your face toward Jerusalem, and drop your word toward the holy places, and prophesy against the land of Israel,
 
-3 And say to the land of Israel, Thus says the Lord; Behold, I am against you, and will draw forth my sword out of his sheath, and will cut off from you the righteous and the wicked.
+3 And say to the land of Israel, Thus says the Lord; Look, I am against you, and will draw forth my sword out of his sheath, and will cut off from you the righteous and the wicked.
 
 4 Seeing then that I will cut off from you the righteous and the wicked, therefore will my sword go forth out of his sheath against all flesh from the south to the north:
 
@@ -1014,7 +1014,7 @@
 
 6 Sigh therefore, you son of man, with the breaking of your loins; and with bitterness sigh before their eyes.
 
-7 And it will be, when they say to you, therefore sigh you? that you will answer, For the tidings; because it comes: and every heart will melt, and all hands will be feeble, and every spirit will faint, and all knees will be weak as water: behold, it comes, and will be brought to pass, says the Lord God.
+7 And it will be, when they say to you, therefore sigh you? that you will answer, For the tidings; because it comes: and every heart will melt, and all hands will be feeble, and every spirit will faint, and all knees will be weak as water: look, it comes, and will be brought to pass, says the Lord God.
 
 8 Again the word of the Lord came to me, saying,
 
@@ -1078,7 +1078,7 @@
 
 5 Those that be near, and those that be far from you, will mock you, which are infamous and much vexed.
 
-6 Behold, the princes of Israel, every one were in you to their power to shed blood.
+6 Look, the princes of Israel, every one were in you to their power to shed blood.
 
 7 In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow.
 
@@ -1092,7 +1092,7 @@
 
 12 In you have they taken gifts to shed blood; you have taken usury and increase, and you have greedily gained of your neighbours by extortion, and have forgotten me, says the Lord God.
 
-13 Behold, therefore I have smitten mine hand at your dishonest gain which you have made, and at your blood which has been in the midst of you.
+13 Look, therefore I have smitten mine hand at your dishonest gain which you have made, and at your blood which has been in the midst of you.
 
 14 Can your heart endure, or can your hands be strong, in the days that I will deal with you? I the Lord have spoken it, and will do it.
 
@@ -1104,7 +1104,7 @@
 
 18 Son of man, the house of Israel is to me become dross: all they are brass, and tin, and iron, and lead, in the midst of the furnace; they are even the dross of silver.
 
-19 Therefore thus says the Lord God; Because you are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
+19 Therefore thus says the Lord God; Because you are all become dross, look, therefore I will gather you into the midst of Jerusalem.
 
 20 As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you.
 
@@ -1174,7 +1174,7 @@
 
 21 Thus you calledst to remembrance the lewdness of your youth, in bruising your teats by the Egyptians for the paps of your youth.
 
-22 Therefore, O Aholibah, thus says the Lord God; Behold, I will raise up your lovers against you, from whom your mind is alienated, and I will bring them against you on every side;
+22 Therefore, O Aholibah, thus says the Lord God; Look, I will raise up your lovers against you, from whom your mind is alienated, and I will bring them against you on every side;
 
 23 The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, and all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses.
 
@@ -1186,7 +1186,7 @@
 
 27 Thus will I make your lewdness to cease from you, and your whoredom brought from the land of Egypt: so that you will not lift up your eyes to them, nor remember Egypt any more.
 
-28 For thus says the Lord God; Behold, I will deliver you into the hand of them whom you hat, into the hand of them from whom your mind is alienated:
+28 For thus says the Lord God; Look, I will deliver you into the hand of them whom you hat, into the hand of them from whom your mind is alienated:
 
 29 And they will deal with you hatefully, and will take away all your labour, and will leave you naked and bare: and the nakedness of your whoredoms will be discovered, both your lewdness and your whoredoms.
 
@@ -1208,9 +1208,9 @@
 
 38 Moreover this they have done to me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 
-39 For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.
+39 For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, look, thus have they done in the midst of mine house.
 
-40 And furthermore, that you have sent for men to come from far, to whom a messenger was sent; and, lo, they came: for whom you did wash thyself, paintedst your eyes, and deckedst thyself with ornaments,
+40 And furthermore, that you have sent for men to come from far, to whom a messenger was sent; and, look, they came: for whom you did wash thyself, paintedst your eyes, and deckedst thyself with ornaments,
 
 41 And sat upon a stately bed, and a table prepared before it, whereupon you have set mine incense and mine oil.
 
@@ -1262,7 +1262,7 @@
 
 15 Also the word of the Lord came to me, saying,
 
-16 Son of man, behold, I take away from you the desire of your eyes with a stroke: yet neither will you mourn nor weep, neither will your tears run down.
+16 Son of man, look, I take away from you the desire of your eyes with a stroke: yet neither will you mourn nor weep, neither will your tears run down.
 
 17 Forbear to cry, make no mourning for the dead, bind the tire of your head upon you, and put on your shoes upon your feet, and cover not your lips, and eat not the bread of men.
 
@@ -1272,7 +1272,7 @@
 
 20 Then I answered them, The word of the Lord came to me, saying,
 
-21 Speak to the house of Israel, Thus says the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitis; and your sons and your daughters whom you have left will fall by the sword.
+21 Speak to the house of Israel, Thus says the Lord God; Look, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitis; and your sons and your daughters whom you have left will fall by the sword.
 
 22 And you will do as I have done: you will not cover your lips, nor eat the bread of men.
 
@@ -1294,17 +1294,17 @@
 
 3 And say to the Ammonites, Hear the word of the Lord God; Thus says the Lord God; Because you saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;
 
-4 Behold, therefore I will deliver you to the men of the east for a possession, and they will set their palaces in you, and make their dwellings in you: they will eat your fruit, and they will drink your milk.
+4 Look, therefore I will deliver you to the men of the east for a possession, and they will set their palaces in you, and make their dwellings in you: they will eat your fruit, and they will drink your milk.
 
 5 And I will make Rabbah a stable for camels, and the Ammonites a couching place for flocks: and you will know that I am the Lord.
 
 6 For thus says the Lord God; Because you have clapped your hands, and stamped with the feet, and rejoiced in heart with all your despite against the land of Israel;
 
-7 Behold, therefore I will stretch out mine hand upon you, and will deliver you for a spoil to the heathen; and I will cut you off from the people, and I will cause you to perish out of the countries: I will destroy you; and you will know that I am the Lord.
+7 Look, therefore I will stretch out mine hand upon you, and will deliver you for a spoil to the heathen; and I will cut you off from the people, and I will cause you to perish out of the countries: I will destroy you; and you will know that I am the Lord.
 
-8 Thus says the Lord God; Because that Moab and Seir do say, Behold, the house of Judah is like to all the heathen;
+8 Thus says the Lord God; Because that Moab and Seir do say, Look, the house of Judah is like to all the heathen;
 
-9 Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
+9 Therefore, look, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 
 10 to the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.
 
@@ -1318,7 +1318,7 @@
 
 15 Thus says the Lord God; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;
 
-16 Therefore thus says the Lord God; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.
+16 Therefore thus says the Lord God; Look, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.
 
 17 And I will execute great vengeance upon them with furious rebukes; and they will know that I am the Lord, when I will lay my vengeance upon them.
 
@@ -1328,7 +1328,7 @@
 
 2 Son of man, because that Tyrus has said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned to me: I will be replenished, now she is laid waste:
 
-3 Therefore thus says the Lord God; Behold, I am against you, O Tyrus, and will cause many nations to come up against you, as the sea causes his waves to come up.
+3 Therefore thus says the Lord God; Look, I am against you, O Tyrus, and will cause many nations to come up against you, as the sea causes his waves to come up.
 
 4 And they will destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock.
 
@@ -1336,7 +1336,7 @@
 
 6 And her daughters which are in the field will be slain by the sword; and they will know that I am the Lord.
 
-7 For thus says the Lord God; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.
+7 For thus says the Lord God; Look, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.
 
 8 He will slay with the sword your daughters in the field: and he will make a fort against you, and cast a mount against you, and lift up the buckler against you.
 
@@ -1446,7 +1446,7 @@
 
 2 Son of man, say to the prince of Tyrus, Thus says the Lord God; Because your heart is lifted up, and you have said, I am a God, I sit in the seat of God, in the midst of the seas; yet you are a man, and not God, though you set your heart as the heart of God:
 
-3 Behold, you are wiser than Daniel; there is no secret that they can hide from you:
+3 Look, you are wiser than Daniel; there is no secret that they can hide from you:
 
 4 With your wisdom and with your understanding you have gotten you riches, and have gotten gold and silver into your treasures:
 
@@ -1454,7 +1454,7 @@
 
 6 Therefore thus says the Lord God; Because you have set your heart as the heart of God;
 
-7 Behold, therefore I will bring strangers upon you, the terrible of the nations: and they will draw their swords against the beauty of your wisdom, and they will defile your brightness.
+7 Look, therefore I will bring strangers upon you, the terrible of the nations: and they will draw their swords against the beauty of your wisdom, and they will defile your brightness.
 
 8 They will bring you down to the pit, and you will die the deaths of them that are slain in the midst of the seas.
 
@@ -1474,9 +1474,9 @@
 
 16 By the multitude of your merchandise they have filled the midst of you with violence, and you have sinned: therefore I will cast you as profane out of the mountain of God: and I will destroy you, O covering cherub, from the midst of the stones of fire.
 
-17 your heart was lifted up because of your beauty, you have corrupted your wisdom by reason of your brightness: I will cast you to the ground, I will lay you before kings, that they may behold you.
+17 your heart was lifted up because of your beauty, you have corrupted your wisdom by reason of your brightness: I will cast you to the ground, I will lay you before kings, that they may see you.
 
-18 you have defiled your sanctuaries by the multitude of your iniquities, by the iniquity of your traffick; therefore will I bring forth a fire from the midst of you, it will devour you, and I will bring you to ashes upon the earth in the sight of all them that behold you.
+18 you have defiled your sanctuaries by the multitude of your iniquities, by the iniquity of your traffick; therefore will I bring forth a fire from the midst of you, it will devour you, and I will bring you to ashes upon the earth in the sight of all them that look at you.
 
 19 All they that know you among the people will be astonished at you: you will be a terror, and never will you be any more.
 
@@ -1484,7 +1484,7 @@
 
 21 Son of man, set your face against Zidon, and prophesy against it,
 
-22 And say, Thus says the Lord God; Behold, I am against you, O Zidon; and I will be glorified in the midst of you: and they will know that I am the Lord, when I will have executed judgments in her, and will be sanctified in her.
+22 And say, Thus says the Lord God; Look, I am against you, O Zidon; and I will be glorified in the midst of you: and they will know that I am the Lord, when I will have executed judgments in her, and will be sanctified in her.
 
 23 For I will send into her pestilence, and blood into her streets; and the wounded will be judged in the midst of her by the sword upon her on every side; and they will know that I am the Lord.
 
@@ -1500,7 +1500,7 @@
 
 2 Son of man, set your face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
 
-3 Speak, and say, Thus says the Lord God; Behold, I am against you, Pharaoh king of Egypt, the great dragon that lis in the midst of his rivers, which has said, My river is mine own, and I have made it for myself.
+3 Speak, and say, Thus says the Lord God; Look, I am against you, Pharaoh king of Egypt, the great dragon that lis in the midst of his rivers, which has said, My river is mine own, and I have made it for myself.
 
 4 But I will put hooks in your jaws, and I will cause the fish of your rivers to stick to your scales, and I will bring you up out of the midst of your rivers, and all the fish of your rivers will stick to your scales.
 
@@ -1510,11 +1510,11 @@
 
 7 When they took hold of you by your hand, you did break, and rend all their shoulder: and when they leaned upon you, you brak, and mad all their loins to be at a stand.
 
-8 Therefore thus says the Lord God; Behold, I will bring a sword upon you, and cut off man and beast out of you.
+8 Therefore thus says the Lord God; Look, I will bring a sword upon you, and cut off man and beast out of you.
 
 9 And the land of Egypt will be desolate and waste; and they will know that I am the Lord: because he has said, The river is mine, and I have made it.
 
-10 Behold, therefore I am against you, and against your rivers, and I will make the land of Egypt utterly waste and desolate, from the tower of Syene even to the border of Ethiopia.
+10 Look, therefore I am against you, and against your rivers, and I will make the land of Egypt utterly waste and desolate, from the tower of Syene even to the border of Ethiopia.
 
 11 No foot of man will pass through it, nor foot of beast will pass through it, neither will it be inhabited forty years.
 
@@ -1532,9 +1532,9 @@
 
 18 Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:
 
-19 Therefore thus says the Lord God; Behold, I will give the land of Egypt to Nebuchadrezzar king of Babylon; and he will take her multitude, and take her spoil, and take her prey; and it will be the wages for his army.
+19 Therefore thus says the Lord God; Look, I will give the land of Egypt to Nebuchadrezzar king of Babylon; and he will take her multitude, and take her spoil, and take her prey; and it will be the wages for his army.
 
-20 I have given him the land of Egypt for his labour with what he served against it, because they wrought for me, says the Lord God.
+20 I have given him the land of Egypt for his labour with what he served against it, because they worked for me, says the Lord God.
 
 21 In that day will I cause the horn of the house of Israel to bud forth, and I will give you the opening of the mouth in the midst of them; and they will know that I am the Lord.
 
@@ -1556,7 +1556,7 @@
 
 8 And they will know that I am the Lord, when I have set a fire in Egypt, and when all her helpers will be destroyed.
 
-9 In that day will messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain will come upon them, as in the day of Egypt: for, lo, it comes.
+9 In that day will messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain will come upon them, as in the day of Egypt: for, look, it comes.
 
 10 Thus says the Lord God; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.
 
@@ -1580,9 +1580,9 @@
 
 20 And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the Lord came to me, saying,
 
-21 Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it will not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.
+21 Son of man, I have broken the arm of Pharaoh king of Egypt; and, look, it will not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.
 
-22 Therefore thus says the Lord God; Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
+22 Therefore thus says the Lord God; Look, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
 
 23 And I will scatter the Egyptians among the nations, and will disperse them through the countries.
 
@@ -1598,7 +1598,7 @@
 
 2 Son of man, speak to Pharaoh king of Egypt, and to his multitude; Whom are you like in your greatness?
 
-3 Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
+3 Look, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
 
 4 The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent her little rivers to all the trees of the field.
 
@@ -1760,9 +1760,9 @@
 
 31 And they come to you as the people comes, and they sit before you as my people, and they hear your words, but they will not do them: for with their mouth they shew much love, but their heart goes after their covetousness.
 
-32 And, lo, you are to them as a very lovely song of one that has a pleasant voice, and can play well on an instrument: for they hear your words, but they do them not.
+32 And, look, you are to them as a very lovely song of one that has a pleasant voice, and can play well on an instrument: for they hear your words, but they do them not.
 
-33 And when this comes to pass, (lo, it will come,) then will they know that a prophet has been among them.
+33 And when this comes to pass, (look, it will come,) then will they know that a prophet has been among them.
 
 ## Ezekiel Chapter 34
 
@@ -1784,9 +1784,9 @@
 
 9 Therefore, O you shepherds, hear the word of the Lord;
 
-10 Thus says the Lord God; Behold, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither will the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
+10 Thus says the Lord God; Look, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither will the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
 
-11 For thus says the Lord God; Behold, I, even I, will both search my sheep, and seek them out.
+11 For thus says the Lord God; Look, I, even I, will both search my sheep, and seek them out.
 
 12 As a shepherd seeks out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 
@@ -1798,13 +1798,13 @@
 
 16 I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.
 
-17 And as for you, O my flock, thus says the Lord God; Behold, I judge between cattle and cattle, between the rams and the he goats.
+17 And as for you, O my flock, thus says the Lord God; Look, I judge between cattle and cattle, between the rams and the he goats.
 
 18 Seems it a small thing to you to have eaten up the good pasture, but you must tread down with your feet the residue of your pastures? and to have drunk of the deep waters, but you must foul the residue with your feet?
 
 19 And as for my flock, they eat that which you have trodden with your feet; and they drink that which you have fouled with your feet.
 
-20 Therefore thus says the Lord God to them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
+20 Therefore thus says the Lord God to them; Look, I, even I, will judge between the fat cattle and between the lean cattle.
 
 21 Because you have thrust with side and with shoulder, and pushed all the diseased with your horns, till you have scattered them abroad;
 
@@ -1834,7 +1834,7 @@
 
 2 Son of man, set your face against mount Seir, and prophesy against it,
 
-3 And say to it, Thus says the Lord God; Behold, O mount Seir, I am against you, and I will stretch out mine hand against you, and I will make you most desolate.
+3 And say to it, Thus says the Lord God; Look, O mount Seir, I am against you, and I will stretch out mine hand against you, and I will make you most desolate.
 
 4 I will lay your cities waste, and you will be desolate, and you will know that I am the Lord.
 
@@ -1872,13 +1872,13 @@
 
 5 Therefore thus says the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.
 
-6 Prophesy therefore concerning the land of Israel, and say to the mountains, and to the hills, to the rivers, and to the valleys, Thus says the Lord God; Behold, I have spoken in my jealousy and in my fury, because you have borne the shame of the heathen:
+6 Prophesy therefore concerning the land of Israel, and say to the mountains, and to the hills, to the rivers, and to the valleys, Thus says the Lord God; Look, I have spoken in my jealousy and in my fury, because you have borne the shame of the heathen:
 
 7 Therefore thus says the Lord God; I have lifted up mine hand, Surely the heathen that are about you, they will bear their shame.
 
 8 But you, O mountains of Israel, you will shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.
 
-9 For, behold, I am for you, and I will turn to you, and you will be tilled and sown:
+9 For, look, I am for you, and I will turn to you, and you will be tilled and sown:
 
 10 And I will multiply men upon you, all the house of Israel, even all of it: and the cities will be inhabited, and the wastes will be builded:
 
@@ -1942,27 +1942,27 @@
 
 1 The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 
-2 And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.
+2 And caused me to pass by them round about: and, look, there were very many in the open valley; and, look, they were very dry.
 
 3 And he said to me, Son of man, can these bones live? And I answered, O Lord God, you know.
 
 4 Again he said to me, Prophesy upon these bones, and say to them, O you dry bones, hear the word of the Lord.
 
-5 Thus says the Lord God to these bones; Behold, I will cause breath to enter into you, and you will live:
+5 Thus says the Lord God to these bones; Look, I will cause breath to enter into you, and you will live:
 
 6 And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you will live; and you will know that I am the Lord.
 
-7 So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
+7 So I prophesied as I was commanded: and as I prophesied, there was a noise, and look, a shaking, and the bones came together, bone to his bone.
 
-8 And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
+8 And when I saw, look, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
 
 9 Then said he to me, Prophesy to the wind, prophesy, son of man, and say to the wind, Thus says the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
 
 10 So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
-11 Then he said to me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
+11 Then he said to me, Son of man, these bones are the whole house of Israel: look, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
 
-12 Therefore prophesy and say to them, Thus says the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
+12 Therefore prophesy and say to them, Thus says the Lord God; Look, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
 
 13 And you will know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,
 
@@ -1976,11 +1976,11 @@
 
 18 And when the children of your people will speak to you, saying, will you not shew us what you mean by these?
 
-19 Say to them, Thus says the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they will be one in mine hand.
+19 Say to them, Thus says the Lord God; Look, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they will be one in mine hand.
 
 20 And the sticks whereon you writ will be in your hand before their eyes.
 
-21 And say to them, Thus says the Lord God; Behold, I will take the children of Israel from among the heathen, where they be gone, and will gather them on every side, and bring them into their own land:
+21 And say to them, Thus says the Lord God; Look, I will take the children of Israel from among the heathen, where they be gone, and will gather them on every side, and bring them into their own land:
 
 22 And I will make them one nation in the land upon the mountains of Israel; and one king will be king to them all: and they will be no more two nations, neither will they be divided into two kingdoms any more at all.
 
@@ -2002,7 +2002,7 @@
 
 2 Son of man, set your face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 
-3 And say, Thus says the Lord God; Behold, I am against you, O Gog, the chief prince of Meshech and Tubal:
+3 And say, Thus says the Lord God; Look, I am against you, O Gog, the chief prince of Meshech and Tubal:
 
 4 And I will turn you back, and put hooks into your jaws, and I will bring you forth, and all your army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them handling swords:
 
@@ -2046,7 +2046,7 @@
 
 ## Ezekiel Chapter 39
 
-1 Therefore, you son of man, prophesy against Gog, and say, Thus says the Lord God; Behold, I am against you, O Gog, the chief prince of Meshech and Tubal:
+1 Therefore, you son of man, prophesy against Gog, and say, Thus says the Lord God; Look, I am against you, O Gog, the chief prince of Meshech and Tubal:
 
 2 And I will turn you back, and leave but the sixth part of you, and will cause you to come up from the north parts, and will bring you upon the mountains of Israel:
 
@@ -2060,7 +2060,7 @@
 
 7 So will I make my holy name known in the midst of my people Israel; and I will not let them pollute my holy name any more: and the heathen will know that I am the Lord, the Holy One in Israel.
 
-8 Behold, it is come, and it is done, says the Lord God; this is the day whereof I have spoken.
+8 Look, it is come, and it is done, says the Lord God; this is the day whereof I have spoken.
 
 9 And they that dwell in the cities of Israel will go forth, and will set on fire and burn the weapons, both the shields and the bucklers, the bows and the arrows, and the handstaves, and the spears, and they will burn them with fire seven years:
 
@@ -2110,11 +2110,11 @@
 
 2 In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.
 
-3 And he brought me there, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
+3 And he brought me there, and, look, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
 
-4 And the man said to me, Son of man, behold with your eyes, and hear with your ears, and set your heart upon all that I will shew you; for to the intent that I might shew them to you are you brought here: declare all that you se to the house of Israel.
+4 And the man said to me, Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I will shew you; for to the intent that I might shew them to you are you brought here: declare all that you se to the house of Israel.
 
-5 And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
+5 And look, a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
 
 6 Then came he to the gate which looks toward the east, and went up the stairs of it, and measured the threshold of the gate, which was one reed broad; and the other threshold of the gate, which was one reed broad.
 
@@ -2138,7 +2138,7 @@
 
 16 And there were narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows were round about inward: and upon each post were palm trees.
 
-17 Then brought he me into the outward court, and, lo, there were chambers, and a pavement made for the court round about: thirty chambers were upon the pavement.
+17 Then brought he me into the outward court, and, look, there were chambers, and a pavement made for the court round about: thirty chambers were upon the pavement.
 
 18 And the pavement by the side of the gates over against the length of the gates was the lower pavement.
 
@@ -2152,7 +2152,7 @@
 
 23 And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.
 
-24 After that he brought me toward the south, and behold a gate toward the south: and he measured the posts of it and the arches of it according to these measures.
+24 After that he brought me toward the south, and look, a gate toward the south: and he measured the posts of it and the arches of it according to these measures.
 
 25 And there were windows in it and in the arches of it round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits.
 
@@ -2274,7 +2274,7 @@
 
 7 And the wall that was without over against the chambers, toward the utter court on the forepart of the chambers, the length of it was fifty cubits.
 
-8 For the length of the chambers that were in the utter court was fifty cubits: and, lo, before the temple were an hundred cubits.
+8 For the length of the chambers that were in the utter court was fifty cubits: and, look, before the temple were an hundred cubits.
 
 9 And from under these chambers was the entry on the east side, as one goes into them from the utter court.
 
@@ -2304,13 +2304,13 @@
 
 1 Afterward he brought me to the gate, even the gate that looks toward the east:
 
-2 And, behold, the glory of the God of Israel came from the way of the east: and his voice was like a noise of many waters: and the earth shined with his glory.
+2 And, look, the glory of the God of Israel came from the way of the east: and his voice was like a noise of many waters: and the earth shined with his glory.
 
 3 And it was according to the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city: and the visions were like the vision that I saw by the river Chebar; and I fell upon my face.
 
 4 And the glory of the Lord came into the house by the way of the gate whose prospect is toward the east.
 
-5 So the spirit took me up, and brought me into the inner court; and, behold, the glory of the Lord filled the house.
+5 So the spirit took me up, and brought me into the inner court; and, look, the glory of the Lord filled the house.
 
 6 And I heard him speaking to me out of the house; and the man stood by me.
 
@@ -2324,7 +2324,7 @@
 
 11 And if they be ashamed of all that they have done, shew them the form of the house, and the fashion of it, and the goings out of it, and the comings in of it, and all the forms of it, and all the ordinances of it, and all the forms of it, and all the laws of it: and write it in their sight, that they may keep the whole form of it, and all the ordinances of it, and do them.
 
-12 This is the law of the house; Upon the top of the mountain the whole limit of it round about will be most holy. Behold, this is the law of the house.
+12 This is the law of the house; Upon the top of the mountain the whole limit of it round about will be most holy. Look, this is the law of the house.
 
 13 And these are the measures of the altar after the cubits: The cubit is a cubit and an hand breadth; even the bottom will be a cubit, and the breadth a cubit, and the border of it by the edge of it round about will be a span: and this will be the higher place of the altar.
 
@@ -2364,9 +2364,9 @@
 
 3 It is for the prince; the prince, he will sit in it to eat bread before the Lord; he will enter by the way of the porch of that gate, and will go out by the way of the same.
 
-4 Then brought he me the way of the north gate before the house: and I looked, and, behold, the glory of the Lord filled the house of the Lord: and I fell upon my face.
+4 Then brought he me the way of the north gate before the house: and I looked, and, look, the glory of the Lord filled the house of the Lord: and I fell upon my face.
 
-5 And the Lord said to me, Son of man, mark well, and behold with your eyes, and hear with your ears all that I say to you concerning all the ordinances of the house of the Lord, and all the laws of it; and mark well the entering in of the house, with every going forth of the sanctuary.
+5 And the Lord said to me, Son of man, mark well, and look with your eyes, and hear with your ears all that I say to you concerning all the ordinances of the house of the Lord, and all the laws of it; and mark well the entering in of the house, with every going forth of the sanctuary.
 
 6 And you will say to the rebellious, even to the house of Israel, Thus says the Lord God; O you house of Israel, let it suffice you of all your abominations,
 
@@ -2510,11 +2510,11 @@
 
 18 Moreover the prince will not take of the people's inheritance by oppression, to thrust them out of their possession; but he will give his sons inheritance out of his own possession: that my people be not scattered every man from his possession.
 
-19 After he brought me through the entry, which was at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there was a place on the two sides westward.
+19 After he brought me through the entry, which was at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, look, there was a place on the two sides westward.
 
 20 Then said he to me, This is the place where the priests will boil the trespass offering and the sin offering, where they will bake the meat offering; that they bear them not out into the utter court, to sanctify the people.
 
-21 Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court there was a court.
+21 Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, look, in every corner of the court there was a court.
 
 22 In the four corners of the court there were courts joined of forty cubits long and thirty broad: these four corners were of one measure.
 
@@ -2524,9 +2524,9 @@
 
 ## Ezekiel Chapter 47
 
-1 Afterward he brought me again to the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
+1 Afterward he brought me again to the door of the house; and, look, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
 
-2 Then brought he me out of the way of the gate northward, and led me about the way without to the utter gate by the way that looks eastward; and, behold, there ran out waters on the right side.
+2 Then brought he me out of the way of the gate northward, and led me about the way without to the utter gate by the way that looks eastward; and, look, there ran out waters on the right side.
 
 3 And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
 
@@ -2536,7 +2536,7 @@
 
 6 And he said to me, Son of man, have you seen this? Then he brought me, and caused me to return to the brink of the river.
 
-7 Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.
+7 Now when I had returned, look, at the bank of the river were very many trees on the one side and on the other.
 
 8 Then said he to me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters will be healed.
 

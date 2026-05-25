@@ -18,13 +18,13 @@
 
 8 Jerusalem has grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sighs, and turns backward.
 
-9 Her filthiness is in her skirts; she remembers not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy has magnified himself.
+9 Her filthiness is in her skirts; she remembers not her last end; therefore she came down wonderfully: she had no comforter. O Lord, look at my affliction: for the enemy has magnified himself.
 
 10 The adversary has spread out his hand upon all her pleasant things: for she has seen that the heathen entered into her sanctuary, whom you did command that they should not enter into your congregation.
 
 11 All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O Lord, and consider; for I am become vile.
 
-12 Is it nothing to you, all you that pass by? behold, and see if there be any sorrow like to my sorrow, which is done to me, with what the Lord has afflicted me in the day of his fierce anger.
+12 Is it nothing to you, all you that pass by? look, and see if there be any sorrow like to my sorrow, which is done to me, with what the Lord has afflicted me in the day of his fierce anger.
 
 13 From above has he sent fire into my bones, and it prevails against them: he has spread a net for my feet, he has turned me back: he has made me desolate and faint all the day.
 
@@ -36,11 +36,11 @@
 
 17 Zion spreads forth her hands, and there is none to comfort her: the Lord has commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.
 
-18 The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
+18 The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and look at my sorrow: my virgins and my young men are gone into captivity.
 
 19 I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
 
-20 Behold, O Lord; for I am in distress: my heart are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereavs, at home there is as death.
+20 Look, O Lord; for I am in distress: my heart are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereavs, at home there is as death.
 
 21 They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that you have done it: you will bring the day that you have called, and they will be like to me.
 
@@ -86,7 +86,7 @@
 
 19 Arise, cry out in the night: in the beginning of the watches pour out your heart like water before the face of the Lord: lift up your hands toward him for the life of your young children, that faint for hunger in the top of every street.
 
-20 Behold, O Lord, and consider to whom you have done this. will the women eat their fruit, and children of a span long? will the priest and the prophet be slain in the sanctuary of the Lord?
+20 Look, O Lord, and consider to whom you have done this. will the women eat their fruit, and children of a span long? will the priest and the prophet be slain in the sanctuary of the Lord?
 
 21 The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; you have slain them in the day of your anger; you have killed, and not pitied.
 
@@ -192,7 +192,7 @@
 
 49 Mine eye trickls down, and ceass not, without any intermission.
 
-50 Till the Lord look down, and behold from heaven.
+50 Till the Lord look down, and look from heaven.
 
 51 Mine eye affects mine heart because of all the daughters of my city.
 
@@ -218,7 +218,7 @@
 
 62 The lips of those that rose up against me, and their device against me all the day.
 
-63 Behold their sitting down, and their rising up; I am their musick.
+63 Look at their sitting down, and their rising up; I am their musick.
 
 64 Render to them a recompence, O Lord, according to the work of their hands.
 
@@ -274,7 +274,7 @@
 
 ## Lamentations Chapter 5
 
-1 Remember, O Lord, what is come upon us: consider, and behold our reproach.
+1 Remember, O Lord, what is come upon us: consider, and look at our reproach.
 
 2 Our inheritance is turned to strangers, our houses to aliens.
 

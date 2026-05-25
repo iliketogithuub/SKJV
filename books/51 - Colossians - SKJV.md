@@ -70,7 +70,7 @@
 
 4 And this I say, otherwise any man should beguile you with enticing words.
 
-5 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
+5 For though I be absent in the flesh, yet am I with you in the spirit, joying and observing your order, and the stedfastness of your faith in Christ.
 
 6 As you have therefore received Christ Jesus the Lord, so walk you in him:
 

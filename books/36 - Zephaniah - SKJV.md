@@ -44,7 +44,7 @@
 
 2 Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord's anger come upon you.
 
-3 Seek you the Lord, all you meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be you will be hid in the day of the Lord's anger.
+3 Seek you the Lord, all you meek of the earth, which have done his judgment; seek righteousness, seek meekness: it may be you will be hid in the day of the Lord's anger.
 
 4 For Gaza will be forsaken, and Ashkelon a desolation: they will drive out Ashdod at the noon day, and Ekron will be rooted up.
 
@@ -108,7 +108,7 @@
 
 18 I will gather them that are sorrowful for the solemn assembly, who are of you, to whom the reproach of it was a burden.
 
-19 Behold, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
+19 Look, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 
 20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, says the Lord.
 

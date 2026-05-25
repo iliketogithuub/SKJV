@@ -28,7 +28,7 @@
 
 13 Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 
-14 And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+14 And the Word was made flesh, and dwelt among us, (and we saw his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
 15 John bare witness of him, and cried, saying, This was he of whom I spake, He that comes after me is preferred before me: for he was before me.
 
@@ -58,7 +58,7 @@
 
 28 These things were done in Bethabara beyond Jordan, where John was baptizing.
 
-29 The next day John sees Jesus coming to him, and says, Behold the Lamb of God, which takes away the sin of the world.
+29 The next day John sees Jesus coming to him, and says, Look at the Lamb of God, which takes away the sin of the world.
 
 30 This is he of whom I said, After me comes a man which is preferred before me: for he was before me.
 
@@ -72,7 +72,7 @@
 
 35 Again the next day after John stood, and two of his disciples;
 
-36 And looking upon Jesus as he walked, he says, Behold the Lamb of God!
+36 And looking upon Jesus as he walked, he says, Look at the Lamb of God!
 
 37 And the two disciples heard him speak, and they followed Jesus.
 
@@ -84,7 +84,7 @@
 
 41 He first finds his own brother Simon, and says to him, We have found the Messias, which is, being interpreted, the Christ.
 
-42 And he brought him to Jesus. And when Jesus beheld him, he said, you are Simon the son of Jona: you will be called Cephas, which is by interpretation, A stone.
+42 And he brought him to Jesus. And when Jesus saw him, he said, you are Simon the son of Jona: you will be called Cephas, which is by interpretation, A stone.
 
 43 The day following Jesus would go forth into Galilee, and finds Philip, and says to him, Follow me.
 
@@ -94,7 +94,7 @@
 
 46 And Nathanael said to him, Can there any good thing come out of Nazars? Philip says to him, Come and see.
 
-47 Jesus saw Nathanael coming to him, and says of him, Behold an Israelite indeed, in whom is no guile!
+47 Jesus saw Nathanael coming to him, and says of him, Look an Israelite indeed, in whom is no guile!
 
 48 Nathanael says to him, From where know you me? Jesus answered and said to him, Before that Philip called you, when you wast under the fig tree, I saw you.
 
@@ -198,7 +198,7 @@
 
 20 For every one that does evil hates the light, neither comes to the light, otherwise his deeds should be corrected.
 
-21 But he that does truth comes to the light, that his deeds may be made manifest, that they are wrought in God.
+21 But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
 
 22 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 
@@ -208,7 +208,7 @@
 
 25 Then there arose a question between some of John's disciples and the Jews about purifying.
 
-26 And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, to whom you bar witness, behold, the same baptizs, and all men come to him.
+26 And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, to whom you bar witness, look, the same baptizs, and all men come to him.
 
 27 John answered and said, A man can receive nothing, except it be given him from heaven.
 
@@ -300,7 +300,7 @@
 
 34 Jesus says to them, My meat is to do the will of him that sent me, and to finish his work.
 
-35 Say not you, There are yet four months, and then comes harvest? behold, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.
+35 Say not you, There are yet four months, and then comes harvest? look, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 
 36 And he that reaps receives wages, and gathers fruit to life eternal: that both he that sows and he that reaps may rejoice together.
 
@@ -368,7 +368,7 @@
 
 13 And he that was healed knew not who it was: for Jesus had conveyed himself away, a multitude being in that place.
 
-14 Afterward Jesus finds him in the temple, and said to him, Behold, you are made whole: sin no more, otherwise a worse thing come to you.
+14 Afterward Jesus finds him in the temple, and said to him, Look, you are made whole: sin no more, otherwise a worse thing come to you.
 
 15 The man departed, and told the Jews that it was Jesus, which had made him whole.
 
@@ -632,7 +632,7 @@
 
 25 Then said some of them of Jerusalem, Is not this he, whom they seek to kill?
 
-26 But, lo, he speaks boldly, and they say nothing to him. Do the rulers know indeed that this is the very Christ?
+26 But, look, he speaks boldly, and they say nothing to him. Do the rulers know indeed that this is the very Christ?
 
 27 However we know this man from where he is: but when Christ comes, no man knows from where he is.
 
@@ -984,7 +984,7 @@
 
 2 (It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 
-3 Therefore his sisters sent to him, saying, Lord, behold, he whom you lov is sick.
+3 Therefore his sisters sent to him, saying, Lord, look, he whom you lov is sick.
 
 4 When Jesus heard that, he said, This sickness is not to death, but for the glory of God, that the Son of God might be glorified by that.
 
@@ -1050,7 +1050,7 @@
 
 35 Jesus wept.
 
-36 Then said the Jews, Behold how he loved him!
+36 Then said the Jews, Look how he loved him!
 
 37 And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
 
@@ -1124,7 +1124,7 @@
 
 14 And Jesus, when he had found a young ass, sat thereon; as it is written,
 
-15 Fear not, daughter of Sion: behold, your King comes, sitting on an ass's colt.
+15 Fear not, daughter of Sion: look, your King comes, sitting on an ass's colt.
 
 16 These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things to him.
 
@@ -1132,7 +1132,7 @@
 
 18 For this cause the people also met him, for that they heard that he had done this miracle.
 
-19 The Pharisees therefore said among themselves, Perceive you how you prevail nothing? behold, the world is gone after him.
+19 The Pharisees therefore said among themselves, Perceive you how you prevail nothing? look, the world is gone after him.
 
 20 And there were certain Greeks among them that came up to worship at the feast:
 
@@ -1452,13 +1452,13 @@
 
 28 I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
 
-29 His disciples said to him, Lo, now speak you plainly, and speak no proverb.
+29 His disciples said to him, Look, now speak you plainly, and speak no proverb.
 
 30 Now are we sure that you know all things, and need not that any man should ask you: by this we believe that you cam forth from God.
 
 31 Jesus answered them, Do you now believe?
 
-32 Behold, the hour comes, yea, is now come, that you will be scattered, every man to his own, and will leave me alone: and yet I am not alone, because the Father is with me.
+32 Look, the hour comes, yea, is now come, that you will be scattered, every man to his own, and will leave me alone: and yet I am not alone, because the Father is with me.
 
 33 These things I have spoken to you, that in me you might have peace. In the world you will have suffering: but be of good cheer; I have overcome the world.
 
@@ -1510,7 +1510,7 @@
 
 23 I in them, and you in me, that they may be made perfect in one; and that the world may know that you have sent me, and have loved them, as you have loved me.
 
-24 Father, I will that they also, whom you have given me, be with me where I am; that they may behold my glory, which you have given me: for you lovedst me before the foundation of the world.
+24 Father, I will that they also, whom you have given me, be with me where I am; that they may see my glory, which you have given me: for you lovedst me before the foundation of the world.
 
 25 O righteous Father, the world has not known you: but I have known you, and these have known that you have sent me.
 
@@ -1558,7 +1558,7 @@
 
 20 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
 
-21 Why ask you me? ask them which heard me, what I have said to them: behold, they know what I said.
+21 Why ask you me? ask them which heard me, what I have said to them: look, they know what I said.
 
 22 And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answer you the high priest so?
 
@@ -1606,9 +1606,9 @@
 
 3 And said, Hail, King of the Jews! and they struck him with their hands.
 
-4 Pilate therefore went forth again, and says to them, Behold, I bring him forth to you, that you may know that I find no fault in him.
+4 Pilate therefore went forth again, and says to them, Look, I bring him forth to you, that you may know that I find no fault in him.
 
-5 Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate says to them, Behold the man!
+5 Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate says to them, Look at the man!
 
 6 When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate says to them, Take you him, and crucify him: for I find no fault in him.
 
@@ -1626,7 +1626,7 @@
 
 13 When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
 
-14 And it was the preparation of the passover, and about the sixth hour: and he says to the Jews, Behold your King!
+14 And it was the preparation of the passover, and about the sixth hour: and he says to the Jews, Look at your King!
 
 15 But they cried out, Away with him, away with him, crucify him. Pilate says to them, will I crucify your King? The chief priests answered, We have no king but Caesar.
 
@@ -1650,9 +1650,9 @@
 
 25 Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.
 
-26 When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he says to his mother, Woman, behold your son!
+26 When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he says to his mother, Woman, look at your son!
 
-27 Then says he to the disciple, Behold your mother! And from that hour that disciple took her to his own home.
+27 Then says he to the disciple, Look at your mother! And from that hour that disciple took her to his own home.
 
 28 After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, says, I thirst.
 
@@ -1738,7 +1738,7 @@
 
 26 And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be to you.
 
-27 Then says he to Thomas, Reach here your finger, and behold my hands; and reach here your hand, and thrust it into my side: and be not faithless, but believing.
+27 Then says he to Thomas, Reach here your finger, and look at my hands; and reach here your hand, and thrust it into my side: and be not faithless, but believing.
 
 28 And Thomas answered and said to him, My Lord and my God.
 
@@ -1772,7 +1772,7 @@
 
 11 Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.
 
-12 Jesus says to them, Come and dine. And none of the disciples durst ask him, Who are you? knowing that it was the Lord.
+12 Jesus says to them, Come and dine. And none of the disciples dared ask him, Who are you? knowing that it was the Lord.
 
 13 Jesus then comes, and takes bread, and gives them, and fish likewise.
 

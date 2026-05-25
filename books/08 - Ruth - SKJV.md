@@ -30,7 +30,7 @@
 
 14 And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave to her.
 
-15 And she said, Behold, your sister in law is gone back to her people, and to her gods: return you after your sister in law.
+15 And she said, Look, your sister in law is gone back to her people, and to her gods: return you after your sister in law.
 
 16 And Ruth said, Intreat me not to leave you, or to return from following after you: for where you go, I will go; and where you lodg, I will lodge: your people will be my people, and your God my God:
 
@@ -54,7 +54,7 @@
 
 3 And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging to Boaz, who was of the kindred of Elimelech.
 
-4 And, behold, Boaz came from Bethlehem, and said to the reapers, The Lord be with you. And they answered him, The Lord bless you.
+4 And, look, Boaz came from Bethlehem, and said to the reapers, The Lord be with you. And they answered him, The Lord bless you.
 
 5 Then said Boaz to his servant that was set over the reapers, Whose young woman is this?
 
@@ -84,7 +84,7 @@
 
 18 And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
 
-19 And her mother in law said to her, Where have you gleaned to day? and where wrought you? blessed be he that did take knowledge of you. And she shewed her mother in law with whom she had wrought, and said, The man's name with whom I wrought to day is Boaz.
+19 And her mother in law said to her, Where have you gleaned to day? and where worked you? blessed be he that did take knowledge of you. And she shewed her mother in law with whom she had done, and said, The man's name with whom I worked to day is Boaz.
 
 20 And Naomi said to her daughter in law, Blessed be he of the Lord, who has not left off his kindness to the living and to the dead. And Naomi said to her, The man is near of kin to us, one of our next kinsmen.
 
@@ -98,7 +98,7 @@
 
 1 Then Naomi her mother in law said to her, My daughter, will I not seek rest for you, that it may be well with you?
 
-2 And now is not Boaz of our kindred, with whose maidens you wast? Behold, he winnows barley to night in the threshingfloor.
+2 And now is not Boaz of our kindred, with whose maidens you wast? Look, he winnows barley to night in the threshingfloor.
 
 3 Wash thyself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
 
@@ -110,7 +110,7 @@
 
 7 And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.
 
-8 And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.
+8 And it came to pass at midnight, that the man was afraid, and turned himself: and, look, a woman lay at his feet.
 
 9 And he said, Who are you? And she answered, I am Ruth your handmaid: spread therefore your skirt over your handmaid; for you are a near kinsman.
 
@@ -134,7 +134,7 @@
 
 ## Ruth Chapter 4
 
-1 Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; to whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
+1 Then went Boaz up to the gate, and sat him down there: and, look, the kinsman of whom Boaz spake came by; to whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
 
 2 And he took ten men of the elders of the city, and said, Sit you down here. And they sat down.
 

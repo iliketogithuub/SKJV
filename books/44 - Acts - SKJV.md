@@ -18,9 +18,9 @@
 
 8 But you will receive supernatural power when the Holy Spirit comes upon you; and you will be witnesses for Me both in Jerusalem, and in all Judea, and in Samaria, and to the very ends of the earth.
 
-9 And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
+9 And when he had spoken these things, while they saw, he was taken up; and a cloud received him out of their sight.
 
-10 And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
+10 And while they looked stedfastly toward heaven as he went up, look, two men stood by them in white apparel;
 
 11 Which also said, you men of Galilee, why stand you gazing up into heaven? this same Jesus, which is taken up from you into heaven, will so come in like manner as you have seen him go into heaven.
 
@@ -70,7 +70,7 @@
 
 6 Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
 
-7 And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans?
+7 And they were all amazed and marvelled, saying one to another, Look, are not all these which speak Galilaeans?
 
 8 And how hear we every man in our own tongue, in which we were born?
 
@@ -236,7 +236,7 @@
 
 13 Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.
 
-14 And beholding the man which was healed standing with them, they could say nothing against it.
+14 And watching the man which was healed standing with them, they could say nothing against it.
 
 15 But when they had commanded them to go aside out of the council, they conferred among themselves,
 
@@ -266,7 +266,7 @@
 
 28 For to do whatsoever your hand and your counsel determined before to be done.
 
-29 And now, Lord, behold their threatenings: and grant to your servants, that with all boldness they may speak your word,
+29 And now, Lord, look at their threatenings: and grant to your servants, that with all boldness they may speak your word,
 
 30 By stretching forth your hand to heal; and that signs and wonders may be done by the name of your holy child Jesus.
 
@@ -302,15 +302,15 @@
 
 8 And Peter answered to her, Tell me whether you sold the land for so much? And she said, Yea, for so much.
 
-9 Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried your husband are at the door, and will carry you out.
+9 Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? look, the feet of them which have buried your husband are at the door, and will carry you out.
 
 10 Then fell she down immediately at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
 
 11 And great fear came upon all the church, and upon as many as heard these things.
 
-12 And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch.
+12 And by the hands of the apostles were many signs and wonders performed among the people; (and they were all with one accord in Solomon's porch.
 
-13 And of the rest durst no man join himself to them: but the people magnified them.
+13 And of the rest no one dared join himself to them: but the people magnified them.
 
 14 And believers were the more added to the Lord, multitudes both of men and women.)
 
@@ -334,13 +334,13 @@
 
 24 Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.
 
-25 Then came one and told them, saying, Behold, the men whom you put in prison are standing in the temple, and teaching the people.
+25 Then came one and told them, saying, Look, the men whom you put in prison are standing in the temple, and teaching the people.
 
 26 Then went the captain with the officers, and brought them without violence: for they feared the people, otherwise they should have been stoned.
 
 27 And when they had brought them, they set them before the council: and the high priest asked them,
 
-28 Saying, Did not we straitly command you that you should not teach in this name? and, behold, you have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us.
+28 Saying, Did not we straitly command you that you should not teach in this name? and, look, you have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us.
 
 29 Then Peter and the other apostles answered and said, We ought to obey God rather than men.
 
@@ -440,7 +440,7 @@
 
 18 Till another king arose, which knew not Joseph.
 
-19 The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+19 The same dealt subtilly with our kindred, and mistreated our fathers, so that they cast out their young children, to the end they might not live.
 
 20 In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:
 
@@ -464,9 +464,9 @@
 
 30 And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 
-31 When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came to him,
+31 When Moses saw it, he wondered at the sight: and as he drew near to see it, the voice of the Lord came to him,
 
-32 Saying, I am the God of your fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
+32 Saying, I am the God of your fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and dared not look.
 
 33 Then said the Lord to him, Put off your shoes from your feet: for the place where you stand is holy ground.
 
@@ -514,7 +514,7 @@
 
 55 But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 
-56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
+56 And said, Look, I see the heavens opened, and the Son of man standing on the right hand of God.
 
 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,
 
@@ -550,7 +550,7 @@
 
 12 But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.
 
-13 Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.
+13 Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, watching the miracles and signs which were done.
 
 14 Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John:
 
@@ -578,7 +578,7 @@
 
 26 And the angel of the Lord spake to Philip, saying, Arise, and go toward the south to the way that goes down from Jerusalem to Gaza, which is desert.
 
-27 And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,
+27 And he arose and went: and, look, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,
 
 28 Was returning, and sitting in his chariot read Esaias the prophet.
 
@@ -626,9 +626,9 @@
 
 9 And he was three days without sight, and neither did eat nor drink.
 
-10 And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord.
+10 And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Look, I am here, Lord.
 
-11 And the Lord said to him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prays,
+11 And the Lord said to him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, look, he prays,
 
 12 And has seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.
 
@@ -728,15 +728,15 @@
 
 16 This was done thrice: and the vessel was received up again into heaven.
 
-17 Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
+17 Now while Peter doubted in himself what this vision which he had seen should mean, look, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
 
 18 And called, and asked whether Simon, which was surnamed Peter, were lodged there.
 
-19 While Peter thought on the vision, the Spirit said to him, Behold, three men seek you.
+19 While Peter thought on the vision, the Spirit said to him, Look, three men seek you.
 
 20 Arise therefore, and get you down, and go with them, doubting nothing: for I have sent them.
 
-21 Then Peter went down to the men which were sent to him from Cornelius; and said, Behold, I am he whom you seek: what is the cause therefore you are come?
+21 Then Peter went down to the men which were sent to him from Cornelius; and said, Look, I am he whom you seek: what is the cause therefore you are come?
 
 22 And they said, Cornelius the centurion, a just man, and one that fears God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for you into his house, and to hear words of you.
 
@@ -754,7 +754,7 @@
 
 29 Therefore came I to you without rebellion, as soon as I was sent for: I ask therefore for what intent you have sent for me?
 
-30 And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,
+30 And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, look, a man stood before me in bright clothing,
 
 31 And said, Cornelius, your prayer is heard, and your alms are had in remembrance in the sight of God.
 
@@ -814,7 +814,7 @@
 
 10 And this was done three times: and all were drawn up again into heaven.
 
-11 And, behold, immediately there were three men already come to the house where I was, sent from Caesarea to me.
+11 And, look, immediately there were three men already come to the house where I was, sent from Caesarea to me.
 
 12 And the Spirit bade me go with them, nothing doubting. Moreover these six brothers accompanied me, and we entered into the man's house:
 
@@ -868,7 +868,7 @@
 
 6 And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.
 
-7 And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he struck Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
+7 And, look, the angel of the Lord came upon him, and a light shined in the prison: and he struck Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
 
 8 And the angel said to him, Gird thyself, and bind on your sandals. And so he did. And he says to him, Cast your garment about you, and follow me.
 
@@ -928,7 +928,7 @@
 
 10 And said, O full of all subtilty and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
 
-11 And now, behold, the hand of the Lord is upon you, and you will be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
+11 And now, look, the hand of the Lord is upon you, and you will be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 
 12 Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 
@@ -956,7 +956,7 @@
 
 24 When John had first preached before his coming the baptism of repentance to all the people of Israel.
 
-25 And as John fulfilled his course, he said, Whom think you that I am? I am not he. But, behold, there comes one after me, whose shoes of his feet I am not worthy to loose.
+25 And as John fulfilled his course, he said, Whom think you that I am? I am not he. But, look, there comes one after me, whose shoes of his feet I am not worthy to loose.
 
 26 Men and brothers, children of the stock of Abraham, and whosoever among you fears God, to you is the word of this salvation sent.
 
@@ -988,7 +988,7 @@
 
 40 Beware therefore, otherwise that come upon you, which is spoken of in the prophets;
 
-41 Behold, you despisers, and wonder, and perish: for I work a work in your days, a work which you will in no wise believe, though a man declare it to you.
+41 Look, you despisers, and wonder, and perish: for I work a work in your days, a work which you will in no wise believe, though a man declare it to you.
 
 42 And when the Jews were gone out of the synagogue, the Gentiles urged that these words might be preached to them the next sabbath.
 
@@ -998,7 +998,7 @@
 
 45 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
 
-46 Then Paul and Barnabas grew bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
+46 Then Paul and Barnabas grew bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, look, we turn to the Gentiles.
 
 47 For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation to the ends of the earth.
 
@@ -1030,7 +1030,7 @@
 
 8 And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:
 
-9 The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,
+9 The same heard Paul speak: who stedfastly looking him, and perceiving that he had faith to be healed,
 
 10 Said with a loud voice, Stand upright on your feet. And he leaped and walked.
 
@@ -1094,7 +1094,7 @@
 
 11 But we believe that through the grace of the Lord Jesus Christ we will be saved, even as they.
 
-12 Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.
+12 Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had performed among the Gentiles by them.
 
 13 And after they had held their peace, James answered, saying, Men and brothers, listen to me:
 
@@ -1156,7 +1156,7 @@
 
 ## Acts Chapter 16
 
-1 Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
+1 Then came he to Derbe and Lystra: and, look, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
 
 2 Which was well reported of by the brothers that were at Lystra and Iconium.
 
@@ -1282,7 +1282,7 @@
 
 22 Then Paul stood in the midst of Mars' hill, and said, you men of Athens, I perceive that in all things you are too superstitious.
 
-23 For as I passed by, and beheld your devotions, I found an altar with this inscription, To The Unknown God. Whom therefore you ignorantly worship, him declare I to you.
+23 For as I passed by, and saw your devotions, I found an altar with this inscription, To The Unknown God. Whom therefore you ignorantly worship, him declare I to you.
 
 24 God that made the world and all things in it, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;
 
@@ -1312,7 +1312,7 @@
 
 2 And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came to them.
 
-3 And because he was of the same craft, he stayed with them, and wrought: for by their occupation they were tentmakers.
+3 And because he was of the same craft, he stayed with them, and worked: for by their occupation they were tentmakers.
 
 4 And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
@@ -1386,7 +1386,7 @@
 
 10 And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 
-11 And God wrought special miracles by the hands of Paul:
+11 And God worked special miracles by the hands of Paul:
 
 12 So that from his body were brought to the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
 
@@ -1492,13 +1492,13 @@
 
 21 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 
-22 And now, behold, I go bound in the spirit to Jerusalem, not knowing the things that will befall me there:
+22 And now, look, I go bound in the spirit to Jerusalem, not knowing the things that will befall me there:
 
 23 Save that the Holy Spirit witnesss in every city, saying that bonds and afflictions abide me.
 
 24 But none of these things move me, neither count I my life dear to myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
 
-25 And now, behold, I know that you all, among whom I have gone preaching the kingdom of God, will see my face no more.
+25 And now, look, I know that you all, among whom I have gone preaching the kingdom of God, will see my face no more.
 
 26 therefore I take you to record this day, that I am pure from the blood of all men.
 
@@ -1564,7 +1564,7 @@
 
 18 And the day following Paul went in with us to James; and all the elders were present.
 
-19 And when he had greeted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
+19 And when he had greeted them, he declared particularly what things God had performed among the Gentiles by his ministry.
 
 20 And when they heard it, they glorified the Lord, and said to him, you se, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
 
@@ -1672,7 +1672,7 @@
 
 ## Acts Chapter 23
 
-1 And Paul, earnestly beholding the council, said, Men and brothers, I have lived in all good conscience before God until this day.
+1 And Paul, earnestly watching the council, said, Men and brothers, I have lived in all good conscience before God until this day.
 
 2 And the high priest Ananias commanded them that stood by him to smite him on the mouth.
 
@@ -1926,7 +1926,7 @@
 
 2 And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us.
 
-3 And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go to his friends to refresh himself.
+3 And the next day we touched at Sidon. And Julius courteously treated Paul, and gave him liberty to go to his friends to refresh himself.
 
 4 And when we had launched from from there, we sailed under Cyprus, because the winds were contrary.
 
@@ -1968,7 +1968,7 @@
 
 23 For there stood by me this night the angel of God, whose I am, and whom I serve,
 
-24 Saying, Fear not, Paul; you must be brought before Caesar: and, lo, God has given you all them that sail with you.
+24 Saying, Fear not, Paul; you must be brought before Caesar: and, look, God has given you all them that sail with you.
 
 25 therefore, sirs, be of good cheer: for I believe God, that it will be even as it was told me.
 

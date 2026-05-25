@@ -6,13 +6,13 @@
 
 2 O Lord, how long will I cry, and you will not hear! even cry out to you of violence, and you will not save!
 
-3 Why do you shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
+3 Why do you shew me iniquity, and cause me to see grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 
 4 Therefore the law is slacked, and judgment does never go forth: for the wicked does compass about the righteous; therefore wrong judgment proceeds.
 
-5 Behold you among the heathen, and regard, and wonder marvelously: for I will work a work in your days which you will not believe, though it be told you.
+5 Look at you among the heathen, and regard, and wonder marvelously: for I will work a work in your days which you will not believe, though it be told you.
 
-6 For, lo, I raise up the Chaldeans, that bitter and hasty nation, which will march through the breadth of the land, to possess the dwellingplaces that are not their's.
+6 For, look, I raise up the Chaldeans, that bitter and hasty nation, which will march through the breadth of the land, to possess the dwellingplaces that are not their's.
 
 7 They are terrible and dreadful: their judgment and their dignity will proceed of themselves.
 
@@ -26,7 +26,7 @@
 
 12 are you not from everlasting, O Lord my God, mine Holy One? we will not die. O Lord, you have ordained them for judgment; and, O mighty God, you have established them for correction.
 
-13 you are of purer eyes than to behold evil, and can not look on iniquity: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
+13 you are of purer eyes than to see evil, and can not look on iniquity: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
 
 14 And mak men as the fishes of the sea, as the creeping things, that have no ruler over them?
 
@@ -44,7 +44,7 @@
 
 3 For the vision is yet for an appointed time, but at the end it will speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
 
-4 Behold, his soul which is lifted up is not upright in him: but the just will live by his faith.
+4 Look, his soul which is lifted up is not upright in him: but the just will live by his faith.
 
 5 Yea also, because he transgresss by wine, he is a proud man, neither keeps at home, who enlargs his desire as hell, and is as death, and cannot be satisfied, but gathers to him all nations, and heaps to him all people:
 
@@ -62,7 +62,7 @@
 
 12 Woe to him that builds a town with blood, and stablishs a city by iniquity!
 
-13 Behold, is it not of the Lord of hosts that the people will labour in the very fire, and the people will weary themselves for very vanity?
+13 Look, is it not of the Lord of hosts that the people will labour in the very fire, and the people will weary themselves for very vanity?
 
 14 For the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea.
 
@@ -74,7 +74,7 @@
 
 18 What profits the graven image that the maker of it has graven it; the melted image, and a teacher of lies, that the maker of his work trusts in it, to make dumb idols?
 
-19 Woe to him that says to the wood, Awake; to the dumb stone, Arise, it will teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.
+19 Woe to him that says to the wood, Awake; to the dumb stone, Arise, it will teach! Look, it is laid over with gold and silver, and there is no breath at all in the midst of it.
 
 20 But the Lord is in his holy temple: let all the earth keep silence before him.
 
@@ -90,7 +90,7 @@
 
 5 Before him went the pestilence, and burning coals went forth at his feet.
 
-6 He stood, and measured the earth: he beheld, and drove apart the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
+6 He stood, and measured the earth: he saw, and drove apart the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
 7 I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
 

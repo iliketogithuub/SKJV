@@ -40,7 +40,7 @@
 
 19 But other of the apostles saw I none, save James the Lord's brother.
 
-20 Now the things which I write to you, behold, before God, I lie not.
+20 Now the things which I write to you, look, before God, I lie not.
 
 21 Afterwards I came into the regions of Syria and Cilicia;
 
@@ -66,7 +66,7 @@
 
 7 But contrariwise, when they saw that the gospel of the uncircumcision was committed to me, as the gospel of the circumcision was to Peter;
 
-8 (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+8 (For he that worked effectively in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
 
 9 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given to me, they gave to me and Barnabas the right hands of fellowship; that we should go to the heathen, and they to the circumcision.
 
@@ -222,7 +222,7 @@
 
 1 Stand fast therefore in the liberty with what Christ has made us free, and be not entangled again with the yoke of bondage.
 
-2 Behold, I Paul say to you, that if you be circumcised, Christ will profit you nothing.
+2 Look, I Paul say to you, that if you be circumcised, Christ will profit you nothing.
 
 3 For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
 
@@ -256,7 +256,7 @@
 
 18 But if you be led of the Spirit, you are not under the law.
 
-19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,
+19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, sensuality,
 
 20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,
 

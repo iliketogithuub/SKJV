@@ -18,7 +18,7 @@
 
 8 Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, says the Lord.
 
-9 you looked for much, and, lo it came to little; and when you brought it home, I did blow upon it. Why? says the Lord of hosts. Because of mine house that is waste, and you run every man to his own house.
+9 you looked for much, and, look it came to little; and when you brought it home, I did blow upon it. Why? says the Lord of hosts. Because of mine house that is waste, and you run every man to his own house.
 
 10 Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.
 

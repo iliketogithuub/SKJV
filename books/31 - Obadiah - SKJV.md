@@ -4,7 +4,7 @@
 
 1 The vision of Obadiah. Thus says the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise you, and let us rise up against her in battle.
 
-2 Behold, I have made you small among the heathen: you are greatly despised.
+2 Look, I have made you small among the heathen: you are greatly despised.
 
 3 The pride of your heart has deceived you, you that dwell in the clefts of the rock, whose habitation is high; that says in his heart, Who shall bring me down to the ground?
 

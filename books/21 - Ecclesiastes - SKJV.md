@@ -28,11 +28,11 @@
 
 13 And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised with it.
 
-14 I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
+14 I have seen all the works that are done under the sun; and, look, all is vanity and vexation of spirit.
 
 15 That which is crooked cannot be made straight: and that which is wanting cannot be numbered.
 
-16 I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
+16 I communed with mine own heart, saying, Look, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 
 17 And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
 
@@ -40,7 +40,7 @@
 
 ## Ecclesiastes Chapter 2
 
-1 I said in mine heart, Go to now, I will prove you with mirth, therefore enjoy pleasure: and, behold, this also is vanity.
+1 I said in mine heart, Go to now, I will prove you with mirth, therefore enjoy pleasure: and, look, this also is vanity.
 
 2 I said of laughter, It is mad: and of mirth, What does it?
 
@@ -60,9 +60,9 @@
 
 10 And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
 
-11 Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.
+11 Then I looked on all the works that my hands had done, and on the labour that I had laboured to do: and, look, all was vanity and vexation of spirit, and there was no profit under the sun.
 
-12 And I turned myself to behold wisdom, and madness, and folly: for what can the man do that comes after the king? even that which has been already done.
+12 And I turned myself to see wisdom, and madness, and folly: for what can the man do that comes after the king? even that which has been already done.
 
 13 Then I saw that wisdom excells folly, as far as light excells darkness.
 
@@ -72,7 +72,7 @@
 
 16 For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come will all be forgotten. And how dies the wise man? as the fool.
 
-17 Therefore I hated life; because the work that is wrought under the sun is grievous to me: for all is vanity and vexation of spirit.
+17 Therefore I hated life; because the work that is worked under the sun is grievous to me: for all is vanity and vexation of spirit.
 
 18 Yea, I hated all my labour which I had taken under the sun: because I should leave it to the man that will be after me.
 
@@ -140,7 +140,7 @@
 
 ## Ecclesiastes Chapter 4
 
-1 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+1 So I returned, and considered all the oppressions that are done under the sun: and look at the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
 2 therefore I praised the dead which are already dead more than the living which are yet alive.
 
@@ -194,7 +194,7 @@
 
 10 He that loves silver will not be satisfied with silver; nor he that loves abundance with increase: this is also vanity.
 
-11 When goods increase, they are increased that eat them: and what good is there to the owners of it, saving the beholding of them with their eyes?
+11 When goods increase, they are increased that eat them: and what good is there to the owners of it, saving the looking of them with their eyes?
 
 12 The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
 
@@ -208,7 +208,7 @@
 
 17 All his days also he eats in darkness, and he has much sorrow and wrath with his sickness.
 
-18 Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he takes under the sun all the days of his life, which God gives him: for it is his portion.
+18 Look that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he takes under the sun all the days of his life, which God gives him: for it is his portion.
 
 19 Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labour; this is the gift of God.
 
@@ -294,11 +294,11 @@
 
 26 And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleass God will escape from her; but the sinner will be taken by her.
 
-27 Behold, this have I found, says the preacher, counting one by one, to find out the account:
+27 Look, this have I found, says the preacher, counting one by one, to find out the account:
 
 28 Which yet my soul seeks, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
 
-29 Lo, this only have I found, that God has made man upright; but they have sought out many inventions.
+29 Look, this only have I found, that God has made man upright; but they have sought out many inventions.
 
 ## Ecclesiastes Chapter 8
 
@@ -334,7 +334,7 @@
 
 16 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night sees sleep with his eyes:)
 
-17 Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he will not find it; yea farther; though a wise man think to know it, yet will he not be able to find it.
+17 Then I saw all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he will not find it; yea farther; though a wise man think to know it, yet will he not be able to find it.
 
 ## Ecclesiastes Chapter 9
 
@@ -430,7 +430,7 @@
 
 6 In the morning sow your seed, and in the evening withhold not your hand: for you know not whether will prosper, either this or that, or whether they both will be alike good.
 
-7 Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:
+7 Truly the light is sweet, and a pleasant thing it is for the eyes to see the sun:
 
 8 But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they will be many. All that comes is vanity.
 

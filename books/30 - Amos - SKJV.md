@@ -58,7 +58,7 @@
 
 12 But you gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.
 
-13 Behold, I am pressed under you, as a cart is pressed that is full of sheaves.
+13 Look, I am pressed under you, as a cart is pressed that is full of sheaves.
 
 14 Therefore the flight will perish from the swift, and the strong will not strengthen his force, neither will the mighty deliver himself:
 
@@ -84,7 +84,7 @@
 
 8 The lion has roared, who will not fear? the Lord God has spoken, who can but prophesy?
 
-9 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst of it, and the oppressed in the midst of it.
+9 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and look at the great tumults in the midst of it, and the oppressed in the midst of it.
 
 10 For they know not to do right, says the Lord, who store up violence and robbery in their palaces.
 
@@ -102,7 +102,7 @@
 
 1 Hear this word, you kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 
-2 The Lord God has sworn by his holiness, that, lo, the days will come upon you, that he will take you away with hooks, and your posterity with fishhooks.
+2 The Lord God has sworn by his holiness, that, look, the days will come upon you, that he will take you away with hooks, and your posterity with fishhooks.
 
 3 And you will go out at the breaches, every cow at that which is before her; and you will cast them into the palace, says the Lord.
 
@@ -124,7 +124,7 @@
 
 12 Therefore thus will I do to you, O Israel: and because I will do this to you, prepare to meet your God, O Israel.
 
-13 For, lo, he that forms the mountains, and creats the wind, and declars to man what is his thought, that makes the morning darkness, and treads upon the high places of the earth, The Lord, The God of hosts, is his name.
+13 For, look, he that forms the mountains, and creats the wind, and declars to man what is his thought, that makes the morning darkness, and treads upon the high places of the earth, The Lord, The God of hosts, is his name.
 
 ## Amos Chapter 5
 
@@ -204,31 +204,31 @@
 
 10 And a man's uncle will take him up, and he that burns him, to bring out the bones out of the house, and will say to him that is by the sides of the house, Is there yet any with you? and he will say, No. Then will he say, Hold your tongue: for we may not make mention of the name of the Lord.
 
-11 For, behold, the Lord commands, and he will smite the great house with breaches, and the little house with clefts.
+11 For, look, the Lord commands, and he will smite the great house with breaches, and the little house with clefts.
 
 12 will horses run upon the rock? will one plow there with oxen? for you have turned judgment into gall, and the fruit of righteousness into hemlock:
 
 13 you which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?
 
-14 But, behold, I will raise up against you a nation, O house of Israel, says the Lord the God of hosts; and they will afflict you from the entering in of Hemath to the river of the wilderness.
+14 But, look, I will raise up against you a nation, O house of Israel, says the Lord the God of hosts; and they will afflict you from the entering in of Hemath to the river of the wilderness.
 
 ## Amos Chapter 7
 
-1 Thus has the Lord God shewed to me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowings.
+1 Thus has the Lord God shewed to me; and, look, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, look, it was the latter growth after the king's mowings.
 
 2 And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I urge you: by whom will Jacob arise? for he is small.
 
 3 The Lord repented for this: It will not be, says the Lord.
 
-4 Thus has the Lord God shewed to me: and, behold, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.
+4 Thus has the Lord God shewed to me: and, look, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.
 
 5 Then said I, O Lord God, cease, I urge you: by whom will Jacob arise? for he is small.
 
 6 The Lord repented for this: This also will not be, says the Lord God.
 
-7 Thus he shewed me: and, behold, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.
+7 Thus he shewed me: and, look, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.
 
-8 And the Lord said to me, Amos, what se you? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:
+8 And the Lord said to me, Amos, what se you? And I said, A plumbline. Then said the Lord, Look, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:
 
 9 And the high places of Isaac will be desolate, and the sanctuaries of Israel will be laid waste; and I will rise against the house of Jeroboam with the sword.
 
@@ -250,7 +250,7 @@
 
 ## Amos Chapter 8
 
-1 Thus has the Lord God shewed to me: and behold a basket of summer fruit.
+1 Thus has the Lord God shewed to me: and look, a basket of summer fruit.
 
 2 And he said, Amos, what se you? And I said, A basket of summer fruit. Then said the Lord to me, The end is come upon my people of Israel; I will not again pass by them any more.
 
@@ -270,7 +270,7 @@
 
 10 And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end of it as a bitter day.
 
-11 Behold, the days come, says the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
+11 Look, the days come, says the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
 
 12 And they will wander from sea to sea, and from the north even to the east, they will run to and fro to seek the word of the Lord, and will not find it.
 
@@ -294,9 +294,9 @@
 
 7 Are you not as children of the Ethiopians to me, O children of Israel? says the Lord. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 
-8 Behold, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, says the Lord.
+8 Look, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, says the Lord.
 
-9 For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet will not the least grain fall upon the earth.
+9 For, look, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet will not the least grain fall upon the earth.
 
 10 All the sinners of my people will die by the sword, which say, The evil will not overtake nor prevent us.
 
@@ -304,7 +304,7 @@
 
 12 That they may possess the remnant of Edom, and of all the heathen, which are called by my name, says the Lord that does this.
 
-13 Behold, the days come, says the Lord, that the plowman will overtake the reaper, and the treader of grapes him that sows seed; and the mountains will drop sweet wine, and all the hills will melt.
+13 Look, the days come, says the Lord, that the plowman will overtake the reaper, and the treader of grapes him that sows seed; and the mountains will drop sweet wine, and all the hills will melt.
 
 14 And I will bring again the captivity of my people of Israel, and they will build the waste cities, and inhabit them; and they will plant vineyards, and drink the wine of it; they will also make gardens, and eat the fruit of them.
 

@@ -4,7 +4,7 @@
 
 1 Now after the death of Joshua it came to pass, that the children of Israel asked the Lord, saying, Who will go up for us against the Canaanites first, to fight against them?
 
-2 And the Lord said, Judah will go up: behold, I have delivered the land into his hand.
+2 And the Lord said, Judah will go up: look, I have delivered the land into his hand.
 
 3 And Judah said to Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with you into your lot. So Simeon went with him.
 
@@ -170,9 +170,9 @@
 
 23 Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them.
 
-24 When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covers his feet in his summer chamber.
+24 When he was gone out, his servants came; and when they saw that, look, the doors of the parlour were locked, they said, Surely he covers his feet in his summer chamber.
 
-25 And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.
+25 And they tarried till they were ashamed: and, look, he opened not the doors of the parlour; therefore they took a key, and opened them: and, look, their lord was fallen down dead on the earth.
 
 26 And Ehud escaped while they tarried, and passed beyond the quarries, and escaped to Seirath.
 
@@ -230,7 +230,7 @@
 
 21 Then Jael Heber's wife took a nail of the tent, and took an hammer in her hand, and went softly to him, and struck the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 
-22 And, behold, as Barak pursued Sisera, Jael came out to meet him, and said to him, Come, and I will shew you the man whom you seek. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples.
+22 And, look, as Barak pursued Sisera, Jael came out to meet him, and said to him, Come, and I will shew you the man whom you seek. And when he came into her tent, look, Sisera lay dead, and the nail was in his temples.
 
 23 So God subdued on that day Jabin the king of Canaan before the children of Israel.
 
@@ -330,7 +330,7 @@
 
 14 And the Lord looked upon him, and said, Go in this your might, and you will save Israel from the hand of the Midianites: have not I sent you?
 
-15 And he said to him, Oh my Lord, with what will I save Israel? behold, my family is poor in Manasseh, and I am the least in my father's house.
+15 And he said to him, Oh my Lord, with what will I save Israel? look, my family is poor in Manasseh, and I am the least in my father's house.
 
 16 And the Lord said to him, Surely I will be with you, and you will smite the Midianites as one man.
 
@@ -356,7 +356,7 @@
 
 27 Then Gideon took ten men of his servants, and did as the Lord had said to him: and so it was, because he feared his father's household, and the men of the city, that he could not do it by day, that he did it by night.
 
-28 And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built.
+28 And when the men of the city arose early in the morning, look, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built.
 
 29 And they said one to another, Who has done this thing? And when they enquired and asked, they said, Gideon the son of Joash has done this thing.
 
@@ -374,7 +374,7 @@
 
 36 And Gideon said to God, If you will save Israel by mine hand, as you have said,
 
-37 Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then will I know that you will save Israel by mine hand, as you have said.
+37 Look, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then will I know that you will save Israel by mine hand, as you have said.
 
 38 And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water.
 
@@ -408,7 +408,7 @@
 
 12 And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude.
 
-13 And when Gideon was come, behold, there was a man that told a dream to his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came to a tent, and struck it that it fell, and overturned it, that the tent lay along.
+13 And when Gideon was come, look, there was a man that told a dream to his fellow, and said, Look, I dreamed a dream, and, look, a cake of barley bread tumbled into the host of Midian, and came to a tent, and struck it that it fell, and overturned it, that the tent lay along.
 
 14 And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand has God delivered Midian, and all the host.
 
@@ -416,7 +416,7 @@
 
 16 And he divided the three hundred men into three companies, and he put a trumpet in every man's hand, with empty pitchers, and lamps within the pitchers.
 
-17 And he said to them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it will be that, as I do, so will you do.
+17 And he said to them, Look on me, and do likewise: and, look, when I come to the outside of the camp, it will be that, as I do, so will you do.
 
 18 When I blow with a trumpet, I and all that are with me, then blow you the trumpets also on every side of all the camp, and say, The sword of the Lord, and of Gideon.
 
@@ -464,7 +464,7 @@
 
 14 And caught a young man of the men of Succoth, and enquired of him: and he described to him the princes of Succoth, and the elders of it, even threescore and seventeen men.
 
-15 And he came to the men of Succoth, and said, Behold Zebah and Zalmunna, with whom you did upbraid me, saying, Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men that are weary?
+15 And he came to the men of Succoth, and said, Look Zebah and Zalmunna, with whom you did upbraid me, saying, Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men that are weary?
 
 16 And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
 
@@ -568,17 +568,17 @@
 
 30 And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
 
-31 And he sent messengers to Abimelech secretly, saying, Behold, Gaal the son of Ebed and his brothers be come to Shechem; and, behold, they fortify the city against you.
+31 And he sent messengers to Abimelech secretly, saying, Look, Gaal the son of Ebed and his brothers be come to Shechem; and, look, they fortify the city against you.
 
 32 Now therefore up by night, you and the people that is with you, and lie in wait in the field:
 
-33 And it will be, that in the morning, as soon as the sun is up, you will rise early, and set upon the city: and, behold, when he and the people that is with him come out against you, then may you do to them as you will find occasion.
+33 And it will be, that in the morning, as soon as the sun is up, you will rise early, and set upon the city: and, look, when he and the people that is with him come out against you, then may you do to them as you will find occasion.
 
 34 And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies.
 
 35 And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait.
 
-36 And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said to him, you se the shadow of the mountains as if they were men.
+36 And when Gaal saw the people, he said to Zebul, Look, there come people down from the top of the mountains. And Zebul said to him, you se the shadow of the mountains as if they were men.
 
 37 And Gaal spake again, and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim.
 
@@ -592,7 +592,7 @@
 
 42 And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.
 
-43 And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and struck them.
+43 And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, look, the people were come forth out of the city; and he rose up against them, and struck them.
 
 44 And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them.
 
@@ -728,7 +728,7 @@
 
 33 And he struck them from Aroer, even till you come to Minnith, even twenty cities, and to the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel.
 
-34 And Jephthah came to Mizpeh to his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she was his only child; beside her he had neither son nor daughter.
+34 And Jephthah came to Mizpeh to his house, and, look, his daughter came out to meet him with timbrels and with dances: and she was his only child; beside her he had neither son nor daughter.
 
 35 And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! you have brought me very low, and you are one of them that trouble me: for I have opened my mouth to the Lord, and I cannot go back.
 
@@ -780,21 +780,21 @@
 
 2 And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.
 
-3 And the angel of the Lord appeared to the woman, and said to her, Behold now, you are barren, and bear not: but you will conceive, and bear a son.
+3 And the angel of the Lord appeared to the woman, and said to her, Look, now, you are barren, and bear not: but you will conceive, and bear a son.
 
 4 Now therefore beware, I pray you, and drink not wine nor strong drink, and eat not any unclean thing:
 
-5 For, lo, you will conceive, and bear a son; and no razor will come on his head: for the child will be a Nazarite to God from the womb: and he will begin to deliver Israel out of the hand of the Philistines.
+5 For, look, you will conceive, and bear a son; and no razor will come on his head: for the child will be a Nazarite to God from the womb: and he will begin to deliver Israel out of the hand of the Philistines.
 
 6 Then the woman came and told her husband, saying, A man of God came to me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not from where he was, neither told he me his name:
 
-7 But he said to me, Behold, you will conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child will be a Nazarite to God from the womb to the day of his death.
+7 But he said to me, Look, you will conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child will be a Nazarite to God from the womb to the day of his death.
 
 8 Then Manoah intreated the Lord, and said, O my Lord, let the man of God which you did send come again to us, and teach us what we will do to the child that will be born.
 
 9 And God listened to the voice of Manoah; and the angel of God came again to the woman as she sat in the field: but Manoah her husband was not with her.
 
-10 And the woman made haste, and ran, and shewed her husband, and said to him, Behold, the man has appeared to me, that came to me the other day.
+10 And the woman made haste, and ran, and shewed her husband, and said to him, Look, the man has appeared to me, that came to me the other day.
 
 11 And Manoah arose, and went after his wife, and came to the man, and said to him, are you the man that spak to the woman? And he said, I am.
 
@@ -836,13 +836,13 @@
 
 4 But his father and his mother knew not that it was of the Lord, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.
 
-5 Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him.
+5 Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, look, a young lion roared against him.
 
 6 And the Spirit of the Lord came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
 
 7 And he went down, and talked with the woman; and she pleased Samson well.
 
-8 And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, there was a swarm of bees and honey in the carcase of the lion.
+8 And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, look, there was a swarm of bees and honey in the carcase of the lion.
 
 9 And he took of it in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion.
 
@@ -858,7 +858,7 @@
 
 15 And it came to pass on the seventh day, that they said to Samson's wife, Entice your husband, that he may declare to us the riddle, otherwise we burn you and your father's house with fire: have you called us to take that we have? is it not so?
 
-16 And Samson's wife wept before him, and said, you do but hate me, and lov me not: you have put forth a riddle to the children of my people, and have not told it me. And he said to her, Behold, I have not told it my father nor my mother, and will I tell it you?
+16 And Samson's wife wept before him, and said, you do but hate me, and lov me not: you have put forth a riddle to the children of my people, and have not told it me. And he said to her, Look, I have not told it my father nor my mother, and will I tell it you?
 
 17 And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people.
 
@@ -930,7 +930,7 @@
 
 9 Now there were men lying in wait, abiding with her in the chamber. And she said to him, The Philistines be upon you, Samson. And he brake the withs, as a thread of tow is broken when it touchs the fire. So his strength was not known.
 
-10 And Delilah said to Samson, Behold, you have mocked me, and told me lies: now tell me, I pray you, with what you might be bound.
+10 And Delilah said to Samson, Look, you have mocked me, and told me lies: now tell me, I pray you, with what you might be bound.
 
 11 And he said to her, If they bind me fast with new ropes that never were occupied, then will I be weak, and be as another man.
 
@@ -964,7 +964,7 @@
 
 26 And Samson said to the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house stands, that I may lean upon them.
 
-27 Now the house was full of men and women; and all the lords of the Philistines were there; and there were upon the roof about three thousand men and women, that beheld while Samson made sport.
+27 Now the house was full of men and women; and all the lords of the Philistines were there; and there were upon the roof about three thousand men and women, that saw while Samson made sport.
 
 28 And Samson called to the Lord, and said, O Lord God, remember me, I pray you, and strengthen me, I pray you, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
 
@@ -978,7 +978,7 @@
 
 1 And there was a man of mount Ephraim, whose name was Micah.
 
-2 And he said to his mother, The eleven hundred shekels of silver that were taken from you, about which you cursedst, and spak of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be you of the Lord, my son.
+2 And he said to his mother, The eleven hundred shekels of silver that were taken from you, about which you cursedst, and spak of also in mine ears, look, the silver is with me; I took it. And his mother said, Blessed be you of the Lord, my son.
 
 3 And when he had restored the eleven hundred shekels of silver to his mother, his mother said, I had wholly dedicated the silver to the Lord from my hand for my son, to make a graven image and a melted image: now therefore I will restore it to you.
 
@@ -1020,13 +1020,13 @@
 
 8 And they came to their brothers to Zorah and Eshtaol: and their brothers said to them, What say you?
 
-9 And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are you still? be not slothful to go, and to enter to possess the land.
+9 And they said, Arise, that we may go up against them: for we have seen the land, and, look, it is very good: and are you still? be not slothful to go, and to enter to possess the land.
 
 10 When you go, you will come to a people secure, and to a large land: for God has given it into your hands; a place where there is no want of any thing that is in the earth.
 
 11 And there went from from there of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
 
-12 And they went up, and pitched in Kirjathjearim, in Judah: therefore they called that place Mahanehdan to this day: behold, it is behind Kirjathjearim.
+12 And they went up, and pitched in Kirjathjearim, in Judah: therefore they called that place Mahanehdan to this day: look, it is behind Kirjathjearim.
 
 13 And they passed from there to mount Ephraim, and came to the house of Micah.
 
@@ -1084,7 +1084,7 @@
 
 8 And he arose early in the morning on the fifth day to depart; and the young woman's father said, Comfort your heart, I pray you. And they tarried until afternoon, and they did eat both of them.
 
-9 And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the young woman's father, said to him, Behold, now the day draws toward evening, I pray you tarry all night: behold, the day grows to an end, lodge here, that your heart may be merry; and to morrow get you early on your way, that you may go home.
+9 And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the young woman's father, said to him, Look, now the day draws toward evening, I pray you tarry all night: look, the day grows to an end, lodge here, that your heart may be merry; and to morrow get you early on your way, that you may go home.
 
 10 But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.
 
@@ -1098,7 +1098,7 @@
 
 15 And they turned aside there, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging.
 
-16 And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.
+16 And, look, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.
 
 17 And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Where go you? and from where com you?
 
@@ -1110,17 +1110,17 @@
 
 21 So he brought him into his house, and gave provender to the asses: and they washed their feet, and did eat and drink.
 
-22 Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into your house, that we may know him.
+22 Now as they were making their hearts merry, look, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into your house, that we may know him.
 
 23 And the man, the master of the house, went out to them, and said to them, Nay, my brothers, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.
 
-24 Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble you them, and do with them what seems good to you: but to this man do not so vile a thing.
+24 Look, here is my daughter a maiden, and his concubine; them I will bring out now, and humble you them, and do with them what seems good to you: but to this man do not so vile a thing.
 
 25 But the men would not listen to him: so the man took his concubine, and brought her forth to them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.
 
 26 Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord was, till it was light.
 
-27 And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold.
+27 And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, look, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold.
 
 28 And he said to her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him to his place.
 
@@ -1142,13 +1142,13 @@
 
 6 And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel: for they have committed lewdness and folly in Israel.
 
-7 Behold, you are all children of Israel; give here your advice and counsel.
+7 Look, you are all children of Israel; give here your advice and counsel.
 
 8 And all the people arose as one man, saying, We will not any of us go to his tent, neither will we any of us turn into his house.
 
 9 But now this will be the thing which we will do to Gibeah; we will go up by lot against it;
 
-10 And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.
+10 And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have done in Israel.
 
 11 So all the men of Israel were gathered against the city, knit together as one man.
 
@@ -1208,7 +1208,7 @@
 
 39 And when the men of Israel retired in the battle, Benjamin began to smite and kill of the men of Israel about thirty persons: for they said, Surely they are smitten down before us, as in the first battle.
 
-40 But when the flame began to arise up out of the city with a pillar of smoke, the Benjamites looked behind them, and, behold, the flame of the city ascended up to heaven.
+40 But when the flame began to arise up out of the city with a pillar of smoke, the Benjamites looked behind them, and, look, the flame of the city ascended up to heaven.
 
 41 And when the men of Israel turned again, the men of Benjamin were amazed: for they saw that evil was come upon them.
 
@@ -1242,9 +1242,9 @@
 
 7 How will we do for wives for them that remain, seeing we have sworn by the Lord that we will not give them of our daughters to wives?
 
-8 And they said, What one is there of the tribes of Israel that came not up to Mizpeh to the Lord? And, behold, there came none to the camp from Jabeshgilead to the assembly.
+8 And they said, What one is there of the tribes of Israel that came not up to Mizpeh to the Lord? And, look, there came none to the camp from Jabeshgilead to the assembly.
 
-9 For the people were numbered, and, behold, there were none of the inhabitants of Jabeshgilead there.
+9 For the people were numbered, and, look, there were none of the inhabitants of Jabeshgilead there.
 
 10 And the congregation sent there twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
 
@@ -1264,11 +1264,11 @@
 
 18 However we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that gives a wife to Benjamin.
 
-19 Then they said, Behold, there is a feast of the Lord in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.
+19 Then they said, Look, there is a feast of the Lord in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.
 
 20 Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards;
 
-21 And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come you out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
+21 And see, and, look, if the daughters of Shiloh come out to dance in dances, then come you out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
 
 22 And it will be, when their fathers or their brothers come to us to complain, that we will say to them, Be favourable to them for our sakes: because we reserved not to each man his wife in the war: for you did not give to them at this time, that you should be guilty.
 
