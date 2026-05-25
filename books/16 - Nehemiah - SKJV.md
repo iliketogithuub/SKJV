@@ -32,7 +32,7 @@
 
 3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' tombs, lis waste, and the gates of it are consumed with fire?
 
-4 Then the king said to me, For what do you make requ? So I prayed to the God of heaven.
+4 Then the king said to me, For what do you make request? So I prayed to the God of heaven.
 
 5 And I said to the king, If it please the king, and if your servant have found favour in your sight, that you would send me to Judah, to the city of my fathers' tombs, that I may build it.
 
@@ -40,7 +40,7 @@
 
 7 Moreover I said to the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;
 
-8 And a letter to Asaph the keeper of the king's for, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I will enter into. And the king granted me, according to the good hand of my God upon me.
+8 And a letter to Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I will enter into. And the king granted me, according to the good hand of my God upon me.
 
 9 Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.
 
@@ -56,7 +56,7 @@
 
 15 Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned.
 
-16 And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the r that did the work.
+16 And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 
 17 Then said I to them, you see the distress that we are in, how Jerusalem lis waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
 
@@ -68,7 +68,7 @@
 
 ## Nehemiah Chapter 3
 
-1 Then Eliashib the high pri rose up with his brothers the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even to the tower of Meah they sanctified it, to the tower of Hananeel.
+1 Then Eliashib the high priest rose up with his brothers the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even to the tower of Meah they sanctified it, to the tower of Hananeel.
 
 2 And next to him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
 
@@ -106,7 +106,7 @@
 
 19 And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall.
 
-20 After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall to the door of the house of Eliashib the high pri.
+20 After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall to the door of the house of Eliashib the high priest.
 
 21 After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.
 
@@ -160,7 +160,7 @@
 
 13 Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows.
 
-14 And I looked, and rose up, and said to the nobles, and to the rulers, and to the r of the people, Be not you afraid of them: remember the Lord, which is great and terrible, and fight for your brothers, your sons, and your daughters, your wives, and your houses.
+14 And I looked, and rose up, and said to the nobles, and to the rulers, and to the rest of the people, Be not you afraid of them: remember the Lord, which is great and terrible, and fight for your brothers, your sons, and your daughters, your wives, and your houses.
 
 15 And it came to pass, when our enemies heard that it was known to us, and God had brought their counsel to nought, that we returned all of us to the wall, every one to his work.
 
@@ -170,7 +170,7 @@
 
 18 For the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me.
 
-19 And I said to the nobles, and to the rulers, and to the r of the people, The work is great and large, and we are separated upon the wall, one far from another.
+19 And I said to the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another.
 
 20 In what place therefore you hear the sound of the trumpet, resort you there to us: our God will fight for us.
 
@@ -222,7 +222,7 @@
 
 ## Nehemiah Chapter 6
 
-1 Now it came to pass when Sanballat, and Tobiah, and Geshem the Arabian, and the r of our enemies, heard that I had builded the wall, and that there was no breach left in it; (though at that time I had not set up the doors upon the gates;)
+1 Now it came to pass when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left in it; (though at that time I had not set up the doors upon the gates;)
 
 2 That Sanballat and Geshem sent to me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief.
 
@@ -248,7 +248,7 @@
 
 13 Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.
 
-14 My God, think you upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the r of the prophets, that would have put me in fear.
+14 My God, think you upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
 
 15 So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days.
 
@@ -390,7 +390,7 @@
 
 64 These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.
 
-65 And the Tirshatha said to them, that they should not eat of the most holy things, till there stood up a pri with Urim and Thummim.
+65 And the Tirshatha said to them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.
 
 66 The whole congregation together was forty and two thousand three hundred and threescore,
 
@@ -404,7 +404,7 @@
 
 71 And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.
 
-72 And that which the r of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments.
+72 And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments.
 
 73 So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.
 
@@ -412,7 +412,7 @@
 
 1 And all the people gathered themselves together as one man into the street that was before the water gate; and they spake to Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.
 
-2 And Ezra the pri brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
+2 And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 
 3 And he read in it before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive to the book of the law.
 
@@ -426,7 +426,7 @@
 
 8 So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.
 
-9 And Nehemiah, which is the Tirshatha, and Ezra the pri the scribe, and the Levites that taught the people, said to all the people, This day is holy to the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
+9 And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said to all the people, This day is holy to the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 
 10 Then he said to them, Go your way, eat the fat, and drink the sweet, and send portions to them for whom nothing is prepared: for this day is holy to our Lord: neither be you sorry; for the joy of the Lord is your strength.
 
@@ -502,7 +502,7 @@
 
 27 Therefore you deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
 
-28 But after they had r, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried to you, you heard them from heaven; and many times did you deliver them according to your mercies;
+28 But after they had rest, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried to you, you heard them from heaven; and many times did you deliver them according to your mercies;
 
 29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 
@@ -580,7 +580,7 @@
 
 27 Malluch, Harim, Baanah.
 
-28 And the r of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
+28 And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 
 29 They clave to their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord, and his judgments and his statutes;
 
@@ -600,13 +600,13 @@
 
 37 And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, to the priests, to the chambers of the house of our God; and the tithes of our ground to the Levites, that the same Levites might have the tithes in all the cities of our tillage.
 
-38 And the pri the son of Aaron will be with the Levites, when the Levites take tithes: and the Levites will bring up the tithe of the tithes to the house of our God, to the chambers, into the treasure house.
+38 And the priest the son of Aaron will be with the Levites, when the Levites take tithes: and the Levites will bring up the tithe of the tithes to the house of our God, to the chambers, into the treasure house.
 
 39 For the children of Israel and the children of Levi will bring the offering of the corn, of the new wine, and the oil, to the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
 
 ## Nehemiah Chapter 11
 
-1 And the rulers of the people dwelt at Jerusalem: the r of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
+1 And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
 
 2 And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.
 
@@ -730,7 +730,7 @@
 
 25 Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.
 
-26 These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the pri, the scribe.
+26 These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
 
 27 And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
 
@@ -782,7 +782,7 @@
 
 3 Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.
 
-4 And before this, Eliashib the pri, having the oversight of the chamber of the house of our God, was allied to Tobiah:
+4 And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied to Tobiah:
 
 5 And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
 
@@ -800,7 +800,7 @@
 
 12 Then brought all Judah the tithe of the corn and the new wine and the oil to the treasuries.
 
-13 And I made treasurers over the treasuries, Shelemiah the pri, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute to their brothers.
+13 And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute to their brothers.
 
 14 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices of it.
 
@@ -830,7 +830,7 @@
 
 27 will we then listen to you to do all this great evil, to transgress against our God in marrying strange wives?
 
-28 And one of the sons of Joiada, the son of Eliashib the high pri, was son in law to Sanballat the Horonite: therefore I chased him from me.
+28 And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me.
 
 29 Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
 

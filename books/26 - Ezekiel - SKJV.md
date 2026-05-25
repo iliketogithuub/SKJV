@@ -6,7 +6,7 @@
 
 2 In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity,
 
-3 The word of the Lord came expressly to Ezekiel the pri, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
+3 The word of the Lord came expressly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the Lord was there upon him.
 
 4 And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst of it as the colour of amber, out of the midst of the fire.
 
@@ -198,7 +198,7 @@
 
 12 A third part of you will die with the pestilence, and with famine will they be consumed in the midst of you: and a third part will fall by the sword round about you; and I will scatter a third part into all the winds, and I will draw out a sword after them.
 
-13 Thus will mine anger be accomplished, and I will cause my fury to r upon them, and I will be comforted: and they will know that I the Lord have spoken it in my zeal, when I have accomplished my fury in them.
+13 Thus will mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they will know that I the Lord have spoken it in my zeal, when I have accomplished my fury in them.
 
 14 Moreover I will make you waste, and a reproach among the nations that are round about you, in the sight of all that pass by.
 
@@ -290,7 +290,7 @@
 
 25 Destruction comes; and they will seek peace, and there will be none.
 
-26 Mischief will come upon mischief, and rumour will be upon rumour; then will they seek a vision of the prophet; but the law will perish from the pri, and counsel from the ancients.
+26 Mischief will come upon mischief, and rumour will be upon rumour; then will they seek a vision of the prophet; but the law will perish from the priest, and counsel from the ancients.
 
 27 The king will mourn, and the prince will be clothed with desolation, and the hands of the people of the land will be troubled: I will do to them after their way, and according to their deserts will I judge them; and they will know that I am the Lord.
 
@@ -612,7 +612,7 @@
 
 1 And the word of the Lord came to me, saying,
 
-2 Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the for?
+2 Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the forest?
 
 3 will wood be taken of it to do any work? or will men take a pin of it to hang any vessel thereon?
 
@@ -620,7 +620,7 @@
 
 5 Behold, when it was whole, it was meet for no work: how much less will it be meet yet for any work, when the fire has devoured it, and it is burned?
 
-6 Therefore thus says the Lord God; As the vine tree among the trees of the for, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
+6 Therefore thus says the Lord God; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
 
 7 And I will set my face against them; they will go out from one fire, and another fire will devour them; and you will know that I am the Lord, when I set my face against them.
 
@@ -710,7 +710,7 @@
 
 41 And they will burn your houses with fire, and execute judgments upon you in the sight of many women: and I will cause you to cease from playing the harlot, and you also will give no hire any more.
 
-42 So will I make my fury toward you to r, and my jealousy will depart from you, and I will be quiet, and will be no more angry.
+42 So will I make my fury toward you to rest, and my jealousy will depart from you, and I will be quiet, and will be no more angry.
 
 43 Because you have not remembered the days of your youth, but have fretted me in all these things; behold, therefore I also will repay your way upon your head, says the Lord God: and you will not commit this lewdness above all your abominations.
 
@@ -760,7 +760,7 @@
 
 2 Son of man, put forth a riddle, and speak a parable to the house of Israel;
 
-3 And say, Thus says the Lord God; A great eagle with great wings, longwinged, full of feathers, which had various colours, came to Lebanon, and took the high branch of the cedar:
+3 And say, Thus says the Lord God; A great eagle with great wings, longwinged, full of feathers, which had various colours, came to Lebanon, and took the highest branch of the cedar:
 
 4 He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants.
 
@@ -798,7 +798,7 @@
 
 21 And all his fugitives with all his bands will fall by the sword, and they that remain will be scattered toward all winds: and you will know that I the Lord have spoken it.
 
-22 Thus says the Lord God; I will also take of the high branch of the high cedar, and will set it; I will crop off from the top of his young twigs a tender one, and will plant it upon an high mountain and eminent:
+22 Thus says the Lord God; I will also take of the highest branch of the high cedar, and will set it; I will crop off from the top of his young twigs a tender one, and will plant it upon an high mountain and eminent:
 
 23 In the mountain of the height of Israel will I plant it: and it will bring forth boughs, and bear fruit, and be a goodly cedar: and under it will dwell all fowl of every wing; in the shadow of the branches of it will they dwell.
 
@@ -992,9 +992,9 @@
 
 45 Moreover the word of the Lord came to me, saying,
 
-46 Son of man, set your face toward the south, and drop your word toward the south, and prophesy against the for of the south field;
+46 Son of man, set your face toward the south, and drop your word toward the south, and prophesy against the forest of the south field;
 
-47 And say to the for of the south, Hear the word of the Lord; Thus says the Lord God; Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree: the flaming flame will not be quenched, and all faces from the south to the north will be burned in it.
+47 And say to the forest of the south, Hear the word of the Lord; Thus says the Lord God; Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree: the flaming flame will not be quenched, and all faces from the south to the north will be burned in it.
 
 48 And all flesh will see that I the Lord have kindled it: it will not be quenched.
 
@@ -1034,7 +1034,7 @@
 
 16 Go you one way or other, either on the right hand, or on the left, whithersoever your face is set.
 
-17 I will also smite mine hands together, and I will cause my fury to r: I the Lord have said it.
+17 I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.
 
 18 The word of the Lord came to me again, saying,
 
@@ -1092,7 +1092,7 @@
 
 12 In you have they taken gifts to shed blood; you have taken usury and increase, and you have greedily gained of your neighbours by extortion, and have forgotten me, says the Lord God.
 
-13 Behold, therefore I have smitten mine hand at your dishon gain which you have made, and at your blood which has been in the midst of you.
+13 Behold, therefore I have smitten mine hand at your dishonest gain which you have made, and at your blood which has been in the midst of you.
 
 14 Can your heart endure, or can your hands be strong, in the days that I will deal with you? I the Lord have spoken it, and will do it.
 
@@ -1120,7 +1120,7 @@
 
 26 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
-27 Her princes in the midst of it are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishon gain.
+27 Her princes in the midst of it are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
 
 28 And her prophets have daubed them with untempered morter, seeing vanity, and divining lies to them, saying, Thus says the Lord God, when the Lord has not spoken.
 
@@ -1256,7 +1256,7 @@
 
 12 She has wearied herself with lies, and her great scum went not forth out of her: her scum will be in the fire.
 
-13 In your filthiness is lewdness: because I have purged you, and you wast not purged, you will not be purged from your filthiness any more, till I have caused my fury to r upon you.
+13 In your filthiness is lewdness: because I have purged you, and you wast not purged, you will not be purged from your filthiness any more, till I have caused my fury to rest upon you.
 
 14 I the Lord have spoken it: it will come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to your ways, and according to your doings, will they judge you, says the Lord God.
 
@@ -1524,7 +1524,7 @@
 
 14 And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they will be there a base kingdom.
 
-15 It will be the bas of the kingdoms; neither will it exalt itself any more above the nations: for I will diminish them, that they will no more rule over the nations.
+15 It will be the basest of the kingdoms; neither will it exalt itself any more above the nations: for I will diminish them, that they will no more rule over the nations.
 
 16 And it will be no more the confidence of the house of Israel, which brings their iniquity to remembrance, when they will look after them: but they will know that I am the Lord God.
 
@@ -1624,7 +1624,7 @@
 
 15 Thus says the Lord God; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods of it, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
 
-16 I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and b of Lebanon, all that drink water, will be comforted in the nether parts of the earth.
+16 I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, will be comforted in the nether parts of the earth.
 
 17 They also went down into hell with him to them that be slain with the sword; and they that were his arm, that dwelt under his shadow in the midst of the heathen.
 
@@ -2018,7 +2018,7 @@
 
 10 Thus says the Lord God; It will also come to pass, that at the same time will things come into your mind, and you will think an evil thought:
 
-11 And you will say, I will go up to the land of unwalled villages; I will go to them that are at r, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
+11 And you will say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
 
 12 To take a spoil, and to take a prey; to turn your hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
 
@@ -2218,7 +2218,7 @@
 
 6 And the side chambers were three, one over another, and thirty in order; and they entered into the wall which was of the house for the side chambers round about, that they might have hold, but they had not hold in the wall of the house.
 
-7 And there was an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house was still upward, and so increased from the low chamber to the high by the midst.
+7 And there was an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house was still upward, and so increased from the lowest chamber to the highest by the midst.
 
 8 I saw also the height of the house round about: the foundations of the side chambers were a full reed of six great cubits.
 
@@ -2228,7 +2228,7 @@
 
 11 And the doors of the side chambers were toward the place that was left, one door toward the north, and another door toward the south: and the breadth of the place that was left was five cubits round about.
 
-12 Now the building that was before the separate place at the end toward the w was seventy cubits broad; and the wall of the building was five cubits thick round about, and the length of it ninety cubits.
+12 Now the building that was before the separate place at the end toward the west was seventy cubits broad; and the wall of the building was five cubits thick round about, and the length of it ninety cubits.
 
 13 So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls of it, an hundred cubits long;
 
@@ -2270,7 +2270,7 @@
 
 5 Now the upper chambers were shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.
 
-6 For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the low and the middlemost from the ground.
+6 For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the lowest and the middlemost from the ground.
 
 7 And the wall that was without over against the chambers, toward the utter court on the forepart of the chambers, the length of it was fifty cubits.
 
@@ -2296,7 +2296,7 @@
 
 18 He measured the south side, five hundred reeds, with the measuring reed.
 
-19 He turned about to the w side, and measured five hundred reeds with the measuring reed.
+19 He turned about to the west side, and measured five hundred reeds with the measuring reed.
 
 20 He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place.
 
@@ -2382,7 +2382,7 @@
 
 12 Because they ministered to them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, says the Lord God, and they will bear their iniquity.
 
-13 And they will not come near to me, to do the office of a pri to me, nor to come near to any of my holy things, in the most holy place: but they will bear their shame, and their abominations which they have committed.
+13 And they will not come near to me, to do the office of a priest to me, nor to come near to any of my holy things, in the most holy place: but they will bear their shame, and their abominations which they have committed.
 
 14 But I will make them keepers of the charge of the house, for all the service of it, and for all that will be done in it.
 
@@ -2398,9 +2398,9 @@
 
 20 Neither will they shave their heads, nor suffer their locks to grow long; they will only poll their heads.
 
-21 Neither will any pri drink wine, when they enter into the inner court.
+21 Neither will any priest drink wine, when they enter into the inner court.
 
-22 Neither will they take for their wives a widow, nor her that is put away: but they will take maidens of the seed of the house of Israel, or a widow that had a pri before.
+22 Neither will they take for their wives a widow, nor her that is put away: but they will take maidens of the seed of the house of Israel, or a widow that had a priest before.
 
 23 And they will teach my people the difference between the holy and profane, and cause them to discern between the unclean and the clean.
 
@@ -2416,7 +2416,7 @@
 
 29 They will eat the meat offering, and the sin offering, and the trespass offering: and every dedicated thing in Israel will be theirs.
 
-30 And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, will be the pri's: you will also give to the pri the first of your dough, that he may cause the blessing to r in your house.
+30 And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, will be the priest's: you will also give to the priest the first of your dough, that he may cause the blessing to rest in your house.
 
 31 The priests will not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
 
@@ -2434,9 +2434,9 @@
 
 6 And you will appoint the possession of the city five thousand broad, and five and twenty thousand long, over against the oblation of the holy portion: it will be for the whole house of Israel.
 
-7 And a portion will be for the prince on the one side and on the other side of the oblation of the holy portion, and of the possession of the city, before the oblation of the holy portion, and before the possession of the city, from the w side westward, and from the east side eastward: and the length will be over against one of the portions, from the w border to the east border.
+7 And a portion will be for the prince on the one side and on the other side of the oblation of the holy portion, and of the possession of the city, before the oblation of the holy portion, and before the possession of the city, from the west side westward, and from the east side eastward: and the length will be over against one of the portions, from the west border to the east border.
 
-8 In the land will be his possession in Israel: and my princes will no more oppress my people; and the r of the land will they give to the house of Israel according to their tribes.
+8 In the land will be his possession in Israel: and my princes will no more oppress my people; and the rest of the land will they give to the house of Israel according to their tribes.
 
 9 Thus says the Lord God; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, says the Lord God.
 
@@ -2458,7 +2458,7 @@
 
 18 Thus says the Lord God; In the first month, in the first day of the month, you will take a young bullock without blemish, and cleanse the sanctuary:
 
-19 And the pri will take of the blood of the sin offering, and put it upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.
+19 And the priest will take of the blood of the sin offering, and put it upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.
 
 20 And so you will do the seventh day of the month for every one that errs, and for him that is simple: so will you reconcile the house.
 
@@ -2562,7 +2562,7 @@
 
 19 And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea. And this is the south side southward.
 
-20 The w side also will be the great sea from the border, till a man come over against Hamath. This is the w side.
+20 The west side also will be the great sea from the border, till a man come over against Hamath. This is the west side.
 
 21 So will you divide this land to you according to the tribes of Israel.
 
@@ -2572,25 +2572,25 @@
 
 ## Ezekiel Chapter 48
 
-1 Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goes to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and w; a portion for Dan.
+1 Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goes to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 
-2 And by the border of Dan, from the east side to the w side, a portion for Asher.
+2 And by the border of Dan, from the east side to the west side, a portion for Asher.
 
-3 And by the border of Asher, from the east side even to the w side, a portion for Naphtali.
+3 And by the border of Asher, from the east side even to the west side, a portion for Naphtali.
 
-4 And by the border of Naphtali, from the east side to the w side, a portion for Manasseh.
+4 And by the border of Naphtali, from the east side to the west side, a portion for Manasseh.
 
-5 And by the border of Manasseh, from the east side to the w side, a portion for Ephraim.
+5 And by the border of Manasseh, from the east side to the west side, a portion for Ephraim.
 
-6 And by the border of Ephraim, from the east side even to the w side, a portion for Reuben.
+6 And by the border of Ephraim, from the east side even to the west side, a portion for Reuben.
 
-7 And by the border of Reuben, from the east side to the w side, a portion for Judah.
+7 And by the border of Reuben, from the east side to the west side, a portion for Judah.
 
-8 And by the border of Judah, from the east side to the w side, will be the offering which you will offer of five and twenty thousand reeds in breadth, and in length as one of the other parts, from the east side to the w side: and the sanctuary will be in the midst of it.
+8 And by the border of Judah, from the east side to the west side, will be the offering which you will offer of five and twenty thousand reeds in breadth, and in length as one of the other parts, from the east side to the west side: and the sanctuary will be in the midst of it.
 
 9 The oblation that you will offer to the Lord will be of five and twenty thousand in length, and of ten thousand in breadth.
 
-10 And for them, even for the priests, will be this holy oblation; toward the north five and twenty thousand in length, and toward the w ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the Lord will be in the midst of it.
+10 And for them, even for the priests, will be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the Lord will be in the midst of it.
 
 11 It will be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.
 
@@ -2602,9 +2602,9 @@
 
 15 And the five thousand, that are left in the breadth over against the five and twenty thousand, will be a profane place for the city, for dwelling, and for suburbs: and the city will be in the midst of it.
 
-16 And these will be the measures of it; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the w side four thousand and five hundred.
+16 And these will be the measures of it; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.
 
-17 And the suburbs of the city will be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the w two hundred and fifty.
+17 And the suburbs of the city will be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty.
 
 18 And the residue in length over against the oblation of the holy portion will be ten thousand eastward, and ten thousand westward: and it will be over against the oblation of the holy portion; and the increase of it will be for food to them that serve the city.
 
@@ -2612,19 +2612,19 @@
 
 20 All the oblation will be five and twenty thousand by five and twenty thousand: you will offer the holy oblation foursquare, with the possession of the city.
 
-21 And the residue will be for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the w border, over against the portions for the prince: and it will be the holy oblation; and the sanctuary of the house will be in the midst of it.
+21 And the residue will be for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it will be the holy oblation; and the sanctuary of the house will be in the midst of it.
 
 22 Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, will be for the prince.
 
-23 As for the r of the tribes, from the east side to the w side, Benjamin will have a portion.
+23 As for the rest of the tribes, from the east side to the west side, Benjamin will have a portion.
 
-24 And by the border of Benjamin, from the east side to the w side, Simeon will have a portion.
+24 And by the border of Benjamin, from the east side to the west side, Simeon will have a portion.
 
-25 And by the border of Simeon, from the east side to the w side, Issachar a portion.
+25 And by the border of Simeon, from the east side to the west side, Issachar a portion.
 
-26 And by the border of Issachar, from the east side to the w side, Zebulun a portion.
+26 And by the border of Issachar, from the east side to the west side, Zebulun a portion.
 
-27 And by the border of Zebulun, from the east side to the w side, Gad a portion.
+27 And by the border of Zebulun, from the east side to the west side, Gad a portion.
 
 28 And by the border of Gad, at the south side southward, the border will be even from Tamar to the waters of strife in Kadesh, and to the river toward the great sea.
 
@@ -2638,7 +2638,7 @@
 
 33 And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.
 
-34 At the w side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
+34 At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 
 35 It was round about eighteen thousand measures: and the name of the city from that day will be, The Lord is there.
 

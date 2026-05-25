@@ -88,7 +88,7 @@
 
 43 And he straitly charged him, and forthwith sent him away;
 
-44 And says to him, See you say nothing to any man: but go your way, shew thyself to the pri, and offer for your cleansing those things which Moses commanded, for a testimony to them.
+44 And says to him, See you say nothing to any man: but go your way, shew thyself to the priest, and offer for your cleansing those things which Moses commanded, for a testimony to them.
 
 45 But he went out, and began to publish it much, and to blaze abroad the matter, so much so that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
@@ -144,7 +144,7 @@
 
 25 And he said to them, Have you never read what David did, when he had need, and was an hungred, he, and they that were with him?
 
-26 How he went into the house of God in the days of Abiathar the high pri, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
+26 How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
 
 27 And he said to them, The sabbath was made for man, and not man for the sabbath:
 
@@ -280,7 +280,7 @@
 
 28 For the earth brings forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.
 
-29 But when the fruit is brought forth, immediately he putts in the sickle, because the harv is come.
+29 But when the fruit is brought forth, immediately he putts in the sickle, because the harvest is come.
 
 30 And he said, Whereunto will we liken the kingdom of God? or with what comparison will we compare it?
 
@@ -456,7 +456,7 @@
 
 30 And the apostles gathered themselves together to Jesus, and told him all things, both what they had done, and what they had taught.
 
-31 And he said to them, Come you yourselves apart into a desert place, and r a while: for there were many coming and going, and they had no leisure so much as to eat.
+31 And he said to them, Come you yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
 
 32 And they departed into a desert place by ship privately.
 
@@ -730,7 +730,7 @@
 
 33 And he came to Capernaum: and being in the house he asked them, What was it that you disputed among yourselves by the way?
 
-34 But they held their peace: for by the way they had disputed among themselves, who should be the great.
+34 But they held their peace: for by the way they had disputed among themselves, who should be the greatest.
 
 35 And he sat down, and called the twelve, and says to them, If any man desire to be first, the same will be last of all, and servant of all.
 
@@ -852,7 +852,7 @@
 
 43 But so will it not be among you: but whosoever will be great among you, will be your minister:
 
-44 And whosoever of you will be the chief, will be servant of all.
+44 And whosoever of you will be the chiefest, will be servant of all.
 
 45 For even the Son of man came not to be ministered to, but to minister, and to give his life a ransom for many.
 
@@ -890,7 +890,7 @@
 
 9 And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that comes in the name of the Lord:
 
-10 Blessed be the kingdom of our father David, that comes in the name of the Lord: Hosanna in the high.
+10 Blessed be the kingdom of our father David, that comes in the name of the Lord: Hosanna in the highest.
 
 11 And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the evening was come, he went out to Bethany with the twelve.
 
@@ -1188,7 +1188,7 @@
 
 40 And when he returned, he found them asleep again, (for their eyes were heavy,) neither knew they what to answer him.
 
-41 And he comes the third time, and says to them, Sleep on now, and take your r: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
+41 And he comes the third time, and says to them, Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
 
 42 Rise up, let us go; lo, he that betrays me is at hand.
 
@@ -1200,7 +1200,7 @@
 
 46 And they laid their hands on him, and took him.
 
-47 And one of them that stood by drew a sword, and struck a servant of the high pri, and cut off his ear.
+47 And one of them that stood by drew a sword, and struck a servant of the high priest, and cut off his ear.
 
 48 And Jesus answered and said to them, Are you come out, as against a thief, with swords and with staves to take me?
 
@@ -1212,9 +1212,9 @@
 
 52 And he left the linen cloth, and fled from them naked.
 
-53 And they led Jesus away to the high pri: and with him were assembled all the chief priests and the elders and the scribes.
+53 And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.
 
-54 And Peter followed him afar off, even into the palace of the high pri: and he sat with the servants, and warmed himself at the fire.
+54 And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.
 
 55 And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.
 
@@ -1226,19 +1226,19 @@
 
 59 But neither so did their witness agree together.
 
-60 And the high pri stood up in the midst, and asked Jesus, saying, Answer you nothing? what is it which these witness against you?
+60 And the high priest stood up in the midst, and asked Jesus, saying, Answer you nothing? what is it which these witness against you?
 
-61 But he held his peace, and answered nothing. Again the high pri asked him, and said to him, are you the Christ, the Son of the Blessed?
+61 But he held his peace, and answered nothing. Again the high priest asked him, and said to him, are you the Christ, the Son of the Blessed?
 
 62 And Jesus said, I am: and you will see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 
-63 Then the high pri rent his clothes, and says, What need we any further witnesses?
+63 Then the high priest rent his clothes, and says, What need we any further witnesses?
 
 64 you have heard the blasphemy: what think you? And they all condemned him to be guilty of death.
 
 65 And some began to spit on him, and to cover his face, and to buffet him, and to say to him, Prophesy: and the servants did strike him with the palms of their hands.
 
-66 And as Peter was beneath in the palace, there comes one of the maids of the high pri:
+66 And as Peter was beneath in the palace, there comes one of the maids of the high priest:
 
 67 And when she saw Peter warming himself, she looked upon him, and said, And you also wast with Jesus of Nazars.
 

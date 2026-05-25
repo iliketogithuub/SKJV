@@ -8,7 +8,7 @@
 
 3 But Jonah rose up to flee to Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare of it, and went down into it, to go with them to Tarshish from the presence of the Lord.
 
-4 But the Lord sent out a great wind into the sea, and there was a mighty temp in the sea, so that the ship was like to be broken.
+4 But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.
 
 5 Then the mariners were afraid, and cried every man to his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
 
@@ -24,7 +24,7 @@
 
 11 Then said they to him, What will we do to you, that the sea may be calm to us? for the sea wrought, and was tempestuous.
 
-12 And he said to them, Take me up, and cast me forth into the sea; so will the sea be calm to you: for I know that for my sake this great temp is upon you.
+12 And he said to them, Take me up, and cast me forth into the sea; so will the sea be calm to you: for I know that for my sake this great tempest is upon you.
 
 13 Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
 
@@ -68,7 +68,7 @@
 
 4 And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh will be overthrown.
 
-5 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the great of them even to the least of them.
+5 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.
 
 6 For word came to the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.
 

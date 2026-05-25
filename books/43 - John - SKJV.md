@@ -62,7 +62,7 @@
 
 30 This is he of whom I said, After me comes a man which is preferred before me: for he was before me.
 
-31 And I knew him not: but that he should be made manif to Israel, therefore am I come baptizing with water.
+31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 
 32 And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it stayed upon him.
 
@@ -198,7 +198,7 @@
 
 20 For every one that does evil hates the light, neither comes to the light, otherwise his deeds should be corrected.
 
-21 But he that does truth comes to the light, that his deeds may be made manif, that they are wrought in God.
+21 But he that does truth comes to the light, that his deeds may be made manifest, that they are wrought in God.
 
 22 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 
@@ -300,7 +300,7 @@
 
 34 Jesus says to them, My meat is to do the will of him that sent me, and to finish his work.
 
-35 Say not you, There are yet four months, and then comes harv? behold, I say to you, Lift up your eyes, and look on the fields; for they are white already to harv.
+35 Say not you, There are yet four months, and then comes harvest? behold, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 
 36 And he that reaps receives wages, and gathers fruit to life eternal: that both he that sows and he that reaps may rejoice together.
 
@@ -706,7 +706,7 @@
 
 8 And again he stooped down, and wrote on the ground.
 
-9 And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eld, even to the last: and Jesus was left alone, and the woman standing in the midst.
+9 And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last: and Jesus was left alone, and the woman standing in the midst.
 
 10 When Jesus had lifted up himself, and saw none but the woman, he said to her, Woman, where are those your accusers? has no man condemned you?
 
@@ -814,7 +814,7 @@
 
 2 And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
 
-3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manif in him.
+3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
 4 I must work the works of him that sent me, while it is day: the night comes, when no man can work.
 
@@ -1004,7 +1004,7 @@
 
 12 Then said his disciples, Lord, if he sleep, he will do well.
 
-13 However Jesus spake of his death: but they thought that he had spoken of taking of r in sleep.
+13 However Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
 
 14 Then said Jesus to them plainly, Lazarus is dead.
 
@@ -1076,11 +1076,11 @@
 
 48 If we let him thus alone, all men will believe on him: and the Romans will come and take away both our place and nation.
 
-49 And one of them, named Caiaphas, being the high pri that same year, said to them, you know nothing at all,
+49 And one of them, named Caiaphas, being the high priest that same year, said to them, you know nothing at all,
 
 50 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 
-51 And this spake he not of himself: but being high pri that year, he prophesied that Jesus should die for that nation;
+51 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 
 52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
@@ -1316,9 +1316,9 @@
 
 20 At that day you will know that I am in my Father, and you in me, and I in you.
 
-21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will manif myself to him.
+21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will manifest myself to him.
 
-22 Judas says to him, not Iscariot, Lord, how is it that you will manif thyself to us, and not to the world?
+22 Judas says to him, not Iscariot, Lord, how is it that you will manifest thyself to us, and not to the world?
 
 23 Jesus answered and said to him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our stayed with him.
 
@@ -1536,39 +1536,39 @@
 
 9 That the saying might be fulfilled, which he spake, Of them which you gav me have I lost none.
 
-10 Then Simon Peter having a sword drew it, and struck the high pri's servant, and cut off his right ear. The servant's name was Malchus.
+10 Then Simon Peter having a sword drew it, and struck the high priest's servant, and cut off his right ear. The servant's name was Malchus.
 
 11 Then said Jesus to Peter, Put up your sword into the sheath: the cup which my Father has given me, will I not drink it?
 
 12 Then the band and the captain and officers of the Jews took Jesus, and bound him,
 
-13 And led him away to Annas first; for he was father in law to Caiaphas, which was the high pri that same year.
+13 And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
 
 14 Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.
 
-15 And Simon Peter followed Jesus, and so did another disciple: that disciple was known to the high pri, and went in with Jesus into the palace of the high pri.
+15 And Simon Peter followed Jesus, and so did another disciple: that disciple was known to the high priest, and went in with Jesus into the palace of the high priest.
 
-16 But Peter stood at the door without. Then went out that other disciple, which was known to the high pri, and spake to her that kept the door, and brought in Peter.
+16 But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spake to her that kept the door, and brought in Peter.
 
 17 Then says the young woman that kept the door to Peter, are not you also one of this man's disciples? He says, I am not.
 
 18 And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.
 
-19 The high pri then asked Jesus of his disciples, and of his doctrine.
+19 The high priest then asked Jesus of his disciples, and of his doctrine.
 
 20 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
 
 21 Why ask you me? ask them which heard me, what I have said to them: behold, they know what I said.
 
-22 And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answer you the high pri so?
+22 And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answer you the high priest so?
 
 23 Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smit you me?
 
-24 Now Annas had sent him bound to Caiaphas the high pri.
+24 Now Annas had sent him bound to Caiaphas the high priest.
 
 25 And Simon Peter stood and warmed himself. They said therefore to him, are not you also one of his disciples? He denied it, and said, I am not.
 
-26 One of the servants of the high pri, being his kinsman whose ear Peter cut off, says, Did not I see you in the garden with him?
+26 One of the servants of the high priest, being his kinsman whose ear Peter cut off, says, Did not I see you in the garden with him?
 
 27 Peter then denied again: and immediately the cock crew.
 

@@ -40,7 +40,7 @@
 
 19 As the Lord commanded Moses, so he numbered them in the wilderness of Sinai.
 
-20 And the children of Reuben, Israel's eld son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
+20 And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
 
 21 Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.
 
@@ -146,7 +146,7 @@
 
 17 Then the tabernacle of the congregation will set forward with the camp of the Levites in the midst of the camp: as they encamp, so will they set forward, every man in his place by their standards.
 
-18 On the w side will be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim will be Elishama the son of Ammihud.
+18 On the west side will be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim will be Elishama the son of Ammihud.
 
 19 And his host, and those that were numbered of them, were forty thousand and five hundred.
 
@@ -186,13 +186,13 @@
 
 2 And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
-3 These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the pri's office.
+3 These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest's office.
 
-4 And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the pri's office in the sight of Aaron their father.
+4 And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
 
 5 And the Lord spake to Moses, saying,
 
-6 Bring the tribe of Levi near, and present them before Aaron the pri, that they may minister to him.
+6 Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister to him.
 
 7 And they will keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.
 
@@ -200,7 +200,7 @@
 
 9 And you will give the Levites to Aaron and to his sons: they are wholly given to him out of the children of Israel.
 
-10 And you will appoint Aaron and his sons, and they will wait on their pri's office: and the stranger that comes near will be put to death.
+10 And you will appoint Aaron and his sons, and they will wait on their priest's office: and the stranger that comes near will be put to death.
 
 11 And the Lord spake to Moses, saying,
 
@@ -244,7 +244,7 @@
 
 31 And their charge will be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary with what they minister, and the hanging, and all the service of it.
 
-32 And Eleazar the son of Aaron the pri will be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary.
+32 And Eleazar the son of Aaron the priest will be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary.
 
 33 Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.
 
@@ -316,7 +316,7 @@
 
 15 And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath will come to bear it: but they will not touch any holy thing, otherwise they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.
 
-16 And to the office of Eleazar the son of Aaron the pri pertains the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that in it is, in the sanctuary, and in the vessels of it.
+16 And to the office of Eleazar the son of Aaron the priest pertains the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that in it is, in the sanctuary, and in the vessels of it.
 
 17 And the Lord spake to Moses and to Aaron saying,
 
@@ -340,7 +340,7 @@
 
 27 At the appointment of Aaron and his sons will be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and you will appoint to them in charge all their burdens.
 
-28 This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge will be under the hand of Ithamar the son of Aaron the pri.
+28 This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge will be under the hand of Ithamar the son of Aaron the priest.
 
 29 As for the sons of Merari, you will number them after their families, by the house of their fathers;
 
@@ -350,7 +350,7 @@
 
 32 And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name you will reckon the instruments of the charge of their burden.
 
-33 This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the pri.
+33 This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.
 
 34 And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,
 
@@ -400,11 +400,11 @@
 
 7 Then they will confess their sin which they have done: and he will repay his trespass with the principal of it, and add to it the fifth part of it, and give it to him against whom he has trespassed.
 
-8 But if the man have no kinsman to repay the trespass to, let the trespass be recompensed to the Lord, even to the pri; beside the ram of the atonement, whereby an atonement will be made for him.
+8 But if the man have no kinsman to repay the trespass to, let the trespass be recompensed to the Lord, even to the priest; beside the ram of the atonement, whereby an atonement will be made for him.
 
-9 And every offering of all the holy things of the children of Israel, which they bring to the pri, will be his.
+9 And every offering of all the holy things of the children of Israel, which they bring to the priest, will be his.
 
-10 And every man's hallowed things will be his: whatsoever any man gives the pri, it will be his.
+10 And every man's hallowed things will be his: whatsoever any man gives the priest, it will be his.
 
 11 And the Lord spake to Moses, saying,
 
@@ -414,29 +414,29 @@
 
 14 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
 
-15 Then will the man bring his wife to the pri, and he will bring her offering for her, the tenth part of an ephah of barley meal; he will pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
+15 Then will the man bring his wife to the priest, and he will bring her offering for her, the tenth part of an ephah of barley meal; he will pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
 
-16 And the pri will bring her near, and set her before the Lord:
+16 And the priest will bring her near, and set her before the Lord:
 
-17 And the pri will take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the pri will take, and put it into the water:
+17 And the priest will take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest will take, and put it into the water:
 
-18 And the pri will set the woman before the Lord, and uncover the woman's head, and put the offering of memorial in her hands, which is the jealousy offering: and the pri will have in his hand the bitter water that causes the curse:
+18 And the priest will set the woman before the Lord, and uncover the woman's head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest will have in his hand the bitter water that causes the curse:
 
-19 And the pri will charge her by an oath, and say to the woman, If no man have lain with you, and if you have not gone aside to uncleanness with another instead of your husband, be you free from this bitter water that causes the curse:
+19 And the priest will charge her by an oath, and say to the woman, If no man have lain with you, and if you have not gone aside to uncleanness with another instead of your husband, be you free from this bitter water that causes the curse:
 
 20 But if you have gone aside to another instead of your husband, and if you be defiled, and some man have lain with you beside your husband:
 
-21 Then the pri will charge the woman with an oath of cursing, and the pri will say to the woman, The Lord make you a curse and an oath among your people, when the Lord does make your thigh to rot, and your belly to swell;
+21 Then the priest will charge the woman with an oath of cursing, and the priest will say to the woman, The Lord make you a curse and an oath among your people, when the Lord does make your thigh to rot, and your belly to swell;
 
 22 And this water that causes the curse will go into your deep affection, to make your belly to swell, and your thigh to rot: And the woman will say, Amen, amen.
 
-23 And the pri will write these curses in a book, and he will blot them out with the bitter water:
+23 And the priest will write these curses in a book, and he will blot them out with the bitter water:
 
 24 And he will cause the woman to drink the bitter water that causes the curse: and the water that causes the curse will enter into her, and become bitter.
 
-25 Then the pri will take the jealousy offering out of the woman's hand, and will wave the offering before the Lord, and offer it upon the altar:
+25 Then the priest will take the jealousy offering out of the woman's hand, and will wave the offering before the Lord, and offer it upon the altar:
 
-26 And the pri will take an handful of the offering, even the memorial of it, and burn it upon the altar, and afterward will cause the woman to drink the water.
+26 And the priest will take an handful of the offering, even the memorial of it, and burn it upon the altar, and afterward will cause the woman to drink the water.
 
 27 And when he has made her to drink the water, then it will come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causes the curse will enter into her, and become bitter, and her belly will swell, and her thigh will rot: and the woman will be a curse among her people.
 
@@ -444,7 +444,7 @@
 
 29 This is the law of jealousies, when a wife goes aside to another instead of her husband, and is defiled;
 
-30 Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and will set the woman before the Lord, and the pri will execute upon her all this law.
+30 Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and will set the woman before the Lord, and the priest will execute upon her all this law.
 
 31 Then will the man be guiltless from iniquity, and this woman will bear her iniquity.
 
@@ -468,9 +468,9 @@
 
 9 And if any man die very suddenly by him, and he has defiled the head of his consecration; then he will shave his head in the day of his cleansing, on the seventh day will he shave it.
 
-10 And on the eighth day he will bring two turtles, or two young pigeons, to the pri, to the door of the tabernacle of the congregation:
+10 And on the eighth day he will bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:
 
-11 And the pri will offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and will hallow his head that same day.
+11 And the priest will offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and will hallow his head that same day.
 
 12 And he will consecrate to the Lord the days of his separation, and will bring a lamb of the first year for a trespass offering: but the days that were before will be lost, because his separation was defiled.
 
@@ -480,15 +480,15 @@
 
 15 And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.
 
-16 And the pri will bring them before the Lord, and will offer his sin offering, and his burnt offering:
+16 And the priest will bring them before the Lord, and will offer his sin offering, and his burnt offering:
 
-17 And he will offer the ram for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread: the pri will offer also his meat offering, and his drink offering.
+17 And he will offer the ram for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread: the priest will offer also his meat offering, and his drink offering.
 
 18 And the Nazarite will shave the head of his separation at the door of the tabernacle of the congregation, and will take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings.
 
-19 And the pri will take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and will put them upon the hands of the Nazarite, after the hair of his separation is shaven:
+19 And the priest will take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and will put them upon the hands of the Nazarite, after the hair of his separation is shaven:
 
-20 And the pri will wave them for a wave offering before the Lord: this is holy for the pri, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
+20 And the priest will wave them for a wave offering before the Lord: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
 
 21 This is the law of the Nazarite who has vowed, and of his offering to the Lord for his separation, beside that that his hand will get: according to the vow which he vowed, so he must do after the law of his separation.
 
@@ -520,7 +520,7 @@
 
 7 Two wagons and four oxen he gave to the sons of Gershon, according to their service:
 
-8 And four wagons and eight oxen he gave to the sons of Merari, according to their service, under the hand of Ithamar the son of Aaron the pri.
+8 And four wagons and eight oxen he gave to the sons of Merari, according to their service, under the hand of Ithamar the son of Aaron the priest.
 
 9 But to the sons of Kohath he gave none: because the service of the sanctuary belonging to them was that they should bear upon their shoulders.
 
@@ -688,7 +688,7 @@
 
 1 And the Lord spake to Moses, saying,
 
-2 Speak to Aaron and say to him, When you light the lamps, the seven lamps will give light over against the candlestick.
+2 Speak to Aaron and say to him, When you lightest the lamps, the seven lamps will give light over against the candlestick.
 
 3 And Aaron did so; he lighted the lamps of it over against the candlestick, as the Lord commanded Moses.
 
@@ -1176,13 +1176,13 @@
 
 24 Then it will be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation will offer one young bullock for a burnt offering, for a sweet savour to the Lord, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.
 
-25 And the pri will make an atonement for all the congregation of the children of Israel, and it will be forgiven them; for it is ignorance: and they will bring their offering, a sacrifice made by fire to the Lord, and their sin offering before the Lord, for their ignorance:
+25 And the priest will make an atonement for all the congregation of the children of Israel, and it will be forgiven them; for it is ignorance: and they will bring their offering, a sacrifice made by fire to the Lord, and their sin offering before the Lord, for their ignorance:
 
 26 And it will be forgiven all the congregation of the children of Israel, and the stranger that sojourns among them; seeing all the people were in ignorance.
 
 27 And if any soul sin through ignorance, then he will bring a she goat of the first year for a sin offering.
 
-28 And the pri will make an atonement for the soul that sinns ignorantly, when he sinns by ignorance before the Lord, to make an atonement for him; and it will be forgiven him.
+28 And the priest will make an atonement for the soul that sinns ignorantly, when he sinns by ignorance before the Lord, to make an atonement for him; and it will be forgiven him.
 
 29 you will have one law for him that sinns through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourns among them.
 
@@ -1284,11 +1284,11 @@
 
 36 And the Lord spake to Moses, saying,
 
-37 Speak to Eleazar the son of Aaron the pri, that he take up the censers out of the burning, and scatter you the fire yonder; for they are hallowed.
+37 Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter you the fire yonder; for they are hallowed.
 
 38 The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the Lord, therefore they are hallowed: and they will be a sign to the children of Israel.
 
-39 And Eleazar the pri took the brasen censers, with what they that were burnt had offered; and they were made broad plates for a covering of the altar:
+39 And Eleazar the priest took the brasen censers, with what they that were burnt had offered; and they were made broad plates for a covering of the altar:
 
 40 To be a memorial to the children of Israel, that no stranger, which is not of the seed of Aaron, come near to offer incense before the Lord; that he be not as Korah, and as his company: as the Lord said to him by the hand of Moses.
 
@@ -1354,7 +1354,7 @@
 
 6 And I, behold, I have taken your brothers the Levites from among the children of Israel: to you they are given as a gift for the Lord, to do the service of the tabernacle of the congregation.
 
-7 Therefore you and your sons with you will keep your pri's office for everything of the altar, and within the vail; and you will serve: I have given your pri's office to you as a service of gift: and the stranger that comes near will be put to death.
+7 Therefore you and your sons with you will keep your priest's office for everything of the altar, and within the vail; and you will serve: I have given your priest's office to you as a service of gift: and the stranger that comes near will be put to death.
 
 8 And the Lord spake to Aaron, Behold, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
 
@@ -1364,7 +1364,7 @@
 
 11 And this is your; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them to you, and to your sons and to your daughters with you, by a statute for ever: every one that is clean in your house will eat of it.
 
-12 All the b of the oil, and all the b of the wine, and of the wheat, the firstfruits of them which they will offer to the Lord, them have I given you.
+12 All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they will offer to the Lord, them have I given you.
 
 13 And whatsoever is first ripe in the land, which they will bring to the Lord, will be your; every one that is clean in your house will eat of it.
 
@@ -1396,15 +1396,15 @@
 
 27 And this your heave offering will be reckoned to you, as though it were the corn of the threshingfloor, and as the fulness of the winepress.
 
-28 Thus you also will offer an heave offering to the Lord of all your tithes, which you receive of the children of Israel; and you will give of it the Lord'S heave offering to Aaron the pri.
+28 Thus you also will offer an heave offering to the Lord of all your tithes, which you receive of the children of Israel; and you will give of it the Lord'S heave offering to Aaron the priest.
 
-29 Out of all your gifts you will offer every heave offering of the Lord, of all the b of it, even the hallowed part of it out of it.
+29 Out of all your gifts you will offer every heave offering of the Lord, of all the best of it, even the hallowed part of it out of it.
 
-30 Therefore you will say to them, When you have heaved the b of it from it, then it will be counted to the Levites as the increase of the threshingfloor, and as the increase of the winepress.
+30 Therefore you will say to them, When you have heaved the best of it from it, then it will be counted to the Levites as the increase of the threshingfloor, and as the increase of the winepress.
 
 31 And you will eat it in every place, you and your households: for it is your reward for your service in the tabernacle of the congregation.
 
-32 And you will bear no sin by reason of it, when you have heaved from it the b of it: neither will you pollute the holy things of the children of Israel, otherwise you die.
+32 And you will bear no sin by reason of it, when you have heaved from it the best of it: neither will you pollute the holy things of the children of Israel, otherwise you die.
 
 ## Numbers Chapter 19
 
@@ -1412,15 +1412,15 @@
 
 2 This is the ordinance of the law which the Lord has commanded, saying, Speak to the children of Israel, that they bring you a red heifer without spot, in which is no blemish, and upon which never came yoke:
 
-3 And you will give her to Eleazar the pri, that he may bring her forth without the camp, and one will slay her before his face:
+3 And you will give her to Eleazar the priest, that he may bring her forth without the camp, and one will slay her before his face:
 
-4 And Eleazar the pri will take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
+4 And Eleazar the priest will take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
 
 5 And one will burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, will he burn:
 
-6 And the pri will take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.
+6 And the priest will take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.
 
-7 Then the pri will wash his clothes, and he will bathe his flesh in water, and afterward he will come into the camp, and the pri will be unclean until the even.
+7 Then the priest will wash his clothes, and he will bathe his flesh in water, and afterward he will come into the camp, and the priest will be unclean until the even.
 
 8 And he that burns her will wash his clothes in water, and bathe his flesh in water, and will be unclean until the even.
 
@@ -1772,7 +1772,7 @@
 
 20 And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end will be that he perish for ever.
 
-21 And he looked on the Kenites, and took up his parable, and said, Strong is your dwellingplace, and you putt your n in a rock.
+21 And he looked on the Kenites, and took up his parable, and said, Strong is your dwellingplace, and you putt your nest in a rock.
 
 22 Nevertheless the Kenite will be wasted, until Asshur will carry you away captive.
 
@@ -1796,7 +1796,7 @@
 
 6 And, behold, one of the children of Israel came and brought to his brothers a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
 
-7 And when Phinehas, the son of Eleazar, the son of Aaron the pri, saw it, he rose up from among the congregation, and took a javelin in his hand;
+7 And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;
 
 8 And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
 
@@ -1804,7 +1804,7 @@
 
 10 And the Lord spake to Moses, saying,
 
-11 Phinehas, the son of Eleazar, the son of Aaron the pri, has turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
+11 Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
 
 12 therefore say, Behold, I give to him my covenant of peace:
 
@@ -1822,15 +1822,15 @@
 
 ## Numbers Chapter 26
 
-1 And it came to pass after the plague, that the Lord spake to Moses and to Eleazar the son of Aaron the pri, saying,
+1 And it came to pass after the plague, that the Lord spake to Moses and to Eleazar the son of Aaron the priest, saying,
 
 2 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel.
 
-3 And Moses and Eleazar the pri spake with them in the plains of Moab by Jordan near Jericho, saying,
+3 And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,
 
 4 Take the sum of the people, from twenty years old and upward; as the Lord commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 
-5 Reuben, the eld son of Israel: the children of Reuben; Hanoch, of whom comes the family of the Hanochites: of Pallu, the family of the Palluites:
+5 Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom comes the family of the Hanochites: of Pallu, the family of the Palluites:
 
 6 Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.
 
@@ -1946,9 +1946,9 @@
 
 62 And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
 
-63 These are they that were numbered by Moses and Eleazar the pri, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.
+63 These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.
 
-64 But among these there was not a man of them whom Moses and Aaron the pri numbered, when they numbered the children of Israel in the wilderness of Sinai.
+64 But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
 
 65 For the Lord had said of them, They will surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 
@@ -1956,7 +1956,7 @@
 
 1 Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 
-2 And they stood before Moses, and before Eleazar the pri, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
+2 And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
 
 3 Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the Lord in the company of Korah; but died in his own sin, and had no sons.
 
@@ -1990,13 +1990,13 @@
 
 18 And the Lord said to Moses, Take you Joshua the son of Nun, a man in whom is the spirit, and lay your hand upon him;
 
-19 And set him before Eleazar the pri, and before all the congregation; and give him a charge in their sight.
+19 And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
 
 20 And you will put some of your honour upon him, that all the congregation of the children of Israel may be obedient.
 
-21 And he will stand before Eleazar the pri, who will ask counsel for him after the judgment of Urim before the Lord: at his word will they go out, and at his word they will come in, both he, and all the children of Israel with him, even all the congregation.
+21 And he will stand before Eleazar the priest, who will ask counsel for him after the judgment of Urim before the Lord: at his word will they go out, and at his word they will come in, both he, and all the children of Israel with him, even all the congregation.
 
-22 And Moses did as the Lord commanded him: and he took Joshua, and set him before Eleazar the pri, and before all the congregation:
+22 And Moses did as the Lord commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation:
 
 23 And he laid his hands upon him, and gave him a charge, as the Lord commanded by the hand of Moses.
 
@@ -2192,11 +2192,11 @@
 
 5 So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.
 
-6 And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the pri, to the war, with the holy instruments, and the trumpets to blow in his hand.
+6 And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand.
 
 7 And they warred against the Midianites, as the Lord commanded Moses; and they slew all the males.
 
-8 And they slew the kings of Midian, beside the r of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
+8 And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
 
 9 And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods.
 
@@ -2204,9 +2204,9 @@
 
 11 And they took all the spoil, and all the prey, both of men and of beasts.
 
-12 And they brought the captives, and the prey, and the spoil, to Moses, and Eleazar the pri, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by Jordan near Jericho.
+12 And they brought the captives, and the prey, and the spoil, to Moses, and Eleazar the priest, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by Jordan near Jericho.
 
-13 And Moses, and Eleazar the pri, and all the princes of the congregation, went forth to meet them without the camp.
+13 And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
 
 14 And Moses was furious with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.
 
@@ -2222,7 +2222,7 @@
 
 20 And purify all your clothing, and all that is made of skins, and all work of goats' hair, and all things made of wood.
 
-21 And Eleazar the pri said to the men of war which went to the battle, This is the ordinance of the law which the Lord commanded Moses;
+21 And Eleazar the priest said to the men of war which went to the battle, This is the ordinance of the law which the Lord commanded Moses;
 
 22 Only the gold, and the silver, the brass, the iron, the tin, and the lead,
 
@@ -2232,19 +2232,19 @@
 
 25 And the Lord spake to Moses, saying,
 
-26 Take the sum of the prey that was taken, both of man and of beast, you, and Eleazar the pri, and the chief fathers of the congregation:
+26 Take the sum of the prey that was taken, both of man and of beast, you, and Eleazar the priest, and the chief fathers of the congregation:
 
 27 And divide the prey into two parts; between them that took the war upon them, who went out to battle, and between all the congregation:
 
 28 And levy a tribute to the Lord of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:
 
-29 Take it of their half, and give it to Eleazar the pri, for an heave offering of the Lord.
+29 Take it of their half, and give it to Eleazar the priest, for an heave offering of the Lord.
 
 30 And of the children of Israel's half, you will take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them to the Levites, which keep the charge of the tabernacle of the Lord.
 
-31 And Moses and Eleazar the pri did as the Lord commanded Moses.
+31 And Moses and Eleazar the priest did as the Lord commanded Moses.
 
-32 And the booty, being the r of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
+32 And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
 
 33 And threescore and twelve thousand beeves,
 
@@ -2262,7 +2262,7 @@
 
 40 And the persons were sixteen thousand; of which the Lord'S tribute was thirty and two persons.
 
-41 And Moses gave the tribute, which was the Lord'S heave offering, to Eleazar the pri, as the Lord commanded Moses.
+41 And Moses gave the tribute, which was the Lord'S heave offering, to Eleazar the priest, as the Lord commanded Moses.
 
 42 And of the children of Israel's half, which Moses divided from the men that warred,
 
@@ -2282,19 +2282,19 @@
 
 50 We have therefore brought an oblation for the Lord, what every man has gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.
 
-51 And Moses and Eleazar the pri took the gold of them, even all wrought jewels.
+51 And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
 
 52 And all the gold of the offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
 
 53 (For the men of war had taken spoil, every man for himself.)
 
-54 And Moses and Eleazar the pri took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the Lord.
+54 And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the Lord.
 
 ## Numbers Chapter 32
 
 1 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
 
-2 The children of Gad and the children of Reuben came and spake to Moses, and to Eleazar the pri, and to the princes of the congregation, saying,
+2 The children of Gad and the children of Reuben came and spake to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,
 
 3 Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 
@@ -2346,7 +2346,7 @@
 
 27 But your servants will pass over, every man armed for war, before the Lord to battle, as my lord says.
 
-28 So concerning them Moses commanded Eleazar the pri, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
+28 So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
 
 29 And Moses said to them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the Lord, and the land will be subdued before you; then you will give them the land of Gilead for a possession:
 
@@ -2452,7 +2452,7 @@
 
 37 And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
 
-38 And Aaron the pri went up into mount Hor at the commandment of the Lord, and died there, in the fortis year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
+38 And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortis year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
 
 39 And Aaron was an hundred and twenty and three years old when he died in mount Hor.
 
@@ -2502,7 +2502,7 @@
 
 5 And the border will fetch a compass from Azmon to the river of Egypt, and the goings out of it will be at the sea.
 
-6 And as for the western border, you will even have the great sea for a border: this will be your w border.
+6 And as for the western border, you will even have the great sea for a border: this will be your west border.
 
 7 And this will be your north border: from the great sea you will point out for you mount Hor:
 
@@ -2524,7 +2524,7 @@
 
 16 And the Lord spake to Moses, saying,
 
-17 These are the names of the men which will divide the land to you: Eleazar the pri, and Joshua the son of Nun.
+17 These are the names of the men which will divide the land to you: Eleazar the priest, and Joshua the son of Nun.
 
 18 And you will take one prince of every tribe, to divide the land by inheritance.
 
@@ -2560,7 +2560,7 @@
 
 4 And the suburbs of the cities, which you will give to the Levites, will reach from the wall of the city and outward a thousand cubits round about.
 
-5 And you will measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the w side two thousand cubits, and on the north side two thousand cubits; and the city will be in the midst: this will be to them the suburbs of the cities.
+5 And you will measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city will be in the midst: this will be to them the suburbs of the cities.
 
 6 And among the cities which you will give to the Levites there will be six cities for refuge, which you will appoint for the manslayer, that he may flee there: and to them you will add forty and two cities.
 
@@ -2600,13 +2600,13 @@
 
 24 Then the congregation will judge between the slayer and the revenger of blood according to these judgments:
 
-25 And the congregation will deliver the slayer out of the hand of the revenger of blood, and the congregation will restore him to the city of his refuge, where he was fled: and he will abide in it to the death of the high pri, which was anointed with the holy oil.
+25 And the congregation will deliver the slayer out of the hand of the revenger of blood, and the congregation will restore him to the city of his refuge, where he was fled: and he will abide in it to the death of the high priest, which was anointed with the holy oil.
 
 26 But if the slayer will at any time come without the border of the city of his refuge, where he was fled;
 
 27 And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he will not be guilty of blood:
 
-28 Because he should have remained in the city of his refuge until the death of the high pri: but after the death of the high pri the slayer will return into the land of his possession.
+28 Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer will return into the land of his possession.
 
 29 So these things will be for a statute of judgment to you throughout your generations in all your dwellings.
 
@@ -2614,7 +2614,7 @@
 
 31 Moreover you will take no satisfaction for the life of a murderer, which is guilty of death: but he will be surely put to death.
 
-32 And you will take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the pri.
+32 And you will take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.
 
 33 So you will not pollute the land in which you are: for blood it defiles the land: and the land cannot be cleansed of the blood that is shed in it, but by the blood of him that shed it.
 
@@ -2632,7 +2632,7 @@
 
 5 And Moses commanded the children of Israel according to the word of the Lord, saying, The tribe of the sons of Joseph has said well.
 
-6 This is the thing which the Lord does command concerning the daughters of Zelophehad, saying, Let them marry to whom they think b; only to the family of the tribe of their father will they marry.
+6 This is the thing which the Lord does command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father will they marry.
 
 7 So will not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel will keep himself to the inheritance of the tribe of his fathers.
 

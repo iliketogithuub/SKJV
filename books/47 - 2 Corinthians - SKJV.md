@@ -44,7 +44,7 @@
 
 21 Now he which stablishs us with you in Christ, and has anointed us, is God;
 
-22 Who has also sealed us, and given the earn of the Spirit in our hearts.
+22 Who has also sealed us, and given the earnest of the Spirit in our hearts.
 
 23 Moreover I call God for a record upon my soul, that to spare you I came not as yet to Corinth.
 
@@ -76,9 +76,9 @@
 
 12 Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened to me of the Lord,
 
-13 I had no r in my spirit, because I found not Titus my brother: but taking my leave of them, I went from from there into Macedonia.
+13 I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from from there into Macedonia.
 
-14 Now thanks be to God, which always causes us to triumph in Christ, and makes manif the savour of his knowledge by us in every place.
+14 Now thanks be to God, which always causes us to triumph in Christ, and makes manifest the savour of his knowledge by us in every place.
 
 15 For we are to God a sweet savour of Christ, in them that are saved, and in them that perish:
 
@@ -144,9 +144,9 @@
 
 9 Persecuted, but not forsaken; cast down, but not destroyed;
 
-10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manif in our body.
+10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
 
-11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made manif in our mortal flesh.
+11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.
 
 12 So then death works in us, but life in you.
 
@@ -172,7 +172,7 @@
 
 4 For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
-5 Now he that has wrought us for the selfsame thing is God, who also has given to us the earn of the Spirit.
+5 Now he that has wrought us for the selfsame thing is God, who also has given to us the earnest of the Spirit.
 
 6 Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
 
@@ -184,7 +184,7 @@
 
 10 For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad.
 
-11 Knowing therefore the terror of the Lord, we persuade men; but we are made manif to God; and I trust also are made manif in your consciences.
+11 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest to God; and I trust also are made manifest in your consciences.
 
 12 For we commend not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer them which glory in appearance, and not in heart.
 
@@ -196,7 +196,7 @@
 
 16 therefore from now on know we no man after the flesh: yea, though we have known Christ after the flesh, yet now from now on know we him no more.
 
-17 Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+17 Therefore, if anyone is in Christ, he is a new creation: old things have passed away; look, all things have become new.
 
 18 And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
 
@@ -254,11 +254,11 @@
 
 4 Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our suffering.
 
-5 For, when we were come into Macedonia, our flesh had no r, but we were troubled on every side; without were fightings, within were fears.
+5 For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
 
 6 Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;
 
-7 And not by his coming only, but by the comfort with what he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
+7 And not by his coming only, but by the comfort with what he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 8 For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season.
 
@@ -310,7 +310,7 @@
 
 15 As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
 
-16 But thanks be to God, which put the same earn care into the heart of Titus for you.
+16 But thanks be to God, which put the same earnest care into the heart of Titus for you.
 
 17 For indeed he accepted the encouragement; but being more forward, of his own accord he went to you.
 
@@ -320,7 +320,7 @@
 
 20 Avoiding this, that no man should blame us in this abundance which is administered by us:
 
-21 Providing for hon things, not only in the sight of the Lord, but also in the sight of men.
+21 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 
 22 And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
 
@@ -408,9 +408,9 @@
 
 4 For if he that comes preachs another Jesus, whom we have not preached, or if you receive another spirit, which you have not received, or another gospel, which you have not accepted, you might well bear with him.
 
-5 For I suppose I was not a whit behind the very chief apostles.
+5 For I suppose I was not a whit behind the very chiefest apostles.
 
-6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manif among you in all things.
+6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
 
 7 Have I committed an offence in abasing myself that you might be exalted, because I have preached to you the gospel of God freely?
 
@@ -484,11 +484,11 @@
 
 8 For this thing I urged the Lord thrice, that it might depart from me.
 
-9 And he said to me, My grace is sufficient for you: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may r upon me.
+9 And he said to me, My grace is sufficient for you: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
 10 Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.
 
-11 I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chief apostles, though I be nothing.
+11 I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
 
 12 Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
 
@@ -524,7 +524,7 @@
 
 6 But I trust that you will know that we are not reprobates.
 
-7 Now I pray to God that you do no evil; not that we should appear approved, but that you should do that which is hon, though we be as reprobates.
+7 Now I pray to God that you do no evil; not that we should appear approved, but that you should do that which is honest, though we be as reprobates.
 
 8 For we can do nothing against the truth, but for the truth.
 

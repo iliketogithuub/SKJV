@@ -358,7 +358,7 @@
 
 42 And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
 
-43 And they struck the r of the Amalekites that were escaped, and dwelt there to this day.
+43 And they struck the rest of the Amalekites that were escaped, and dwelt there to this day.
 
 ## 1 Chronicles Chapter 5
 
@@ -434,7 +434,7 @@
 
 9 And Ahimaaz fathered Azariah, and Azariah fathered Johanan,
 
-10 And Johanan fathered Azariah, (he it is that executed the pri's office in the temple that Solomon built in Jerusalem:)
+10 And Johanan fathered Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
 
 11 And Azariah fathered Amariah, and Amariah fathered Ahitub,
 
@@ -476,7 +476,7 @@
 
 30 Shimea his son, Haggiah his son, Asaiah his son.
 
-31 And these are they whom David set over the service of song in the house of the Lord, after that the ark had r.
+31 And these are they whom David set over the service of song in the house of the Lord, after that the ark had rest.
 
 32 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the Lord in Jerusalem: and then they waited on their office according to their order.
 
@@ -568,7 +568,7 @@
 
 76 And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.
 
-77 to the r of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:
+77 to the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:
 
 78 And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
 
@@ -790,7 +790,7 @@
 
 23 So they and their children had the oversight of the gates of the house of the Lord, namely, the house of the tabernacle, by wards.
 
-24 In four quarters were the porters, toward the east, w, north, and south.
+24 In four quarters were the porters, toward the east, west, north, and south.
 
 25 And their brothers, which were in their villages, were to come after seven days from time to time with them.
 
@@ -878,7 +878,7 @@
 
 7 And David dwelt in the castle; therefore they called it the city of David.
 
-8 And he built the city round about, even from Millo round about: and Joab repaired the r of the city.
+8 And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
 
 9 So David grew greater and greater: for the Lord of hosts was with him.
 
@@ -900,7 +900,7 @@
 
 18 And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the Lord.
 
-19 And said, My God forbid it me, that I should do this thing: will I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mighti.
+19 And said, My God forbid it me, that I should do this thing: will I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.
 
 20 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.
 
@@ -986,9 +986,9 @@
 
 13 Jeremiah the tenth, Machbanai the eleventh.
 
-14 These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the great over a thousand.
+14 These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.
 
-15 These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the w.
+15 These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.
 
 16 And there came of the children of Benjamin and Judah to the hold to David.
 
@@ -1016,7 +1016,7 @@
 
 28 And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.
 
-29 And of the children of Benjamin, the kindred of Saul, three thousand: for until now the great part of them had kept the ward of the house of Saul.
+29 And of the children of Benjamin, the kindred of Saul, three thousand: for until now the greatest part of them had kept the ward of the house of Saul.
 
 30 And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.
 
@@ -1034,7 +1034,7 @@
 
 37 And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.
 
-38 All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the r also of Israel were of one heart to make David king.
+38 All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.
 
 39 And there they were with David three days, eating and drinking: for their brothers had prepared for them.
 
@@ -1244,11 +1244,11 @@
 
 38 And Obededom with their brothers, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:
 
-39 And Zadok the pri, and his brothers the priests, before the tabernacle of the Lord in the high place that was at Gibeon,
+39 And Zadok the priest, and his brothers the priests, before the tabernacle of the Lord in the high place that was at Gibeon,
 
 40 To offer burnt offerings to the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;
 
-41 And with them Heman and Jeduthun, and the r that were chosen, who were expressed by name, to give thanks to the Lord, because his mercy endures for ever;
+41 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the Lord, because his mercy endures for ever;
 
 42 And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.
 
@@ -1368,7 +1368,7 @@
 
 10 Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians.
 
-11 And the r of the people he delivered to the hand of Abishai his brother, and they set themselves in array against the children of Ammon.
+11 And the rest of the people he delivered to the hand of Abishai his brother, and they set themselves in array against the children of Ammon.
 
 12 And he said, If the Syrians be too strong for me, then you will help me: but if the children of Ammon be too strong for you, then I will help you.
 
@@ -1484,7 +1484,7 @@
 
 8 But the word of the Lord came to me, saying, you have shed blood abundantly, and have made great wars: you will not build an house to my name, because you have shed much blood upon the earth in my sight.
 
-9 Behold, a son will be born to you, who will be a man of r; and I will give him r from all his enemies round about: for his name will be Solomon, and I will give peace and quietness to Israel in his days.
+9 Behold, a son will be born to you, who will be a man of rest; and I will give him rest from all his enemies round about: for his name will be Solomon, and I will give peace and quietness to Israel in his days.
 
 10 He will build an house for my name; and he will be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.
 
@@ -1502,7 +1502,7 @@
 
 17 David also commanded all the princes of Israel to help Solomon his son, saying,
 
-18 Is not the Lord your God with you? and has he not given you r on every side? for he has given the inhabitants of the land into mine hand; and the land is subdued before the Lord, and before his people.
+18 Is not the Lord your God with you? and has he not given you rest on every side? for he has given the inhabitants of the land into mine hand; and the land is subdued before the Lord, and before his people.
 
 19 Now set your heart and your soul to seek the Lord your God; arise therefore, and build you the sanctuary of the Lord God, to bring the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
 
@@ -1556,7 +1556,7 @@
 
 24 These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the Lord, from the age of twenty years and upward.
 
-25 For David said, The Lord God of Israel has given r to his people, that they may dwell in Jerusalem for ever:
+25 For David said, The Lord God of Israel has given rest to his people, that they may dwell in Jerusalem for ever:
 
 26 And also to the Levites; they will no more carry the tabernacle, nor any vessels of it for the service of it.
 
@@ -1576,7 +1576,7 @@
 
 1 Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 
-2 But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the pri's office.
+2 But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest's office.
 
 3 And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.
 
@@ -1584,7 +1584,7 @@
 
 5 Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar.
 
-6 And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the pri, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
+6 And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
 
 7 Now the first lot came forth to Jehoiarib, the second to Jedaiah,
 
@@ -1612,7 +1612,7 @@
 
 19 These were the orderings of them in their service to come into the house of the Lord, according to their manner, under Aaron their father, as the Lord God of Israel had commanded him.
 
-20 And the r of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.
+20 And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.
 
 21 Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah.
 
@@ -1776,7 +1776,7 @@
 
 4 And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.
 
-5 The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief pri: and in his course were twenty and four thousand.
+5 The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.
 
 6 This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son.
 
@@ -1840,7 +1840,7 @@
 
 1 And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, to Jerusalem.
 
-2 Then David the king stood up upon his feet, and said, Hear me, my brothers, and my people: As for me, I had in mine heart to build an house of r for the ark of the covenant of the Lord, and for the footstool of our God, and had made ready for the building:
+2 Then David the king stood up upon his feet, and said, Hear me, my brothers, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the Lord, and for the footstool of our God, and had made ready for the building:
 
 3 But God said to me, you will not build an house for my name, because you have been a man of war, and have shed blood.
 
@@ -1924,7 +1924,7 @@
 
 21 And they sacrificed sacrifices to the Lord, and offered burnt offerings to the Lord, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:
 
-22 And did eat and drink before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him to the Lord to be the chief governor, and Zadok to be pri.
+22 And did eat and drink before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him to the Lord to be the chief governor, and Zadok to be priest.
 
 23 Then Solomon sat on the throne of the Lord as king instead of David his father, and prospered; and all Israel obeyed him.
 

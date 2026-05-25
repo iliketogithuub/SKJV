@@ -60,7 +60,7 @@
 
 18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; whereby we know that it is the last time.
 
-19 They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manif that they were not all of us.
+19 They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 20 But you have an unction from the Holy One, and you know all things.
 
@@ -102,7 +102,7 @@
 
 9 Whosoever is born of God does not commit sin; for his seed remains in him: and he cannot sin, because he is born of God.
 
-10 In this the children of God are manif, and the children of the devil: whosoever does not righteousness is not of God, neither he that loves not his brother.
+10 In this the children of God are manifest, and the children of the devil: whosoever does not righteousness is not of God, neither he that loves not his brother.
 
 11 For this is the message that you heard from the beginning, that we should love one another.
 

@@ -6,7 +6,7 @@
 
 2 And there were born to him seven sons and three daughters.
 
-3 His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the great of all the men of the east.
+3 His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.
 
 4 And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 
@@ -26,7 +26,7 @@
 
 12 And the Lord said to Satan, Behold, all that he has is in your power; only upon himself put not forth your hand. So Satan went forth from the presence of the Lord.
 
-13 And there was a day when his sons and his daughters were eating and drinking wine in their eld brother's house:
+13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:
 
 14 And there came a messenger to Job, and said, The oxen were plowing, and the asses feeding beside them:
 
@@ -36,7 +36,7 @@
 
 17 While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell you.
 
-18 While he was yet speaking, there came also another, and said, your sons and your daughters were eating and drinking wine in their eld brother's house:
+18 While he was yet speaking, there came also another, and said, your sons and your daughters were eating and drinking wine in their eldest brother's house:
 
 19 And, behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell you.
 
@@ -100,7 +100,7 @@
 
 12 Why did the knees prevent me? or why the breasts that I should suck?
 
-13 For now should I have lain still and been quiet, I should have slept: then had I been at r,
+13 For now should I have lain still and been quiet, I should have slept: then had I been at rest,
 
 14 With kings and counsellors of the earth, which build desolate places for themselves;
 
@@ -108,9 +108,9 @@
 
 16 Or as an hidden untimely birth I had not been; as infants which never saw light.
 
-17 There the wicked cease from troubling; and there the weary be at r.
+17 There the wicked cease from troubling; and there the weary be at rest.
 
-18 There the prisoners r together; they hear not the voice of the oppressor.
+18 There the prisoners rest together; they hear not the voice of the oppressor.
 
 19 The small and great are there; and the servant is free from his master.
 
@@ -126,7 +126,7 @@
 
 25 For the thing which I greatly feared is come upon me, and that which I was afraid of is come to me.
 
-26 I was not in safety, neither had I r, neither was I quiet; yet trouble came.
+26 I was not in safety, neither had I rest, neither was I quiet; yet trouble came.
 
 ## Job Chapter 4
 
@@ -138,7 +138,7 @@
 
 4 your words have upholden him that was falling, and you have strengthened the feeble knees.
 
-5 But now it is come upon you, and you faint; it touchs you, and you are troubled.
+5 But now it is come upon you, and you faintest; it touchs you, and you are troubled.
 
 6 Is not this your fear, your confidence, your hope, and the uprightness of your ways?
 
@@ -182,7 +182,7 @@
 
 4 His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.
 
-5 Whose harv the hungry eats up, and takes it even out of the thorns, and the robber swallows up their substance.
+5 Whose harvest the hungry eats up, and takes it even out of the thorns, and the robber swallows up their substance.
 
 6 Although affliction comes not forth of the dust, neither does trouble spring out of the ground;
 
@@ -244,7 +244,7 @@
 
 7 The things that my soul refused to touch are as my sorrowful meat.
 
-8 Oh that I might have my requ; and that God would grant me the thing that I long for!
+8 Oh that I might have my request; and that God would grant me the thing that I long for!
 
 9 Even that it would please God to destroy me; that he would let loose his hand, and cut me off!
 
@@ -414,7 +414,7 @@
 
 16 If I had called, and he had answered me; yet would I not believe that he had listened to my voice.
 
-17 For he breaks me with a temp, and multiplis my wounds without cause.
+17 For he breaks me with a tempest, and multiplis my wounds without cause.
 
 18 He will not suffer me to take my breath, but fills me with bitterness.
 
@@ -534,7 +534,7 @@
 
 17 And your age will be clearer than the noonday: you will shine forth, you will be as the morning.
 
-18 And you will be secure, because there is hope; yea, you will dig about you, and you will take your r in safety.
+18 And you will be secure, because there is hope; yea, you will dig about you, and you will take your rest in safety.
 
 19 Also you will lie down, and none will make you afraid; yea, many will make suit to you.
 
@@ -662,7 +662,7 @@
 
 5 Seeing his days are determined, the number of his months are with you, you have appointed his bounds that he cannot pass;
 
-6 Turn from him, that he may r, till he will accomplish, as an hireling, his day.
+6 Turn from him, that he may rest, till he will accomplish, as an hireling, his day.
 
 7 For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch of it will not cease.
 
@@ -846,7 +846,7 @@
 
 15 And where is now my hope? as for my hope, who will see it?
 
-16 They will go down to the bars of the pit, when our r together is in the dust.
+16 They will go down to the bars of the pit, when our rest together is in the dust.
 
 ## Job Chapter 18
 
@@ -1316,7 +1316,7 @@
 
 19 The rich man will lie down, but he will not be gathered: he opens his eyes, and he is not.
 
-20 Terrors take hold on him as waters, a temp steals him away in the night.
+20 Terrors take hold on him as waters, a tempest steals him away in the night.
 
 21 The east wind carris him away, and he departs: and as a storm hurls him out of his place.
 
@@ -1418,7 +1418,7 @@
 
 17 And I brake the jaws of the wicked, and plucked the spoil out of his tes.
 
-18 Then I said, I will die in my n, and I will multiply my days as the sand.
+18 Then I said, I will die in my nest, and I will multiply my days as the sand.
 
 19 My root was spread out by the waters, and the dew lay all night upon my branch.
 
@@ -1468,7 +1468,7 @@
 
 16 And now my soul is poured out upon me; the days of affliction have taken hold upon me.
 
-17 My bones are pierced in me in the night season: and my sinews take no r.
+17 My bones are pierced in me in the night season: and my sinews take no rest.
 
 18 By the great force of my disease is my garment changed: it binds me about as the collar of my coat.
 
@@ -2060,7 +2060,7 @@
 
 26 does the hawk fly by your wisdom, and stretch her wings toward the south?
 
-27 does the eagle mount up at your command, and make her n on high?
+27 does the eagle mount up at your command, and make her nest on high?
 
 28 She dwells and abides on the rock, upon the crag of the rock, and the strong place.
 

@@ -90,7 +90,7 @@
 
 23 And I will kill her children with death; and all the churches will know that I am he which searchs the reins and hearts: and I will give to every one of you according to your works.
 
-24 But to you I say, and to the r in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.
+24 But to you I say, and to the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.
 
 25 But that which you have already hold fast till I come.
 
@@ -164,7 +164,7 @@
 
 7 And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.
 
-8 And the four beasts had each of them six wings about him; and they were full of eyes within: and they r not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
+8 And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 
 9 And when those beasts give glory and honour and thanks to him that sat on the throne, who lives for ever and ever,
 
@@ -224,7 +224,7 @@
 
 10 And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?
 
-11 And white robes were given to every one of them; and it was said to them, that they should r yet for a little season, until their fellowservants also and their brothers, that should be killed as they were, should be fulfilled.
+11 And white robes were given to every one of them; and it was said to them, that they should rest yet for a little season, until their fellowservants also and their brothers, that should be killed as they were, should be fulfilled.
 
 12 And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
 
@@ -342,7 +342,7 @@
 
 19 For their power is in their mouth, and in their tails: for their tails were like to serpents, and had heads, and with them they do hurt.
 
-20 And the r of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+20 And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 
 21 Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 
@@ -506,15 +506,15 @@
 
 10 The same will drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he will be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 
-11 And the smoke of their torment ascends up for ever and ever: and they have no r day nor night, who worship the beast and his image, and whosoever receives the mark of his name.
+11 And the smoke of their torment ascends up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receives the mark of his name.
 
 12 Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
-13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Spirit, that they may r from their labours; and their works do follow them.
+13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Spirit, that they may rest from their labours; and their works do follow them.
 
 14 And I looked, and behold a white cloud, and upon the cloud one sat like to the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 
-15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in your sickle, and reap: for the time is come for you to reap; for the harv of the earth is ripe.
+15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in your sickle, and reap: for the time is come for you to reap; for the harvest of the earth is ripe.
 
 16 And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
 
@@ -534,7 +534,7 @@
 
 3 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are your works, Lord God Almighty; just and true are your ways, you King of saints.
 
-4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made manif.
+4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made manifest.
 
 5 And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
 
@@ -730,7 +730,7 @@
 
 4 And I saw thrones, and they sat upon them, and judgment was given to them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 
-5 But the r of the dead lived not again until the thousand years were finished. This is the first resurrection.
+5 But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection.
 
 6 Blessed and holy is he that has part in the first resurrection: on such the second death has no power, but they will be priests of God and of Christ, and will reign with him a thousand years.
 
@@ -778,7 +778,7 @@
 
 12 And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
-13 On the east three gates; on the north three gates; on the south three gates; and on the w three gates.
+13 On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
 
 14 And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
 

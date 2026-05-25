@@ -78,7 +78,7 @@
 
 15 Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.
 
-16 Now the pri of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
+16 Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
 
 17 And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
 
@@ -100,7 +100,7 @@
 
 ## Exodus Chapter 3
 
-1 Now Moses kept the flock of Jethro his father in law, the pri of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
+1 Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 
 2 And the angel of the Lord appeared to him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
 
@@ -218,7 +218,7 @@
 
 4 And the king of Egypt said to them, therefore do you, Moses and Aaron, let the people from their works? get you to your burdens.
 
-5 And Pharaoh said, Behold, the people of the land now are many, and you make them r from their burdens.
+5 And Pharaoh said, Behold, the people of the land now are many, and you make them rest from their burdens.
 
 6 And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,
 
@@ -546,7 +546,7 @@
 
 18 And he went out from Pharaoh, and intreated the Lord.
 
-19 And the Lord turned a mighty strong w wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
+19 And the Lord turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
 
 20 But the Lord hardened Pharaoh's heart, so that he would not let the children of Israel go.
 
@@ -906,7 +906,7 @@
 
 22 And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.
 
-23 And he said to them, This is that which the Lord has said, To morrow is the r of the holy sabbath to the Lord: bake that which you will bake to day, and seethe that you will seethe; and that which remains over lay up for you to be kept until the morning.
+23 And he said to them, This is that which the Lord has said, To morrow is the rest of the holy sabbath to the Lord: bake that which you will bake to day, and seethe that you will seethe; and that which remains over lay up for you to be kept until the morning.
 
 24 And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm in it.
 
@@ -970,7 +970,7 @@
 
 ## Exodus Chapter 18
 
-1 When Jethro, the pri of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;
+1 When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;
 
 2 Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back,
 
@@ -1214,7 +1214,7 @@
 
 4 If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he will restore double.
 
-5 If a man will cause a field or vineyard to be eaten, and will put in his beast, and will feed in another man's field; of the b of his own field, and of the b of his own vineyard, will he make restitution.
+5 If a man will cause a field or vineyard to be eaten, and will put in his beast, and will feed in another man's field; of the best of his own field, and of the best of his own vineyard, will he make restitution.
 
 6 If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed with it; he that kindled the fire will surely make restitution.
 
@@ -1272,7 +1272,7 @@
 
 1 you will not raise a false report: put not your hand with the wicked to be an unrighteous witness.
 
-2 you will not follow a multitude to do evil; neither will you speak in a cause to decline after many to wr judgment:
+2 you will not follow a multitude to do evil; neither will you speak in a cause to decline after many to wrest judgment:
 
 3 Neither will you countenance a poor man in his cause.
 
@@ -1280,7 +1280,7 @@
 
 5 If you see the ass of him that hates you lying under his burden, and would forbear to help him, you will surely help with him.
 
-6 you will not wr the judgment of your poor in his cause.
+6 you will not wrest the judgment of your poor in his cause.
 
 7 Keep you far from a false matter; and the innocent and righteous slay you not: for I will not justify the wicked.
 
@@ -1290,9 +1290,9 @@
 
 10 And six years you will sow your land, and will gather in the fruits of it:
 
-11 But the seventh year you will let it r and lie still; that the poor of your people may eat: and what they leave the beasts of the field will eat. In like manner you will deal with your vineyard, and with your oliveyard.
+11 But the seventh year you will let it rest and lie still; that the poor of your people may eat: and what they leave the beasts of the field will eat. In like manner you will deal with your vineyard, and with your oliveyard.
 
-12 Six days you will do your work, and on the seventh day you will r: that your ox and your ass may r, and the son of your handmaid, and the stranger, may be refreshed.
+12 Six days you will do your work, and on the seventh day you will rest: that your ox and your ass may rest, and the son of your handmaid, and the stranger, may be refreshed.
 
 13 And in all things that I have said to you be careful: and make no mention of the name of other gods, neither let it be heard out of your mouth.
 
@@ -1300,7 +1300,7 @@
 
 15 you will keep the feast of unleavened bread: (you will eat unleavened bread seven days, as I commanded you, in the time appointed of the month Abib; for in it you cam out from Egypt: and none will appear before me empty:)
 
-16 And the feast of harv, the firstfruits of your labours, which you have sown in the field: and the feast of ingathering, which is in the end of the year, when you have gathered in your labours out of the field.
+16 And the feast of harvest, the firstfruits of your labours, which you have sown in the field: and the feast of ingathering, which is in the end of the year, when you have gathered in your labours out of the field.
 
 17 Three times in the year all your males will appear before the Lord God.
 
@@ -1556,7 +1556,7 @@
 
 11 And likewise for the north side in length there will be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver.
 
-12 And for the breadth of the court on the w side will be hangings of fifty cubits: their pillars ten, and their sockets ten.
+12 And for the breadth of the court on the west side will be hangings of fifty cubits: their pillars ten, and their sockets ten.
 
 13 And the breadth of the court on the east side eastward will be fifty cubits.
 
@@ -1578,13 +1578,13 @@
 
 ## Exodus Chapter 28
 
-1 And take you to you Aaron your brother, and his sons with him, from among the children of Israel, that he may minister to me in the pri's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.
+1 And take you to you Aaron your brother, and his sons with him, from among the children of Israel, that he may minister to me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.
 
 2 And you will make holy garments for Aaron your brother for glory and for beauty.
 
-3 And you will speak to all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister to me in the pri's office.
+3 And you will speak to all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister to me in the priest's office.
 
-4 And these are the garments which they will make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a belt: and they will make holy garments for Aaron your brother, and his sons, that he may minister to me in the pri's office.
+4 And these are the garments which they will make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a belt: and they will make holy garments for Aaron your brother, and his sons, that he may minister to me in the priest's office.
 
 5 And they will take gold, and blue, and purple, and scarlet, and fine linen.
 
@@ -1596,7 +1596,7 @@
 
 9 And you will take two onyx stones, and grave on them the names of the children of Israel:
 
-10 Six of their names on one stone, and the other six names of the r on the other stone, according to their birth.
+10 Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.
 
 11 With the work of an engraver in stone, like the engravings of a signet, will you engrave the two stones with the names of the children of Israel: you will make them to be set in ouches of gold.
 
@@ -1658,7 +1658,7 @@
 
 40 And for Aaron's sons you will make coats, and you will make for them girdles, and bonnets will you make for them, for glory and for beauty.
 
-41 And you will put them upon Aaron your brother, and his sons with him; and will anoint them, and consecrate them, and sanctify them, that they may minister to me in the pri's office.
+41 And you will put them upon Aaron your brother, and his sons with him; and will anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest's office.
 
 42 And you will make them linen breeches to cover their nakedness; from the loins even to the thighs they will reach:
 
@@ -1666,7 +1666,7 @@
 
 ## Exodus Chapter 29
 
-1 And this is the thing that you will do to them to hallow them, to minister to me in the pri's office: Take one young bullock, and two rams without blemish,
+1 And this is the thing that you will do to them to hallow them, to minister to me in the priest's office: Take one young bullock, and two rams without blemish,
 
 2 And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour will you make them.
 
@@ -1682,7 +1682,7 @@
 
 8 And you will bring his sons, and put coats upon them.
 
-9 And you will gird them with girdles, Aaron and his sons, and put the bonnets on them: and the pri's office will be theirs for a perpetual statute: and you will consecrate Aaron and his sons.
+9 And you will gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office will be theirs for a perpetual statute: and you will consecrate Aaron and his sons.
 
 10 And you will cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons will put their hands upon the head of the bullock.
 
@@ -1724,7 +1724,7 @@
 
 29 And the holy garments of Aaron will be his sons' after him, to be anointed in it, and to be consecrated in them.
 
-30 And that son that is pri in his stead will put them on seven days, when he comes into the tabernacle of the congregation to minister in the holy place.
+30 And that son that is priest in his stead will put them on seven days, when he comes into the tabernacle of the congregation to minister in the holy place.
 
 31 And you will take the ram of the consecration, and seethe his flesh in the holy place.
 
@@ -1752,7 +1752,7 @@
 
 43 And there I will meet with the children of Israel, and the tabernacle will be sanctified by my glory.
 
-44 And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the pri's office.
+44 And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest's office.
 
 45 And I will dwell among the children of Israel, and will be their God.
 
@@ -1818,7 +1818,7 @@
 
 29 And you will sanctify them, that they may be most holy: whatsoever touchs them will be holy.
 
-30 And you will anoint Aaron and his sons, and consecrate them, that they may minister to me in the pri's office.
+30 And you will anoint Aaron and his sons, and consecrate them, that they may minister to me in the priest's office.
 
 31 And you will speak to the children of Israel, saying, This will be an holy anointing oil to me throughout your generations.
 
@@ -1856,7 +1856,7 @@
 
 9 And the altar of burnt offering with all his furniture, and the laver and his foot,
 
-10 And the cloths of service, and the holy garments for Aaron the pri, and the garments of his sons, to minister in the pri's office,
+10 And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office,
 
 11 And the anointing oil, and sweet incense for the holy place: according to all that I have commanded you will they do.
 
@@ -1866,7 +1866,7 @@
 
 14 you will keep the sabbath therefore; for it is holy to you: every one that defiles it will surely be put to death: for whosoever does any work in it, that soul will be cut off from among his people.
 
-15 Six days may work be done; but in the seventh is the sabbath of r, holy to the Lord: whosoever does any work in the sabbath day, he will surely be put to death.
+15 Six days may work be done; but in the seventh is the sabbath of rest, holy to the Lord: whosoever does any work in the sabbath day, he will surely be put to death.
 
 16 therefore the children of Israel will keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.
 
@@ -1974,7 +1974,7 @@
 
 13 Now therefore, I pray you, if I have found grace in your sight, shew me now your way, that I may know you, that I may find grace in your sight: and consider that this nation is your people.
 
-14 And he said, My presence will go with you, and I will give you r.
+14 And he said, My presence will go with you, and I will give you rest.
 
 15 And he said to him, If your presence go not with me, carry us not up hence.
 
@@ -2036,9 +2036,9 @@
 
 20 But the firstling of an ass you will redeem with a lamb: and if you redeem him not, then will you break his neck. All the firstborn of your sons you will redeem. And none will appear before me empty.
 
-21 Six days you will work, but on the seventh day you will r: in earing time and in harv you will r.
+21 Six days you will work, but on the seventh day you will rest: in earing time and in harvest you will rest.
 
-22 And you will observe the feast of weeks, of the firstfruits of wheat harv, and the feast of ingathering at the year's end.
+22 And you will observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.
 
 23 Thrice in the year will all your menchildren appear before the Lord God, the God of Israel.
 
@@ -2070,7 +2070,7 @@
 
 1 And Moses gathered all the congregation of the children of Israel together, and said to them, These are the words which the Lord has commanded, that you should do them.
 
-2 Six days will work be done, but on the seventh day there will be to you an holy day, a sabbath of r to the Lord: whosoever does work in it will be put to death.
+2 Six days will work be done, but on the seventh day there will be to you an holy day, a sabbath of rest to the Lord: whosoever does work in it will be put to death.
 
 3 you will kindle no fire throughout your habitations upon the sabbath day.
 
@@ -2104,7 +2104,7 @@
 
 18 The pins of the tabernacle, and the pins of the court, and their cords,
 
-19 The cloths of service, to do service in the holy place, the holy garments for Aaron the pri, and the garments of his sons, to minister in the pri's office.
+19 The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office.
 
 20 And all the congregation of the children of Israel departed from the presence of Moses.
 
@@ -2300,7 +2300,7 @@
 
 11 And for the north side the hangings were an hundred cubits, their pillars were twenty, and their sockets of brass twenty; the hooks of the pillars and their fillets of silver.
 
-12 And for the w side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets of silver.
+12 And for the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets of silver.
 
 13 And for the east side eastward fifty cubits.
 
@@ -2318,7 +2318,7 @@
 
 20 And all the pins of the tabernacle, and of the court round about, were of brass.
 
-21 This is the sum of the tabernacle, even of the tabernacle of testimony, as it was counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, son to Aaron the pri.
+21 This is the sum of the tabernacle, even of the tabernacle of testimony, as it was counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, son to Aaron the priest.
 
 22 And Bezaleel the son Uri, the son of Hur, of the tribe of Judah, made all that the Lord commanded Moses.
 
@@ -2422,7 +2422,7 @@
 
 40 The hangings of the court, his pillars, and his sockets, and the hanging for the court gate, his cords, and his pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
 
-41 The cloths of service to do service in the holy place, and the holy garments for Aaron the pri, and his sons' garments, to minister in the pri's office.
+41 The cloths of service to do service in the holy place, and the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office.
 
 42 According to all that the Lord commanded Moses, so the children of Israel made all the work.
 
@@ -2454,11 +2454,11 @@
 
 12 And you will bring Aaron and his sons to the door of the tabernacle of the congregation, and wash them with water.
 
-13 And you will put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister to me in the pri's office.
+13 And you will put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister to me in the priest's office.
 
 14 And you will bring his sons, and clothe them with coats:
 
-15 And you will anoint them, as you did anoint their father, that they may minister to me in the pri's office: for their anointing will surely be an everlasting priesthood throughout their generations.
+15 And you will anoint them, as you did anoint their father, that they may minister to me in the priest's office: for their anointing will surely be an everlasting priesthood throughout their generations.
 
 16 Thus did Moses: according to all that the Lord commanded him, so did he.
 

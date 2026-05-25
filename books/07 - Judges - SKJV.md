@@ -144,7 +144,7 @@
 
 10 And the Spirit of the Lord came upon him, and he judged Israel, and went out to war: and the Lord delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
 
-11 And the land had r forty years. And Othniel the son of Kenaz died.
+11 And the land had rest forty years. And Othniel the son of Kenaz died.
 
 12 And the children of Israel did evil again in the sight of the Lord: and the Lord strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the Lord.
 
@@ -182,7 +182,7 @@
 
 29 And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.
 
-30 So Moab was subdued that day under the hand of Israel. And the land had r fourscore years.
+30 So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.
 
 31 And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.
 
@@ -298,7 +298,7 @@
 
 30 Have they not sped? have they not divided the prey; to every man a young woman or two; to Sisera a prey of various colours, a prey of various colours of needlework, of various colours of needlework on both sides, meet for the necks of them that take the spoil?
 
-31 So let all your enemies perish, O Lord: but let them that love him be as the sun when he goes forth in his might. And the land had r forty years.
+31 So let all your enemies perish, O Lord: but let them that love him be as the sun when he goes forth in his might. And the land had rest forty years.
 
 ## Judges Chapter 6
 
@@ -394,11 +394,11 @@
 
 5 So he brought down the people to the water: and the Lord said to Gideon, Every one that lapps of the water with his tongue, as a dog lapps, him will you set by himself; likewise every one that bows down upon his knees to drink.
 
-6 And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the r of the people bowed down upon their knees to drink water.
+6 And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
 
 7 And the Lord said to Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into your hand: and let all the other people go every man to his place.
 
-8 So the people took victuals in their hand, and their trumpets: and he sent all the r of Israel every man to his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley.
+8 So the people took victuals in their hand, and their trumpets: and he sent all the rest of Israel every man to his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley.
 
 9 And it came to pass the same night, that the Lord said to him, Arise, get you down to the host; for I have delivered it into your hand.
 
@@ -482,7 +482,7 @@
 
 23 And Gideon said to them, I will not rule over you, neither will my son rule over you: the Lord will rule over you.
 
-24 And Gideon said to them, I would desire a requ of you, that you would give me every man the earrings of his prey. (For they had golden earrings, because they were Ishmaelites.)
+24 And Gideon said to them, I would desire a request of you, that you would give me every man the earrings of his prey. (For they had golden earrings, because they were Ishmaelites.)
 
 25 And they answered, We will willingly give them. And they spread a garment, and did cast in it every man the earrings of his prey.
 
@@ -516,7 +516,7 @@
 
 4 And they gave him threescore and ten pieces of silver out of the house of Baalberith, with what Abimelech hired vain and light persons, which followed him.
 
-5 And he went to his father's house at Ophrah, and slew his brothers the sons of Jerubbaal, being threescore and ten persons, upon one stone: nevertheless yet Jotham the young son of Jerubbaal was left; for he hid himself.
+5 And he went to his father's house at Ophrah, and slew his brothers the sons of Jerubbaal, being threescore and ten persons, upon one stone: nevertheless yet Jotham the youngest son of Jerubbaal was left; for he hid himself.
 
 6 And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem.
 
@@ -870,7 +870,7 @@
 
 ## Judges Chapter 15
 
-1 But it came to pass within a while after, in the time of wheat harv, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
+1 But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
 
 2 And her father said, I truly thought that you hadst utterly hated her; therefore I gave her to your companion: is not her younger sister fairer than she? take her, I pray you, instead of her.
 
@@ -984,7 +984,7 @@
 
 4 Yet he restored the money to his mother; and his mother took two hundred shekels of silver, and gave them to the founder, who made of it a graven image and a melted image: and they were in the house of Micah.
 
-5 And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his pri.
+5 And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his priest.
 
 6 In those days there was no king in Israel, but every man did that which was right in his own eyes.
 
@@ -994,13 +994,13 @@
 
 9 And Micah said to him, From where com you? And he said to him, I am a Levite of Bethlehemjudah, and I go to sojourn where I may find a place.
 
-10 And Micah said to him, Dwell with me, and be to me a father and a pri, and I will give you ten shekels of silver by the year, and a suit of apparel, and your victuals. So the Levite went in.
+10 And Micah said to him, Dwell with me, and be to me a father and a priest, and I will give you ten shekels of silver by the year, and a suit of apparel, and your victuals. So the Levite went in.
 
 11 And the Levite was content to dwell with the man; and the young man was to him as one of his sons.
 
-12 And Micah consecrated the Levite; and the young man became his pri, and was in the house of Micah.
+12 And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.
 
-13 Then said Micah, Now know I that the Lord will do me good, seeing I have a Levite to my pri.
+13 Then said Micah, Now know I that the Lord will do me good, seeing I have a Levite to my priest.
 
 ## Judges Chapter 18
 
@@ -1010,11 +1010,11 @@
 
 3 When they were by the house of Micah, they knew the voice of the young man the Levite: and they turned in there, and said to him, Who brought you here? and what mak you in this place? and what have you here?
 
-4 And he said to them, Thus and thus deals Micah with me, and has hired me, and I am his pri.
+4 And he said to them, Thus and thus deals Micah with me, and has hired me, and I am his priest.
 
 5 And they said to him, Ask counsel, we pray you, of God, that we may know whether our way which we go will be prosperous.
 
-6 And the pri said to them, Go in peace: before the Lord is your way in which you go.
+6 And the priest said to them, Go in peace: before the Lord is your way in which you go.
 
 7 Then the five men departed, and came to Laish, and saw the people that were in it, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and there was no magistrate in the land, that might put them to shame in any thing; and they were far from the Zidonians, and had no business with any man.
 
@@ -1036,13 +1036,13 @@
 
 16 And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate.
 
-17 And the five men that went to spy out the land went up, and came in there, and took the graven image, and the ephod, and the teraphim, and the melted image: and the pri stood in the entering of the gate with the six hundred men that were appointed with weapons of war.
+17 And the five men that went to spy out the land went up, and came in there, and took the graven image, and the ephod, and the teraphim, and the melted image: and the priest stood in the entering of the gate with the six hundred men that were appointed with weapons of war.
 
-18 And these went into Micah's house, and fetched the carved image, the ephod, and the teraphim, and the melted image. Then said the pri to them, What do you?
+18 And these went into Micah's house, and fetched the carved image, the ephod, and the teraphim, and the melted image. Then said the priest to them, What do you?
 
-19 And they said to him, Hold your peace, lay your hand upon your mouth, and go with us, and be to us a father and a pri: is it better for you to be a pri to the house of one man, or that you be a pri to a tribe and a family in Israel?
+19 And they said to him, Hold your peace, lay your hand upon your mouth, and go with us, and be to us a father and a priest: is it better for you to be a priest to the house of one man, or that you be a priest to a tribe and a family in Israel?
 
-20 And the pri's heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
+20 And the priest's heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
 
 21 So they turned and departed, and put the little ones and the cattle and the carriage before them.
 
@@ -1050,13 +1050,13 @@
 
 23 And they cried to the children of Dan. And they turned their faces, and said to Micah, What ails you, that you com with such a company?
 
-24 And he said, you have taken away my gods which I made, and the pri, and you are gone away: and what have I more? and what is this that you say to me, What ails you?
+24 And he said, you have taken away my gods which I made, and the priest, and you are gone away: and what have I more? and what is this that you say to me, What ails you?
 
 25 And the children of Dan said to him, Let not your voice be heard among us, otherwise angry fellows run upon you, and you lose your life, with the lives of your household.
 
 26 And the children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back to his house.
 
-27 And they took the things which Micah had made, and the pri which he had, and came to Laish, to a people that were at quiet and secure: and they struck them with the edge of the sword, and burnt the city with fire.
+27 And they took the things which Micah had made, and the priest which he had, and came to Laish, to a people that were at quiet and secure: and they struck them with the edge of the sword, and burnt the city with fire.
 
 28 And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lis by Bethrehob. And they built a city, and dwelt in it.
 
@@ -1246,7 +1246,7 @@
 
 9 For the people were numbered, and, behold, there were none of the inhabitants of Jabeshgilead there.
 
-10 And the congregation sent there twelve thousand men of the valiant, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
+10 And the congregation sent there twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
 
 11 And this is the thing that you will do, you will utterly destroy every male, and every woman that has lain by man.
 

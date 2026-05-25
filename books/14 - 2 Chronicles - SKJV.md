@@ -118,7 +118,7 @@
 
 3 And under it was the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen were cast, when it was cast.
 
-4 It stood upon twelve oxen, three looking toward the north, and three looking toward the w, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
+4 It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
 
 5 And the thickness of it was an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; and it received and held three thousand baths.
 
@@ -388,7 +388,7 @@
 
 15 And king Solomon made two hundred targets of beaten gold: six hundred shekels of beaten gold went to one target.
 
-16 And three hundred shields made he of beaten gold: three hundred shekels of gold went to one shield. And the king put them in the house of the for of Lebanon.
+16 And three hundred shields made he of beaten gold: three hundred shekels of gold went to one shield. And the king put them in the house of the forest of Lebanon.
 
 17 Moreover the king made a great throne of ivory, and overlaid it with pure gold.
 
@@ -396,7 +396,7 @@
 
 19 And twelve lions stood there on the one side and on the other upon the six steps. There was not the like made in any kingdom.
 
-20 And all the drinking vessels of king Solomon were of gold, and all the vessels of the house of the for of Lebanon were of pure gold: none were of silver; it was not any thing accounted of in the days of Solomon.
+20 And all the drinking vessels of king Solomon were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold: none were of silver; it was not any thing accounted of in the days of Solomon.
 
 21 For the king's ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.
 
@@ -414,7 +414,7 @@
 
 28 And they brought to Solomon horses out of Egypt, and out of all lands.
 
-29 Now the r of the acts of Solomon, first and last, are they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
+29 Now the rest of the acts of Solomon, first and last, are they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
 
 30 And Solomon reigned in Jerusalem over all Israel forty years.
 
@@ -488,7 +488,7 @@
 
 13 And the priests and the Levites that were in all Israel resorted to him out of all their coasts.
 
-14 For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the pri's office to the Lord:
+14 For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office to the Lord:
 
 15 And he ordained him priests for the high places, and for the devils, and for the calves which he had made.
 
@@ -560,7 +560,7 @@
 
 8 And now you think to withstand the kingdom of the Lord in the hand of the sons of David; and you be a great multitude, and there are with your golden calves, which Jeroboam made you for gods.
 
-9 Have you not cast out the priests of the Lord, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever comes to consecrate himself with a young bullock and seven rams, the same may be a pri of them that are no gods.
+9 Have you not cast out the priests of the Lord, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever comes to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods.
 
 10 But as for us, the Lord is our God, and we have not forsaken him; and the priests, which minister to the Lord, are the sons of Aaron, and the Levites wait upon their business:
 
@@ -586,7 +586,7 @@
 
 21 But Abijah grew mighty, and married fourteen wives, and fathered twenty and two sons, and sixteen daughters.
 
-22 And the r of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo.
+22 And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo.
 
 ## 2 Chronicles Chapter 14
 
@@ -600,9 +600,9 @@
 
 5 Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.
 
-6 And he built fenced cities in Judah: for the land had r, and he had no war in those years; because the Lord had given him r.
+6 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the Lord had given him rest.
 
-7 Therefore he said to Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the Lord our God, we have sought him, and he has given us r on every side. So they built and prospered.
+7 Therefore he said to Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the Lord our God, we have sought him, and he has given us rest on every side. So they built and prospered.
 
 8 And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valour.
 
@@ -610,7 +610,7 @@
 
 10 Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah.
 
-11 And Asa cried to the Lord his God, and said, Lord, it is nothing with you to help, whether with many, or with them that have no power: help us, O Lord our God; for we r on you, and in your name we go against this multitude. O Lord, you are our God; let no man prevail against you.
+11 And Asa cried to the Lord his God, and said, Lord, it is nothing with you to help, whether with many, or with them that have no power: help us, O Lord our God; for we rest on you, and in your name we go against this multitude. O Lord, you are our God; let no man prevail against you.
 
 12 So the Lord struck the Ethiopians before Asa, and before Judah; and the Ethiopians fled.
 
@@ -626,7 +626,7 @@
 
 2 And he went out to meet Asa, and said to him, Hear you me, Asa, and all Judah and Benjamin; The Lord is with you, while you be with him; and if you seek him, he will be found of you; but if you forsake him, he will forsake you.
 
-3 Now for a long season Israel has been without the true God, and without a teaching pri, and without law.
+3 Now for a long season Israel has been without the true God, and without a teaching priest, and without law.
 
 4 But when they in their trouble did turn to the Lord God of Israel, and sought him, he was found of them.
 
@@ -650,7 +650,7 @@
 
 14 And they sware to the Lord with a loud voice, and with shouting, and with trumpets, and with cornets.
 
-15 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the Lord gave them r round about.
+15 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the Lord gave them rest round about.
 
 16 And also concerning Maachah the mother of Asa the king, he removed her from being queen, because she had made an idol in a grove: and Asa cut down her idol, and stamped it, and burnt it at the brook Kidron.
 
@@ -822,7 +822,7 @@
 
 10 And what cause soever will come to you of your brothers that dwell in your cities, between blood and blood, between law and commandment, statutes and judgments, you will even warn them that they trespass not against the Lord, and so wrath come upon you, and upon your brothers: this do, and you will not trespass.
 
-11 And, behold, Amariah the chief pri is over you in all matters of the Lord; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites will be officers before you. Deal courageously, and the Lord will be with the good.
+11 And, behold, Amariah the chief priest is over you in all matters of the Lord; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites will be officers before you. Deal courageously, and the Lord will be with the good.
 
 ## 2 Chronicles Chapter 20
 
@@ -884,7 +884,7 @@
 
 29 And the fear of God was on all the kingdoms of those countries, when they had heard that the Lord fought against the enemies of Israel.
 
-30 So the realm of Jehoshaphat was quiet: for his God gave him r round about.
+30 So the realm of Jehoshaphat was quiet: for his God gave him rest round about.
 
 31 And Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi.
 
@@ -892,7 +892,7 @@
 
 33 However the high places were not taken away: for as yet the people had not prepared their hearts to the God of their fathers.
 
-34 Now the r of the acts of Jehoshaphat, first and last, behold, they are written in the book of Jehu the son of Hanani, who is mentioned in the book of the kings of Israel.
+34 Now the rest of the acts of Jehoshaphat, first and last, behold, they are written in the book of Jehu the son of Hanani, who is mentioned in the book of the kings of Israel.
 
 35 And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:
 
@@ -934,7 +934,7 @@
 
 16 Moreover the Lord stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians:
 
-17 And they came up into Judah, and brake into it, and carried away all the substance that was found in the king's house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the young of his sons.
+17 And they came up into Judah, and brake into it, and carried away all the substance that was found in the king's house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 
 18 And after all this the Lord struck him in his insides with an incurable disease.
 
@@ -944,7 +944,7 @@
 
 ## 2 Chronicles Chapter 22
 
-1 And the inhabitants of Jerusalem made Ahaziah his young son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eld. So Ahaziah the son of Jehoram king of Judah reigned.
+1 And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
 
 2 Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri.
 
@@ -964,7 +964,7 @@
 
 10 But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.
 
-11 But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the pri, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
+11 But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
 
 12 And he was with them hid in the house of God six years: and Athaliah reigned over the land.
 
@@ -984,9 +984,9 @@
 
 7 And the Levites will compass the king round about, every man with his weapons in his hand; and whosoever else comes into the house, he will be put to death: but be you with the king when he comes in, and when he goes out.
 
-8 So the Levites and all Judah did according to all things that Jehoiada the pri had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the pri dismissed not the courses.
+8 So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.
 
-9 Moreover Jehoiada the pri delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David's, which were in the house of God.
+9 Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David's, which were in the house of God.
 
 10 And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
 
@@ -996,13 +996,13 @@
 
 13 And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
 
-14 Then Jehoiada the pri brought out the captains of hundreds that were set over the host, and said to them, Have her forth of the ranges: and whoso follows her, let him be slain with the sword. For the pri said, Slay her not in the house of the Lord.
+14 Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said to them, Have her forth of the ranges: and whoso follows her, let him be slain with the sword. For the priest said, Slay her not in the house of the Lord.
 
 15 So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there.
 
 16 And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the Lord's people.
 
-17 Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the pri of Baal before the altars.
+17 Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.
 
 18 Also Jehoiada appointed the offices of the house of the Lord by the hand of the priests the Levites, whom David had distributed in the house of the Lord, to offer the burnt offerings of the Lord, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
 
@@ -1016,7 +1016,7 @@
 
 1 Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beersheba.
 
-2 And Joash did that which was right in the sight of the Lord all the days of Jehoiada the pri.
+2 And Joash did that which was right in the sight of the Lord all the days of Jehoiada the priest.
 
 3 And Jehoiada took for him two wives; and he fathered sons and daughters.
 
@@ -1028,19 +1028,19 @@
 
 7 For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the Lord did they bestow upon Baalim.
 
-8 And at the king's commandment they made a ch, and set it without at the gate of the house of the Lord.
+8 And at the king's commandment they made a chest, and set it without at the gate of the house of the Lord.
 
 9 And they made a proclamation through Judah and Jerusalem, to bring in to the Lord the collection that Moses the servant of God laid upon Israel in the wilderness.
 
-10 And all the princes and all the people rejoiced, and brought in, and cast into the ch, until they had made an end.
+10 And all the princes and all the people rejoiced, and brought in, and cast into the chest, until they had made an end.
 
-11 Now it came to pass, that at what time the ch was brought to the king's office by the hand of the Levites, and when they saw that there was much money, the king's scribe and the high pri's officer came and emptied the ch, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance.
+11 Now it came to pass, that at what time the chest was brought to the king's office by the hand of the Levites, and when they saw that there was much money, the king's scribe and the high priest's officer came and emptied the chest, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance.
 
 12 And the king and Jehoiada gave it to such as did the work of the service of the house of the Lord, and hired masons and carpenters to repair the house of the Lord, and also such as wrought iron and brass to mend the house of the Lord.
 
 13 So the workmen wrought, and the work was perfected by them, and they set the house of God in his state, and strengthened it.
 
-14 And when they had finished it, they brought the r of the money before the king and Jehoiada, whereof were made vessels for the house of the Lord, even vessels to minister, and to offer also, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the Lord continually all the days of Jehoiada.
+14 And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the Lord, even vessels to minister, and to offer also, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the Lord continually all the days of Jehoiada.
 
 15 But Jehoiada grew old, and was full of days when he died; an hundred and thirty years old was he when he died.
 
@@ -1052,7 +1052,7 @@
 
 19 Yet he sent prophets to them, to bring them again to the Lord; and they testified against them: but they would not give ear.
 
-20 And the Spirit of God came upon Zechariah the son of Jehoiada the pri, which stood above the people, and said to them, Thus says God, Why transgress you the commandments of the Lord, that you cannot prosper? because you have forsaken the Lord, he has also forsaken you.
+20 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said to them, Thus says God, Why transgress you the commandments of the Lord, that you cannot prosper? because you have forsaken the Lord, he has also forsaken you.
 
 21 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the Lord.
 
@@ -1062,7 +1062,7 @@
 
 24 For the army of the Syrians came with a small company of men, and the Lord delivered a very great host into their hand, because they had forsaken the Lord God of their fathers. So they executed judgment against Joash.
 
-25 And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the pri, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the tombs of the kings.
+25 And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the tombs of the kings.
 
 26 And these are they that conspired against him; Zabad the son of Shimeath an Ammonitess, and Jehozabad the son of Shimrith a Moabitess.
 
@@ -1120,7 +1120,7 @@
 
 25 And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
 
-26 Now the r of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?
+26 Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?
 
 27 Now after the time that Amaziah did turn away from following the Lord they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.
 
@@ -1160,17 +1160,17 @@
 
 16 But when he was strong, his heart was lifted up to his destruction: for he sinned against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
 
-17 And Azariah the pri went in after him, and with him fourscore priests of the Lord, that were valiant men:
+17 And Azariah the priest went in after him, and with him fourscore priests of the Lord, that were valiant men:
 
 18 And they withstood Uzziah the king, and said to him, It appertains not to you, Uzziah, to burn incense to the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for you have trespassed; neither will it be for your honour from the Lord God.
 
 19 Then Uzziah was furious, and had a censer in his hand to burn incense: and while he was furious with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
 
-20 And Azariah the chief pri, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from from there; yea, himself hasted also to go out, because the Lord had smitten him.
+20 And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from from there; yea, himself hasted also to go out, because the Lord had smitten him.
 
 21 And Uzziah the king was a leper to the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the Lord: and Jotham his son was over the king's house, judging the people of the land.
 
-22 Now the r of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.
+22 Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.
 
 23 So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead.
 
@@ -1188,7 +1188,7 @@
 
 6 So Jotham became mighty, because he prepared his ways before the Lord his God.
 
-7 Now the r of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.
+7 Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.
 
 8 He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.
 
@@ -1246,7 +1246,7 @@
 
 25 And in every several city of Judah he made high places to burn incense to other gods, and provoked to anger the Lord God of his fathers.
 
-26 Now the r of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel.
+26 Now the rest of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel.
 
 27 And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the tombs of the kings of Israel: and Hezekiah his son reigned in his stead.
 
@@ -1400,7 +1400,7 @@
 
 9 Then Hezekiah questioned with the priests and the Levites concerning the heaps.
 
-10 And Azariah the chief pri of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the Lord, we have had enough to eat, and have left plenty: for the Lord has blessed his people; and that which is left is this great store.
+10 And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the Lord, we have had enough to eat, and have left plenty: for the Lord has blessed his people; and that which is left is this great store.
 
 11 Then Hezekiah commanded to prepare chambers in the house of the Lord; and they prepared them,
 
@@ -1484,13 +1484,13 @@
 
 29 Moreover he provided him cities, and possessions of flocks and herds in abundance: for God had given him substance very much.
 
-30 This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the w side of the city of David. And Hezekiah prospered in all his works.
+30 This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works.
 
 31 However in the business of the ambassadors of the princes of Babylon, who sent to him to enquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart.
 
-32 Now the r of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel.
+32 Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel.
 
-33 And Hezekiah slept with his fathers, and they buried him in the chief of the tombs of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
+33 And Hezekiah slept with his fathers, and they buried him in the chiefest of the tombs of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 
 ## 2 Chronicles Chapter 33
 
@@ -1520,7 +1520,7 @@
 
 13 And prayed to him: and he was intreated of him, and heard his prayer, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
 
-14 Now after this he built a wall without the city of David, on the w side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
+14 Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
 
 15 And he took away the strange gods, and the idol out of the house of the Lord, and all the altars that he had built in the mount of the house of the Lord, and in Jerusalem, and cast them out of the city.
 
@@ -1528,7 +1528,7 @@
 
 17 Nevertheless the people did sacrifice still in the high places, yet to the Lord their God only.
 
-18 Now the r of the acts of Manasseh, and his prayer to his God, and the words of the seers that spake to him in the name of the Lord God of Israel, behold, they are written in the book of the kings of Israel.
+18 Now the rest of the acts of Manasseh, and his prayer to his God, and the words of the seers that spake to him in the name of the Lord God of Israel, behold, they are written in the book of the kings of Israel.
 
 19 His prayer also, and how God was intreated of him, and all his sins, and his trespass, and the places in which he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers.
 
@@ -1562,7 +1562,7 @@
 
 8 Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the Lord his God.
 
-9 And when they came to Hilkiah the high pri, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
+9 And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
 
 10 And they put it in the hand of the workmen that had the oversight of the house of the Lord, and they gave it to the workmen that wrought in the house of the Lord, to repair and amend the house:
 
@@ -1572,7 +1572,7 @@
 
 13 Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters.
 
-14 And when they brought out the money that was brought into the house of the Lord, Hilkiah the pri found a book of the law of the Lord given by Moses.
+14 And when they brought out the money that was brought into the house of the Lord, Hilkiah the priest found a book of the law of the Lord given by Moses.
 
 15 And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the Lord. And Hilkiah delivered the book to Shaphan.
 
@@ -1580,7 +1580,7 @@
 
 17 And they have gathered together the money that was found in the house of the Lord, and have delivered it into the hand of the overseers, and to the hand of the workmen.
 
-18 Then Shaphan the scribe told the king, saying, Hilkiah the pri has given me a book. And Shaphan read it before the king.
+18 Then Shaphan the scribe told the king, saying, Hilkiah the priest has given me a book. And Shaphan read it before the king.
 
 19 And it came to pass, when the king had heard the words of the law, that he rent his clothes.
 
@@ -1664,7 +1664,7 @@
 
 25 And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations.
 
-26 Now the r of the acts of Josiah, and his goodness, according to that which was written in the law of the Lord,
+26 Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the Lord,
 
 27 And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah.
 
@@ -1684,7 +1684,7 @@
 
 7 Nebuchadnezzar also carried of the vessels of the house of the Lord to Babylon, and put them in his temple at Babylon.
 
-8 Now the r of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.
+8 Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.
 
 9 Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the Lord.
 

@@ -22,7 +22,7 @@
 
 10 The field is wasted, the land mourns; for the corn is wasted: the new wine is dried up, the oil languishs.
 
-11 Be you ashamed, O you farmers; howl, O you vinedressers, for the wheat and for the barley; because the harv of the field is perished.
+11 Be you ashamed, O you farmers; howl, O you vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
 
 12 The vine is dried up, and the fig tree languishs; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.
 
@@ -134,7 +134,7 @@
 
 12 Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
 
-13 Put you in the sickle, for the harv is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.
+13 Put you in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.
 
 14 Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision.
 

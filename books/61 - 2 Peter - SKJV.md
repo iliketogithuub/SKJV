@@ -78,7 +78,7 @@
 
 16 But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet.
 
-17 These are wells without water, clouds that are carried with a temp; to whom the mist of darkness is reserved for ever.
+17 These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
 
 18 For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error.
 
@@ -124,7 +124,7 @@
 
 15 And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given to him has written to you;
 
-16 As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wr, as they do also the other scriptures, to their own destruction.
+16 As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, to their own destruction.
 
 17 you therefore, beloved, seeing you know these things before, beware otherwise you also, being led away with the error of the wicked, fall from your own stedfastness.
 

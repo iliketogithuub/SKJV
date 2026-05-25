@@ -306,7 +306,7 @@
 
 7 Which having no guide, overseer, or ruler,
 
-8 provides her meat in the summer, and gathers her food in the harv.
+8 provides her meat in the summer, and gathers her food in the harvest.
 
 9 How long will you sleep, O sluggard? when will you arise out of your sleep?
 
@@ -360,7 +360,7 @@
 
 34 For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.
 
-35 He will not regard any ransom; neither will he r content, though you giv many gifts.
+35 He will not regard any ransom; neither will he rest content, though you giv many gifts.
 
 ## Proverbs Chapter 7
 
@@ -470,7 +470,7 @@
 
 25 Before the mountains were settled, before the hills was I brought forth:
 
-26 While as yet he had not made the earth, nor the fields, nor the high part of the dust of the world.
+26 While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.
 
 27 When he prepared the heavens, I was there: when he set a compass upon the face of the depth:
 
@@ -498,7 +498,7 @@
 
 2 She has killed her beasts; she has mingled her wine; she has also furnished her table.
 
-3 She has sent forth her maidens: she cris upon the high places of the city,
+3 She has sent forth her maidens: she cris upon the highest places of the city,
 
 4 Whoso is simple, let him turn in here: as for him that wants understanding, she says to him,
 
@@ -540,7 +540,7 @@
 
 4 He becomes poor that deals with a slack hand: but the hand of the diligent makes rich.
 
-5 He that gathers in summer is a wise son: but he that sleeps in harv is a son that causes shame.
+5 He that gathers in summer is a wise son: but he that sleeps in harvest is a son that causes shame.
 
 6 Blessings are upon the head of the just: but violence covers the mouth of the wicked.
 
@@ -1154,7 +1154,7 @@
 
 3 It is an honour for a man to cease from strife: but every fool will be meddling.
 
-4 The sluggard will not plow by reason of the cold; therefore will he beg in harv, and have nothing.
+4 The sluggard will not plow by reason of the cold; therefore will he beg in harvest, and have nothing.
 
 5 Counsel in the heart of man is like deep water; but a man of understanding will draw it out.
 
@@ -1500,7 +1500,7 @@
 
 12 As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
 
-13 As the cold of snow in the time of harv, so is a faithful messenger to them that send him: for he refreshs the soul of his masters.
+13 As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refreshs the soul of his masters.
 
 14 Whoso boasts himself of a false gift is like clouds and wind without rain.
 
@@ -1534,7 +1534,7 @@
 
 ## Proverbs Chapter 26
 
-1 As snow in summer, and as rain in harv, so honour is not seemly for a fool.
+1 As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 
 2 As the bird by wandering, as the swallow by flying, so the curse causeless will not come.
 
@@ -1606,7 +1606,7 @@
 
 7 The full soul loaths an honeycomb; but to the hungry soul every bitter thing is sweet.
 
-8 As a bird that wanders from her n, so is a man that wanders from his place.
+8 As a bird that wanders from her nest, so is a man that wanders from his place.
 
 9 Ointment and perfume rejoice the heart: so does the sweetness of a man's friend by hearty counsel.
 
@@ -1722,7 +1722,7 @@
 
 8 Scornful men bring a city into a snare: but wise men turn away wrath.
 
-9 If a wise man contends with a foolish man, whether he rage or laugh, there is no r.
+9 If a wise man contends with a foolish man, whether he rage or laugh, there is no rest.
 
 10 The bloodthirsty hate the upright: but the just seek his soul.
 
@@ -1738,7 +1738,7 @@
 
 16 When the wicked are multiplied, sin increass: but the righteous will see their fall.
 
-17 Correct your son, and he will give you r; yea, he will give delight to your soul.
+17 Correct your son, and he will give you rest; yea, he will give delight to your soul.
 
 18 Where there is no vision, the people perish: but he that keeps the law, happy is he.
 
@@ -1820,7 +1820,7 @@
 
 29 There be three things which go well, yea, four are comely in going:
 
-30 A lion which is strong among beasts, and turns not away for any;
+30 A lion which is strongest among beasts, and turns not away for any;
 
 31 A greyhound; an he goat also; and a king, against whom there is no rising up.
 

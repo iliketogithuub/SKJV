@@ -20,7 +20,7 @@
 
 9 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 
-10 Making requ, if by any means now at length I might have a prosperous journey by the will of God to come to you.
+10 Making request, if by any means now at length I might have a prosperous journey by the will of God to come to you.
 
 11 For I long to see you, that I may impart to you some spiritual gift, to the end you may be established;
 
@@ -38,7 +38,7 @@
 
 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 
-19 Because that which may be known of God is manif in them; for God has shewed it to them.
+19 Because that which may be known of God is manifest in them; for God has shewed it to them.
 
 20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
 
@@ -424,7 +424,7 @@
 
 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which will be revealed in us.
 
-19 For the earn expectation of the creature waits for the manifestation of the sons of God.
+19 For the earnest expectation of the creature waits for the manifestation of the sons of God.
 
 20 For the creature was made subject to vanity, not willingly, but by reason of him who has subjected the same in hope,
 
@@ -574,7 +574,7 @@
 
 19 But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-20 But Esaias is very bold, and says, I was found of them that sought me not; I was made manif to them that asked not after me.
+20 But Esaias is very bold, and says, I was found of them that sought me not; I was made manifest to them that asked not after me.
 
 21 But to Israel he says, All day long I have stretched forth my hands to a disobedient and rebellion people.
 
@@ -592,7 +592,7 @@
 
 6 And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then it is no more grace: otherwise work is no more work.
 
-7 What then? Israel has not obtained that which he seeks for; but the election has obtained it, and the r were blinded.
+7 What then? Israel has not obtained that which he seeks for; but the election has obtained it, and the rest were blinded.
 
 8 (According as it is written, God has given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) to this day.
 
@@ -686,7 +686,7 @@
 
 16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 
-17 Repay to no man evil for evil. Provide things hon in the sight of all men.
+17 Repay to no man evil for evil. Provide things honest in the sight of all men.
 
 18 If it be possible, as much as lis in you, live peaceably with all men.
 
@@ -894,7 +894,7 @@
 
 25 Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 
-26 But now is made manif, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+26 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 
 27 To God only wise, be glory through Jesus Christ for ever. Amen.
 

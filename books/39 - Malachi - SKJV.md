@@ -44,7 +44,7 @@
 
 6 The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.
 
-7 For the pri's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.
+7 For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.
 
 8 But you are departed out of the way; you have caused many to stumble at the law; you have corrupted the covenant of Levi, says the Lord of hosts.
 

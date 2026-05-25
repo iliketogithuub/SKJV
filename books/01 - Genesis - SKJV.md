@@ -400,7 +400,7 @@
 
 8 Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
 
-9 But the dove found no r for the sole of her foot, and she returned to him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in to him into the ark.
+9 But the dove found no rest for the sole of her foot, and she returned to him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in to him into the ark.
 
 10 And he stayed yet other seven days; and again he sent forth the dove out of the ark;
 
@@ -426,7 +426,7 @@
 
 21 And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.
 
-22 While the earth remains, seedtime and harv, and cold and heat, and summer and winter, and day and night will not cease.
+22 While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night will not cease.
 
 ## Genesis Chapter 9
 
@@ -636,7 +636,7 @@
 
 7 And the Lord appeared to Abram, and said, to your seed will I give this land: and there builded he an altar to the Lord, who appeared to him.
 
-8 And he removed from from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the w, and Hai on the east: and there he builded an altar to the Lord, and called upon the name of the Lord.
+8 And he removed from from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar to the Lord, and called upon the name of the Lord.
 
 9 And Abram journeyed, going on still toward the south.
 
@@ -736,7 +736,7 @@
 
 17 And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale.
 
-18 And Melchizedek king of Salem brought forth bread and wine: and he was the pri of the most high God.
+18 And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
 
 19 And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
 
@@ -892,7 +892,7 @@
 
 3 And said, My Lord, if now I have found favour in your sight, pass not away, I pray you, from your servant:
 
-4 Let a little water, I pray you, be fetched, and wash your feet, and r yourselves under the tree:
+4 Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
 
 5 And I will fetch a morsel of bread, and comfort you your hearts; after that you will pass on: for therefore are you come to your servant. And they said, So do, as you have said.
 
@@ -1234,7 +1234,7 @@
 
 1 And Abraham was old, and well stricken in age: and the Lord had blessed Abraham in all things.
 
-2 And Abraham said to his eld servant of his house, that ruled over all that he had, Put, I pray you, your hand under my thigh:
+2 And Abraham said to his eldest servant of his house, that ruled over all that he had, Put, I pray you, your hand under my thigh:
 
 3 And I will make you swear by the Lord, the God of heaven, and the God of the earth, that you will not take a wife to my son of the daughters of the Canaanites, among whom I dwell:
 
@@ -1510,7 +1510,7 @@
 
 ## Genesis Chapter 27
 
-1 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eld son, and said to him, My son: and he said to him, Behold, here am I.
+1 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said to him, My son: and he said to him, Behold, here am I.
 
 2 And he said, Behold now, I am old, I know not the day of my death:
 
@@ -1538,7 +1538,7 @@
 
 14 And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved.
 
-15 And Rebekah took goodly clothing of her eld son Esau, which were with her in the house, and put them upon Jacob her younger son:
+15 And Rebekah took goodly clothing of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:
 
 16 And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:
 
@@ -1630,7 +1630,7 @@
 
 13 And, behold, the Lord stood above it, and said, I am the Lord God of Abraham your father, and the God of Isaac: the land whereon you li, to you will I give it, and to your seed;
 
-14 And your seed will be as the dust of the earth, and you will spread abroad to the w, and to the east, and to the north, and to the south: and in you and in your seed will all the families of the earth be blessed.
+14 And your seed will be as the dust of the earth, and you will spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed will all the families of the earth be blessed.
 
 15 And, behold, I am with you, and will keep you in all places where you go, and will bring you again into this land; for I will not leave you, until I have done that which I have spoken to you of.
 
@@ -1748,7 +1748,7 @@
 
 13 And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
 
-14 And Reuben went in the days of wheat harv, and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, Give me, I pray you, of your son's mandrakes.
+14 And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, Give me, I pray you, of your son's mandrakes.
 
 15 And she said to her, Is it a small matter that you have taken my husband? and would you take away my son's mandrakes also? And Rachel said, Therefore he will lie with you to night for your son's mandrakes.
 
@@ -1792,7 +1792,7 @@
 
 35 And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, and every one that had some white in it, and all the brown among the sheep, and gave them into the hand of his sons.
 
-36 And he set three days' journey between himself and Jacob: and Jacob fed the r of Laban's flocks.
+36 And he set three days' journey between himself and Jacob: and Jacob fed the rest of Laban's flocks.
 
 37 And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which was in the rods.
 
@@ -2562,7 +2562,7 @@
 
 44 And Pharaoh said to Joseph, I am Pharaoh, and without you will no man lift up his hand or foot in all the land of Egypt.
 
-45 And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah pri of On. And Joseph went out over all the land of Egypt.
+45 And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt.
 
 46 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
 
@@ -2572,7 +2572,7 @@
 
 49 And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
 
-50 And to Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah pri of On bare to him.
+50 And to Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare to him.
 
 51 And Joseph called the name of the firstborn Manasseh: For God, said he, has made me forget all my toil, and all my father's house.
 
@@ -2614,11 +2614,11 @@
 
 12 And he said to them, Nay, but to see the nakedness of the land you are come.
 
-13 And they said, your servants are twelve brothers, the sons of one man in the land of Canaan; and, behold, the young is this day with our father, and one is not.
+13 And they said, your servants are twelve brothers, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.
 
 14 And Joseph said to them, That is it that I spake to you, saying, you are spies:
 
-15 Hereby you will be proved: By the life of Pharaoh you will not go forth hence, except your young brother come here.
+15 Hereby you will be proved: By the life of Pharaoh you will not go forth hence, except your youngest brother come here.
 
 16 Send one of you, and let him fetch your brother, and you will be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely you are spies.
 
@@ -2628,7 +2628,7 @@
 
 19 If you be true men, let one of your brothers be bound in the house of your prison: go you, carry corn for the famine of your houses:
 
-20 But bring your young brother to me; so will your words be verified, and you will not die. And they did so.
+20 But bring your youngest brother to me; so will your words be verified, and you will not die. And they did so.
 
 21 And they said one to another, We are truly guilty concerning our brother, in that we saw the anguish of his soul, when he urged us, and we would not hear; therefore is this distress come upon us.
 
@@ -2652,11 +2652,11 @@
 
 31 And we said to him, We are true men; we are no spies:
 
-32 We be twelve brothers, sons of our father; one is not, and the young is this day with our father in the land of Canaan.
+32 We be twelve brothers, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.
 
 33 And the man, the lord of the country, said to us, Hereby will I know that you are true men; leave one of your brothers here with me, and take food for the famine of your households, and be gone:
 
-34 And bring your young brother to me: then will I know that you are no spies, but that you are true men: so will I deliver you your brother, and you will traffick in the land.
+34 And bring your youngest brother to me: then will I know that you are no spies, but that you are true men: so will I deliver you your brother, and you will traffick in the land.
 
 35 And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.
 
@@ -2672,7 +2672,7 @@
 
 2 And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said to them, Go again, buy us a little food.
 
-3 And Judah spake to him, saying, The man did solemnly prot to us, saying, you will not see my face, except your brother be with you.
+3 And Judah spake to him, saying, The man did solemnly protest to us, saying, you will not see my face, except your brother be with you.
 
 4 If you will send our brother with us, we will go down and buy you food:
 
@@ -2688,7 +2688,7 @@
 
 10 For except we had lingered, surely now we had returned this second time.
 
-11 And their father Israel said to them, If it must be so now, do this; take of the b fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
+11 And their father Israel said to them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
 
 12 And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; perhaps it was an oversight:
 
@@ -2732,7 +2732,7 @@
 
 32 And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination to the Egyptians.
 
-33 And they sat before him, the firstborn according to his birthright, and the young according to his youth: and the men marvelled one at another.
+33 And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.
 
 34 And he took and sent messes to them from before him: but Benjamin's mess was five times so much as any of their's. And they drank, and were merry with him.
 
@@ -2740,7 +2740,7 @@
 
 1 And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.
 
-2 And put my cup, the silver cup, in the sack's mouth of the young, and his corn money. And he did according to the word that Joseph had spoken.
+2 And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
 
 3 As soon as the morning was light, the men were sent away, they and their asses.
 
@@ -2760,7 +2760,7 @@
 
 11 Then they speedily took down every man his sack to the ground, and opened every man his sack.
 
-12 And he searched, and began at the eld, and left at the young: and the cup was found in Benjamin's sack.
+12 And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin's sack.
 
 13 Then they rent their clothes, and laded every man his ass, and returned to the city.
 
@@ -2782,13 +2782,13 @@
 
 22 And we said to my lord, The lad cannot leave his father: for if he should leave his father, his father would die.
 
-23 And you saidst to your servants, Except your young brother come down with you, you will see my face no more.
+23 And you saidst to your servants, Except your youngest brother come down with you, you will see my face no more.
 
 24 And it came to pass when we came up to your servant my father, we told him the words of my lord.
 
 25 And our father said, Go again, and buy us a little food.
 
-26 And we said, We cannot go down: if our young brother be with us, then will we go down: for we may not see the man's face, except our young brother be with us.
+26 And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man's face, except our youngest brother be with us.
 
 27 And your servant my father said to us, you know that my wife bare me two sons:
 
@@ -2818,7 +2818,7 @@
 
 5 Now therefore be not grieved, nor angry with yourselves, that you sold me here: for God did send me before you to preserve life.
 
-6 For these two years has the famine been in the land: and yet there are five years, in the which there will neither be earing nor harv.
+6 For these two years has the famine been in the land: and yet there are five years, in the which there will neither be earing nor harvest.
 
 7 And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 
@@ -2904,7 +2904,7 @@
 
 19 The sons of Rachel Jacob's wife; Joseph, and Benjamin.
 
-20 And to Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah pri of On bare to him.
+20 And to Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare to him.
 
 21 And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 
@@ -2946,7 +2946,7 @@
 
 5 And Pharaoh spake to Joseph, saying, your father and your brothers are come to you:
 
-6 The land of Egypt is before you; in the b of the land make your father and brothers to dwell; in the land of Goshen let them dwell: and if you know any men of activity among them, then make them rulers over my cattle.
+6 The land of Egypt is before you; in the best of the land make your father and brothers to dwell; in the land of Goshen let them dwell: and if you know any men of activity among them, then make them rulers over my cattle.
 
 7 And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
 
@@ -2956,7 +2956,7 @@
 
 10 And Jacob blessed Pharaoh, and went out from before Pharaoh.
 
-11 And Joseph placed his father and his brothers, and gave them a possession in the land of Egypt, in the b of the land, in the land of Rameses, as Pharaoh had commanded.
+11 And Joseph placed his father and his brothers, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
 12 And Joseph nourished his father, and his brothers, and all his father's household, with bread, according to their families.
 
@@ -3074,7 +3074,7 @@
 
 14 Issachar is a strong ass couching down between two burdens:
 
-15 And he saw that r was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant to tribute.
+15 And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant to tribute.
 
 16 Dan will judge his people, as one of the tribes of Israel.
 

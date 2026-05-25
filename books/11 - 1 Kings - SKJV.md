@@ -14,9 +14,9 @@
 
 6 And his father had not displeased him at any time in saying, Why have you done so? and he also was a very goodly man; and his mother bare him after Absalom.
 
-7 And he conferred with Joab the son of Zeruiah, and with Abiathar the pri: and they following Adonijah helped him.
+7 And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
 
-8 But Zadok the pri, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
+8 But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 
 9 And Adonijah slew sheep and oxen and fat cattle by the stone of Zohels, which is by Enrogel, and called all his brothers the king's sons, and all the men of Judah the king's servants:
 
@@ -38,7 +38,7 @@
 
 18 And now, behold, Adonijah reigns; and now, my lord the king, you know it not:
 
-19 And he has slain oxen and fat cattle and sheep in abundance, and has called all the sons of the king, and Abiathar the pri, and Joab the captain of the host: but Solomon your servant has he not called.
+19 And he has slain oxen and fat cattle and sheep in abundance, and has called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon your servant has he not called.
 
 20 And you, my lord, O king, the eyes of all Israel are upon you, that you should tell them who will sit on the throne of my lord the king after him.
 
@@ -50,9 +50,9 @@
 
 24 And Nathan said, My lord, O king, have you said, Adonijah will reign after me, and he will sit upon my throne?
 
-25 For he is gone down this day, and has slain oxen and fat cattle and sheep in abundance, and has called all the king's sons, and the captains of the host, and Abiathar the pri; and, behold, they eat and drink before him, and say, God save king Adonijah.
+25 For he is gone down this day, and has slain oxen and fat cattle and sheep in abundance, and has called all the king's sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
 
-26 But me, even me your servant, and Zadok the pri, and Benaiah the son of Jehoiada, and your servant Solomon, has he not called.
+26 But me, even me your servant, and Zadok the priest, and Benaiah the son of Jehoiada, and your servant Solomon, has he not called.
 
 27 Is this thing done by my lord the king, and you have not shewed it to your servant, who should sit on the throne of my lord the king after him?
 
@@ -64,11 +64,11 @@
 
 31 Then Bathsheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.
 
-32 And king David said, Call me Zadok the pri, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
+32 And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
 
 33 The king also said to them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:
 
-34 And let Zadok the pri and Nathan the prophet anoint him there king over Israel: and blow you with the trumpet, and say, God save king Solomon.
+34 And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow you with the trumpet, and say, God save king Solomon.
 
 35 Then you will come up after him, that he may come and sit upon my throne; for he will be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
 
@@ -76,21 +76,21 @@
 
 37 As the Lord has been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.
 
-38 So Zadok the pri, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David's mule, and brought him to Gihon.
+38 So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David's mule, and brought him to Gihon.
 
-39 And Zadok the pri took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.
+39 And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.
 
 40 And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.
 
 41 And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, therefore is this noise of the city being in an uproar?
 
-42 And while he yet spake, behold, Jonathan the son of Abiathar the pri came; and Adonijah said to him, Come in; for you are a valiant man, and bring good tidings.
+42 And while he yet spake, behold, Jonathan the son of Abiathar the priest came; and Adonijah said to him, Come in; for you are a valiant man, and bring good tidings.
 
 43 And Jonathan answered and said to Adonijah, Truly our lord king David has made Solomon king.
 
-44 And the king has sent with him Zadok the pri, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king's mule:
+44 And the king has sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king's mule:
 
-45 And Zadok the pri and Nathan the prophet have anointed him king in Gihon: and they are come up from from there rejoicing, so that the city rang again. This is the noise that you have heard.
+45 And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from from there rejoicing, so that the city rang again. This is the noise that you have heard.
 
 46 And also Solomon sitts on the throne of the kingdom.
 
@@ -152,7 +152,7 @@
 
 21 And she said, Let Abishag the Shunammite be given to Adonijah your brother to wife.
 
-22 And king Solomon answered and said to his mother, And why do you ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the pri, and for Joab the son of Zeruiah.
+22 And king Solomon answered and said to his mother, And why do you ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah.
 
 23 Then king Solomon sware by the Lord, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life.
 
@@ -160,9 +160,9 @@
 
 25 And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died.
 
-26 And to Abiathar the pri said the king, Get you to Anathoth, to your own fields; for you are worthy of death: but I will not at this time put you to death, because you bar the ark of the Lord God before David my father, and because you have been afflicted in all in which my father was afflicted.
+26 And to Abiathar the priest said the king, Get you to Anathoth, to your own fields; for you are worthy of death: but I will not at this time put you to death, because you bar the ark of the Lord God before David my father, and because you have been afflicted in all in which my father was afflicted.
 
-27 So Solomon thrust out Abiathar from being pri to the Lord; that he might fulfil the word of the Lord, which he spake concerning the house of Eli in Shiloh.
+27 So Solomon thrust out Abiathar from being priest to the Lord; that he might fulfil the word of the Lord, which he spake concerning the house of Eli in Shiloh.
 
 28 Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled to the tabernacle of the Lord, and caught hold on the horns of the altar.
 
@@ -178,7 +178,7 @@
 
 34 So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
 
-35 And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the pri did the king put in the room of Abiathar.
+35 And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
 
 36 And the king sent and called for Shimei, and said to him, Build you an house in Jerusalem, and dwell there, and go not forth from there any where.
 
@@ -264,7 +264,7 @@
 
 1 So king Solomon was king over all Israel.
 
-2 And these were the princes which he had; Azariah the son of Zadok the pri,
+2 And these were the princes which he had; Azariah the son of Zadok the priest,
 
 3 Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 
@@ -338,7 +338,7 @@
 
 3 you know how that David my father could not build an house to the name of the Lord his God for the wars which were about him on every side, until the Lord put them under the soles of his feet.
 
-4 But now the Lord my God has given me r on every side, so that there is neither adversary nor evil occurrent.
+4 But now the Lord my God has given me rest on every side, so that there is neither adversary nor evil occurrent.
 
 5 And, behold, I purpose to build an house to the name of the Lord my God, as the Lord spake to David my father, saying, your son, whom I will set upon your throne in your room, he will build an house to my name.
 
@@ -450,7 +450,7 @@
 
 1 But Solomon was building his own house thirteen years, and he finished all his house.
 
-2 He built also the house of the for of Lebanon; the length of it was an hundred cubits, and the breadth of it fifty cubits, and the height of it thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
+2 He built also the house of the forest of Lebanon; the length of it was an hundred cubits, and the breadth of it fifty cubits, and the height of it thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
 
 3 And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row.
 
@@ -496,7 +496,7 @@
 
 24 And under the brim of it round about there were knops compassing it, ten in a cubit, compassing the sea round about: the knops were cast in two rows, when it was cast.
 
-25 It stood upon twelve oxen, three looking toward the north, and three looking toward the w, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
+25 It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
 
 26 And it was an hand breadth thick, and the brim of it was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.
 
@@ -662,7 +662,7 @@
 
 55 And he stood, and blessed all the congregation of Israel with a loud voice, saying,
 
-56 Blessed be the Lord, that has given r to his people Israel, according to all that he promised: there has not failed one word of all his good promise, which he promised by the hand of Moses his servant.
+56 Blessed be the Lord, that has given rest to his people Israel, according to all that he promised: there has not failed one word of all his good promise, which he promised by the hand of Moses his servant.
 
 57 The Lord our God be with us, as he was with our fathers: let him not leave us, nor forsake us:
 
@@ -776,15 +776,15 @@
 
 16 And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target.
 
-17 And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the for of Lebanon.
+17 And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.
 
-18 Moreover the king made a great throne of ivory, and overlaid it with the b gold.
+18 Moreover the king made a great throne of ivory, and overlaid it with the best gold.
 
 19 The throne had six steps, and the top of the throne was round behind: and there were stays on either side on the place of the seat, and two lions stood beside the stays.
 
 20 And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.
 
-21 And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the for of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.
+21 And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.
 
 22 For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
 
@@ -884,7 +884,7 @@
 
 40 Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, to Shishak king of Egypt, and was in Egypt until the death of Solomon.
 
-41 And the r of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?
+41 And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?
 
 42 And the time that Solomon reigned in Jerusalem over all Israel was forty years.
 
@@ -952,7 +952,7 @@
 
 30 And this thing became a sin: for the people went to worship before the one, even to Dan.
 
-31 And he made an house of high places, and made priests of the low of the people, which were not of the sons of Levi.
+31 And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.
 
 32 And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like to the feast that is in Judah, and he offered upon the altar. So did he in Bethel, sacrificing to the calves that he had made: and he placed in Bethel the priests of the high places which he had made.
 
@@ -1024,7 +1024,7 @@
 
 32 For the saying which he cried by the word of the Lord against the altar in Bethel, and against all the houses of the high places which are in the cities of Samaria, will surely come to pass.
 
-33 After this thing Jeroboam returned not from his evil way, but made again of the low of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.
+33 After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.
 
 34 And this thing became sin to the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.
 
@@ -1066,7 +1066,7 @@
 
 18 And they buried him; and all Israel mourned for him, according to the word of the Lord, which he spake by the hand of his servant Ahijah the prophet.
 
-19 And the r of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
+19 And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
 
 20 And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
 
@@ -1086,7 +1086,7 @@
 
 28 And it was so, when the king went into the house of the Lord, that the guard bare them, and brought them back into the guard chamber.
 
-29 Now the r of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
+29 Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 30 And there was war between Rehoboam and Jeroboam all their days.
 
@@ -1106,7 +1106,7 @@
 
 6 And there was war between Rehoboam and Jeroboam all the days of his life.
 
-7 Now the r of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
+7 Now the rest of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
 
 8 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 
@@ -1138,7 +1138,7 @@
 
 22 Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber of it, with what Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 
-23 The r of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
+23 The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
 
 24 And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
 
@@ -1154,7 +1154,7 @@
 
 30 Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his rebellion with what he provoked the Lord God of Israel to anger.
 
-31 Now the r of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
+31 Now the rest of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 
 32 And there was war between Asa and Baasha king of Israel all their days.
 
@@ -1172,7 +1172,7 @@
 
 4 Him that dies of Baasha in the city will the dogs eat; and him that dies of his in the fields will the fowls of the air eat.
 
-5 Now the r of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?
+5 Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?
 
 6 So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.
 
@@ -1190,7 +1190,7 @@
 
 13 For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the Lord God of Israel to anger with their vanities.
 
-14 Now the r of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
+14 Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 
 15 In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.
 
@@ -1202,7 +1202,7 @@
 
 19 For his sins which he sinned in doing evil in the sight of the Lord, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.
 
-20 Now the r of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?
+20 Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?
 
 21 Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
 
@@ -1216,7 +1216,7 @@
 
 26 For he walked in all the way of Jeroboam the son of Nebat, and in his sin with what he made Israel to sin, to provoke the Lord God of Israel to anger with their vanities.
 
-27 Now the r of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?
+27 Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?
 
 28 So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.
 
@@ -1230,7 +1230,7 @@
 
 33 And Ahab made a grove; and Ahab did more to provoke the Lord God of Israel to anger than all the kings of Israel that were before him.
 
-34 In his days did Hiel the Bethelite build Jericho: he laid the foundation of it in Abiram his firstborn, and set up the gates of it in his young son Segub, according to the word of the Lord, which he spake by Joshua the son of Nun.
+34 In his days did Hiel the Bethelite build Jericho: he laid the foundation of it in Abiram his firstborn, and set up the gates of it in his youngest son Segub, according to the word of the Lord, which he spake by Joshua the son of Nun.
 
 ## 1 Kings Chapter 17
 
@@ -1426,7 +1426,7 @@
 
 2 And he sent messengers to Ahab king of Israel into the city, and said to him, Thus says Benhadad,
 
-3 your silver and your gold is mine; your wives also and your children, even the goodli, are mine.
+3 your silver and your gold is mine; your wives also and your children, even the goodliest, are mine.
 
 4 And the king of Israel answered and said, My lord, O king, according to your saying, I am your, and all that I have.
 
@@ -1480,7 +1480,7 @@
 
 29 And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
 
-30 But the r fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Benhadad fled, and came into the city, into an inner chamber.
+30 But the rest fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Benhadad fled, and came into the city, into an inner chamber.
 
 31 And his servants said to him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray you, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: perhaps he will save your life.
 
@@ -1646,7 +1646,7 @@
 
 38 And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according to the word of the Lord which he spake.
 
-39 Now the r of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?
+39 Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?
 
 40 So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.
 
@@ -1658,7 +1658,7 @@
 
 44 And Jehoshaphat made peace with the king of Israel.
 
-45 Now the r of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?
+45 Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?
 
 46 And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.
 

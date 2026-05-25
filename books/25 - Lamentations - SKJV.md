@@ -6,7 +6,7 @@
 
 2 She weeps sore in the night, and her tears are on her cheeks: among all her lovers she has none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
 
-3 Judah is gone into captivity because of affliction, and because of great servitude: she dwells among the heathen, she finds no r: all her persecutors overtook her between the straits.
+3 Judah is gone into captivity because of affliction, and because of great servitude: she dwells among the heathen, she finds no rest: all her persecutors overtook her between the straits.
 
 4 The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.
 
@@ -58,7 +58,7 @@
 
 5 The Lord was as an enemy: he has swallowed up Israel, he has swallowed up all her palaces: he has destroyed his strong holds, and has increased in the daughter of Judah mourning and lamentation.
 
-6 And he has violently taken away his tabernacle, as if it were of a garden: he has destroyed his places of the assembly: the Lord has caused the solemn feasts and sabbaths to be forgotten in Zion, and has despised in the indignation of his anger the king and the pri.
+6 And he has violently taken away his tabernacle, as if it were of a garden: he has destroyed his places of the assembly: the Lord has caused the solemn feasts and sabbaths to be forgotten in Zion, and has despised in the indignation of his anger the king and the priest.
 
 7 The Lord has cast off his altar, he has despised his sanctuary, he has given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the Lord, as in the day of a solemn feast.
 
@@ -82,11 +82,11 @@
 
 17 The Lord has done that which he had devised; he has fulfilled his word that he had commanded in the days of old: he has thrown down, and has not pitied: and he has caused your enemy to rejoice over you, he has set up the horn of your adversaries.
 
-18 Their heart cried to the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no r; let not the apple of your eye cease.
+18 Their heart cried to the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of your eye cease.
 
 19 Arise, cry out in the night: in the beginning of the watches pour out your heart like water before the face of the Lord: lift up your hands toward him for the life of your young children, that faint for hunger in the top of every street.
 
-20 Behold, O Lord, and consider to whom you have done this. will the women eat their fruit, and children of a span long? will the pri and the prophet be slain in the sanctuary of the Lord?
+20 Behold, O Lord, and consider to whom you have done this. will the women eat their fruit, and children of a span long? will the priest and the prophet be slain in the sanctuary of the Lord?
 
 21 The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; you have slain them in the day of your anger; you have killed, and not pitied.
 
@@ -282,7 +282,7 @@
 
 4 We have drunken our water for money; our wood is sold to us.
 
-5 Our necks are under persecution: we labour, and have no r.
+5 Our necks are under persecution: we labour, and have no rest.
 
 6 We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.
 

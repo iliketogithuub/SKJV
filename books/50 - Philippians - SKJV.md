@@ -8,7 +8,7 @@
 
 3 I thank my God upon every remembrance of you,
 
-4 Always in every prayer of mine for you all making requ with joy,
+4 Always in every prayer of mine for you all making request with joy,
 
 5 For your fellowship in the gospel from the first day until now;
 
@@ -26,7 +26,7 @@
 
 12 But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the gospel;
 
-13 So that my bonds in Christ are manif in all the palace, and in all other places;
+13 So that my bonds in Christ are manifest in all the palace, and in all other places;
 
 14 And many of the brothers in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 
@@ -40,7 +40,7 @@
 
 19 For I know that this will turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
 
-20 According to my earn expectation and my hope, that in nothing I will be ashamed, but that with all boldness, as always, so now also Christ will be magnified in my body, whether it be by life, or by death.
+20 According to my earnest expectation and my hope, that in nothing I will be ashamed, but that with all boldness, as always, so now also Christ will be magnified in my body, whether it be by life, or by death.
 
 21 For to me to live is Christ, and to die is gain.
 
@@ -184,7 +184,7 @@
 
 7 And the peace of God, which passs all understanding, will keep your hearts and minds through Christ Jesus.
 
-8 Finally, brothers, whatsoever things are true, whatsoever things are hon, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+8 Finally, brothers, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 9 Those things, which you have both learned, and received, and heard, and seen in me, do: and the God of peace will be with you.
 

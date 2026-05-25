@@ -124,7 +124,7 @@
 
 12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 
-13 Every man's work will be made manif: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
+13 Every man's work will be made manifest: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
 
 14 If any man's work abide which he has built thereupon, he will receive a reward.
 
@@ -156,7 +156,7 @@
 
 4 For I know nothing by myself; yet am I not hereby justified: but he that judges me is the Lord.
 
-5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manif the counsels of the hearts: and then will every man have praise of God.
+5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then will every man have praise of God.
 
 6 And these things, brothers, I have in a figure transferred to myself and to Apollos for your sakes; that you might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 
@@ -222,7 +222,7 @@
 
 1 Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 
-2 Do you not know that the saints will judge the world? and if the world will be judged by you, are you unworthy to judge the small matters?
+2 Do you not know that the saints will judge the world? and if the world will be judged by you, are you unworthy to judge the smallest matters?
 
 3 Know you not that we will judge angels? how much more things that pertain to this life?
 
@@ -284,7 +284,7 @@
 
 11 But and if she depart, let her remain unmarried or be reconciled to her husband: and let not the husband put away his wife.
 
-12 But to the r speak I, not the Lord: If any brother has a wife that believes not, and she be pleased to dwell with him, let him not put her away.
+12 But to the rest speak I, not the Lord: If any brother has a wife that believes not, and she be pleased to dwell with him, let him not put her away.
 
 13 And the woman which has an husband that believes not, and if he be pleased to dwell with her, let her not leave him.
 
@@ -532,7 +532,7 @@
 
 18 For first of all, when you come together in the church, I hear that there be divisions among you; and I partly believe it.
 
-19 For there must be also heresies among you, that they which are approved may be made manif among you.
+19 For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 20 When you come together therefore into one place, this is not to eat the Lord's supper.
 
@@ -562,7 +562,7 @@
 
 33 therefore, my brothers, when you come together to eat, tarry one for another.
 
-34 And if any man hunger, let him eat at home; that you come not together to judgment. And the r will I set in order when I come.
+34 And if any man hunger, let him eat at home; that you come not together to judgment. And the rest will I set in order when I come.
 
 ## 1 Corinthians Chapter 12
 
@@ -626,7 +626,7 @@
 
 30 Have all the gifts of healing? do all speak with tongues? do all interpret?
 
-31 But covet earnestly the b gifts: and yet shew I to you a more excellent way.
+31 But covet earnestly the best gifts: and yet shew I to you a more excellent way.
 
 ## 1 Corinthians Chapter 13
 
@@ -654,7 +654,7 @@
 
 12 For now we see through a glass, darkly; but then face to face: now I know in part; but then will I know even as also I am known.
 
-13 And now abides faith, hope, love, these three; but the great of these is love.
+13 And now abides faith, hope, love, these three; but the greatest of these is love.
 
 ## 1 Corinthians Chapter 14
 
@@ -706,7 +706,7 @@
 
 24 But if all prophesy, and there come in one that believes not, or one unlearned, he is convinced of all, he is judged of all:
 
-25 And thus are the secrets of his heart made manif; and so falling down on his face he will worship God, and report that God is in you of a truth.
+25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
 
 26 How is it then, brothers? when you come together, every one of you has a psalm, has a doctrine, has a tongue, has a revelation, has an interpretation. Let all things be done to edifying.
 
@@ -792,7 +792,7 @@
 
 26 The last enemy that will be destroyed is death.
 
-27 For he has put all things under his feet. But when he says all things are put under him, it is manif that he is excepted, which did put all things under him.
+27 For he has put all things under his feet. But when he says all things are put under him, it is manifest that he is excepted, which did put all things under him.
 
 28 And when all things will be subdued to him, then will the Son also himself be subject to him that put all things under him, that God may be all in all.
 
@@ -800,7 +800,7 @@
 
 30 And why stand we in jeopardy every hour?
 
-31 I prot by your rejoicing which I have in Christ Jesus our Lord, I die daily.
+31 I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
 
 32 If after the manner of men I have fought with beasts at Ephesus, what advantags it me, if the dead rise not? let us eat and drink; for to morrow we die.
 

@@ -14,33 +14,33 @@
 
 6 And he will flay the burnt offering, and cut it into his pieces.
 
-7 And the sons of Aaron the pri will put fire upon the altar, and lay the wood in order upon the fire:
+7 And the sons of Aaron the priest will put fire upon the altar, and lay the wood in order upon the fire:
 
 8 And the priests, Aaron's sons, will lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:
 
-9 But his inwards and his legs will he wash in water: and the pri will burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
+9 But his inwards and his legs will he wash in water: and the priest will burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
 
 10 And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he will bring it a male without blemish.
 
 11 And he will kill it on the side of the altar northward before the Lord: and the priests, Aaron's sons, will sprinkle his blood round about upon the altar.
 
-12 And he will cut it into his pieces, with his head and his fat: and the pri will lay them in order on the wood that is on the fire which is upon the altar:
+12 And he will cut it into his pieces, with his head and his fat: and the priest will lay them in order on the wood that is on the fire which is upon the altar:
 
-13 But he will wash the inwards and the legs with water: and the pri will bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
+13 But he will wash the inwards and the legs with water: and the priest will bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
 
 14 And if the burnt sacrifice for his offering to the Lord be of fowls, then he will bring his offering of turtledoves, or of young pigeons.
 
-15 And the pri will bring it to the altar, and wring off his head, and burn it on the altar; and the blood of it will be wrung out at the side of the altar:
+15 And the priest will bring it to the altar, and wring off his head, and burn it on the altar; and the blood of it will be wrung out at the side of the altar:
 
 16 And he will pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
 
-17 And he will cleave it with the wings of it, but will not divide it apart: and the pri will burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
+17 And he will cleave it with the wings of it, but will not divide it apart: and the priest will burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour to the Lord.
 
 ## Leviticus Chapter 2
 
 1 And when any will offer a meat offering to the Lord, his offering will be of fine flour; and he will pour oil upon it, and put frankincense thereon:
 
-2 And he will bring it to Aaron's sons the priests: and he will take thereout his handful of the flour of it, and of the oil of it, with all the frankincense of it; and the pri will burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour to the Lord:
+2 And he will bring it to Aaron's sons the priests: and he will take thereout his handful of the flour of it, and of the oil of it, with all the frankincense of it; and the priest will burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour to the Lord:
 
 3 And the remnant of the meat offering will be Aaron's and his sons': it is a thing most holy of the offerings of the Lord made by fire.
 
@@ -52,9 +52,9 @@
 
 7 And if your oblation be a meat offering baken in the fryingpan, it will be made of fine flour with oil.
 
-8 And you will bring the meat offering that is made of these things to the Lord: and when it is presented to the pri, he will bring it to the altar.
+8 And you will bring the meat offering that is made of these things to the Lord: and when it is presented to the priest, he will bring it to the altar.
 
-9 And the pri will take from the meat offering a memorial of it, and will burn it upon the altar: it is an offering made by fire, of a sweet savour to the Lord.
+9 And the priest will take from the meat offering a memorial of it, and will burn it upon the altar: it is an offering made by fire, of a sweet savour to the Lord.
 
 10 And that which is left of the meat offering will be Aaron's and his sons': it is a thing most holy of the offerings of the Lord made by fire.
 
@@ -68,7 +68,7 @@
 
 15 And you will put oil upon it, and lay frankincense thereon: it is a meat offering.
 
-16 And the pri will burn the memorial of it, part of the beaten corn of it, and part of the oil of it, with all the frankincense of it: it is an offering made by fire to the Lord.
+16 And the priest will burn the memorial of it, part of the beaten corn of it, and part of the oil of it, with all the frankincense of it: it is an offering made by fire to the Lord.
 
 ## Leviticus Chapter 3
 
@@ -92,7 +92,7 @@
 
 10 And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it will he take away.
 
-11 And the pri will burn it upon the altar: it is the food of the offering made by fire to the Lord.
+11 And the priest will burn it upon the altar: it is the food of the offering made by fire to the Lord.
 
 12 And if his offering be a goat, then he will offer it before the Lord.
 
@@ -102,7 +102,7 @@
 
 15 And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it will he take away.
 
-16 And the pri will burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the Lord's.
+16 And the priest will burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the Lord's.
 
 17 It will be a perpetual statute for your generations throughout all your dwellings, that you eat neither fat nor blood.
 
@@ -112,21 +112,21 @@
 
 2 Speak to the children of Israel, saying, If a soul will sin through ignorance against any of the commandments of the Lord concerning things which ought not to be done, and will do against any of them:
 
-3 If the pri that is anointed do sin according to the sin of the people; then let him bring for his sin, which he has sinned, a young bullock without blemish to the Lord for a sin offering.
+3 If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he has sinned, a young bullock without blemish to the Lord for a sin offering.
 
 4 And he will bring the bullock to the door of the tabernacle of the congregation before the Lord; and will lay his hand upon the bullock's head, and kill the bullock before the Lord.
 
-5 And the pri that is anointed will take of the bullock's blood, and bring it to the tabernacle of the congregation:
+5 And the priest that is anointed will take of the bullock's blood, and bring it to the tabernacle of the congregation:
 
-6 And the pri will dip his finger in the blood, and sprinkle of the blood seven times before the Lord, before the vail of the sanctuary.
+6 And the priest will dip his finger in the blood, and sprinkle of the blood seven times before the Lord, before the vail of the sanctuary.
 
-7 And the pri will put some of the blood upon the horns of the altar of sweet incense before the Lord, which is in the tabernacle of the congregation; and will pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
+7 And the priest will put some of the blood upon the horns of the altar of sweet incense before the Lord, which is in the tabernacle of the congregation; and will pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
 
 8 And he will take off from it all the fat of the bullock for the sin offering; the fat that covers the inwards, and all the fat that is upon the inwards,
 
 9 And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it will he take away,
 
-10 As it was taken off from the bullock of the sacrifice of peace offerings: and the pri will burn them upon the altar of the burnt offering.
+10 As it was taken off from the bullock of the sacrifice of peace offerings: and the priest will burn them upon the altar of the burnt offering.
 
 11 And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,
 
@@ -138,15 +138,15 @@
 
 15 And the elders of the congregation will lay their hands upon the head of the bullock before the Lord: and the bullock will be killed before the Lord.
 
-16 And the pri that is anointed will bring of the bullock's blood to the tabernacle of the congregation:
+16 And the priest that is anointed will bring of the bullock's blood to the tabernacle of the congregation:
 
-17 And the pri will dip his finger in some of the blood, and sprinkle it seven times before the Lord, even before the vail.
+17 And the priest will dip his finger in some of the blood, and sprinkle it seven times before the Lord, even before the vail.
 
 18 And he will put some of the blood upon the horns of the altar which is before the Lord, that is in the tabernacle of the congregation, and will pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
 
 19 And he will take all his fat from him, and burn it upon the altar.
 
-20 And he will do with the bullock as he did with the bullock for a sin offering, so will he do with this: and the pri will make an atonement for them, and it will be forgiven them.
+20 And he will do with the bullock as he did with the bullock for a sin offering, so will he do with this: and the priest will make an atonement for them, and it will be forgiven them.
 
 21 And he will carry forth the bullock without the camp, and burn him as he burned the first bullock: it is a sin offering for the congregation.
 
@@ -156,9 +156,9 @@
 
 24 And he will lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the Lord: it is a sin offering.
 
-25 And the pri will take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and will pour out his blood at the bottom of the altar of burnt offering.
+25 And the priest will take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and will pour out his blood at the bottom of the altar of burnt offering.
 
-26 And he will burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the pri will make an atonement for him as concerning his sin, and it will be forgiven him.
+26 And he will burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest will make an atonement for him as concerning his sin, and it will be forgiven him.
 
 27 And if any one of the common people sin through ignorance, while he does somewhat against any of the commandments of the Lord concerning things which ought not to be done, and be guilty;
 
@@ -166,17 +166,17 @@
 
 29 And he will lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.
 
-30 And the pri will take of the blood of it with his finger, and put it upon the horns of the altar of burnt offering, and will pour out all the blood of it at the bottom of the altar.
+30 And the priest will take of the blood of it with his finger, and put it upon the horns of the altar of burnt offering, and will pour out all the blood of it at the bottom of the altar.
 
-31 And he will take away all the fat of it, as the fat is taken away from off the sacrifice of peace offerings; and the pri will burn it upon the altar for a sweet savour to the Lord; and the pri will make an atonement for him, and it will be forgiven him.
+31 And he will take away all the fat of it, as the fat is taken away from off the sacrifice of peace offerings; and the priest will burn it upon the altar for a sweet savour to the Lord; and the priest will make an atonement for him, and it will be forgiven him.
 
 32 And if he bring a lamb for a sin offering, he will bring it a female without blemish.
 
 33 And he will lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.
 
-34 And the pri will take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and will pour out all the blood of it at the bottom of the altar:
+34 And the priest will take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and will pour out all the blood of it at the bottom of the altar:
 
-35 And he will take away all the fat of it, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the pri will burn them upon the altar, according to the offerings made by fire to the Lord: and the pri will make an atonement for his sin that he has committed, and it will be forgiven him.
+35 And he will take away all the fat of it, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest will burn them upon the altar, according to the offerings made by fire to the Lord: and the priest will make an atonement for his sin that he has committed, and it will be forgiven him.
 
 ## Leviticus Chapter 5
 
@@ -190,31 +190,31 @@
 
 5 And it will be, when he will be guilty in one of these things, that he will confess that he has sinned in that thing:
 
-6 And he will bring his trespass offering to the Lord for his sin which he has sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the pri will make an atonement for him concerning his sin.
+6 And he will bring his trespass offering to the Lord for his sin which he has sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest will make an atonement for him concerning his sin.
 
 7 And if he be not able to bring a lamb, then he will bring for his trespass, which he has committed, two turtledoves, or two young pigeons, to the Lord; one for a sin offering, and the other for a burnt offering.
 
-8 And he will bring them to the pri, who will offer that which is for the sin offering first, and wring off his head from his neck, but will not divide it apart:
+8 And he will bring them to the priest, who will offer that which is for the sin offering first, and wring off his head from his neck, but will not divide it apart:
 
-9 And he will sprinkle of the blood of the sin offering upon the side of the altar; and the r of the blood will be wrung out at the bottom of the altar: it is a sin offering.
+9 And he will sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood will be wrung out at the bottom of the altar: it is a sin offering.
 
-10 And he will offer the second for a burnt offering, according to the manner: and the pri will make an atonement for him for his sin which he has sinned, and it will be forgiven him.
+10 And he will offer the second for a burnt offering, according to the manner: and the priest will make an atonement for him for his sin which he has sinned, and it will be forgiven him.
 
 11 But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned will bring for his offering the tenth part of an ephah of fine flour for a sin offering; he will put no oil upon it, neither will he put any frankincense thereon: for it is a sin offering.
 
-12 Then will he bring it to the pri, and the pri will take his handful of it, even a memorial of it, and burn it on the altar, according to the offerings made by fire to the Lord: it is a sin offering.
+12 Then will he bring it to the priest, and the priest will take his handful of it, even a memorial of it, and burn it on the altar, according to the offerings made by fire to the Lord: it is a sin offering.
 
-13 And the pri will make an atonement for him as touching his sin that he has sinned in one of these, and it will be forgiven him: and the remnant will be the pri's, as a meat offering.
+13 And the priest will make an atonement for him as touching his sin that he has sinned in one of these, and it will be forgiven him: and the remnant will be the priest's, as a meat offering.
 
 14 And the Lord spake to Moses, saying,
 
 15 If a soul commit a trespass, and sin through ignorance, in the holy things of the Lord; then he will bring for his trespass to the Lord a ram without blemish out of the flocks, with your estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.
 
-16 And he will make amends for the harm that he has done in the holy thing, and will add the fifth part to it, and give it to the pri: and the pri will make an atonement for him with the ram of the trespass offering, and it will be forgiven him.
+16 And he will make amends for the harm that he has done in the holy thing, and will add the fifth part to it, and give it to the priest: and the priest will make an atonement for him with the ram of the trespass offering, and it will be forgiven him.
 
 17 And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he knew it not, yet is he guilty, and will bear his iniquity.
 
-18 And he will bring a ram without blemish out of the flock, with your estimation, for a trespass offering, to the pri: and the pri will make an atonement for him concerning his ignorance in which he erred and knew it not, and it will be forgiven him.
+18 And he will bring a ram without blemish out of the flock, with your estimation, for a trespass offering, to the priest: and the priest will make an atonement for him concerning his ignorance in which he erred and knew it not, and it will be forgiven him.
 
 19 It is a trespass offering: he has certainly trespassed against the Lord.
 
@@ -230,19 +230,19 @@
 
 5 Or all that about which he has sworn falsely; he will even restore it in the principal, and will add the fifth part more to it, and give it to him to whom it appertains, in the day of his trespass offering.
 
-6 And he will bring his trespass offering to the Lord, a ram without blemish out of the flock, with your estimation, for a trespass offering, to the pri:
+6 And he will bring his trespass offering to the Lord, a ram without blemish out of the flock, with your estimation, for a trespass offering, to the priest:
 
-7 And the pri will make an atonement for him before the Lord: and it will be forgiven him for any thing of all that he has done in trespassing in it.
+7 And the priest will make an atonement for him before the Lord: and it will be forgiven him for any thing of all that he has done in trespassing in it.
 
 8 And the Lord spake to Moses, saying,
 
 9 Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night to the morning, and the fire of the altar will be burning in it.
 
-10 And the pri will put on his linen garment, and his linen breeches will he put upon his flesh, and take up the ashes which the fire has consumed with the burnt offering on the altar, and he will put them beside the altar.
+10 And the priest will put on his linen garment, and his linen breeches will he put upon his flesh, and take up the ashes which the fire has consumed with the burnt offering on the altar, and he will put them beside the altar.
 
 11 And he will put off his garments, and put on other garments, and carry forth the ashes without the camp to a clean place.
 
-12 And the fire upon the altar will be burning in it; it will not be put out: and the pri will burn wood on it every morning, and lay the burnt offering in order upon it; and he will burn thereon the fat of the peace offerings.
+12 And the fire upon the altar will be burning in it; it will not be put out: and the priest will burn wood on it every morning, and lay the burnt offering in order upon it; and he will burn thereon the fat of the peace offerings.
 
 13 The fire will ever be burning upon the altar; it will never go out.
 
@@ -262,15 +262,15 @@
 
 21 In a pan it will be made with oil; and when it is baken, you will bring it in: and the baken pieces of the meat offering will you offer for a sweet savour to the Lord.
 
-22 And the pri of his sons that is anointed in his stead will offer it: it is a statute for ever to the Lord; it will be wholly burnt.
+22 And the priest of his sons that is anointed in his stead will offer it: it is a statute for ever to the Lord; it will be wholly burnt.
 
-23 For every meat offering for the pri will be wholly burnt: it will not be eaten.
+23 For every meat offering for the priest will be wholly burnt: it will not be eaten.
 
 24 And the Lord spake to Moses, saying,
 
 25 Speak to Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed will the sin offering be killed before the Lord: it is most holy.
 
-26 The pri that offers it for sin will eat it: in the holy place will it be eaten, in the court of the tabernacle of the congregation.
+26 The priest that offers it for sin will eat it: in the holy place will it be eaten, in the court of the tabernacle of the congregation.
 
 27 Whatsoever will touch the flesh of it will be holy: and when there is sprinkled of the blood of it upon any garment, you will wash that whereon it was sprinkled in the holy place.
 
@@ -290,15 +290,15 @@
 
 4 And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it will he take away:
 
-5 And the pri will burn them upon the altar for an offering made by fire to the Lord: it is a trespass offering.
+5 And the priest will burn them upon the altar for an offering made by fire to the Lord: it is a trespass offering.
 
 6 Every male among the priests will eat of it: it will be eaten in the holy place: it is most holy.
 
-7 As the sin offering is, so is the trespass offering: there is one law for them: the pri that makes atonement with it will have it.
+7 As the sin offering is, so is the trespass offering: there is one law for them: the priest that makes atonement with it will have it.
 
-8 And the pri that offers any man's burnt offering, even the pri will have to himself the skin of the burnt offering which he has offered.
+8 And the priest that offers any man's burnt offering, even the priest will have to himself the skin of the burnt offering which he has offered.
 
-9 And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, will be the pri's that offers it.
+9 And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, will be the priest's that offers it.
 
 10 And every meat offering, mingled with oil, and dry, will all the sons of Aaron have, one as much as another.
 
@@ -308,7 +308,7 @@
 
 13 Besides the cakes, he will offer for his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.
 
-14 And of it he will offer one out of the whole oblation for an heave offering to the Lord, and it will be the pri's that sprinkls the blood of the peace offerings.
+14 And of it he will offer one out of the whole oblation for an heave offering to the Lord, and it will be the priest's that sprinkls the blood of the peace offerings.
 
 15 And the flesh of the sacrifice of his peace offerings for thanksgiving will be eaten the same day that it is offered; he will not leave any of it until the morning.
 
@@ -342,15 +342,15 @@
 
 30 His own hands will bring the offerings of the Lord made by fire, the fat with the breast, it will he bring, that the breast may be waved for a wave offering before the Lord.
 
-31 And the pri will burn the fat upon the altar: but the breast will be Aaron's and his sons'.
+31 And the priest will burn the fat upon the altar: but the breast will be Aaron's and his sons'.
 
-32 And the right shoulder will you give to the pri for an heave offering of the sacrifices of your peace offerings.
+32 And the right shoulder will you give to the priest for an heave offering of the sacrifices of your peace offerings.
 
 33 He among the sons of Aaron, that offers the blood of the peace offerings, and the fat, will have the right shoulder for his part.
 
-34 For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them to Aaron the pri and to his sons by a statute for ever from among the children of Israel.
+34 For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons by a statute for ever from among the children of Israel.
 
-35 This is the portion of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the pri's office;
+35 This is the portion of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
 
 36 Which the Lord commanded to be given them of the children of Israel, in the day that he anointed them, by a statute for ever throughout their generations.
 
@@ -632,91 +632,91 @@
 
 5 But if she bear a maid child, then she will be unclean two weeks, as in her separation: and she will continue in the blood of her purifying threescore and six days.
 
-6 And when the days of her purifying are fulfilled, for a son, or for a daughter, she will bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, to the door of the tabernacle of the congregation, to the pri:
+6 And when the days of her purifying are fulfilled, for a son, or for a daughter, she will bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, to the door of the tabernacle of the congregation, to the priest:
 
 7 Who will offer it before the Lord, and make an atonement for her; and she will be cleansed from the issue of her blood. This is the law for her that has born a male or a female.
 
-8 And if she be not able to bring a lamb, then she will bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the pri will make an atonement for her, and she will be clean.
+8 And if she be not able to bring a lamb, then she will bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest will make an atonement for her, and she will be clean.
 
 ## Leviticus Chapter 13
 
 1 And the Lord spake to Moses and Aaron, saying,
 
-2 When a man will have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he will be brought to Aaron the pri, or to one of his sons the priests:
+2 When a man will have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he will be brought to Aaron the priest, or to one of his sons the priests:
 
-3 And the pri will look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the pri will look on him, and pronounce him unclean.
+3 And the priest will look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest will look on him, and pronounce him unclean.
 
-4 If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair of it be not turned white; then the pri will shut up him that has the plague seven days:
+4 If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair of it be not turned white; then the priest will shut up him that has the plague seven days:
 
-5 And the pri will look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the pri will shut him up seven days more:
+5 And the priest will look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest will shut him up seven days more:
 
-6 And the pri will look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the pri will pronounce him clean: it is but a scab: and he will wash his clothes, and be clean.
+6 And the priest will look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest will pronounce him clean: it is but a scab: and he will wash his clothes, and be clean.
 
-7 But if the scab spread much abroad in the skin, after that he has been seen of the pri for his cleansing, he will be seen of the pri again.
+7 But if the scab spread much abroad in the skin, after that he has been seen of the priest for his cleansing, he will be seen of the priest again.
 
-8 And if the pri see that, behold, the scab spreads in the skin, then the pri will pronounce him unclean: it is a leprosy.
+8 And if the priest see that, behold, the scab spreads in the skin, then the priest will pronounce him unclean: it is a leprosy.
 
-9 When the plague of leprosy is in a man, then he will be brought to the pri;
+9 When the plague of leprosy is in a man, then he will be brought to the priest;
 
-10 And the pri will see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
+10 And the priest will see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
 
-11 It is an old leprosy in the skin of his flesh, and the pri will pronounce him unclean, and will not shut him up: for he is unclean.
+11 It is an old leprosy in the skin of his flesh, and the priest will pronounce him unclean, and will not shut him up: for he is unclean.
 
-12 And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that has the plague from his head even to his foot, wheresoever the pri looks;
+12 And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that has the plague from his head even to his foot, wheresoever the priest looks;
 
-13 Then the pri will consider: and, behold, if the leprosy have covered all his flesh, he will pronounce him clean that has the plague: it is all turned white: he is clean.
+13 Then the priest will consider: and, behold, if the leprosy have covered all his flesh, he will pronounce him clean that has the plague: it is all turned white: he is clean.
 
 14 But when raw flesh appears in him, he will be unclean.
 
-15 And the pri will see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.
+15 And the priest will see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.
 
-16 Or if the raw flesh turn again, and be changed to white, he will come to the pri;
+16 Or if the raw flesh turn again, and be changed to white, he will come to the priest;
 
-17 And the pri will see him: and, behold, if the plague be turned into white; then the pri will pronounce him clean that has the plague: he is clean.
+17 And the priest will see him: and, behold, if the plague be turned into white; then the priest will pronounce him clean that has the plague: he is clean.
 
 18 The flesh also, in which, even in the skin of it, was a boil, and is healed,
 
-19 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the pri;
+19 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;
 
-20 And if, when the pri sees it, behold, it be in sight lower than the skin, and the hair of it be turned white; the pri will pronounce him unclean: it is a plague of leprosy broken out of the boil.
+20 And if, when the priest sees it, behold, it be in sight lower than the skin, and the hair of it be turned white; the priest will pronounce him unclean: it is a plague of leprosy broken out of the boil.
 
-21 But if the pri look on it, and, behold, there be no white hairs in it, and if it be not lower than the skin, but be somewhat dark; then the pri will shut him up seven days:
+21 But if the priest look on it, and, behold, there be no white hairs in it, and if it be not lower than the skin, but be somewhat dark; then the priest will shut him up seven days:
 
-22 And if it spread much abroad in the skin, then the pri will pronounce him unclean: it is a plague.
+22 And if it spread much abroad in the skin, then the priest will pronounce him unclean: it is a plague.
 
-23 But if the bright spot stay in his place, and spread not, it is a burning boil; and the pri will pronounce him clean.
+23 But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest will pronounce him clean.
 
 24 Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burns have a white bright spot, somewhat reddish, or white;
 
-25 Then the pri will look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the pri will pronounce him unclean: it is the plague of leprosy.
+25 Then the priest will look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the priest will pronounce him unclean: it is the plague of leprosy.
 
-26 But if the pri look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the pri will shut him up seven days:
+26 But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest will shut him up seven days:
 
-27 And the pri will look upon him the seventh day: and if it be spread much abroad in the skin, then the pri will pronounce him unclean: it is the plague of leprosy.
+27 And the priest will look upon him the seventh day: and if it be spread much abroad in the skin, then the priest will pronounce him unclean: it is the plague of leprosy.
 
-28 And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the pri will pronounce him clean: for it is an inflammation of the burning.
+28 And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest will pronounce him clean: for it is an inflammation of the burning.
 
 29 If a man or woman have a plague upon the head or the beard;
 
-30 Then the pri will see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the pri will pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
+30 Then the priest will see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest will pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.
 
-31 And if the pri look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the pri will shut up him that has the plague of the scall seven days:
+31 And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest will shut up him that has the plague of the scall seven days:
 
-32 And in the seventh day the pri will look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;
+32 And in the seventh day the priest will look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;
 
-33 He will be shaven, but the scall will he not shave; and the pri will shut up him that has the scall seven days more:
+33 He will be shaven, but the scall will he not shave; and the priest will shut up him that has the scall seven days more:
 
-34 And in the seventh day the pri will look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the pri will pronounce him clean: and he will wash his clothes, and be clean.
+34 And in the seventh day the priest will look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest will pronounce him clean: and he will wash his clothes, and be clean.
 
 35 But if the scall spread much in the skin after his cleansing;
 
-36 Then the pri will look on him: and, behold, if the scall be spread in the skin, the pri will not seek for yellow hair; he is unclean.
+36 Then the priest will look on him: and, behold, if the scall be spread in the skin, the priest will not seek for yellow hair; he is unclean.
 
-37 But if the scall be in his sight at a stay, and that there is black hair grown up in it; the scall is healed, he is clean: and the pri will pronounce him clean.
+37 But if the scall be in his sight at a stay, and that there is black hair grown up in it; the scall is healed, he is clean: and the priest will pronounce him clean.
 
 38 If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;
 
-39 Then the pri will look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that grows in the skin; he is clean.
+39 Then the priest will look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that grows in the skin; he is clean.
 
 40 And the man whose hair is fallen off his head, he is bald; yet is he clean.
 
@@ -724,9 +724,9 @@
 
 42 And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.
 
-43 Then the pri will look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appears in the skin of the flesh;
+43 Then the priest will look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appears in the skin of the flesh;
 
-44 He is a leprous man, he is unclean: the pri will pronounce him utterly unclean; his plague is in his head.
+44 He is a leprous man, he is unclean: the priest will pronounce him utterly unclean; his plague is in his head.
 
 45 And the leper in whom the plague is, his clothes will be rent, and his head bare, and he will put a covering upon his upper lip, and will cry, Unclean, unclean.
 
@@ -736,21 +736,21 @@
 
 48 Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;
 
-49 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and will be shewed to the pri:
+49 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and will be shewed to the priest:
 
-50 And the pri will look upon the plague, and shut up it that has the plague seven days:
+50 And the priest will look upon the plague, and shut up it that has the plague seven days:
 
 51 And he will look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.
 
 52 He will therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, in which the plague is: for it is a fretting leprosy; it will be burnt in the fire.
 
-53 And if the pri will look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
+53 And if the priest will look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
 
-54 Then the pri will command that they wash the thing in which the plague is, and he will shut it up seven days more:
+54 Then the priest will command that they wash the thing in which the plague is, and he will shut it up seven days more:
 
-55 And the pri will look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; you will burn it in the fire; it is fret inward, whether it be bare within or without.
+55 And the priest will look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; you will burn it in the fire; it is fret inward, whether it be bare within or without.
 
-56 And if the pri look, and, behold, the plague be somewhat dark after the washing of it; then he will rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:
+56 And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he will rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:
 
 57 And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: you will burn that in which the plague is with fire.
 
@@ -762,13 +762,13 @@
 
 1 And the Lord spake to Moses, saying,
 
-2 This will be the law of the leper in the day of his cleansing: He will be brought to the pri:
+2 This will be the law of the leper in the day of his cleansing: He will be brought to the priest:
 
-3 And the pri will go forth out of the camp; and the pri will look, and, behold, if the plague of leprosy be healed in the leper;
+3 And the priest will go forth out of the camp; and the priest will look, and, behold, if the plague of leprosy be healed in the leper;
 
-4 Then will the pri command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
+4 Then will the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
 
-5 And the pri will command that one of the birds be killed in an earthen vessel over running water:
+5 And the priest will command that one of the birds be killed in an earthen vessel over running water:
 
 6 As for the living bird, he will take it, and the cedar wood, and the scarlet, and the hyssop, and will dip them and the living bird in the blood of the bird that was killed over the running water:
 
@@ -780,47 +780,47 @@
 
 10 And on the eighth day he will take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil.
 
-11 And the pri that makes him clean will present the man that is to be made clean, and those things, before the Lord, at the door of the tabernacle of the congregation:
+11 And the priest that makes him clean will present the man that is to be made clean, and those things, before the Lord, at the door of the tabernacle of the congregation:
 
-12 And the pri will take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the Lord:
+12 And the priest will take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the Lord:
 
-13 And he will slay the lamb in the place where he will kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the pri's, so is the trespass offering: it is most holy:
+13 And he will slay the lamb in the place where he will kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest's, so is the trespass offering: it is most holy:
 
-14 And the pri will take some of the blood of the trespass offering, and the pri will put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
+14 And the priest will take some of the blood of the trespass offering, and the priest will put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
 
-15 And the pri will take some of the log of oil, and pour it into the palm of his own left hand:
+15 And the priest will take some of the log of oil, and pour it into the palm of his own left hand:
 
-16 And the pri will dip his right finger in the oil that is in his left hand, and will sprinkle of the oil with his finger seven times before the Lord:
+16 And the priest will dip his right finger in the oil that is in his left hand, and will sprinkle of the oil with his finger seven times before the Lord:
 
-17 And of the r of the oil that is in his hand will the pri put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:
+17 And of the rest of the oil that is in his hand will the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:
 
-18 And the remnant of the oil that is in the pri's hand he will pour upon the head of him that is to be cleansed: and the pri will make an atonement for him before the Lord.
+18 And the remnant of the oil that is in the priest's hand he will pour upon the head of him that is to be cleansed: and the priest will make an atonement for him before the Lord.
 
-19 And the pri will offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he will kill the burnt offering:
+19 And the priest will offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he will kill the burnt offering:
 
-20 And the pri will offer the burnt offering and the meat offering upon the altar: and the pri will make an atonement for him, and he will be clean.
+20 And the priest will offer the burnt offering and the meat offering upon the altar: and the priest will make an atonement for him, and he will be clean.
 
 21 And if he be poor, and cannot get so much; then he will take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
 
 22 And two turtledoves, or two young pigeons, such as he is able to get; and the one will be a sin offering, and the other a burnt offering.
 
-23 And he will bring them on the eighth day for his cleansing to the pri, to the door of the tabernacle of the congregation, before the Lord.
+23 And he will bring them on the eighth day for his cleansing to the priest, to the door of the tabernacle of the congregation, before the Lord.
 
-24 And the pri will take the lamb of the trespass offering, and the log of oil, and the pri will wave them for a wave offering before the Lord:
+24 And the priest will take the lamb of the trespass offering, and the log of oil, and the priest will wave them for a wave offering before the Lord:
 
-25 And he will kill the lamb of the trespass offering, and the pri will take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
+25 And he will kill the lamb of the trespass offering, and the priest will take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
 
-26 And the pri will pour of the oil into the palm of his own left hand:
+26 And the priest will pour of the oil into the palm of his own left hand:
 
-27 And the pri will sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord:
+27 And the priest will sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord:
 
-28 And the pri will put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:
+28 And the priest will put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:
 
-29 And the r of the oil that is in the pri's hand he will put upon the head of him that is to be cleansed, to make an atonement for him before the Lord.
+29 And the rest of the oil that is in the priest's hand he will put upon the head of him that is to be cleansed, to make an atonement for him before the Lord.
 
 30 And he will offer the one of the turtledoves, or of the young pigeons, such as he can get;
 
-31 Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the pri will make an atonement for him that is to be cleansed before the Lord.
+31 Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest will make an atonement for him that is to be cleansed before the Lord.
 
 32 This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertains to his cleansing.
 
@@ -828,17 +828,17 @@
 
 34 When you be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;
 
-35 And he that owns the house will come and tell the pri, saying, It seems to me there is as it were a plague in the house:
+35 And he that owns the house will come and tell the priest, saying, It seems to me there is as it were a plague in the house:
 
-36 Then the pri will command that they empty the house, before the pri go into it to see the plague, that all that is in the house be not made unclean: and afterward the pri will go in to see the house:
+36 Then the priest will command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest will go in to see the house:
 
 37 And he will look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;
 
-38 Then the pri will go out of the house to the door of the house, and shut up the house seven days:
+38 Then the priest will go out of the house to the door of the house, and shut up the house seven days:
 
-39 And the pri will come again the seventh day, and will look: and, behold, if the plague be spread in the walls of the house;
+39 And the priest will come again the seventh day, and will look: and, behold, if the plague be spread in the walls of the house;
 
-40 Then the pri will command that they take away the stones in which the plague is, and they will cast them into an unclean place without the city:
+40 Then the priest will command that they take away the stones in which the plague is, and they will cast them into an unclean place without the city:
 
 41 And he will cause the house to be scraped within round about, and they will pour out the dust that they scrape off without the city into an unclean place:
 
@@ -846,7 +846,7 @@
 
 43 And if the plague come again, and break out in the house, after that he has taken away the stones, and after he has scraped the house, and after it is plaistered;
 
-44 Then the pri will come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house; it is unclean.
+44 Then the priest will come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house; it is unclean.
 
 45 And he will break down the house, the stones of it, and the timber of it, and all the morter of the house; and he will carry them forth out of the city into an unclean place.
 
@@ -854,7 +854,7 @@
 
 47 And he that lis in the house will wash his clothes; and he that eats in the house will wash his clothes.
 
-48 And if the pri will come in, and look upon it, and, behold, the plague has not spread in the house, after the house was plaistered: then the pri will pronounce the house clean, because the plague is healed.
+48 And if the priest will come in, and look upon it, and, behold, the plague has not spread in the house, after the house was plaistered: then the priest will pronounce the house clean, because the plague is healed.
 
 49 And he will take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
 
@@ -902,9 +902,9 @@
 
 13 And when he that has an issue is cleansed of his issue; then he will number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and will be clean.
 
-14 And on the eighth day he will take to him two turtledoves, or two young pigeons, and come before the Lord to the door of the tabernacle of the congregation, and give them to the pri:
+14 And on the eighth day he will take to him two turtledoves, or two young pigeons, and come before the Lord to the door of the tabernacle of the congregation, and give them to the priest:
 
-15 And the pri will offer them, the one for a sin offering, and the other for a burnt offering; and the pri will make an atonement for him before the Lord for his issue.
+15 And the priest will offer them, the one for a sin offering, and the other for a burnt offering; and the priest will make an atonement for him before the Lord for his issue.
 
 16 And if any man's seed of copulation go out from him, then he will wash all his flesh in water, and be unclean until the even.
 
@@ -932,9 +932,9 @@
 
 28 But if she be cleansed of her issue, then she will number to herself seven days, and after that she will be clean.
 
-29 And on the eighth day she will take to her two turtles, or two young pigeons, and bring them to the pri, to the door of the tabernacle of the congregation.
+29 And on the eighth day she will take to her two turtles, or two young pigeons, and bring them to the priest, to the door of the tabernacle of the congregation.
 
-30 And the pri will offer the one for a sin offering, and the other for a burnt offering; and the pri will make an atonement for her before the Lord for the issue of her uncleanness.
+30 And the priest will offer the one for a sin offering, and the other for a burnt offering; and the priest will make an atonement for her before the Lord for the issue of her uncleanness.
 
 31 Thus will you separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them.
 
@@ -1002,11 +1002,11 @@
 
 29 And this will be a statute for ever to you: that in the seventh month, on the tenth day of the month, you will afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourns among you:
 
-30 For on that day will the pri make an atonement for you, to cleanse you, that you may be clean from all your sins before the Lord.
+30 For on that day will the priest make an atonement for you, to cleanse you, that you may be clean from all your sins before the Lord.
 
-31 It will be a sabbath of r to you, and you will afflict your souls, by a statute for ever.
+31 It will be a sabbath of rest to you, and you will afflict your souls, by a statute for ever.
 
-32 And the pri, whom he will anoint, and whom he will consecrate to minister in the pri's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
+32 And the priest, whom he will anoint, and whom he will consecrate to minister in the priest's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
 
 33 And he will make an atonement for the holy sanctuary, and he will make an atonement for the tabernacle of the congregation, and for the altar, and he will make an atonement for the priests, and for all the people of the congregation.
 
@@ -1022,9 +1022,9 @@
 
 4 And brings it not to the door of the tabernacle of the congregation, to offer an offering to the Lord before the tabernacle of the Lord; blood will be credited to that man; he has shed blood; and that man will be cut off from among his people:
 
-5 To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them to the Lord, to the door of the tabernacle of the congregation, to the pri, and offer them for peace offerings to the Lord.
+5 To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them to the Lord, to the door of the tabernacle of the congregation, to the priest, and offer them for peace offerings to the Lord.
 
-6 And the pri will sprinkle the blood upon the altar of the Lord at the door of the tabernacle of the congregation, and burn the fat for a sweet savour to the Lord.
+6 And the priest will sprinkle the blood upon the altar of the Lord at the door of the tabernacle of the congregation, and burn the fat for a sweet savour to the Lord.
 
 7 And they will no more offer their sacrifices to devils, after whom they have gone a whoring. This will be a statute for ever to them throughout their generations.
 
@@ -1126,7 +1126,7 @@
 
 8 Therefore every one that eats it will bear his iniquity, because he has profaned the hallowed thing of the Lord: and that soul will be cut off from among his people.
 
-9 And when you reap the harv of your land, you will not wholly reap the corners of your field, neither will you gather the gleanings of your harv.
+9 And when you reap the harvest of your land, you will not wholly reap the corners of your field, neither will you gather the gleanings of your harvest.
 
 10 And you will not glean your vineyard, neither will you gather every grape of your vineyard; you will leave them for the poor and stranger: I am the Lord your God.
 
@@ -1152,7 +1152,7 @@
 
 21 And he will bring his trespass offering to the Lord, to the door of the tabernacle of the congregation, even a ram for a trespass offering.
 
-22 And the pri will make an atonement for him with the ram of the trespass offering before the Lord for his sin which he has done: and the sin which he has done will be forgiven him.
+22 And the priest will make an atonement for him with the ram of the trespass offering before the Lord for his sin which he has done: and the sin which he has done will be forgiven him.
 
 23 And when you will come into the land, and will have planted all manner of trees for food, then you will count the fruit of it as uncircumcised: three years will it be as uncircumcised to you: it will not be eaten of.
 
@@ -1258,9 +1258,9 @@
 
 8 you will sanctify him therefore; for he offers the bread of your God: he will be holy to you: for I the Lord, which sanctify you, am holy.
 
-9 And the daughter of any pri, if she profane herself by playing the whore, she profans her father: she will be burnt with fire.
+9 And the daughter of any priest, if she profane herself by playing the whore, she profans her father: she will be burnt with fire.
 
-10 And he that is the high pri among his brothers, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, will not uncover his head, nor rend his clothes;
+10 And he that is the high priest among his brothers, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, will not uncover his head, nor rend his clothes;
 
 11 Neither will he go in to any dead body, nor defile himself for his father, or for his mother;
 
@@ -1282,7 +1282,7 @@
 
 20 Or crookbackt, or a dwarf, or that has a blemish in his eye, or be scurvy, or scabbed, or has his stones broken;
 
-21 No man that has a blemish of the seed of Aaron the pri will come near to offer the offerings of the Lord made by fire: he has a blemish; he will not come near to offer the bread of his God.
+21 No man that has a blemish of the seed of Aaron the priest will come near to offer the offerings of the Lord made by fire: he has a blemish; he will not come near to offer the bread of his God.
 
 22 He will eat the bread of his God, both of the most holy, and of the holy.
 
@@ -1310,15 +1310,15 @@
 
 9 They will therefore keep mine ordinance, otherwise they bear sin for it, and die therefore, if they profane it: I the Lord do sanctify them.
 
-10 There will no stranger eat of the holy thing: a sojourner of the pri, or an hired servant, will not eat of the holy thing.
+10 There will no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, will not eat of the holy thing.
 
-11 But if the pri buy any soul with his money, he will eat of it, and he that is born in his house: they will eat of his meat.
+11 But if the priest buy any soul with his money, he will eat of it, and he that is born in his house: they will eat of his meat.
 
-12 If the pri's daughter also be married to a stranger, she may not eat of an offering of the holy things.
+12 If the priest's daughter also be married to a stranger, she may not eat of an offering of the holy things.
 
-13 But if the pri's daughter be a widow, or divorced, and have no child, and is returned to her father's house, as in her youth, she will eat of her father's meat: but there will be no stranger eat of it.
+13 But if the priest's daughter be a widow, or divorced, and have no child, and is returned to her father's house, as in her youth, she will eat of her father's meat: but there will be no stranger eat of it.
 
-14 And if a man eat of the holy thing unwittingly, then he will put the fifth part of it to it, and will give it to the pri with the holy thing.
+14 And if a man eat of the holy thing unwittingly, then he will put the fifth part of it to it, and will give it to the priest with the holy thing.
 
 15 And they will not profane the holy things of the children of Israel, which they offer to the Lord;
 
@@ -1364,7 +1364,7 @@
 
 2 Speak to the children of Israel, and say to them, Concerning the feasts of the Lord, which you will proclaim to be holy convocations, even these are my feasts.
 
-3 Six days will work be done: but the seventh day is the sabbath of r, an holy convocation; you will do no work in it: it is the sabbath of the Lord in all your dwellings.
+3 Six days will work be done: but the seventh day is the sabbath of rest, an holy convocation; you will do no work in it: it is the sabbath of the Lord in all your dwellings.
 
 4 These are the feasts of the Lord, even holy convocations, which you will proclaim in their seasons.
 
@@ -1378,9 +1378,9 @@
 
 9 And the Lord spake to Moses, saying,
 
-10 Speak to the children of Israel, and say to them, When you be come into the land which I give to you, and will reap the harv of it, then you will bring a sheaf of the firstfruits of your harv to the pri:
+10 Speak to the children of Israel, and say to them, When you be come into the land which I give to you, and will reap the harvest of it, then you will bring a sheaf of the firstfruits of your harvest to the priest:
 
-11 And he will wave the sheaf before the Lord, to be accepted for you: on the morrow after the sabbath the pri will wave it.
+11 And he will wave the sheaf before the Lord, to be accepted for you: on the morrow after the sabbath the priest will wave it.
 
 12 And you will offer that day when you wave the sheaf an he lamb without blemish of the first year for a burnt offering to the Lord.
 
@@ -1398,11 +1398,11 @@
 
 19 Then you will sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.
 
-20 And the pri will wave them with the bread of the firstfruits for a wave offering before the Lord, with the two lambs: they will be holy to the Lord for the pri.
+20 And the priest will wave them with the bread of the firstfruits for a wave offering before the Lord, with the two lambs: they will be holy to the Lord for the priest.
 
 21 And you will proclaim on the selfsame day, that it may be an holy convocation to you: you will do no servile work in it: it will be a statute for ever in all your dwellings throughout your generations.
 
-22 And when you reap the harv of your land, you will not make clean riddance of the corners of your field when you reap, neither will you gather any gleaning of your harv: you will leave them to the poor, and to the stranger: I am the Lord your God.
+22 And when you reap the harvest of your land, you will not make clean riddance of the corners of your field when you reap, neither will you gather any gleaning of your harvest: you will leave them to the poor, and to the stranger: I am the Lord your God.
 
 23 And the Lord spake to Moses, saying,
 
@@ -1422,7 +1422,7 @@
 
 31 you will do no manner of work: it will be a statute for ever throughout your generations in all your dwellings.
 
-32 It will be to you a sabbath of r, and you will afflict your souls: in the ninth day of the month at even, from even to even, will you celebrate your sabbath.
+32 It will be to you a sabbath of rest, and you will afflict your souls: in the ninth day of the month at even, from even to even, will you celebrate your sabbath.
 
 33 And the Lord spake to Moses, saying,
 
@@ -1504,9 +1504,9 @@
 
 3 Six years you will sow your field, and six years you will prune your vineyard, and gather in the fruit of it;
 
-4 But in the seventh year will be a sabbath of r to the land, a sabbath for the Lord: you will neither sow your field, nor prune your vineyard.
+4 But in the seventh year will be a sabbath of rest to the land, a sabbath for the Lord: you will neither sow your field, nor prune your vineyard.
 
-5 That which grows of its own accord of your harv you will not reap, neither gather the grapes of your vine undressed: for it is a year of r to the land.
+5 That which grows of its own accord of your harvest you will not reap, neither gather the grapes of your vine undressed: for it is a year of rest to the land.
 
 6 And the sabbath of the land will be meat for you; for you, and for your servant, and for your maid, and for your hired servant, and for your stranger that sojourns with you.
 
@@ -1676,9 +1676,9 @@
 
 33 And I will scatter you among the heathen, and will draw out a sword after you: and your land will be desolate, and your cities waste.
 
-34 Then will the land enjoy her sabbaths, as long as it lis desolate, and you be in your enemies' land; even then will the land r, and enjoy her sabbaths.
+34 Then will the land enjoy her sabbaths, as long as it lis desolate, and you be in your enemies' land; even then will the land rest, and enjoy her sabbaths.
 
-35 As long as it lis desolate it will r; because it did not r in your sabbaths, when you dwelt upon it.
+35 As long as it lis desolate it will rest; because it did not rest in your sabbaths, when you dwelt upon it.
 
 36 And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf will chase them; and they will flee, as fleeing from a sword; and they will fall when none pursus.
 
@@ -1718,19 +1718,19 @@
 
 7 And if it be from sixty years old and above; if it be a male, then your estimation will be fifteen shekels, and for the female ten shekels.
 
-8 But if he be poorer than your estimation, then he will present himself before the pri, and the pri will value him; according to his ability that vowed will the pri value him.
+8 But if he be poorer than your estimation, then he will present himself before the priest, and the priest will value him; according to his ability that vowed will the priest value him.
 
 9 And if it be a beast, whereof men bring an offering to the Lord, all that any man gives of such to the Lord will be holy.
 
 10 He will not alter it, nor change it, a good for a bad, or a bad for a good: and if he will at all change beast for beast, then it and the exchange of it will be holy.
 
-11 And if it be any unclean beast, of which they do not offer a sacrifice to the Lord, then he will present the beast before the pri:
+11 And if it be any unclean beast, of which they do not offer a sacrifice to the Lord, then he will present the beast before the priest:
 
-12 And the pri will value it, whether it be good or bad: as you valu it, who are the pri, so will it be.
+12 And the priest will value it, whether it be good or bad: as you valu it, who are the priest, so will it be.
 
 13 But if he will at all redeem it, then he will add a fifth part of it to your estimation.
 
-14 And when a man will sanctify his house to be holy to the Lord, then the pri will estimate it, whether it be good or bad: as the pri will estimate it, so will it stand.
+14 And when a man will sanctify his house to be holy to the Lord, then the priest will estimate it, whether it be good or bad: as the priest will estimate it, so will it stand.
 
 15 And if he that sanctified it will redeem his house, then he will add the fifth part of the money of your estimation to it, and it will be his.
 
@@ -1738,17 +1738,17 @@
 
 17 If he sanctify his field from the year of jubile, according to your estimation it will stand.
 
-18 But if he sanctify his field after the jubile, then the pri will reckon to him the money according to the years that remain, even to the year of the jubile, and it will be abated from your estimation.
+18 But if he sanctify his field after the jubile, then the priest will reckon to him the money according to the years that remain, even to the year of the jubile, and it will be abated from your estimation.
 
 19 And if he that sanctified the field will in any wise redeem it, then he will add the fifth part of the money of your estimation to it, and it will be assured to him.
 
 20 And if he will not redeem the field, or if he have sold the field to another man, it will not be redeemed any more.
 
-21 But the field, when it goes out in the jubile, will be holy to the Lord, as a field devoted; the possession of it will be the pri's.
+21 But the field, when it goes out in the jubile, will be holy to the Lord, as a field devoted; the possession of it will be the priest's.
 
 22 And if a man sanctify to the Lord a field which he has bought, which is not of the fields of his possession;
 
-23 Then the pri will reckon to him the worth of your estimation, even to the year of the jubile: and he will give your estimation in that day, as a holy thing to the Lord.
+23 Then the priest will reckon to him the worth of your estimation, even to the year of the jubile: and he will give your estimation in that day, as a holy thing to the Lord.
 
 24 In the year of the jubile the field will return to him of whom it was bought, even to him to whom the possession of the land did belong.
 

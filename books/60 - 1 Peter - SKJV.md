@@ -40,7 +40,7 @@
 
 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
-20 Who truly was foreordained before the foundation of the world, but was manif in these last times for you,
+20 Who truly was foreordained before the foundation of the world, but was manifest in these last times for you,
 
 21 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 
@@ -76,7 +76,7 @@
 
 11 Dearly beloved, I urge you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
-12 Having your conversation hon among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will behold, glorify God in the day of visitation.
+12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will behold, glorify God in the day of visitation.
 
 13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
 
@@ -156,7 +156,7 @@
 
 1 Since then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
 
-2 That he no longer should live the r of his time in the flesh to the lusts of men, but to the will of God.
+2 That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 
 3 For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 

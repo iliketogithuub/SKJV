@@ -18,7 +18,7 @@
 
 8 And Naomi said to her two daughters in law, Go, return each to her mother's house: the Lord deal kindly with you, as you have dealt with the dead, and with me.
 
-9 The Lord grant you that you may find r, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.
+9 The Lord grant you that you may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.
 
 10 And they said to her, Surely we will return with you to your people.
 
@@ -44,7 +44,7 @@
 
 21 I went out full and the Lord has brought me home again empty: why then call you me Naomi, seeing the Lord has testified against me, and the Almighty has afflicted me?
 
-22 So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harv.
+22 So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.
 
 ## Ruth Chapter 2
 
@@ -88,15 +88,15 @@
 
 20 And Naomi said to her daughter in law, Blessed be he of the Lord, who has not left off his kindness to the living and to the dead. And Naomi said to her, The man is near of kin to us, one of our next kinsmen.
 
-21 And Ruth the Moabitess said, He said to me also, you will keep fast by my young men, until they have ended all my harv.
+21 And Ruth the Moabitess said, He said to me also, you will keep fast by my young men, until they have ended all my harvest.
 
 22 And Naomi said to Ruth her daughter in law, It is good, my daughter, that you go out with his maidens, that they meet you not in any other field.
 
-23 So she kept fast by the maidens of Boaz to glean to the end of barley harv and of wheat harv; and dwelt with her mother in law.
+23 So she kept fast by the maidens of Boaz to glean to the end of barley harvest and of wheat harvest; and dwelt with her mother in law.
 
 ## Ruth Chapter 3
 
-1 Then Naomi her mother in law said to her, My daughter, will I not seek r for you, that it may be well with you?
+1 Then Naomi her mother in law said to her, My daughter, will I not seek rest for you, that it may be well with you?
 
 2 And now is not Boaz of our kindred, with whose maidens you wast? Behold, he winnows barley to night in the threshingfloor.
 
@@ -130,7 +130,7 @@
 
 17 And she said, These six measures of barley gave he me; for he said to me, Go not empty to your mother in law.
 
-18 Then said she, Sit still, my daughter, until you know how the matter will fall: for the man will not be in r, until he have finished the thing this day.
+18 Then said she, Sit still, my daughter, until you know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.
 
 ## Ruth Chapter 4
 

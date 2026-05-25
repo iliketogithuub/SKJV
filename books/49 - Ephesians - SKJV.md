@@ -28,7 +28,7 @@
 
 13 In whom you also trusted, after that you heard the word of truth, the gospel of your salvation: in whom also after that you believed, you were sealed with that holy Spirit of promise,
 
-14 Which is the earn of our inheritance until the redemption of the purchased possession, to the praise of his glory.
+14 Which is the earnest of our inheritance until the redemption of the purchased possession, to the praise of his glory.
 
 15 therefore I also, after I heard of your faith in the Lord Jesus, and love to all the saints,
 
@@ -230,7 +230,7 @@
 
 12 For it is a shame even to speak of those things which are done of them in secret.
 
-13 But all things that are corrected are made manif by the light: for whatsoever does make manif is light.
+13 But all things that are corrected are made manifest by the light: for whatsoever does make manifest is light.
 
 14 therefore he says, Awake you that sleep, and arise from the dead, and Christ will give you light.
 

@@ -104,7 +104,7 @@
 
 16 In that day it will be said to Jerusalem, Fear you not: and to Zion, Let not your hands be slack.
 
-17 The Lord your God in the midst of you is mighty; he will save, he will rejoice over you with joy; he will r in his love, he will joy over you with singing.
+17 The Lord your God in the midst of you is mighty; he will save, he will rejoice over you with joy; he will rest in his love, he will joy over you with singing.
 
 18 I will gather them that are sorrowful for the solemn assembly, who are of you, to whom the reproach of it was a burden.
 

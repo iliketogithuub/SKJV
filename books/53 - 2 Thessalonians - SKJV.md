@@ -10,11 +10,11 @@
 
 4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and sufferings that you endure:
 
-5 Which is a manif token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
+5 Which is a manifest token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
 
 6 Seeing it is a righteous thing with God to repay suffering to them that trouble you;
 
-7 And to you who are troubled r with us, when the Lord Jesus will be revealed from heaven with his mighty angels,
+7 And to you who are troubled rest with us, when the Lord Jesus will be revealed from heaven with his mighty angels,
 
 8 In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:
 

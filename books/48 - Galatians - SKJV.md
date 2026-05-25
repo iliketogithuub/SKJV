@@ -256,7 +256,7 @@
 
 18 But if you be led of the Spirit, you are not under the law.
 
-19 Now the works of the flesh are manif, which are these; Adultery, fornication, uncleanness, lasciviousness,
+19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,
 
 20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,
 

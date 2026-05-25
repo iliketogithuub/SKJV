@@ -28,7 +28,7 @@
 
 13 Thus says the Lord; For three sins of the children of Ammon, and for four, I will not turn away the punishment of it; because they have ripped up the women with child of Gilead, that they might enlarge their border:
 
-14 But I will kindle a fire in the wall of Rabbah, and it will devour the palaces of it, with shouting in the day of battle, with a temp in the day of the whirlwind:
+14 But I will kindle a fire in the wall of Rabbah, and it will devour the palaces of it, with shouting in the day of battle, with a tempest in the day of the whirlwind:
 
 15 And their king will go into captivity, he and his princes together, says the Lord.
 
@@ -74,7 +74,7 @@
 
 3 Can two walk together, except they be agreed?
 
-4 Will a lion roar in the for, when he has no prey? will a young lion cry out of his den, if he have taken nothing?
+4 Will a lion roar in the forest, when he has no prey? will a young lion cry out of his den, if he have taken nothing?
 
 5 Can a bird fall in a snare upon the earth, where no gin is for him? will one take up a snare from the earth, and have taken nothing at all?
 
@@ -112,7 +112,7 @@
 
 6 And I also have given you cleanness of tes in all your cities, and want of bread in all your places: yet have you not returned to me, says the Lord.
 
-7 And also I have withholden the rain from you, when there were yet three months to the harv: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.
+7 And also I have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.
 
 8 So two or three cities wandered to one city, to drink water; but they were not satisfied: yet have you not returned to me, says the Lord.
 
@@ -232,7 +232,7 @@
 
 9 And the high places of Isaac will be desolate, and the sanctuaries of Israel will be laid waste; and I will rise against the house of Jeroboam with the sword.
 
-10 Then Amaziah the pri of Bethel sent to Jeroboam king of Israel, saying, Amos has conspired against you in the midst of the house of Israel: the land is not able to bear all his words.
+10 Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos has conspired against you in the midst of the house of Israel: the land is not able to bear all his words.
 
 11 For thus Amos says, Jeroboam will die by the sword, and Israel will surely be led away captive out of their own land.
 

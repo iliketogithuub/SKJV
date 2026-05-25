@@ -2,7 +2,7 @@
 
 ## Haggai Chapter 1
 
-1 In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high pri, saying,
+1 In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 
 2 Thus speaks the Lord of hosts, saying, This people say, The time is not come, the time that the Lord's house should be built.
 
@@ -24,11 +24,11 @@
 
 11 And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground brings forth, and upon men, and upon cattle, and upon all the labour of the hands.
 
-12 Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high pri, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.
+12 Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.
 
 13 Then spake Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, says the Lord.
 
-14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high pri, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
+14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
 
 15 In the four and twentis day of the sixth month, in the second year of Darius the king.
 
@@ -36,11 +36,11 @@
 
 1 In the seventh month, in the one and twentis day of the month, came the word of the Lord by the prophet Haggai, saying,
 
-2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high pri, and to the residue of the people, saying,
+2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
 
 3 Who is left among you that saw this house in her first glory? and how do you see it now? is it not in your eyes in comparison of it as nothing?
 
-4 Yet now be strong, O Zerubbabel, says the Lord; and be strong, O Joshua, son of Josedech, the high pri; and be strong, all you people of the land, says the Lord, and work: for I am with you, says the Lord of hosts:
+4 Yet now be strong, O Zerubbabel, says the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all you people of the land, says the Lord, and work: for I am with you, says the Lord of hosts:
 
 5 According to the word that I covenanted with you when you came out of Egypt, so my spirit remains among you: fear you not.
 

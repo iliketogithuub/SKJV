@@ -80,7 +80,7 @@
 
 17 Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:
 
-18 That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the r of the wise men of Babylon.
+18 That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.
 
 19 Then was the secret revealed to Daniel in a night vision. Then Daniel blessed the God of heaven.
 
@@ -214,7 +214,7 @@
 
 3 How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.
 
-4 I Nebuchadnezzar was at r in mine house, and flourishing in my palace:
+4 I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:
 
 5 I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.
 
@@ -240,7 +240,7 @@
 
 16 Let his heart be changed from man's, and let a beast's heart be given to him; and let seven times pass over him.
 
-17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and setts up over it the bas of men.
+17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and setts up over it the basest of men.
 
 18 This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation of it, since as all the wise men of my kingdom are not able to make known to me the interpretation: but you are able; for the spirit of the holy gods is in you.
 
@@ -428,7 +428,7 @@
 
 11 I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
 
-12 As concerning the r of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+12 As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
 13 I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 
@@ -472,7 +472,7 @@
 
 4 I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
 
-5 And as I was considering, behold, an he goat came from the w on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.
+5 And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.
 
 6 And he came to the ram that had two horns, which I had seen standing before the river, and ran to him in the fury of his power.
 
@@ -736,7 +736,7 @@
 
 12 Blessed is he that waits, and comes to the thousand three hundred and five and thirty days.
 
-13 But go you your way till the end be: for you will r, and stand in your lot at the end of the days.
+13 But go you your way till the end be: for you will rest, and stand in your lot at the end of the days.
 
 
 ## eof

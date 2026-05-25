@@ -60,7 +60,7 @@
 
 8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
-9 In like manner also, that women adorn themselves in mod apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
+9 In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
 
 10 But (which becomes women professing godliness) with good works.
 
@@ -106,7 +106,7 @@
 
 15 But if I tarry long, that you may know how you ought to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
-16 And without controversy great is the mystery of godliness: God was manif in the flesh, justified in the Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
 
 ## 1 Timothy Chapter 4
 
@@ -192,7 +192,7 @@
 
 24 Some men's sins are open beforehand, going before to judgment; and some men they follow after.
 
-25 Likewise also the good works of some are manif beforehand; and they that are otherwise cannot be hid.
+25 Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.
 
 ## 1 Timothy Chapter 6
 

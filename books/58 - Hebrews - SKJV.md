@@ -32,7 +32,7 @@
 
 ## Hebrews Chapter 2
 
-1 Therefore we ought to give the more earn heed to the things which we have heard, otherwise at any time we should let them slip.
+1 Therefore we ought to give the more earnest heed to the things which we have heard, otherwise at any time we should let them slip.
 
 2 For if the word spoken by angels was stedfast, and every sin and disobedience received a just recompence of reward;
 
@@ -64,13 +64,13 @@
 
 16 For truly he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-17 therefore in all things it behoved him to be made like to his brothers, that he might be a merciful and faithful high pri in things pertaining to God, to make reconciliation for the sins of the people.
+17 therefore in all things it behoved him to be made like to his brothers, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.
 
 18 For in that he himself has suffered being tempted, he is able to succour them that are tempted.
 
 ## Hebrews Chapter 3
 
-1 therefore, holy brothers, partakers of the heavenly calling, consider the Apostle and High Pri of our profession, Christ Jesus;
+1 therefore, holy brothers, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
 
 2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.
 
@@ -90,7 +90,7 @@
 
 10 therefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
 
-11 So I sware in my wrath, They will not enter into my r.)
+11 So I sware in my wrath, They will not enter into my rest.)
 
 12 Take heed, brothers, otherwise there be in any of you an evil heart of unbelief, in departing from the living God.
 
@@ -104,47 +104,47 @@
 
 17 But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
 
-18 And to whom sware he that they should not enter into his r, but to them that believed not?
+18 And to whom sware he that they should not enter into his rest, but to them that believed not?
 
 19 So we see that they could not enter in because of unbelief.
 
 ## Hebrews Chapter 4
 
-1 Let us therefore fear, otherwise, a promise being left us of entering into his r, any of you should seem to come short of it.
+1 Let us therefore fear, otherwise, a promise being left us of entering into his rest, any of you should seem to come short of it.
 
 2 For to us was the gospel preached, as well as to them: but the word preached did not profit them, not being mixed with faith in them that heard it.
 
-3 For we which have believed do enter into r, as he said, As I have sworn in my wrath, if they will enter into my r: although the works were finished from the foundation of the world.
+3 For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they will enter into my rest: although the works were finished from the foundation of the world.
 
-4 For he spake in a certain place of the seventh day on this wise, And God did r the seventh day from all his works.
+4 For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
 
-5 And in this place again, If they will enter into my r.
+5 And in this place again, If they will enter into my rest.
 
 6 Seeing therefore it remains that some must enter in it, and they to whom it was first preached entered not in because of unbelief:
 
 7 Again, he limits a certain day, saying in David, To day, after so long a time; as it is said, To day if you will hear his voice, harden not your hearts.
 
-8 For if Jesus had given them r, then would he not afterward have spoken of another day.
+8 For if Jesus had given them rest, then would he not afterward have spoken of another day.
 
-9 There remains therefore a r to the people of God.
+9 There remains therefore a rest to the people of God.
 
-10 For he that is entered into his r, he also has ceased from his own works, as God did from his.
+10 For he that is entered into his rest, he also has ceased from his own works, as God did from his.
 
-11 Let us labour therefore to enter into that r, otherwise any man fall after the same example of unbelief.
+11 Let us labour therefore to enter into that rest, otherwise any man fall after the same example of unbelief.
 
 12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing apart of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-13 Neither is there any creature that is not manif in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
+13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
 
-14 Seeing then that we have a great high pri, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
+14 Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
 
-15 For we have not an high pri which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
+15 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
 
 16 Let us therefore come boldly to the throne of grace, that we may obtain mercy, and find grace to help in time of need.
 
 ## Hebrews Chapter 5
 
-1 For every high pri taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
+1 For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
 
 2 Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.
 
@@ -152,9 +152,9 @@
 
 4 And no man takes this honour to himself, but he that is called of God, as was Aaron.
 
-5 So also Christ glorified not himself to be made an high pri; but he that said to him, you are my Son, to day have I begotten you.
+5 So also Christ glorified not himself to be made an high priest; but he that said to him, you are my Son, to day have I begotten you.
 
-6 As he says also in another place, you are a pri for ever after the order of Melchisedec.
+6 As he says also in another place, you are a priest for ever after the order of Melchisedec.
 
 7 Who in the days of his flesh, when he had offered up prayers and prayers with strong crying and tears to him that was able to save him from death, and was heard in that he feared;
 
@@ -162,7 +162,7 @@
 
 9 And being made perfect, he became the author of eternal salvation to all them that obey him;
 
-10 Called of God an high pri after the order of Melchisedec.
+10 Called of God an high priest after the order of Melchisedec.
 
 11 Of whom we have many things to say, and hard to be uttered, seeing you are dull of hearing.
 
@@ -212,15 +212,15 @@
 
 19 Which hope we have as an anchor of the soul, both sure and stedfast, and which enters into that within the veil;
 
-20 Where the forerunner is for us entered, even Jesus, made an high pri for ever after the order of Melchisedec.
+20 Where the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.
 
 ## Hebrews Chapter 7
 
-1 For this Melchisedec, king of Salem, pri of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
+1 For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 
 2 To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;
 
-3 Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like to the Son of God; abides a pri continually.
+3 Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like to the Son of God; abides a priest continually.
 
 4 Now consider how great this man was, to whom even the patriarch Abraham gave the tenth of the spoils.
 
@@ -236,7 +236,7 @@
 
 10 For he was yet in the loins of his father, when Melchisedec met him.
 
-11 If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another pri should rise after the order of Melchisedec, and not be called after the order of Aaron?
+11 If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 
 12 For the priesthood being changed, there is made of necessity a change also of the law.
 
@@ -244,19 +244,19 @@
 
 14 For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 
-15 And it is yet far more evident: for that after the similitude of Melchisedec there arises another pri,
+15 And it is yet far more evident: for that after the similitude of Melchisedec there arises another priest,
 
 16 Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 
-17 For he testifis, you are a pri for ever after the order of Melchisedec.
+17 For he testifis, you are a priest for ever after the order of Melchisedec.
 
 18 For there is truly a disannulling of the commandment going before for the weakness and unprofitableness of it.
 
 19 For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw near to God.
 
-20 And since as not without an oath he was made pri:
+20 And since as not without an oath he was made priest:
 
-21 (For those priests were made without an oath; but this with an oath by him that said to him, The Lord sware and will not repent, you are a pri for ever after the order of Melchisedec:)
+21 (For those priests were made without an oath; but this with an oath by him that said to him, The Lord sware and will not repent, you are a priest for ever after the order of Melchisedec:)
 
 22 By so much was Jesus made a surety of a better testament.
 
@@ -266,7 +266,7 @@
 
 25 therefore he is able also to save them to the uttermost that come to God by him, seeing he ever lives to make intercession for them.
 
-26 For such an high pri became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;
+26 For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;
 
 27 Who needs not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
 
@@ -274,13 +274,13 @@
 
 ## Hebrews Chapter 8
 
-1 Now of the things which we have spoken this is the sum: We have such an high pri, who is set on the right hand of the throne of the Majesty in the heavens;
+1 Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 
 2 A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
 
-3 For every high pri is ordained to offer gifts and sacrifices: therefore it is of necessity that this man have somewhat also to offer.
+3 For every high priest is ordained to offer gifts and sacrifices: therefore it is of necessity that this man have somewhat also to offer.
 
-4 For if he were on earth, he should not be a pri, seeing that there are priests that offer gifts according to the law:
+4 For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
 
 5 Who serve to the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, says he, that you make all things according to the pattern shewed to you in the mount.
 
@@ -294,7 +294,7 @@
 
 10 For this is the covenant that I will make with the house of Israel after those days, says the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they will be to me a people:
 
-11 And they will not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all will know me, from the least to the great.
+11 And they will not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all will know me, from the least to the greatest.
 
 12 For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
 
@@ -306,7 +306,7 @@
 
 2 For there was a tabernacle made; the first, in which was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 
-3 And after the second veil, the tabernacle which is called the Holi of all;
+3 And after the second veil, the tabernacle which is called the Holiest of all;
 
 4 Which had the golden censer, and the ark of the covenant overlaid round about with gold, in which was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;
 
@@ -314,15 +314,15 @@
 
 6 Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.
 
-7 But into the second went the high pri alone once every year, not without blood, which he offered for himself, and for the errors of the people:
+7 But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
 
-8 The Holy Spirit this signifying, that the way into the holi of all was not yet made manif, while as the first tabernacle was yet standing:
+8 The Holy Spirit this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
 
 9 Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 
 10 Which stood only in meats and drinks, and various washings, and carnal ordinances, imposed on them until the time of reformation.
 
-11 But Christ being come an high pri of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
+11 But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
 
 12 Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
 
@@ -350,7 +350,7 @@
 
 24 For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:
 
-25 Nor yet that he should offer himself often, as the high pri enters into the holy place every year with blood of others;
+25 Nor yet that he should offer himself often, as the high priest enters into the holy place every year with blood of others;
 
 26 For then must he often have suffered since the foundation of the world: but now once in the end of the world has he appeared to put away sin by the sacrifice of himself.
 
@@ -380,7 +380,7 @@
 
 10 By the which will we are sanctified through the offering of the body of Jesus Christ once for all.
 
-11 And every pri stands daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
+11 And every priest stands daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
 
 12 But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
 
@@ -396,11 +396,11 @@
 
 18 Now where forgiveness of these is, there is no more offering for sin.
 
-19 Having therefore, brothers, boldness to enter into the holi by the blood of Jesus,
+19 Having therefore, brothers, boldness to enter into the holiest by the blood of Jesus,
 
 20 By a new and living way, which he has consecrated for us, through the veil, that is to say, his flesh;
 
-21 And having an high pri over the house of God;
+21 And having an high priest over the house of God;
 
 22 Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
 
@@ -556,7 +556,7 @@
 
 17 For you know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 
-18 For you are not come to the mount that might be touched, and that burned with fire, nor to blackness, and darkness, and temp,
+18 For you are not come to the mount that might be touched, and that burned with fire, nor to blackness, and darkness, and tempest,
 
 19 And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:
 
@@ -602,7 +602,7 @@
 
 10 We have an altar, whereof they have no right to eat which serve the tabernacle.
 
-11 For the bodies of those beasts, whose blood is brought into the sanctuary by the high pri for sin, are burned without the camp.
+11 For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.
 
 12 therefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.
 

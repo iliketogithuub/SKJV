@@ -10,15 +10,15 @@
 
 4 That you might know the certainty of those things, in which you have been instructed.
 
-5 There was in the days of Herod, the king of Judaea, a certain pri named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabs.
+5 There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabs.
 
 6 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 
 7 And they had no child, because that Elisabs was barren, and they both were now well stricken in years.
 
-8 And it came to pass, that while he executed the pri's office before God in the order of his course,
+8 And it came to pass, that while he executed the priest's office before God in the order of his course,
 
-9 According to the custom of the pri's office, his lot was to burn incense when he went into the temple of the Lord.
+9 According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord.
 
 10 And the whole multitude of the people were praying without at the time of incense.
 
@@ -64,13 +64,13 @@
 
 31 And, behold, you will conceive in your womb, and bring forth a son, and will call his name Jesus.
 
-32 He will be great, and will be called the Son of the High: and the Lord God will give to him the throne of his father David:
+32 He will be great, and will be called the Son of the Highest: and the Lord God will give to him the throne of his father David:
 
 33 And he will reign over the house of Jacob for ever; and of his kingdom there will be no end.
 
 34 Then said Mary to the angel, How will this be, seeing I know not a man?
 
-35 And the angel answered and said to her, The Holy Spirit will come upon you, and the power of the High will overshadow you: therefore also that holy thing which will be born of you will be called the Son of God.
+35 And the angel answered and said to her, The Holy Spirit will come upon you, and the power of the Highest will overshadow you: therefore also that holy thing which will be born of you will be called the Son of God.
 
 36 And, behold, your cousin Elisabs, she has also conceived a son in her old age: and this is the sixth month with her, who was called barren.
 
@@ -152,7 +152,7 @@
 
 75 In holiness and righteousness before him, all the days of our life.
 
-76 And you, child, will be called the prophet of the High: for you will go before the face of the Lord to prepare his ways;
+76 And you, child, will be called the prophet of the Highest: for you will go before the face of the Lord to prepare his ways;
 
 77 To give knowledge of salvation to his people by the forgiveness of their sins,
 
@@ -190,7 +190,7 @@
 
 13 And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,
 
-14 Glory to God in the high, and on earth peace, good will toward men.
+14 Glory to God in the highest, and on earth peace, good will toward men.
 
 15 And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even to Bethlehem, and see this thing which is come to pass, which the Lord has made known to us.
 
@@ -464,7 +464,7 @@
 
 13 And he put forth his hand, and touched him, saying, I will: be you clean. And immediately the leprosy departed from him.
 
-14 And he charged him to tell no man: but go, and shew thyself to the pri, and offer for your cleansing, according as Moses commanded, for a testimony to them.
+14 And he charged him to tell no man: but go, and shew thyself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony to them.
 
 15 But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 
@@ -586,7 +586,7 @@
 
 34 And if you lend to them of whom you hope to receive, what thank have you? for sinners also lend to sinners, to receive as much again.
 
-35 But love you your enemies, and do good, and lend, hoping for nothing again; and your reward will be great, and you will be the children of the High: for he is kind to the unthankful and to the evil.
+35 But love you your enemies, and do good, and lend, hoping for nothing again; and your reward will be great, and you will be the children of the Highest: for he is kind to the unthankful and to the evil.
 
 36 Be you therefore merciful, as your Father also is merciful.
 
@@ -748,11 +748,11 @@
 
 14 And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection.
 
-15 But that on the good ground are they, which in an hon and good heart, having heard the word, keep it, and bring forth fruit with patience.
+15 But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
 
 16 No man, when he has lighted a candle, covers it with a vessel, or putts it under a bed; but setts it on a candlestick, that they which enter in may see the light.
 
-17 For nothing is secret, that will not be made manif; neither any thing hid, that will not be known and come abroad.
+17 For nothing is secret, that will not be made manifest; neither any thing hid, that will not be known and come abroad.
 
 18 Take heed therefore how you hear: for whosoever has, to him will be given; and whosoever has not, from him will be taken even that which he seems to have.
 
@@ -924,7 +924,7 @@
 
 45 But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.
 
-46 Then there arose a reasoning among them, which of them should be great.
+46 Then there arose a reasoning among them, which of them should be greatest.
 
 47 And Jesus, perceiving the thought of their heart, took a child, and set him by him,
 
@@ -962,7 +962,7 @@
 
 1 After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, where he himself would come.
 
-2 Therefore said he to them, The harv truly is great, but the labourers are few: pray you therefore the Lord of the harv, that he would send forth labourers into his harv.
+2 Therefore said he to them, The harvest truly is great, but the labourers are few: pray you therefore the Lord of the harvest, that he would send forth labourers into his harvest.
 
 3 Go your ways: behold, I send you forth as lambs among wolves.
 
@@ -970,7 +970,7 @@
 
 5 And into whatsoever house you enter, first say, Peace be to this house.
 
-6 And if the son of peace be there, your peace will r upon it: if not, it will turn to you again.
+6 And if the son of peace be there, your peace will rest upon it: if not, it will turn to you again.
 
 7 And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.
 
@@ -1020,7 +1020,7 @@
 
 30 And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his clothing, and wounded him, and departed, leaving him half dead.
 
-31 And by chance there came down a certain pri that way: and when he saw him, he passed by on the other side.
+31 And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.
 
 32 And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.
 
@@ -1094,7 +1094,7 @@
 
 23 He that is not with me is against me: and he that gathers not with me scatters.
 
-24 When the unclean spirit is gone out of a man, he walks through dry places, seeking r; and finding none, he says, I will return to my house from where I came out.
+24 When the unclean spirit is gone out of a man, he walks through dry places, seeking rest; and finding none, he says, I will return to my house from where I came out.
 
 25 And when he comes, he finds it swept and garnished.
 
@@ -1208,7 +1208,7 @@
 
 25 And which of you with taking thought can add to his stature one cubit?
 
-26 If you then be not able to do that thing which is least, why take you thought for the r?
+26 If you then be not able to do that thing which is least, why take you thought for the rest?
 
 27 Consider the lilies how they grow: they toil not, they spin not; and yet I say to you, that Solomon in all his glory was not arrayed like one of these.
 
@@ -1264,7 +1264,7 @@
 
 53 The father will be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.
 
-54 And he said also to the people, When you see a cloud rise out of the w, immediately you say, There comes a shower; and so it is.
+54 And he said also to the people, When you see a cloud rise out of the west, immediately you say, There comes a shower; and so it is.
 
 55 And when you see the south wind blow, you say, There will be heat; and it comes to pass.
 
@@ -1334,7 +1334,7 @@
 
 28 There will be weeping and gnashing of tes, when you will see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
 
-29 And they will come from the east, and from the w, and from the north, and from the south, and will sit down in the kingdom of God.
+29 And they will come from the east, and from the west, and from the north, and from the south, and will sit down in the kingdom of God.
 
 30 And, behold, there are last which will be first, and there are first which will be last.
 
@@ -1364,11 +1364,11 @@
 
 7 And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying to them.
 
-8 When you are bidden of any man to a wedding, sit not down in the high room; otherwise a more honourable man than you be bidden of him;
+8 When you are bidden of any man to a wedding, sit not down in the highest room; otherwise a more honourable man than you be bidden of him;
 
-9 And he that bade you and him come and say to you, Give this man place; and you begin with shame to take the low room.
+9 And he that bade you and him come and say to you, Give this man place; and you begin with shame to take the lowest room.
 
-10 But when you are bidden, go and sit down in the low room; that when he that bade you comes, he may say to you, Friend, go up higher: then will you have worship in the presence of them that sit at meat with you.
+10 But when you are bidden, go and sit down in the lowest room; that when he that bade you comes, he may say to you, Friend, go up higher: then will you have worship in the presence of them that sit at meat with you.
 
 11 For whosoever exalts himself will be abased; and he that humbls himself will be exalted.
 
@@ -1464,7 +1464,7 @@
 
 21 And the son said to him, Father, I have sinned against heaven, and in your sight, and am no more worthy to be called your son.
 
-22 But the father said to his servants, Bring forth the b robe, and put it on him; and put a ring on his hand, and shoes on his feet:
+22 But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:
 
 23 And bring here the fatted calf, and kill it; and let us eat, and be merry:
 
@@ -1728,7 +1728,7 @@
 
 6 And he made haste, and came down, and received him joyfully.
 
-7 And when they saw it, they all murmured, saying, That he was gone to be gu with a man that is a sinner.
+7 And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.
 
 8 And Zacchaeus stood, and said to the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
 
@@ -1790,7 +1790,7 @@
 
 37 And when he was come near, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;
 
-38 Saying, Blessed be the King that comes in the name of the Lord: peace in heaven, and glory in the high.
+38 Saying, Blessed be the King that comes in the name of the Lord: peace in heaven, and glory in the highest.
 
 39 And some of the Pharisees from among the multitude said to him, Master, rebuke your disciples.
 
@@ -1904,7 +1904,7 @@
 
 45 Then in the audience of all the people he said to his disciples,
 
-46 Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the high seats in the synagogues, and the chief rooms at feasts;
+46 Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
 
 47 Which devour widows' houses, and for a shew make long prayers: the same will receive greater damnation.
 
@@ -2034,11 +2034,11 @@
 
 23 And they began to enquire among themselves, which of them it was that should do this thing.
 
-24 And there was also a strife among them, which of them should be accounted the great.
+24 And there was also a strife among them, which of them should be accounted the greatest.
 
 25 And he said to them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.
 
-26 But you will not be so: but he that is great among you, let him be as the younger; and he that is chief, as he that does serve.
+26 But you will not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that does serve.
 
 27 For whether is greater, he that sitts at meat, or he that serves? is not he that sitts at meat? but I am among you as he that serves.
 
@@ -2086,7 +2086,7 @@
 
 49 When they which were about him saw what would follow, they said to him, Lord, will we smite with the sword?
 
-50 And one of them struck the servant of the high pri, and cut off his right ear.
+50 And one of them struck the servant of the high priest, and cut off his right ear.
 
 51 And Jesus answered and said, Suffer you thus far. And he touched his ear, and healed him.
 
@@ -2094,7 +2094,7 @@
 
 53 When I was daily with you in the temple, you stretched forth no hands against me: but this is your hour, and the power of darkness.
 
-54 Then took they him, and led him, and brought him into the high pri's house. And Peter followed afar off.
+54 Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off.
 
 55 And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.
 
@@ -2262,7 +2262,7 @@
 
 8 And they remembered his words,
 
-9 And returned from the tomb, and told all these things to the eleven, and to all the r.
+9 And returned from the tomb, and told all these things to the eleven, and to all the rest.
 
 10 It was Mary Magdalene and Joanna, and Mary the mother of James, and other women that were with them, which told these things to the apostles.
 

@@ -180,7 +180,7 @@
 
 28 And afterward when David heard it, he said, I and my kingdom are guiltless before the Lord for ever from the blood of Abner the son of Ner:
 
-29 Let it r on the head of Joab, and on all his father's house; and let there not fail from the house of Joab one that has an issue, or that is a leper, or that leans on a staff, or that falls on the sword, or that lacks bread.
+29 Let it rest on the head of Joab, and on all his father's house; and let there not fail from the house of Joab one that has an issue, or that is a leper, or that leans on a staff, or that falls on the sword, or that lacks bread.
 
 30 So Joab, and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
 
@@ -330,7 +330,7 @@
 
 ## 2 Samuel Chapter 7
 
-1 And it came to pass, when the king sat in his house, and the Lord had given him r round about from all his enemies;
+1 And it came to pass, when the king sat in his house, and the Lord had given him rest round about from all his enemies;
 
 2 That the king said to Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwells within curtains.
 
@@ -350,7 +350,7 @@
 
 10 Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither will the children of wickedness afflict them any more, as beforetime,
 
-11 And as since the time that I commanded judges to be over my people Israel, and have caused you to r from all your enemies. Also the Lord tells you that he will make you an house.
+11 And as since the time that I commanded judges to be over my people Israel, and have caused you to rest from all your enemies. Also the Lord tells you that he will make you an house.
 
 12 And when your days be fulfilled, and you will sleep with your fathers, I will set up your seed after you, which will proceed out of your deep affection, and I will establish his kingdom.
 
@@ -474,7 +474,7 @@
 
 9 When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:
 
-10 And the r of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon.
+10 And the rest of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon.
 
 11 And he said, If the Syrians be too strong for me, then you will help me: but if the children of Ammon be too strong for you, then I will come and help you.
 
@@ -524,7 +524,7 @@
 
 14 And it came to pass in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah.
 
-15 And he wrote in the letter, saying, Set you Uriah in the forefront of the hott battle, and retire you from him, that he may be smitten, and die.
+15 And he wrote in the letter, saying, Set you Uriah in the forefront of the hottest battle, and retire you from him, that he may be smitten, and die.
 
 16 And it came to pass, when Joab observed the city, that he assigned Uriah to a place where he knew that valiant men were.
 
@@ -606,7 +606,7 @@
 
 27 And Joab sent messengers to David, and said, I have fought against Rabbah, and have taken the city of waters.
 
-28 Now therefore gather the r of the people together, and encamp against the city, and take it: otherwise I take the city, and it be called after my name.
+28 Now therefore gather the rest of the people together, and encamp against the city, and take it: otherwise I take the city, and it be called after my name.
 
 29 And David gathered all the people together, and went to Rabbah, and fought against it, and took it.
 
@@ -724,7 +724,7 @@
 
 14 For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither does God respect any person: yet does he devise means, that his banished be not expelled from him.
 
-15 Now therefore that I am come to speak of this thing to my lord the king, it is because the people have made me afraid: and your handmaid said, I will now speak to the king; it may be that the king will perform the requ of his handmaid.
+15 Now therefore that I am come to speak of this thing to my lord the king, it is because the people have made me afraid: and your handmaid said, I will now speak to the king; it may be that the king will perform the request of his handmaid.
 
 16 For the king will hear, to deliver his handmaid out of the hand of the man that would destroy me and my son together out of the inheritance of God.
 
@@ -738,7 +738,7 @@
 
 21 And the king said to Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again.
 
-22 And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day your servant knows that I have found grace in your sight, my lord, O king, in that the king has fulfilled the requ of his servant.
+22 And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day your servant knows that I have found grace in your sight, my lord, O king, in that the king has fulfilled the request of his servant.
 
 23 So Joab arose and went to Geshur, and brought Absalom to Jerusalem.
 
@@ -816,7 +816,7 @@
 
 26 But if he thus say, I have no delight in you; behold, here am I, let him do to me as seems good to him.
 
-27 The king said also to Zadok the pri, are not you a seer? return into the city in peace, and your two sons with you, Ahimaaz your son, and Jonathan the son of Abiathar.
+27 The king said also to Zadok the priest, are not you a seer? return into the city in peace, and your two sons with you, Ahimaaz your son, and Jonathan the son of Abiathar.
 
 28 See, I will tarry in the plain of the wilderness, until there come word from you to certify me.
 
@@ -954,7 +954,7 @@
 
 3 But the people answered, you will not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now you are worth ten thousand of us: therefore now it is better that you succour us out of the city.
 
-4 And the king said to them, What seems you b I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.
+4 And the king said to them, What seems you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.
 
 5 And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.
 
@@ -1174,9 +1174,9 @@
 
 8 But the king took the two sons of Rizpah the daughter of Aiah, whom she bare to Saul, Armoni and Mephiboshs; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:
 
-9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seven together, and were put to death in the days of harv, in the first days, in the beginning of barley harv.
+9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest.
 
-10 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harv until water dropped upon them out of heaven, and suffered neither the birds of the air to r on them by day, nor the beasts of the field by night.
+10 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night.
 
 11 And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done.
 
@@ -1332,7 +1332,7 @@
 
 12 But he stood in the midst of the ground, and defended it, and slew the Philistines: and the Lord wrought a great victory.
 
-13 And three of the thirty chief went down, and came to David in the harv time to the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
+13 And three of the thirty chief went down, and came to David in the harvest time to the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
 
 14 And David was then in an hold, and the garrison of the Philistines was then in Bethlehem.
 

@@ -424,7 +424,7 @@
 
 3 And Jesus put forth his hand, and touched him, saying, I will; be you clean. And immediately his leprosy was cleansed.
 
-4 And Jesus says to him, See you tell no man; but go your way, shew thyself to the pri, and offer the gift that Moses commanded, for a testimony to them.
+4 And Jesus says to him, See you tell no man; but go your way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony to them.
 
 5 And when Jesus was entered into Capernaum, there came to him a centurion, beseeching him,
 
@@ -438,7 +438,7 @@
 
 10 When Jesus heard it, he marvelled, and said to them that followed, Truly I say to you, I have not found so great faith, no, not in Israel.
 
-11 And I say to you, That many will come from the east and w, and will sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+11 And I say to you, That many will come from the east and west, and will sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 
 12 But the children of the kingdom will be cast out into outer darkness: there will be weeping and gnashing of tes.
 
@@ -464,7 +464,7 @@
 
 23 And when he was entered into a ship, his disciples followed him.
 
-24 And, behold, there arose a great temp in the sea, so much so that the ship was covered with the waves: but he was asleep.
+24 And, behold, there arose a great tempest in the sea, so much so that the ship was covered with the waves: but he was asleep.
 
 25 And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
 
@@ -562,9 +562,9 @@
 
 36 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
 
-37 Then says he to his disciples, The harv truly is plenteous, but the labourers are few;
+37 Then says he to his disciples, The harvest truly is plenteous, but the labourers are few;
 
-38 Pray you therefore the Lord of the harv, that he will send forth labourers into his harv.
+38 Pray you therefore the Lord of the harvest, that he will send forth labourers into his harvest.
 
 ## Matthew Chapter 10
 
@@ -708,9 +708,9 @@
 
 27 All things are delivered to me of my Father: and no man knows the Son, but the Father; neither knows any man the Father, save the Son, and he to whomsoever the Son will reveal him.
 
-28 Come to me, all you that labour and are heavy laden, and I will give you r.
+28 Come to me, all you that labour and are heavy laden, and I will give you rest.
 
-29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and you will find r to your souls.
+29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and you will find rest to your souls.
 
 30 For my yoke is easy, and my burden is light.
 
@@ -800,7 +800,7 @@
 
 42 The queen of the south will rise up in the judgment with this generation, and will condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
 
-43 When the unclean spirit is gone out of a man, he walks through dry places, seeking r, and finds none.
+43 When the unclean spirit is gone out of a man, he walks through dry places, seeking rest, and finds none.
 
 44 Then he says, I will return into my house from from where I came out; and when he is come, he finds it empty, swept, and garnished.
 
@@ -876,11 +876,11 @@
 
 29 But he said, Nay; otherwise while you gather up the tares, you root up also the wheat with them.
 
-30 Let both grow together until the harv: and in the time of harv I will say to the reapers, Gather you together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
+30 Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather you together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
 
 31 Another parable put he forth to them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
 
-32 Which indeed is the least of all seeds: but when it is grown, it is the great among herbs, and becomes a tree, so that the birds of the air come and lodge in the branches of it.
+32 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becomes a tree, so that the birds of the air come and lodge in the branches of it.
 
 33 Another parable spake he to them; The kingdom of heaven is like to leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 
@@ -894,7 +894,7 @@
 
 38 The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;
 
-39 The enemy that sowed them is the devil; the harv is the end of the world; and the reapers are the angels.
+39 The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.
 
 40 As therefore the tares are gathered and burned in the fire; so will it be in the end of this world.
 
@@ -1204,13 +1204,13 @@
 
 ## Matthew Chapter 18
 
-1 At the same time came the disciples to Jesus, saying, Who is the great in the kingdom of heaven?
+1 At the same time came the disciples to Jesus, saying, Who is the greatest in the kingdom of heaven?
 
 2 And Jesus called a little child to him, and set him in the midst of them,
 
 3 And said, Truly I say to you, Except you be converted, and become as little children, you will not enter into the kingdom of heaven.
 
-4 Whosoever therefore will humble himself as this little child, the same is great in the kingdom of heaven.
+4 Whosoever therefore will humble himself as this little child, the same is greatest in the kingdom of heaven.
 
 5 And whoso will receive one such little child in my name receives me.
 
@@ -1424,7 +1424,7 @@
 
 8 And a very great multitude spread their garments in the way; others cut down branches from the trees, and scattered them in the way.
 
-9 And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that comes in the name of the Lord; Hosanna in the high.
+9 And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that comes in the name of the Lord; Hosanna in the highest.
 
 10 And when he was come into Jerusalem, all the city was moved, saying, Who is this?
 
@@ -1616,7 +1616,7 @@
 
 10 Neither be you called masters: for one is your Master, even Christ.
 
-11 But he that is great among you will be your servant.
+11 But he that is greatest among you will be your servant.
 
 12 And whosoever will exalt himself will be abased; and he that will humble himself will be exalted.
 
@@ -1728,7 +1728,7 @@
 
 26 therefore if they will say to you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.
 
-27 For as the lightning comes out of the east, and shins even to the w; so will also the coming of the Son of man be.
+27 For as the lightning comes out of the east, and shins even to the west; so will also the coming of the Son of man be.
 
 28 For wheresoever the carcase is, there will the eagles be gathered together.
 
@@ -1878,7 +1878,7 @@
 
 2 you know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.
 
-3 Then assembled together the chief priests, and the scribes, and the elders of the people, to the palace of the high pri, who was called Caiaphas,
+3 Then assembled together the chief priests, and the scribes, and the elders of the people, to the palace of the high priest, who was called Caiaphas,
 
 4 And consulted that they might take Jesus by subtilty, and kill him.
 
@@ -1962,7 +1962,7 @@
 
 44 And he left them, and went away again, and prayed the third time, saying the same words.
 
-45 Then comes he to his disciples, and says to them, Sleep on now, and take your r: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
+45 Then comes he to his disciples, and says to them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
 
 46 Rise, let us be going: behold, he is at hand that does betray me.
 
@@ -1974,7 +1974,7 @@
 
 50 And Jesus said to him, Friend, therefore are you come? Then came they, and laid hands on Jesus and took him.
 
-51 And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high pri's, and struck off his ear.
+51 And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest's, and struck off his ear.
 
 52 Then said Jesus to him, Put up again your sword into his place: for all they that take the sword will perish with the sword.
 
@@ -1986,9 +1986,9 @@
 
 56 But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
 
-57 And they that had laid hold on Jesus led him away to Caiaphas the high pri, where the scribes and the elders were assembled.
+57 And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.
 
-58 But Peter followed him afar off to the high pri's palace, and went in, and sat with the servants, to see the end.
+58 But Peter followed him afar off to the high priest's palace, and went in, and sat with the servants, to see the end.
 
 59 Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;
 
@@ -1996,13 +1996,13 @@
 
 61 And said, This fellow said, I am able to destroy the temple of God, and to build it in three days.
 
-62 And the high pri arose, and said to him, Answer you nothing? what is it which these witness against you?
+62 And the high priest arose, and said to him, Answer you nothing? what is it which these witness against you?
 
-63 But Jesus held his peace, And the high pri answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
+63 But Jesus held his peace, And the high priest answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
 
 64 Jesus says to him, you have said: nevertheless I say to you, From now on will you see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 
-65 Then the high pri rent his clothes, saying, He has spoken blasphemy; what further need have we of witnesses? behold, now you have heard his blasphemy.
+65 Then the high priest rent his clothes, saying, He has spoken blasphemy; what further need have we of witnesses? behold, now you have heard his blasphemy.
 
 66 What think you? They answered and said, He is guilty of death.
 
@@ -2122,7 +2122,7 @@
 
 48 And immediately one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.
 
-49 The r said, Let be, let us see whether Elias will come to save him.
+49 The rest said, Let be, let us see whether Elias will come to save him.
 
 50 Jesus, when he had cried again with a loud voice, yielded up the ghost.
 

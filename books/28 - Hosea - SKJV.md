@@ -48,7 +48,7 @@
 
 11 I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.
 
-12 And I will destroy her vines and her fig trees, whereof she has said, These are my rewards that my lovers have given me: and I will make them a for, and the beasts of the field will eat them.
+12 And I will destroy her vines and her fig trees, whereof she has said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field will eat them.
 
 13 And I will visit upon her the days of Baalim, in which she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, says the Lord.
 
@@ -92,17 +92,17 @@
 
 3 Therefore will the land mourn, and every one that dwells in it will languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also will be taken away.
 
-4 Yet let no man strive, nor correct another: for your people are as they that strive with the pri.
+4 Yet let no man strive, nor correct another: for your people are as they that strive with the priest.
 
 5 Therefore will you fall in the day, and the prophet also will fall with you in the night, and I will destroy your mother.
 
-6 My people are destroyed for lack of knowledge: because you have rejected knowledge, I will also reject you, that you will be no pri to me: seeing you have forgotten the law of your God, I will also forget your children.
+6 My people are destroyed for lack of knowledge: because you have rejected knowledge, I will also reject you, that you will be no priest to me: seeing you have forgotten the law of your God, I will also forget your children.
 
 7 As they were increased, so they sinned against me: therefore will I change their glory into shame.
 
 8 They eat up the sin of my people, and they set their heart on their iniquity.
 
-9 And there will be, like people, like pri: and I will punish them for their ways, and reward them their doings.
+9 And there will be, like people, like priest: and I will punish them for their ways, and reward them their doings.
 
 10 For they will eat, and not have enough: they will commit whoredom, and will not increase: because they have left off to take heed to the Lord.
 
@@ -178,7 +178,7 @@
 
 10 I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.
 
-11 Also, O Judah, he has set an harv for you, when I returned the captivity of my people.
+11 Also, O Judah, he has set an harvest for you, when I returned the captivity of my people.
 
 ## Hosea Chapter 7
 
@@ -332,7 +332,7 @@
 
 9 I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you: and I will not enter into the city.
 
-10 They will walk after the Lord: he will roar like a lion: when he will roar, then the children will tremble from the w.
+10 They will walk after the Lord: he will roar like a lion: when he will roar, then the children will tremble from the west.
 
 11 They will tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the Lord.
 

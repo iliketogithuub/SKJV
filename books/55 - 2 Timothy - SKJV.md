@@ -20,7 +20,7 @@
 
 9 Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
 
-10 But is now made manif by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
+10 But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
 
 11 Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
 
@@ -110,7 +110,7 @@
 
 8 Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
-9 But they will proceed no further: for their folly will be manif to all men, as their's also was.
+9 But they will proceed no further: for their folly will be manifest to all men, as their's also was.
 
 10 But you have fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,
 

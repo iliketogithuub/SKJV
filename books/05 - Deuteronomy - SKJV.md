@@ -196,7 +196,7 @@
 
 12 And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities of it, gave I to the Reubenites and to the Gadites.
 
-13 And the r of Gilead, and all Bashan, being the kingdom of Og, gave I to the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
+13 And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I to the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
 
 14 Jair the son of Manasseh took all the country of Argob to the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, to this day.
 
@@ -210,7 +210,7 @@
 
 19 But your wives, and your little ones, and your cattle, (for I know that you have much cattle,) will abide in your cities which I have given you;
 
-20 Until the Lord have given r to your brothers, as well as to you, and until they also possess the land which the Lord your God has given them beyond Jordan: and then will you return every man to his possession, which I have given you.
+20 Until the Lord have given rest to your brothers, as well as to you, and until they also possess the land which the Lord your God has given them beyond Jordan: and then will you return every man to his possession, which I have given you.
 
 21 And I commanded Joshua at that time, saying, your eyes have seen all that the Lord your God has done to these two kings: so will the Lord do to all the kingdoms where you pass.
 
@@ -358,7 +358,7 @@
 
 13 Six days you will labour, and do all your work:
 
-14 But the seventh day is the sabbath of the Lord your God: in it you will not do any work, you, nor your son, nor your daughter, nor your manservant, nor your maidservant, nor your ox, nor your ass, nor any of your cattle, nor your stranger that is within your gates; that your manservant and your maidservant may r as well as you.
+14 But the seventh day is the sabbath of the Lord your God: in it you will not do any work, you, nor your son, nor your daughter, nor your manservant, nor your maidservant, nor your ox, nor your ass, nor any of your cattle, nor your stranger that is within your gates; that your manservant and your maidservant may rest as well as you.
 
 15 And remember that you wast a servant in the land of Egypt, and that the Lord your God brought you out from there through a mighty hand and by a stretched out arm: therefore the Lord your God commanded you to keep the sabbath day.
 
@@ -464,7 +464,7 @@
 
 6 For you are an holy people to the Lord your God: the Lord your God has chosen you to be a special people to himself, above all people that are upon the face of the earth.
 
-7 The Lord did not set his love upon you, nor choose you, because you were more in number than any people; for you were the few of all people:
+7 The Lord did not set his love upon you, nor choose you, because you were more in number than any people; for you were the fewest of all people:
 
 8 But because the Lord loved you, and because he would keep the oath which he had sworn to your fathers, has the Lord brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.
 
@@ -502,7 +502,7 @@
 
 25 The graven images of their gods will you burn with fire: you will not desire the silver or gold that is on them, nor take it to you, otherwise you be snared therin: for it is an abomination to the Lord your God.
 
-26 Neither will you bring an abomination into your house, otherwise you be a cursed thing like it: but you will utterly det it, and you will utterly despise it; for it is a cursed thing.
+26 Neither will you bring an abomination into your house, otherwise you be a cursed thing like it: but you will utterly detest it, and you will utterly despise it; for it is a cursed thing.
 
 ## Deuteronomy Chapter 8
 
@@ -618,7 +618,7 @@
 
 5 And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the Lord commanded me.
 
-6 And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the pri's office in his stead.
+6 And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
 
 7 From from there they journeyed to Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 
@@ -736,9 +736,9 @@
 
 8 you will not do after all the things that we do here this day, every man whatsoever is right in his own eyes.
 
-9 For you are not as yet come to the r and to the inheritance, which the Lord your God gives you.
+9 For you are not as yet come to the rest and to the inheritance, which the Lord your God gives you.
 
-10 But when you go over Jordan, and dwell in the land which the Lord your God gives you to inherit, and when he gives you r from all your enemies round about, so that you dwell in safety;
+10 But when you go over Jordan, and dwell in the land which the Lord your God gives you to inherit, and when he gives you rest from all your enemies round about, so that you dwell in safety;
 
 11 Then there will be a place which the Lord your God will choose to cause his name to dwell there; there will you bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which you vow to the Lord:
 
@@ -968,7 +968,7 @@
 
 18 Judges and officers will you make you in all your gates, which the Lord your God gives you, throughout your tribes: and they will judge the people with just judgment.
 
-19 you will not wr judgment; you will not respect persons, neither take a gift: for a gift does blind the eyes of the wise, and pervert the words of the righteous.
+19 you will not wrest judgment; you will not respect persons, neither take a gift: for a gift does blind the eyes of the wise, and pervert the words of the righteous.
 
 20 That which is altogether just will you follow, that you may live, and inherit the land which the Lord your God gives you.
 
@@ -1000,7 +1000,7 @@
 
 11 According to the sentence of the law which they will teach you, and according to the judgment which they will tell you, you will do: you will not decline from the sentence which they will shew you, to the right hand, nor to the left.
 
-12 And the man that will do presumptuously, and will not listen to the pri that stands to minister there before the Lord your God, or to the judge, even that man will die: and you will put away the evil from Israel.
+12 And the man that will do presumptuously, and will not listen to the priest that stands to minister there before the Lord your God, or to the judge, even that man will die: and you will put away the evil from Israel.
 
 13 And all the people will hear, and fear, and do no more presumptuously.
 
@@ -1024,7 +1024,7 @@
 
 2 Therefore will they have no inheritance among their brothers: the Lord is their inheritance, as he has said to them.
 
-3 And this will be the pri's due from the people, from them that offer a sacrifice, whether it be ox or sheep; and they will give to the pri the shoulder, and the two cheeks, and the maw.
+3 And this will be the priest's due from the people, from them that offer a sacrifice, whether it be ox or sheep; and they will give to the priest the shoulder, and the two cheeks, and the maw.
 
 4 The firstfruit also of your corn, of your wine, and of your oil, and the first of the fleece of your sheep, will you give him.
 
@@ -1112,7 +1112,7 @@
 
 1 When you go out to battle against your enemies, and se horses, and chariots, and a people more than you, be not afraid of them: for the Lord your God is with you, which brought you up out of the land of Egypt.
 
-2 And it will be, when you are come near to the battle, that the pri will approach and speak to the people,
+2 And it will be, when you are come near to the battle, that the priest will approach and speak to the people,
 
 3 And will say to them, Hear, O Israel, you approach this day to battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be you terrified because of them;
 
@@ -1210,7 +1210,7 @@
 
 5 The woman will not wear that which pertains to a man, neither will a man put on a woman's garment: for all that do so are abomination to the Lord your God.
 
-6 If a bird's n chance to be before you in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, you will not take the dam with the young:
+6 If a bird's nest chance to be before you in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, you will not take the dam with the young:
 
 7 But you will in any wise let the dam go, and take the young to you; that it may be well with you, and that you may prolong your days.
 
@@ -1292,7 +1292,7 @@
 
 15 you will not deliver to his master the servant which is escaped from his master to you:
 
-16 He will dwell with you, even among you, in that place which he will choose in one of your gates, where it liks him b: you will not oppress him.
+16 He will dwell with you, even among you, in that place which he will choose in one of your gates, where it liks him best: you will not oppress him.
 
 17 There will be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.
 
@@ -1350,7 +1350,7 @@
 
 18 But you will remember that you wast a bondman in Egypt, and the Lord your God redeemed you from there: therefore I command you to do this thing.
 
-19 When you cutt down your harv in your field, and have forgot a sheaf in the field, you will not go again to fetch it: it will be for the stranger, for the fatherless, and for the widow: that the Lord your God may bless you in all the work of your hands.
+19 When you cutt down your harvest in your field, and have forgot a sheaf in the field, you will not go again to fetch it: it will be for the stranger, for the fatherless, and for the widow: that the Lord your God may bless you in all the work of your hands.
 
 20 When you beat your olive tree, you will not go over the boughs again: it will be for the stranger, for the fatherless, and for the widow.
 
@@ -1396,7 +1396,7 @@
 
 18 How he met you by the way, and struck the hindmost of you, even all that were feeble behind you, when you wast faint and weary; and he feared not God.
 
-19 Therefore it will be, when the Lord your God has given you r from all your enemies round about, in the land which the Lord your God gives you for an inheritance to possess it, that you will blot out the remembrance of Amalek from under heaven; you will not forget it.
+19 Therefore it will be, when the Lord your God has given you rest from all your enemies round about, in the land which the Lord your God gives you for an inheritance to possess it, that you will blot out the remembrance of Amalek from under heaven; you will not forget it.
 
 ## Deuteronomy Chapter 26
 
@@ -1404,9 +1404,9 @@
 
 2 That you will take of the first of all the fruit of the earth, which you will bring of your land that the Lord your God gives you, and will put it in a basket, and will go to the place which the Lord your God will choose to place his name there.
 
-3 And you will go to the pri that will be in those days, and say to him, I profess this day to the Lord your God, that I am come to the country which the Lord sware to our fathers for to give us.
+3 And you will go to the priest that will be in those days, and say to him, I profess this day to the Lord your God, that I am come to the country which the Lord sware to our fathers for to give us.
 
-4 And the pri will take the basket out of your hand, and set it down before the altar of the Lord your God.
+4 And the priest will take the basket out of your hand, and set it down before the altar of the Lord your God.
 
 5 And you will speak and say before the Lord your God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
 
@@ -1622,7 +1622,7 @@
 
 64 And the Lord will scatter you among all people, from the one end of the earth even to the other; and there you will serve other gods, which neither you nor your fathers have known, even wood and stone.
 
-65 And among these nations will you find no ease, neither will the sole of your foot have r: but the Lord will give you there a trembling heart, and failing of eyes, and sorrow of mind:
+65 And among these nations will you find no ease, neither will the sole of your foot have rest: but the Lord will give you there a trembling heart, and failing of eyes, and sorrow of mind:
 
 66 And your life will hang in doubt before you; and you will fear day and night, and will have none assurance of your life:
 
@@ -1816,7 +1816,7 @@
 
 10 He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
 
-11 As an eagle stirrs up her n, flutters over her young, spreads abroad her wings, takes them, bears them on her wings:
+11 As an eagle stirrs up her nest, flutters over her young, spreads abroad her wings, takes them, bears them on her wings:
 
 12 So the Lord alone did lead him, and there was no strange god with him.
 
@@ -1838,7 +1838,7 @@
 
 21 They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
 
-22 For a fire is kindled in mine anger, and will burn to the low hell, and will consume the earth with her increase, and set on fire the foundations of the mountains.
+22 For a fire is kindled in mine anger, and will burn to the lowest hell, and will consume the earth with her increase, and set on fire the foundations of the mountains.
 
 23 I will heap mischiefs upon them; I will spend mine arrows upon them.
 
@@ -1946,7 +1946,7 @@
 
 22 And of Dan he said, Dan is a lion's whelp: he will leap from Bashan.
 
-23 And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the Lord: possess you the w and the south.
+23 And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the Lord: possess you the west and the south.
 
 24 And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brothers, and let him dip his foot in oil.
 

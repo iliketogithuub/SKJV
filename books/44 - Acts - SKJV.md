@@ -108,7 +108,7 @@
 
 25 For David speaks concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 
-26 Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh will r in hope:
+26 Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh will rest in hope:
 
 27 Because you will not leave my soul in hell, neither will you suffer your Holy One to see corruption.
 
@@ -220,7 +220,7 @@
 
 5 And it came to pass on the morrow, that their rulers, and elders, and scribes,
 
-6 And Annas the high pri, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high pri, were gathered together at Jerusalem.
+6 And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.
 
 7 And when they had set them in the midst, they asked, By what power, or by what name, have you done this?
 
@@ -240,7 +240,7 @@
 
 15 But when they had commanded them to go aside out of the council, they conferred among themselves,
 
-16 Saying, What will we do to these men? for that indeed a notable miracle has been done by them is manif to all them that dwell in Jerusalem; and we cannot deny it.
+16 Saying, What will we do to these men? for that indeed a notable miracle has been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.
 
 17 But that it spread no further among the people, let us straitly threaten them, that they speak from now on to no man in this name.
 
@@ -310,7 +310,7 @@
 
 12 And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch.
 
-13 And of the r durst no man join himself to them: but the people magnified them.
+13 And of the rest durst no man join himself to them: but the people magnified them.
 
 14 And believers were the more added to the Lord, multitudes both of men and women.)
 
@@ -318,7 +318,7 @@
 
 16 There came also a multitude out of the cities round about to Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
 
-17 Then the high pri rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,
+17 Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,
 
 18 And laid their hands on the apostles, and put them in the common prison.
 
@@ -326,19 +326,19 @@
 
 20 Go, stand and speak in the temple to the people all the words of this life.
 
-21 And when they heard that, they entered into the temple early in the morning, and taught. But the high pri came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.
+21 And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.
 
 22 But when the officers came, and found them not in the prison, they returned and told,
 
 23 Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.
 
-24 Now when the high pri and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.
+24 Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.
 
 25 Then came one and told them, saying, Behold, the men whom you put in prison are standing in the temple, and teaching the people.
 
 26 Then went the captain with the officers, and brought them without violence: for they feared the people, otherwise they should have been stoned.
 
-27 And when they had brought them, they set them before the council: and the high pri asked them,
+27 And when they had brought them, they set them before the council: and the high priest asked them,
 
 28 Saying, Did not we straitly command you that you should not teach in this name? and, behold, you have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us.
 
@@ -376,7 +376,7 @@
 
 2 Then the twelve called the multitude of the disciples to them, and said, It is not reason that we should leave the word of God, and serve tables.
 
-3 therefore, brothers, look you out among you seven men of hon report, full of the Holy Spirit and wisdom, whom we may appoint over this business.
+3 therefore, brothers, look you out among you seven men of honest report, full of the Holy Spirit and wisdom, whom we may appoint over this business.
 
 4 But we will give ourselves continually to prayer, and to the ministry of the word.
 
@@ -404,7 +404,7 @@
 
 ## Acts Chapter 7
 
-1 Then said the high pri, Are these things so?
+1 Then said the high priest, Are these things so?
 
 2 And he said, Men, brothers, and fathers, listen; The God of glory appeared to our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 
@@ -500,7 +500,7 @@
 
 48 However the most High dwells not in temples made with hands; as says the prophet,
 
-49 Heaven is my throne, and earth is my footstool: what house will you build me? says the Lord: or what is the place of my r?
+49 Heaven is my throne, and earth is my footstool: what house will you build me? says the Lord: or what is the place of my rest?
 
 50 has not my hand made all these things?
 
@@ -544,7 +544,7 @@
 
 9 But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
 
-10 To whom they all gave heed, from the least to the great, saying, This man is the great power of God.
+10 To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.
 
 11 And to him they had regard, because that of long time he had bewitched them with sorceries.
 
@@ -608,7 +608,7 @@
 
 ## Acts Chapter 9
 
-1 And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high pri,
+1 And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest,
 
 2 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound to Jerusalem.
 
@@ -668,7 +668,7 @@
 
 30 Which when the brothers knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 
-31 Then had the churches r throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied.
+31 Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied.
 
 32 And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda.
 
@@ -1038,7 +1038,7 @@
 
 12 And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
 
-13 Then the pri of Jupiter, which was before their city, brought oxen and garlands to the gates, and would have done sacrifice with the people.
+13 Then the priest of Jupiter, which was before their city, brought oxen and garlands to the gates, and would have done sacrifice with the people.
 
 14 Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,
 
@@ -1618,7 +1618,7 @@
 
 4 And I persecuted this way to the death, binding and delivering into prisons both men and women.
 
-5 As also the high pri does bear me witness, and all the estate of the elders: from whom also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
+5 As also the high priest does bear me witness, and all the estate of the elders: from whom also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
 
 6 And it came to pass, that, as I made my journey, and was come near to Damascus about noon, suddenly there shone from heaven a great light round about me.
 
@@ -1674,13 +1674,13 @@
 
 1 And Paul, earnestly beholding the council, said, Men and brothers, I have lived in all good conscience before God until this day.
 
-2 And the high pri Ananias commanded them that stood by him to smite him on the mouth.
+2 And the high priest Ananias commanded them that stood by him to smite him on the mouth.
 
 3 Then said Paul to him, God will smite you, you whited wall: for sitt you to judge me after the law, and command me to be smitten contrary to the law?
 
-4 And they that stood by said, Revil you God's high pri?
+4 And they that stood by said, Revil you God's high priest?
 
-5 Then said Paul, I knew not, brothers, that he was the high pri: for it is written, you will not speak evil of the ruler of your people.
+5 Then said Paul, I knew not, brothers, that he was the high priest: for it is written, you will not speak evil of the ruler of your people.
 
 6 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brothers, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 
@@ -1744,7 +1744,7 @@
 
 ## Acts Chapter 24
 
-1 And after five days Ananias the high pri descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.
+1 And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.
 
 2 And when he was called forth, Tertullus began to accuse him, saying, Seeing that by you we enjoy great quietness, and that very worthy deeds are done to this nation by your providence,
 
@@ -1802,7 +1802,7 @@
 
 1 Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 
-2 Then the high pri and the chief of the Jews informed him against Paul, and urged him,
+2 Then the high priest and the chief of the Jews informed him against Paul, and urged him,
 
 3 And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
 
@@ -1864,7 +1864,7 @@
 
 4 My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
 
-5 Which knew me from the beginning, if they would testify, that after the most strait sect of our religion I lived a Pharisee.
+5 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 
 6 And now I stand and am judged for the hope of the promise made of God, to our fathers:
 
@@ -1944,7 +1944,7 @@
 
 11 Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.
 
-12 And because the haven was not commodious to winter in, the more part advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lis toward the south w and north w.
+12 And because the haven was not commodious to winter in, the more part advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lis toward the south west and north west.
 
 13 And when the south wind blew softly, supposing that they had obtained their purpose, loosing from there, they sailed close by Crete.
 
@@ -1956,11 +1956,11 @@
 
 17 Which when they had taken up, they used helps, undergirding the ship; and, fearing otherwise they should fall into the quicksands, strake sail, and so were driven.
 
-18 And we being exceedingly tossed with a temp, the next day they lightened the ship;
+18 And we being exceedingly tossed with a tempest, the next day they lightened the ship;
 
 19 And the third day we cast out with our own hands the tackling of the ship.
 
-20 And when neither sun nor stars in many days appeared, and no small temp lay on us, all hope that we should be saved was then taken away.
+20 And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away.
 
 21 But after long abstinence Paul stood forth in the midst of them, and said, Sirs, you should have listened to me, and not have loosed from Crete, and to have gained this harm and looses.
 
@@ -2008,7 +2008,7 @@
 
 43 But the centurion, willing to save Paul, kept them from their purpose; and commanded that they which could swim should cast themselves first into the sea, and get to land:
 
-44 And the r, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.
+44 And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.
 
 ## Acts Chapter 28
 

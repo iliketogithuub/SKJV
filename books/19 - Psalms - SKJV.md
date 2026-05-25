@@ -272,7 +272,7 @@
 
 5 The Lord tris the righteous: but the wicked and him that loves violence his soul hates.
 
-6 Upon the wicked he will rain snares, fire and brimstone, and an horrible temp: this will be the portion of their cup.
+6 Upon the wicked he will rain snares, fire and brimstone, and an horrible tempest: this will be the portion of their cup.
 
 7 For the righteous Lord loves righteousness; his countenance does behold the upright.
 
@@ -354,7 +354,7 @@
 
 8 I have set the Lord always before me: because he is at my right hand, I will not be moved.
 
-9 Therefore my heart is glad, and my glory rejoics: my flesh also will r in hope.
+9 Therefore my heart is glad, and my glory rejoics: my flesh also will rest in hope.
 
 10 For you will not leave my soul in hell; neither will you suffer your Holy One to see corruption.
 
@@ -388,7 +388,7 @@
 
 13 Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is your sword:
 
-14 From men which are your hand, O Lord, from men of the world, which have their portion in this life, and whose belly you fill with your hid treasure: they are full of children, and leave the r of their substance to their babes.
+14 From men which are your hand, O Lord, from men of the world, which have their portion in this life, and whose belly you fill with your hid treasure: they are full of children, and leave the rest of their substance to their babes.
 
 15 As for me, I will behold your face in righteousness: I will be satisfied, when I awake, with your likeness.
 
@@ -418,7 +418,7 @@
 
 12 At the brightness that was before him his thick clouds passed, hail stones and coals of fire.
 
-13 The Lord also thundered in the heavens, and the High gave his voice; hail stones and coals of fire.
+13 The Lord also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.
 
 14 Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.
 
@@ -548,7 +548,7 @@
 
 1 The king will joy in your strength, O Lord; and in your salvation how greatly will he rejoice!
 
-2 you have given him his heart's desire, and have not withholden the requ of his lips. Selah.
+2 you have given him his heart's desire, and have not withholden the request of his lips. Selah.
 
 3 For you prevent him with the blessings of goodness: you sett a crown of pure gold on his head.
 
@@ -1108,7 +1108,7 @@
 
 6 And he will bring forth your righteousness as the light, and your judgment as the noonday.
 
-7 R in the Lord, and wait patiently for him: fret not thyself because of him who prospers in his way, because of the man who brings wicked devices to pass.
+7 REST in the Lord, and wait patiently for him: fret not thyself because of him who prospers in his way, because of the man who brings wicked devices to pass.
 
 8 Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.
 
@@ -1182,7 +1182,7 @@
 
 2 For your arrows stick fast in me, and your hand presss me sore.
 
-3 There is no soundness in my flesh because of your anger; neither is there any r in my bones because of my sin.
+3 There is no soundness in my flesh because of your anger; neither is there any rest in my bones because of my sin.
 
 4 For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.
 
@@ -1232,7 +1232,7 @@
 
 4 Lord, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.
 
-5 Behold, you have made my days as an handbreadth; and mine age is as nothing before you: truly every man at his b state is altogether vanity. Selah.
+5 Behold, you have made my days as an handbreadth; and mine age is as nothing before you: truly every man at his best state is altogether vanity. Selah.
 
 6 Surely every man walks in a vain shew: surely they are disquieted in vain: he heaps up riches, and knows not who will gather them.
 
@@ -1576,7 +1576,7 @@
 
 9 I will take no bullock out of your house, nor he goats out of your folds.
 
-10 For every beast of the for is mine, and the cattle upon a thousand hills.
+10 For every beast of the forest is mine, and the cattle upon a thousand hills.
 
 11 I know all the fowls of the mountains: and the wild beasts of the field are mine.
 
@@ -1706,11 +1706,11 @@
 
 5 Fearfulness and trembling are come upon me, and horror has overwhelmed me.
 
-6 And I said, Oh that I had wings like a dove! for then would I fly away, and be at r.
+6 And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest.
 
 7 Lo, then would I wander far off, and remain in the wilderness. Selah.
 
-8 I would hasten my escape from the windy storm and temp.
+8 I would hasten my escape from the windy storm and tempest.
 
 9 Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.
 
@@ -1752,7 +1752,7 @@
 
 4 In God I will praise his word, in God I have put my trust; I will not fear what flesh can do to me.
 
-5 Every day they wr my words: all their thoughts are against me for evil.
+5 Every day they wrest my words: all their thoughts are against me for evil.
 
 6 They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.
 
@@ -2424,7 +2424,7 @@
 
 5 Lift not up your horn on high: speak not with a stiff neck.
 
-6 For promotion comes neither from the east, nor from the w, nor from the south.
+6 For promotion comes neither from the east, nor from the west, nor from the south.
 
 7 But God is the judge: he putts down one, and setts up another.
 
@@ -2748,7 +2748,7 @@
 
 15 The haters of the Lord should have submitted themselves to him: but their time should have endured for ever.
 
-16 He should have fed them also with the fin of the wheat: and with honey out of the rock should I have satisfied you.
+16 He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied you.
 
 ## Psalm Chapter 82
 
@@ -2798,7 +2798,7 @@
 
 14 As the fire burns a wood, and as the flame setts the mountains on fire;
 
-15 So persecute them with your temp, and make them afraid with your storm.
+15 So persecute them with your tempest, and make them afraid with your storm.
 
 16 Fill their faces with shame; that they may seek your name, O Lord.
 
@@ -2812,7 +2812,7 @@
 
 2 My soul longs, yea, even faints for the courts of the Lord: my heart and my flesh cris out for the living God.
 
-3 Yea, the sparrow has found an house, and the swallow a n for herself, where she may lay her young, even your altars, O Lord of hosts, my King, and my God.
+3 Yea, the sparrow has found an house, and the swallow a nest for herself, where she may lay her young, even your altars, O Lord of hosts, my King, and my God.
 
 4 Blessed are they that dwell in your house: they will be still praising you. Selah.
 
@@ -2886,7 +2886,7 @@
 
 12 I will praise you, O Lord my God, with all my heart: and I will glorify your name for evermore.
 
-13 For great is your mercy toward me: and you have delivered my soul from the low hell.
+13 For great is your mercy toward me: and you have delivered my soul from the lowest hell.
 
 14 O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set you before them.
 
@@ -2906,7 +2906,7 @@
 
 4 I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.
 
-5 And of Zion it will be said, This and that man was born in her: and the high himself will establish her.
+5 And of Zion it will be said, This and that man was born in her: and the highest himself will establish her.
 
 6 The Lord will count, when he writs up the people, that this man was born there. Selah.
 
@@ -2924,7 +2924,7 @@
 
 5 Free among the dead, like the slain that lie in the grave, whom you remember no more: and they are cut off from your hand.
 
-6 you have laid me in the low pit, in darkness, in the deeps.
+6 you have laid me in the lowest pit, in darkness, in the deeps.
 
 7 your wrath lis hard upon me, and you have afflicted me with all your waves. Selah.
 
@@ -3196,7 +3196,7 @@
 
 12 Blessed is the man whom you chasten, O Lord, and teach him out of your law;
 
-13 That you may give him r from the days of adversity, until the pit be digged for the wicked.
+13 That you may give him rest from the days of adversity, until the pit be digged for the wicked.
 
 14 For the Lord will not cast off his people, neither will he forsake his inheritance.
 
@@ -3240,7 +3240,7 @@
 
 10 Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
 
-11 to whom I sware in my wrath that they should not enter into my r.
+11 to whom I sware in my wrath that they should not enter into my rest.
 
 ## Psalm Chapter 96
 
@@ -3448,7 +3448,7 @@
 
 11 For as the heaven is high above the earth, so great is his mercy toward them that fear him.
 
-12 As far as the east is from the w, so far has he removed our sins from us.
+12 As far as the east is from the west, so far has he removed our sins from us.
 
 13 Like as a father pitis his children, so the Lord pitis them that fear him.
 
@@ -3510,7 +3510,7 @@
 
 19 He appointed the moon for seasons: the sun knows his going down.
 
-20 you mak darkness, and it is night: in which all the beasts of the for do creep forth.
+20 you mak darkness, and it is night: in which all the beasts of the forest do creep forth.
 
 21 The young lions roar after their prey, and seek their meat from God.
 
@@ -3664,7 +3664,7 @@
 
 14 But lusted exceedingly in the wilderness, and tempted God in the desert.
 
-15 And he gave them their requ; but sent leanness into their soul.
+15 And he gave them their request; but sent leanness into their soul.
 
 16 They envied Moses also in the camp, and Aaron the saint of the Lord.
 
@@ -3738,7 +3738,7 @@
 
 2 Let the redeemed of the Lord say so, whom he has redeemed from the hand of the enemy;
 
-3 And gathered them out of the lands, from the east, and from the w, from the north, and from the south.
+3 And gathered them out of the lands, from the east, and from the west, from the north, and from the south.
 
 4 They wandered in the wilderness in a solitary way; they found no city to dwell in.
 
@@ -3920,7 +3920,7 @@
 
 3 your people will be willing in the day of your power, in the beauties of holiness from the womb of the morning: you have the dew of your youth.
 
-4 The Lord has sworn, and will not repent, you are a pri for ever after the order of Melchizedek.
+4 The Lord has sworn, and will not repent, you are a priest for ever after the order of Melchizedek.
 
 5 The Lord at your right hand will strike through kings in the day of his wrath.
 
@@ -4062,7 +4062,7 @@
 
 6 The Lord preserves the simple: I was brought low, and he helped me.
 
-7 Return to your r, O my soul; for the Lord has dealt bountifully with you.
+7 Return to your rest, O my soul; for the Lord has dealt bountifully with you.
 
 8 For you have delivered my soul from death, mine eyes from tears, and my feet from falling.
 
@@ -4596,7 +4596,7 @@
 
 2 As the mountains are round about Jerusalem, so the Lord is round about his people from from now on even for ever.
 
-3 For the rod of the wicked will not r upon the lot of the righteous; otherwise the righteous put forth their hands to iniquity.
+3 For the rod of the wicked will not rest upon the lot of the righteous; otherwise the righteous put forth their hands to iniquity.
 
 4 Do good, O Lord, to those that be good, and to them that are upright in their hearts.
 
@@ -4702,7 +4702,7 @@
 
 7 We will go into his tabernacles: we will worship at his footstool.
 
-8 Arise, O Lord, into your r; you, and the ark of your strength.
+8 Arise, O Lord, into your rest; you, and the ark of your strength.
 
 9 Let your priests be clothed with righteousness; and let your saints shout for joy.
 
@@ -4714,7 +4714,7 @@
 
 13 For the Lord has chosen Zion; he has desired it for his habitation.
 
-14 This is my r for ever: here will I dwell; for I have desired it.
+14 This is my rest for ever: here will I dwell; for I have desired it.
 
 15 I will abundantly bless her provision: I will satisfy her poor with bread.
 
@@ -4906,7 +4906,7 @@
 
 14 I will praise you; for I am fearfully and wonderfully made: marvellous are your works; and that my soul knows right well.
 
-15 My substance was not hid from you, when I was made in secret, and curiously wrought in the low parts of the earth.
+15 My substance was not hid from you, when I was made in secret, and curiously wrought in the lowest parts of the earth.
 
 16 your eyes did see my substance, yet being unperfect; and in your book all my members were written, which in continuance were fashioned, when as yet there was none of them.
 
@@ -5144,7 +5144,7 @@
 
 13 For he has strengthened the bars of your gates; he has blessed your children within you.
 
-14 He makes peace in your borders, and fills you with the fin of the wheat.
+14 He makes peace in your borders, and fills you with the finest of the wheat.
 
 15 He sends forth his commandment upon earth: his word runns very swiftly.
 

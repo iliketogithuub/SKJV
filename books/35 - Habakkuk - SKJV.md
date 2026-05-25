@@ -54,7 +54,7 @@
 
 8 Because you have spoiled many nations, all the remnant of the people will spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell in it.
 
-9 Woe to him that covets an evil covetousness to his house, that he may set his n on high, that he may be delivered from the power of evil!
+9 Woe to him that covets an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
 
 10 you have consulted shame to your house by cutting off many people, and have sinned against your soul.
 
@@ -110,7 +110,7 @@
 
 15 you did walk through the sea with your horses, through the heap of great waters.
 
-16 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might r in the day of trouble: when he comes up to the people, he will invade them with his troops.
+16 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he comes up to the people, he will invade them with his troops.
 
 17 Although the fig tree will not blossom, neither will fruit be in the vines; the labour of the olive will fail, and the fields will yield no meat; the flock will be cut off from the fold, and there will be no herd in the stalls:
 

@@ -150,7 +150,7 @@
 
 62 These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood.
 
-63 And the Tirshatha said to them, that they should not eat of the most holy things, till there stood up a pri with Urim and with Thummim.
+63 And the Tirshatha said to them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
 
 64 The whole congregation together was forty and two thousand three hundred and threescore,
 
@@ -200,7 +200,7 @@
 
 2 Then they came to Zerubbabel, and to the chief of the fathers, and said to them, Let us build with you: for we seek your God, as you do; and we do sacrifice to him since the days of Esarhaddon king of Assur, which brought us up here.
 
-3 But Zerubbabel, and Jeshua, and the r of the chief of the fathers of Israel, said to them, you have nothing to do with us to build an house to our God; but we ourselves together will build to the Lord God of Israel, as king Cyrus the king of Persia has commanded us.
+3 But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said to them, you have nothing to do with us to build an house to our God; but we ourselves together will build to the Lord God of Israel, as king Cyrus the king of Persia has commanded us.
 
 4 Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
 
@@ -208,13 +208,13 @@
 
 6 And in the reign of Ahasuerus, in the beginning of his reign, wrote they to him an accusation against the inhabitants of Judah and Jerusalem.
 
-7 And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the r of their companions, to Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue.
+7 And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, to Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue.
 
 8 Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:
 
-9 Then wrote Rehum the chancellor, and Shimshai the scribe, and the r of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,
+9 Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,
 
-10 And the r of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the r that are on this side the river, and at such a time.
+10 And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
 
 11 This is the copy of the letter that they sent to him, even to Artaxerxes the king; your servants the men on this side the river, and at such a time.
 
@@ -228,7 +228,7 @@
 
 16 We certify the king that, if this city be builded again, and the walls of it set up, by this means you will have no portion on this side the river.
 
-17 Then sent the king an answer to Rehum the chancellor, and to Shimshai the scribe, and to the r of their companions that dwell in Samaria, and to the r beyond the river, Peace, and at such a time.
+17 Then sent the king an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and to the rest beyond the river, Peace, and at such a time.
 
 18 The letter which you sent to us has been plainly read before me.
 
@@ -312,7 +312,7 @@
 
 15 And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king.
 
-16 And the children of Israel, the priests, and the Levites, and the r of the children of the captivity, kept the dedication of this house of God with joy.
+16 And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy.
 
 17 And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel.
 
@@ -336,9 +336,9 @@
 
 4 The son of Zerahiah, the son of Uzzi, the son of Bukki,
 
-5 The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief pri:
+5 The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
 
-6 This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel had given: and the king granted him all his requ, according to the hand of the Lord his God upon him.
+6 This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel had given: and the king granted him all his request, according to the hand of the Lord his God upon him.
 
 7 And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, to Jerusalem, in the seventh year of Artaxerxes the king.
 
@@ -348,9 +348,9 @@
 
 10 For Ezra had prepared his heart to seek the law of the Lord, and to do it, and to teach in Israel statutes and judgments.
 
-11 Now this is the copy of the letter that the king Artaxerxes gave to Ezra the pri, the scribe, even a scribe of the words of the commandments of the Lord, and of his statutes to Israel.
+11 Now this is the copy of the letter that the king Artaxerxes gave to Ezra the priest, the scribe, even a scribe of the words of the commandments of the Lord, and of his statutes to Israel.
 
-12 Artaxerxes, king of kings, to Ezra the pri, a scribe of the law of the God of heaven, perfect peace, and at such a time.
+12 Artaxerxes, king of kings, to Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time.
 
 13 I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with you.
 
@@ -362,13 +362,13 @@
 
 17 That you may buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.
 
-18 And whatsoever will seem good to you, and to your brothers, to do with the r of the silver and the gold, that do after the will of your God.
+18 And whatsoever will seem good to you, and to your brothers, to do with the rest of the silver and the gold, that do after the will of your God.
 
 19 The vessels also that are given you for the service of the house of your God, those deliver you before the God of Jerusalem.
 
 20 And whatsoever more will be needful for the house of your God, which you will have occasion to bestow, bestow it out of the king's treasure house.
 
-21 And I, even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the pri, the scribe of the law of the God of heaven, will require of you, it be done speedily,
+21 And I, even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, will require of you, it be done speedily,
 
 22 to an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.
 
@@ -450,7 +450,7 @@
 
 32 And we came to Jerusalem, and stayed there three days.
 
-33 Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the pri; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
+33 Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
 
 34 By number and by weight of every one: and all the weight was written at that time.
 
@@ -510,7 +510,7 @@
 
 9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within three days. It was the ninth month, on the twentis day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
-10 And Ezra the pri stood up, and said to them, you have sinned, and have taken strange wives, to increase the trespass of Israel.
+10 And Ezra the priest stood up, and said to them, you have sinned, and have taken strange wives, to increase the trespass of Israel.
 
 11 Now therefore make confession to the Lord God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
 
@@ -522,7 +522,7 @@
 
 15 Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
 
-16 And the children of the captivity did so. And Ezra the pri, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.
+16 And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.
 
 17 And they made an end with all the men that had taken strange wives by the first day of the first month.
 

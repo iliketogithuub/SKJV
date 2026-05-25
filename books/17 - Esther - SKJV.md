@@ -64,7 +64,7 @@
 
 8 So it came to pass, when the king's commandment and his decree was heard, and when many maidens were gathered together to Shushan the palace, to the custody of Hegai, that Esther was brought also to the king's house, to the custody of Hegai, keeper of the women.
 
-9 And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, which were meet to be given her, out of the king's house: and he preferred her and her maids to the b place of the house of the women.
+9 And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, which were meet to be given her, out of the king's house: and he preferred her and her maids to the best place of the house of the women.
 
 10 Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.
 
@@ -142,7 +142,7 @@
 
 7 And Mordecai told him of all that had happened to him, and of the sum of the money that Haman had promised to pay to the king's treasuries for the Jews, to destroy them.
 
-8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make prayer to him, and to make requ before him for her people.
+8 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it to Esther, and to declare it to her, and to charge her that she should go in to the king, to make prayer to him, and to make request before him for her people.
 
 9 And Hatach came and told Esther the words of Mordecai.
 
@@ -168,17 +168,17 @@
 
 2 And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre.
 
-3 Then said the king to her, What will you, queen Esther? and what is your requ? it will be even given you to the half of the kingdom.
+3 Then said the king to her, What will you, queen Esther? and what is your request? it will be even given you to the half of the kingdom.
 
 4 And Esther answered, If it seem good to the king, let the king and Haman come this day to the banquet that I have prepared for him.
 
 5 Then the king said, Cause Haman to make haste, that he may do as Esther has said. So the king and Haman came to the banquet that Esther had prepared.
 
-6 And the king said to Esther at the banquet of wine, What is your petition? and it will be granted you: and what is your requ? even to the half of the kingdom it will be performed.
+6 And the king said to Esther at the banquet of wine, What is your petition? and it will be granted you: and what is your request? even to the half of the kingdom it will be performed.
 
-7 Then answered Esther, and said, My petition and my requ is;
+7 Then answered Esther, and said, My petition and my request is;
 
-8 If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my requ, let the king and Haman come to the banquet that I will prepare for them, and I will do to morrow as the king has said.
+8 If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I will prepare for them, and I will do to morrow as the king has said.
 
 9 Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
 
@@ -226,9 +226,9 @@
 
 1 So the king and Haman came to banquet with Esther the queen.
 
-2 And the king said again to Esther on the second day at the banquet of wine, What is your petition, queen Esther? and it will be granted you: and what is your requ? and it will be performed, even to the half of the kingdom.
+2 And the king said again to Esther on the second day at the banquet of wine, What is your petition, queen Esther? and it will be granted you: and what is your request? and it will be performed, even to the half of the kingdom.
 
-3 Then Esther the queen answered and said, If I have found favour in your sight, O king, and if it please the king, let my life be given me at my petition, and my people at my requ:
+3 Then Esther the queen answered and said, If I have found favour in your sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:
 
 4 For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage.
 
@@ -236,7 +236,7 @@
 
 6 And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen.
 
-7 And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make requ for his life to Esther the queen; for he saw that there was evil determined against him by the king.
+7 And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 
 8 Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face.
 
@@ -304,7 +304,7 @@
 
 11 On that day the number of those that were slain in Shushan the palace was brought before the king.
 
-12 And the king said to Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the r of the king's provinces? now what is your petition? and it will be granted you: or what is your requ further? and it will be done.
+12 And the king said to Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king's provinces? now what is your petition? and it will be granted you: or what is your request further? and it will be done.
 
 13 Then said Esther, If it please the king, let it be granted to the Jews which are in Shushan to do to morrow also according to this day's decree, and let Haman's ten sons be hanged upon the gallows.
 
@@ -312,7 +312,7 @@
 
 15 For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
 
-16 But the other Jews that were in the king's provinces gathered themselves together, and stood for their lives, and had r from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,
+16 But the other Jews that were in the king's provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,
 
 17 On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
 

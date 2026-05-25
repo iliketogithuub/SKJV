@@ -54,7 +54,7 @@
 
 9 The women of my people have you cast out from their pleasant houses; from their children have you taken away my glory for ever.
 
-10 Arise you, and depart; for this is not your r: because it is polluted, it will destroy you, even with a sore destruction.
+10 Arise you, and depart; for this is not your rest: because it is polluted, it will destroy you, even with a sore destruction.
 
 11 If a man walking in the spirit and falsehood do lie, saying, I will prophesy to you of wine and of strong drink; he will even be the prophet of this people.
 
@@ -86,7 +86,7 @@
 
 11 The heads of it judge for reward, and the priests of it teach for hire, and the prophets of it divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us.
 
-12 Therefore will Zion for your sake be plowed as a field, and Jerusalem will become heaps, and the mountain of the house as the high places of the for.
+12 Therefore will Zion for your sake be plowed as a field, and Jerusalem will become heaps, and the mountain of the house as the high places of the forest.
 
 ## Micah Chapter 4
 
@@ -132,7 +132,7 @@
 
 7 And the remnant of Jacob will be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarris not for man, nor waits for the sons of men.
 
-8 And the remnant of Jacob will be among the Gentiles in the midst of many people as a lion among the beasts of the for, as a young lion among the flocks of sheep: who, if he go through, both treads down, and tears in pieces, and none can deliver.
+8 And the remnant of Jacob will be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treads down, and tears in pieces, and none can deliver.
 
 9 your hand will be lifted up upon your adversaries, and all your enemies will be cut off.
 
@@ -190,7 +190,7 @@
 
 3 That they may do evil with both hands earnestly, the prince asks, and the judge asks for a reward; and the great man, he utters his mischievous desire: so they wrap it up.
 
-4 The b of them is as a brier: the most upright is sharper than a thorn hedge: the day of your watchmen and your visitation comes; now will be their perplexity.
+4 The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of your watchmen and your visitation comes; now will be their perplexity.
 
 5 Trust you not in a friend, put you not confidence in a guide: keep the doors of your mouth from her that lis in your bosom.
 

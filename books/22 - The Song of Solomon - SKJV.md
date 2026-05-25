@@ -14,9 +14,9 @@
 
 6 Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
 
-7 Tell me, O you whom my soul loves, where you feed, where you mak your flock to r at noon: for why should I be as one that turns aside by the flocks of your companions?
+7 Tell me, O you whom my soul loves, where you feed, where you mak your flock to rest at noon: for why should I be as one that turns aside by the flocks of your companions?
 
-8 If you know not, O you fair among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
+8 If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
 
 9 I have compared you, O my love, to a company of horses in Pharaoh's chariots.
 
@@ -148,9 +148,9 @@
 
 8 I charge you, O daughters of Jerusalem, if you find my beloved, that you tell him, that I am sick of love.
 
-9 What is your beloved more than another beloved, O you fair among women? what is your beloved more than another beloved, that you do so charge us?
+9 What is your beloved more than another beloved, O you fairest among women? what is your beloved more than another beloved, that you do so charge us?
 
-10 My beloved is white and ruddy, the chief among ten thousand.
+10 My beloved is white and ruddy, the chiefest among ten thousand.
 
 11 His head is as the most fine gold, his locks are bushy, and black as a raven.
 
@@ -166,7 +166,7 @@
 
 ## Song of Solomon Chapter 6
 
-1 Where is your beloved gone, O you fair among women? where is your beloved turned aside? that we may seek him with you.
+1 Where is your beloved gone, O you fairest among women? where is your beloved turned aside? that we may seek him with you.
 
 2 My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
 
@@ -210,7 +210,7 @@
 
 8 I said, I will go up to the palm tree, I will take hold of the boughs of it: now also your breasts will be as clusters of the vine, and the smell of your nose like apples;
 
-9 And the roof of your mouth like the b wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak.
+9 And the roof of your mouth like the best wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak.
 
 10 I am my beloved's, and his desire is toward me.
 

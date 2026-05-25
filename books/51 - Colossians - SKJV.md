@@ -52,7 +52,7 @@
 
 25 Whereof I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
 
-26 Even the mystery which has been hid from ages and from generations, but now is made manif to his saints:
+26 Even the mystery which has been hid from ages and from generations, but now is made manifest to his saints:
 
 27 To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
@@ -168,7 +168,7 @@
 
 3 Also praying also for us, that God would open to us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 
-4 That I may make it manif, as I ought to speak.
+4 That I may make it manifest, as I ought to speak.
 
 5 Walk in wisdom toward them that are without, redeeming the time.
 

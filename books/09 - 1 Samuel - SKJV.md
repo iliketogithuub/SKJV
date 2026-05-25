@@ -18,7 +18,7 @@
 
 8 Then said Elkanah her husband to her, Hannah, why weep you? and why eat you not? and why is your heart grieved? am not I better to you than ten sons?
 
-9 So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the pri sat upon a seat by a post of the temple of the Lord.
+9 So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the Lord.
 
 10 And she was in bitterness of soul, and prayed to the Lord, and wept sore.
 
@@ -80,15 +80,15 @@
 
 10 The adversaries of the Lord will be broken to pieces; out of heaven will he thunder upon them: the Lord will judge the ends of the earth; and he will give strength to his king, and exalt the horn of his anointed.
 
-11 And Elkanah went to Ramah to his house. And the child did minister to the Lord before Eli the pri.
+11 And Elkanah went to Ramah to his house. And the child did minister to the Lord before Eli the priest.
 
 12 Now the sons of Eli were sons of Belial; they knew not the Lord.
 
-13 And the pri's custom with the people was, that, when any man offered sacrifice, the pri's servant came, while the flesh was in seething, with a fleshhook of three tes in his hand;
+13 And the priest's custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three tes in his hand;
 
-14 And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the pri took for himself. So they did in Shiloh to all the Israelites that came there.
+14 And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh to all the Israelites that came there.
 
-15 Also before they burnt the fat, the pri's servant came, and said to the man that sacrificed, Give flesh to roast for the pri; for he will not have sodden flesh of you, but raw.
+15 Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of you, but raw.
 
 16 And if any man said to him, Let them not fail to burn the fat presently, and then take as much as your soul desires; then he would answer him, Nay; but you will give it me now: and if not, I will take it by force.
 
@@ -114,9 +114,9 @@
 
 27 And there came a man of God to Eli, and said to him, Thus says the Lord, Did I plainly appear to the house of your father, when they were in Egypt in Pharaoh's house?
 
-28 And did I choose him out of all the tribes of Israel to be my pri, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give to the house of your father all the offerings made by fire of the children of Israel?
+28 And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give to the house of your father all the offerings made by fire of the children of Israel?
 
-29 therefore kick you at my sacrifice and at mine offering, which I have commanded in my habitation; and honour your sons above me, to make yourselves fat with the chief of all the offerings of Israel my people?
+29 therefore kick you at my sacrifice and at mine offering, which I have commanded in my habitation; and honour your sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
 
 30 therefore the Lord God of Israel says, I said indeed that your house, and the house of your father, should walk before me for ever: but now the Lord says, Be it far from me; for them that honour me I will honour, and they that despise me will be lightly esteemed.
 
@@ -128,7 +128,7 @@
 
 34 And this will be a sign to you, that will come upon your two sons, on Hophni and Phinehas; in one day they will die both of them.
 
-35 And I will raise me up a faithful pri, that will do according to that which is in mine heart and in my mind: and I will build him a sure house; and he will walk before mine anointed for ever.
+35 And I will raise me up a faithful priest, that will do according to that which is in mine heart and in my mind: and I will build him a sure house; and he will walk before mine anointed for ever.
 
 36 And it will come to pass, that every one that is left in your house will come and crouch to him for a piece of silver and a morsel of bread, and will say, Put me, I pray you, into one of the priests' offices, that I may eat a piece of bread.
 
@@ -274,7 +274,7 @@
 
 12 And the kine took the straight way to the way of Bethshemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them to the border of Bethshemesh.
 
-13 And they of Bethshemesh were reaping their wheat harv in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it.
+13 And they of Bethshemesh were reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it.
 
 14 And the cart came into the field of Joshua, a Bethshemite, and stood there, where there was a great stone: and they clave the wood of the cart, and offered the kine a burnt offering to the Lord.
 
@@ -346,21 +346,21 @@
 
 8 According to all the works which they have done since the day that I brought them up out of Egypt even to this day, with what they have forsaken me, and served other gods, so do they also to you.
 
-9 Now therefore listen to their voice: however yet prot solemnly to them, and shew them the manner of the king that will reign over them.
+9 Now therefore listen to their voice: however yet protest solemnly to them, and shew them the manner of the king that will reign over them.
 
 10 And Samuel told all the words of the Lord to the people that asked of him a king.
 
 11 And he said, This will be the manner of the king that will reign over you: He will take your sons, and appoint them for himself, for his chariots, and to be his horsemen; and some will run before his chariots.
 
-12 And he will appoint him captains over thousands, and captains over fifties; and will set them to ear his ground, and to reap his harv, and to make his instruments of war, and instruments of his chariots.
+12 And he will appoint him captains over thousands, and captains over fifties; and will set them to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots.
 
 13 And he will take your daughters to be confectionaries, and to be cooks, and to be bakers.
 
-14 And he will take your fields, and your vineyards, and your oliveyards, even the b of them, and give them to his servants.
+14 And he will take your fields, and your vineyards, and your oliveyards, even the best of them, and give them to his servants.
 
 15 And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.
 
-16 And he will take your menservants, and your maidservants, and your goodli young men, and your asses, and put them to his work.
+16 And he will take your menservants, and your maidservants, and your goodliest young men, and your asses, and put them to his work.
 
 17 He will take the tenth of your sheep: and you will be his servants.
 
@@ -416,9 +416,9 @@
 
 20 And as for your asses that were lost three days ago, set not your mind on them; for they are found. And on whom is all the desire of Israel? Is it not on you, and on all your father's house?
 
-21 And Saul answered and said, Am not I a Benjamite, of the small of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? therefore then speak you so to me?
+21 And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? therefore then speak you so to me?
 
-22 And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chief place among them that were bidden, which were about thirty persons.
+22 And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which were about thirty persons.
 
 23 And Samuel said to the cook, Bring the portion which I gave you, of which I said to you, Set it by you.
 
@@ -552,7 +552,7 @@
 
 16 Now therefore stand and see this great thing, which the Lord will do before your eyes.
 
-17 Is it not wheat harv to day? I will call to the Lord, and he will send thunder and rain; that you may perceive and see that your wickedness is great, which you have done in the sight of the Lord, in asking you a king.
+17 Is it not wheat harvest to day? I will call to the Lord, and he will send thunder and rain; that you may perceive and see that your wickedness is great, which you have done in the sight of the Lord, in asking you a king.
 
 18 So Samuel called to the Lord; and the Lord sent thunder and rain that day: and all the people greatly feared the Lord and Samuel.
 
@@ -574,7 +574,7 @@
 
 1 Saul reigned one year; and when he had reigned two years over Israel,
 
-2 Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the r of the people he sent every man to his tent.
+2 Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
 
 3 And Jonathan struck the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
 
@@ -624,7 +624,7 @@
 
 2 And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which is in Migron: and the people that were with him were about six hundred men;
 
-3 And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the Lord's pri in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
+3 And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the Lord's priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
 
 4 And between the passages, by which Jonathan sought to go over to the Philistines' garrison, there was a sharp rock on the one side, and a sharp rock on the other side: and the name of the one was Bozez, and the name of the other Seneh.
 
@@ -656,7 +656,7 @@
 
 18 And Saul said to Ahiah, Bring here the ark of God. For the ark of God was at that time with the children of Israel.
 
-19 And it came to pass, while Saul talked to the pri, that the noise that was in the host of the Philistines went on and increased: and Saul said to the pri, Withdraw your hand.
+19 And it came to pass, while Saul talked to the priest, that the noise that was in the host of the Philistines went on and increased: and Saul said to the priest, Withdraw your hand.
 
 20 And Saul and all the people that were with him assembled themselves, and they came to the battle: and, behold, every man's sword was against his fellow, and there was a very great discomfiture.
 
@@ -690,7 +690,7 @@
 
 35 And Saul built an altar to the Lord: the same was the first altar that he built to the Lord.
 
-36 And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seems good to you. Then said the pri, Let us draw near here to God.
+36 And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seems good to you. Then said the priest, Let us draw near here to God.
 
 37 And Saul asked counsel of God, will I go down after the Philistines? will you deliver them into the hand of Israel? But he answered him not that day.
 
@@ -742,7 +742,7 @@
 
 8 And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.
 
-9 But Saul and the people spared Agag, and the b of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.
+9 But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.
 
 10 Then came the word of the Lord to Samuel, saying,
 
@@ -754,7 +754,7 @@
 
 14 And Samuel said, What means then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
 
-15 And Saul said, They have brought them from the Amalekites: for the people spared the b of the sheep and of the oxen, to sacrifice to the Lord your God; and the r we have utterly destroyed.
+15 And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice to the Lord your God; and the rest we have utterly destroyed.
 
 16 Then Samuel said to Saul, Stay, and I will tell you what the Lord has said to me this night. And he said to him, Say on.
 
@@ -818,7 +818,7 @@
 
 10 Again, Jesse made seven of his sons to pass before Samuel. And Samuel said to Jesse, The Lord has not chosen these.
 
-11 And Samuel said to Jesse, Are here all your children? And he said, There remains yet the young, and, behold, he keeps the sheep. And Samuel said to Jesse, Send and fetch him: for we will not sit down till he come here.
+11 And Samuel said to Jesse, Are here all your children? And he said, There remains yet the youngest, and, behold, he keeps the sheep. And Samuel said to Jesse, Send and fetch him: for we will not sit down till he come here.
 
 12 And he sent, and brought him in. Now he was ruddy, and also of a beautiful countenance, and goodly to look to. And the Lord said, Arise, anoint him: for this is he.
 
@@ -870,9 +870,9 @@
 
 12 Now David was the son of that Ephrathite of Bethlehemjudah, whose name was Jesse; and he had eight sons: and the man went among men for an old man in the days of Saul.
 
-13 And the three eld sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah.
+13 And the three eldest sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah.
 
-14 And David was the young: and the three eld followed Saul.
+14 And David was the youngest: and the three eldest followed Saul.
 
 15 But David went and returned from Saul to feed his father's sheep at Bethlehem.
 
@@ -900,7 +900,7 @@
 
 27 And the people answered him after this manner, saying, So will it be done to the man that kills him.
 
-28 And Eliab his eld brother heard when he spake to the men; and Eliab's anger was kindled against David, and he said, Why cam you down here? and with whom have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you are come down that you might see the battle.
+28 And Eliab his eldest brother heard when he spake to the men; and Eliab's anger was kindled against David, and he said, Why cam you down here? and with whom have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you are come down that you might see the battle.
 
 29 And David said, What have I now done? Is there not a cause?
 
@@ -1162,23 +1162,23 @@
 
 ## 1 Samuel Chapter 21
 
-1 Then came David to Nob to Ahimelech the pri: and Ahimelech was afraid at the meeting of David, and said to him, Why are you alone, and no man with you?
+1 Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said to him, Why are you alone, and no man with you?
 
-2 And David said to Ahimelech the pri, The king has commanded me a business, and has said to me, Let no man know any thing of the business whereabout I send you, and what I have commanded you: and I have appointed my servants to such and such a place.
+2 And David said to Ahimelech the priest, The king has commanded me a business, and has said to me, Let no man know any thing of the business whereabout I send you, and what I have commanded you: and I have appointed my servants to such and such a place.
 
 3 Now therefore what is under your hand? give me five loaves of bread in mine hand, or what there is present.
 
-4 And the pri answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
+4 And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
 
-5 And David answered the pri, and said to him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
+5 And David answered the priest, and said to him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
 
-6 So the pri gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
+6 So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
 
-7 Now a certain man of the servants of Saul was there that day, detained before the Lord; and his name was Doeg, an Edomite, the chief of the herdmen that belonged to Saul.
+7 Now a certain man of the servants of Saul was there that day, detained before the Lord; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.
 
 8 And David said to Ahimelech, And is there not here under your hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste.
 
-9 And the pri said, The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
+9 And the priest said, The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
 
 10 And David arose and fled that day for fear of Saul, and went to Achish the king of Gath.
 
@@ -1202,7 +1202,7 @@
 
 4 And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
 
-5 And the prophet Gad said to David, Abide not in the hold; depart, and get you into the land of Judah. Then David departed, and came into the for of Hars.
+5 And the prophet Gad said to David, Abide not in the hold; depart, and get you into the land of Judah. Then David departed, and came into the forest of Hars.
 
 6 When Saul heard that David was discovered, and the men that were with him, (now Saul stayed in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)
 
@@ -1214,7 +1214,7 @@
 
 10 And he enquired of the Lord for him, and gave him victuals, and gave him the sword of Goliath the Philistine.
 
-11 Then the king sent to call Ahimelech the pri, the son of Ahitub, and all his father's house, the priests that were in Nob: and they came all of them to the king.
+11 Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that were in Nob: and they came all of them to the king.
 
 12 And Saul said, Hear now, you son of Ahitub. And he answered, Here I am, my lord.
 
@@ -1258,7 +1258,7 @@
 
 8 And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.
 
-9 And David knew that Saul secretly practised mischief against him; and he said to Abiathar the pri, Bring here the ephod.
+9 And David knew that Saul secretly practised mischief against him; and he said to Abiathar the priest, Bring here the ephod.
 
 10 Then said David, O Lord God of Israel, your servant has certainly heard that Saul seeks to come to Keilah, to destroy the city for my sake.
 
@@ -1604,7 +1604,7 @@
 
 6 And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the Lord his God.
 
-7 And David said to Abiathar the pri, Ahimelech's son, I pray you, bring me here the ephod. And Abiathar brought there the ephod to David.
+7 And David said to Abiathar the priest, Ahimelech's son, I pray you, bring me here the ephod. And Abiathar brought there the ephod to David.
 
 8 And David enquired at the Lord, saying, will I pursue after this troop? will I overtake them? And he answered him, Pursue: for you will surely overtake them, and without fail recover all.
 

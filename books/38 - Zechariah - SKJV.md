@@ -22,7 +22,7 @@
 
 10 And the man that stood among the myrtle trees answered and said, These are they whom the Lord has sent to walk to and fro through the earth.
 
-11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitts still, and is at r.
+11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitts still, and is at rest.
 
 12 Then the angel of the Lord answered and said, O Lord of hosts, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these threescore and ten years?
 
@@ -74,7 +74,7 @@
 
 ## Zechariah Chapter 3
 
-1 And he shewed me Joshua the high pri standing before the angel of the Lord, and Satan standing at his right hand to resist him.
+1 And he shewed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to resist him.
 
 2 And the Lord said to Satan, The Lord rebuke you, O Satan; even the Lord that has chosen Jerusalem rebuke you: is not this a brand plucked out of the fire?
 
@@ -88,7 +88,7 @@
 
 7 Thus says the Lord of hosts; If you will walk in my ways, and if you will keep my charge, then you will also judge my house, and will also keep my courts, and I will give you places to walk among these that stand by.
 
-8 Hear now, O Joshua the high pri, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the Branch.
+8 Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the Branch.
 
 9 For behold the stone that I have laid before Joshua; upon one stone will be seven eyes: behold, I will engrave the graving of it, says the Lord of hosts, and I will remove the iniquity of that land in one day.
 
@@ -170,11 +170,11 @@
 
 10 Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come you the same day, and go into the house of Josiah the son of Zephaniah;
 
-11 Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high pri;
+11 Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;
 
 12 And speak to him, saying, Thus speaks the Lord of hosts, saying, Behold the man whose name is The Branch; and he will grow up out of his place, and he will build the temple of the Lord:
 
-13 Even he will build the temple of the Lord; and he will bear the glory, and will sit and rule upon his throne; and he will be a pri upon his throne: and the counsel of peace will be between them both.
+13 Even he will build the temple of the Lord; and he will bear the glory, and will sit and rule upon his throne; and he will be a priest upon his throne: and the counsel of peace will be between them both.
 
 14 And the crowns will be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the Lord.
 
@@ -224,7 +224,7 @@
 
 6 Thus says the Lord of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? says the Lord of hosts.
 
-7 Thus says the Lord of hosts; Behold, I will save my people from the east country, and from the w country;
+7 Thus says the Lord of hosts; Behold, I will save my people from the east country, and from the west country;
 
 8 And I will bring them, and they will dwell in the midst of Jerusalem: and they will be my people, and I will be their God, in truth and in righteousness.
 
@@ -260,7 +260,7 @@
 
 ## Zechariah Chapter 9
 
-1 The burden of the word of the Lord in the land of Hadrach, and Damascus will be the r of it: when the eyes of man, as of all the tribes of Israel, will be toward the Lord.
+1 The burden of the word of the Lord in the land of Hadrach, and Damascus will be the rest of it: when the eyes of man, as of all the tribes of Israel, will be toward the Lord.
 
 2 And Hamath also will border by that; Tyrus, and Zidon, though it be very wise.
 
@@ -324,7 +324,7 @@
 
 1 Open your doors, O Lebanon, that the fire may devour your cedars.
 
-2 Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O you oaks of Bashan; for the for of the vintage is come down.
+2 Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O you oaks of Bashan; forest the for of the vintage is come down.
 
 3 There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.
 
@@ -338,7 +338,7 @@
 
 8 Three shepherds also I cut off in one month; and my soul lothed them, and their soul also despised me.
 
-9 Then said I, I will not feed you: that that dies, let it die; and that that is to be cut off, let it be cut off; and let the r eat every one the flesh of another.
+9 Then said I, I will not feed you: that that dies, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
 
 10 And I took my staff, even Beauty, and cut it apart, that I might break my covenant which I had made with all the people.
 
@@ -414,7 +414,7 @@
 
 3 Then will the Lord go forth, and fight against those nations, as when he fought in the day of battle.
 
-4 And his feet will stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives will cleave in the midst of it toward the east and toward the w, and there will be a very great valley; and half of the mountain will remove toward the north, and half of it toward the south.
+4 And his feet will stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives will cleave in the midst of it toward the east and toward the west, and there will be a very great valley; and half of the mountain will remove toward the north, and half of it toward the south.
 
 5 And you will flee to the valley of the mountains; for the valley of the mountains will reach to Azal: yea, you will flee, like as you fled from before the earthquake in the days of Uzziah king of Judah: and the Lord my God will come, and all the saints with you.
 

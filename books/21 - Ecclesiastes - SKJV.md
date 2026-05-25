@@ -84,7 +84,7 @@
 
 22 For what has man of all his labour, and of the vexation of his heart, in which he has laboured under the sun?
 
-23 For all his days are sorrows, and his travail grief; yea, his heart takes not r in the night. This is also vanity.
+23 For all his days are sorrows, and his travail grief; yea, his heart takes not rest in the night. This is also vanity.
 
 24 There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 
@@ -128,7 +128,7 @@
 
 17 I said in mine heart, God will judge the righteous and the wicked: for there is a time there for every purpose and for every work.
 
-18 I said in mine heart concerning the estate of the sons of men, that God might manif them, and that they might see that they themselves are beasts.
+18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
 19 For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is vanity.
 
@@ -188,7 +188,7 @@
 
 7 For in the multitude of dreams and many words there are also various vanities: but fear you God.
 
-8 If you se the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the high regards; and there be higher than they.
+8 If you se the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regards; and there be higher than they.
 
 9 Moreover the profit of the earth is for all: the king himself is served by the field.
 
@@ -224,7 +224,7 @@
 
 4 For he comes in with vanity, and departs in darkness, and his name will be covered with darkness.
 
-5 Moreover he has not seen the sun, nor known any thing: this has more r than the other.
+5 Moreover he has not seen the sun, nor known any thing: this has more rest than the other.
 
 6 Yea, though he live a thousand years twice told, yet has he seen no good: do not all go to one place?
 
