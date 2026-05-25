@@ -29,7 +29,7 @@ FORBIDDEN_WORDS = [
     (r'\bcharity\b', "charity"),
     # Archaic verb endings -eth / -est (excluding common modern words)
     (r'\b(?!(?:teeth|seth|japheth|seventh|twentieth|thirtieth|fortieth|fiftieth|sixtieth|seventieth|eightieth|ninetieth)\b)\w+eth\b', "-eth ending (e.g., saith, walketh)"),
-    (r'\b(?!(?:greatest|highest|lowest|deepest|strongest|longest|oldest|youngest|sweetest|latest|chiefest|least|best|west|rest|priest|forest|tempest|request|honest|earnest|manifest|harvest|guest|nest|test|chest|crest|jest|protest|contest|digest|suggest|invest|arrest|holiest|straitest|mightiest|eldest|goodliest|valiantest|meetest|basest|choicest|faintest|fewest|modest|wrest|smallest|closest|dishonest|fairest|finest|hottest|poorest)\b)\w+est\b', "-est ending (e.g., walkest)")
+    (r'\b(?!(?:greatest|highest|lowest|deepest|strongest|longest|oldest|youngest|sweetest|latest|chiefest|least|best|west|rest|priest|forest|tempest|request|honest|earnest|manifest|harvest|guest|nest|test|chest|crest|jest|protest|contest|digest|suggest|invest|arrest|holiest|straitest|mightiest|eldest|goodliest|valiantest|meetest|basest|choicest|faintest|fewest|modest|wrest|smallest|closest|dishonest|fairest|finest|hottest|poorest|lightest|detest)\b)\w+est\b', "-est ending (e.g., walkest)")
 ]
 
 def verify_file(file_path):
