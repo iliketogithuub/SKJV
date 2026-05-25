@@ -16,9 +16,9 @@
 
 7 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 
-8 Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+8 Look to yourselves, that we do not lose those things which we have worked for, but that we receive a full reward.
 
-9 Whosoever transgresseth, and abides not in the doctrine of Christ, has not God. He that abides in the doctrine of Christ, he has both the Father and the Son.
+9 Whoever transgresses, and does not abide in the doctrine of Christ, has not God. He that abides in the doctrine of Christ, he has both the Father and the Son.
 
 10 If there come any to you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
 

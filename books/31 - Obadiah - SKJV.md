@@ -8,7 +8,7 @@
 
 3 The pride of your heart has deceived you, you that dwell in the clefts of the rock, whose habitation is high; that says in his heart, Who shall bring me down to the ground?
 
-4 Though you exalt thyself as the eagle, and though you set your nest among the stars, from there will I bring you down, says the Lord.
+4 Though you exalt yourself as the eagle, and though you set your nest among the stars, from there will I bring you down, says the Lord.
 
 5 If thieves came to you, if robbers by night, (how are you cut off!) would they not have stolen till they had enough? if the grapegatherers came to you, would they not leave some grapes?
 
@@ -22,7 +22,7 @@
 
 10 For your violence against your brother Jacob shame shall cover you, and you will be cut off for ever.
 
-11 In the day that you stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even you wast as one of them.
+11 In the day that you stood on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even you were as one of them.
 
 12 But you should not have looked on the day of your brother in the day that he became a stranger; neither should you have rejoiced over the children of Judah in the day of their destruction; neither should you have spoken proudly in the day of distress.
 

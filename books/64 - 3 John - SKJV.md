@@ -4,19 +4,19 @@
 
 1 The elder to the wellbeloved Gaius, whom I love in the truth.
 
-2 Beloved, I wish above all things that you mayest prosper and be in health, even as your soul prospers.
+2 Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
 
-3 For I rejoiced greatly, when the brothers came and testified of the truth that is in you, even as you walkest in the truth.
+3 For I rejoiced greatly, when the brothers came and testified of the truth that is in you, even as you walk in the truth.
 
 4 I have no greater joy than to hear that my children walk in truth.
 
-5 Beloved, you do faithfully whatsoever you do to the brothers, and to strangers;
+5 Beloved, you do faithfully whatever you do to the brothers, and to strangers;
 
-6 Which have borne witness of your charity before the church: whom if you bring forward on their journey after a godly sort, you will do well:
+6 Who have borne witness of your love before the church: whom if you send on their journey in a manner worthy of God, you will do well:
 
 7 Because that for his name's sake they went forth, taking nothing of the Gentiles.
 
-8 We therefore ought to receive such, that we might be fellowhelpers to the truth.
+8 We therefore ought to receive such, that we might be co-workers for the truth.
 
 9 I wrote to the church: but Diotrephes, who loves to have the preeminence among them, receives us not.
 
