@@ -22,7 +22,7 @@
 
 10 And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they killed Sheshai, and Ahiman, and Talmai.
 
-11 And from from there he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
+11 And from there he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
 
 12 And Caleb said, He that smits Kirjathsepher, and takes it, to him will I give Achsah my daughter to wife.
 
@@ -1024,7 +1024,7 @@
 
 10 When you go, you will come to a people secure, and to a large land: for God has given it into your hands; a place where there is no want of any thing that is in the earth.
 
-11 And there went from from there of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
+11 And there went from there of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
 
 12 And they went up, and pitched in Kirjathjearim, in Judah: therefore they called that place Mahanehdan to this day: look, it is behind Kirjathjearim.
 
@@ -1102,7 +1102,7 @@
 
 17 And when he had lifted up his eyes, he saw a traveling man in the street of the city: and the old man said, Where go you? and from where com you?
 
-18 And he said to him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from from there am I: and I went to Bethlehemjudah, but I am now going to the house of the Lord; and there is no man that receives me to house.
+18 And he said to him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from there am I: and I went to Bethlehemjudah, but I am now going to the house of the Lord; and there is no man that receives me to house.
 
 19 Yet there is both straw and animal feed for our asses; and there is bread and wine also for me, and for your female servant, and for the young man which is with your servants: there is no want of any thing.
 
@@ -1274,7 +1274,7 @@
 
 23 And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned to their inheritance, and repaired the cities, and dwelt in them.
 
-24 And the children of Israel departed from there at that time, every man to his tribe and to his family, and they went out from from there every man to his inheritance.
+24 And the children of Israel departed from there at that time, every man to his tribe and to his family, and they went out from there every man to his inheritance.
 
 25 In those days there was no king in Israel: every man did that which was right in his own eyes.
 

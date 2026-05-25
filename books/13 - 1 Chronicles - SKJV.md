@@ -806,7 +806,7 @@
 
 31 And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.
 
-32 And other of their brothers, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.
+32 And other of their brothers, of the sons of the Kohathites, were over the showbread, to prepare it every sabbath.
 
 33 And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night.
 
@@ -1564,7 +1564,7 @@
 
 28 Because their office was to wait on the sons of Aaron for the service of the house of the Lord, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;
 
-29 Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;
+29 Both for the showbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;
 
 30 And to stand every morning to thank and praise the Lord, and likewise at even:
 
@@ -1868,7 +1868,7 @@
 
 15 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps of it: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps of it, according to the use of every candlestick.
 
-16 And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver:
+16 And by weight he gave gold for the tables of showbread, for every table; and likewise silver for the tables of silver:
 
 17 Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver:
 

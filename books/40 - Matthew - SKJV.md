@@ -178,7 +178,7 @@
 
 20 And they immediately left their nets, and followed him.
 
-21 And going on from from there, he saw other two brothers, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
+21 And going on from there, he saw other two brothers, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
 
 22 And they immediately left the ship and their father, and followed him.
 
@@ -440,7 +440,7 @@
 
 11 And I say to you, That many will come from the east and west, and will sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 
-12 But the children of the kingdom will be cast out into outer darkness: there will be weeping and gnashing of tes.
+12 But the children of the kingdom will be cast out into outer darkness: there will be weeping and gnashing of teeth.
 
 13 And Jesus said to the centurion, Go your way; and as you have believed, so be it done to you. And his servant was healed in the selfsame hour.
 
@@ -506,7 +506,7 @@
 
 8 But when the multitudes saw it, they marvelled, and glorified God, which had given such power to men.
 
-9 And as Jesus passed forth from from there, he saw a man, named Matthew, sitting at the receipt of custom: and he says to him, Follow me. And he arose, and followed him.
+9 And as Jesus passed forth from there, he saw a man, named Matthew, sitting at the receipt of custom: and he says to him, Follow me. And he arose, and followed him.
 
 10 And it came to pass, as Jesus sat at meat in the house, look, many publicans and sinners came and sat down with him and his disciples.
 
@@ -722,7 +722,7 @@
 
 3 But he said to them, Have you not read what David did, when he was an hungred, and they that were with him;
 
-4 How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
+4 How he entered into the house of God, and did eat the showbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 
 5 Or have you not read in the law, how that on the sabbath days the priests in the temple defile the sabbath, and are blameless?
 
@@ -744,7 +744,7 @@
 
 14 Then the Pharisees went out, and held a council against him, how they might destroy him.
 
-15 But when Jesus knew it, he withdrew himself from from there: and great multitudes followed him, and he healed them all;
+15 But when Jesus knew it, he withdrew himself from there: and great multitudes followed him, and he healed them all;
 
 16 And charged them that they should not make him known:
 
@@ -802,7 +802,7 @@
 
 43 When the unclean spirit is gone out of a man, he walks through dry places, seeking rest, and finds none.
 
-44 Then he says, I will return into my house from from where I came out; and when he is come, he finds it empty, swept, and garnished.
+44 Then he says, I will return into my house from where I came out; and when he is come, he finds it empty, swept, and garnished.
 
 45 Then goes he, and takes with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so will it be also to this wicked generation.
 
@@ -870,7 +870,7 @@
 
 26 But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
 
-27 So the servants of the householder came and said to him, Sir, did not you sow good seed in your field? from from where then has it tares?
+27 So the servants of the householder came and said to him, Sir, did not you sow good seed in your field? from where then has it tares?
 
 28 He said to them, An enemy has done this. The servants said to him, will you then that we go and gather them up?
 
@@ -900,7 +900,7 @@
 
 41 The Son of man will send forth his angels, and they will gather out of his kingdom all things that offend, and them which do wickedness;
 
-42 And will cast them into a furnace of fire: there will be wailing and gnashing of tes.
+42 And will cast them into a furnace of fire: there will be wailing and gnashing of teeth.
 
 43 Then will the righteous shine forth as the sun in the kingdom of their Father. Who has ears to hear, let him hear.
 
@@ -916,7 +916,7 @@
 
 49 So will it be at the end of the world: the angels will come forth, and sever the wicked from among the just,
 
-50 And will cast them into the furnace of fire: there will be wailing and gnashing of tes.
+50 And will cast them into the furnace of fire: there will be wailing and gnashing of teeth.
 
 51 Jesus says to them, Have you understood all these things? They say to him, Yea, Lord.
 
@@ -1066,7 +1066,7 @@
 
 28 Then Jesus answered and said to her, O woman, great is your faith: be it to you even as you will. And her daughter was made whole from that very hour.
 
-29 And Jesus departed from from there, and came near to the sea of Galilee; and went up into a mountain, and sat down there.
+29 And Jesus departed from there, and came near to the sea of Galilee; and went up into a mountain, and sat down there.
 
 30 And great multitudes came to him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
 
@@ -1526,7 +1526,7 @@
 
 12 And he says to him, Friend, how cam you in here not having a wedding garment? And he was speechless.
 
-13 Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness, there will be weeping and gnashing of tes.
+13 Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness, there will be weeping and gnashing of teeth.
 
 14 For many are called, but few are chosen.
 
@@ -1776,7 +1776,7 @@
 
 50 The lord of that servant will come in a day when he looks not for him, and in an hour that he is not aware of,
 
-51 And will cut him apart, and appoint him his portion with the hypocrites: there will be weeping and gnashing of tes.
+51 And will cut him apart, and appoint him his portion with the hypocrites: there will be weeping and gnashing of teeth.
 
 ## Matthew Chapter 25
 
@@ -1838,7 +1838,7 @@
 
 29 For to every one that has will be given, and he will have abundance: but from him that has not will be taken away even that which he has.
 
-30 And cast you the unprofitable servant into outer darkness: there will be weeping and gnashing of tes.
+30 And cast you the unprofitable servant into outer darkness: there will be weeping and gnashing of teeth.
 
 31 When the Son of man will come in his glory, and all the holy angels with him, then will he sit upon the throne of his glory:
 
@@ -2112,7 +2112,7 @@
 
 43 He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.
 
-44 The thieves also, which were crucified with him, cast the same in his tes.
+44 The thieves also, which were crucified with him, cast the same in his teeth.
 
 45 Now from the sixth hour there was darkness over all the land to the ninth hour.
 

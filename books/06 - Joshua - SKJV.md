@@ -404,7 +404,7 @@
 
 7 And the men of Israel said to the Hivites, Perhaps you dwell among us; and how will we make a league with you?
 
-8 And they said to Joshua, We are your servants. And Joshua said to them, Who are you? and from from where come you?
+8 And they said to Joshua, We are your servants. And Joshua said to them, Who are you? and from where come you?
 
 9 And they said to him, From a very far country your servants are come because of the name of the Lord your God: for we have heard the fame of him, and all that he did in Egypt,
 
@@ -738,7 +738,7 @@
 
 3 And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side to Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
 
-4 From from there it passed toward Azmon, and went out to the river of Egypt; and the goings out of that coast were at the sea: this will be your south coast.
+4 From there it passed toward Azmon, and went out to the river of Egypt; and the goings out of that coast were at the sea: this will be your south coast.
 
 5 And the east border was the salt sea, even to the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:
 
@@ -944,7 +944,7 @@
 
 12 And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out of it were at the wilderness of Bethaven.
 
-13 And the border went over from from there toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lies on the south side of the nether Bethhoron.
+13 And the border went over from there toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lies on the south side of the nether Bethhoron.
 
 14 And the border was drawn from there, and compassed the corner of the sea southward, from the hill that lies before Bethhoron southward; and the goings out of it were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.
 
@@ -1002,7 +1002,7 @@
 
 12 And turned from Sarid eastward toward the sunrising to the border of Chislothtabor, and then goes out to Daberath, and goes up to Japhia,
 
-13 And from from there passes on along on the east to Gittahhepher, to Ittahkazin, and goes out to Remmonmethoar to Neah;
+13 And from there passes on along on the east to Gittahhepher, to Ittahkazin, and goes out to Remmonmethoar to Neah;
 
 14 And the border compasses it on the north side to Hannathon: and the outgoings of it are in the valley of Jiphthahel:
 
@@ -1044,7 +1044,7 @@
 
 33 And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, to Lakum; and the outgoings of it were at Jordan:
 
-34 And then the coast turns westward to Aznothtabor, and goes out from from there to Hukkok, and reachs to Zebulun on the south side, and reachs to Asher on the west side, and to Judah upon Jordan toward the sunrising.
+34 And then the coast turns westward to Aznothtabor, and goes out from there to Hukkok, and reachs to Zebulun on the south side, and reachs to Asher on the west side, and to Judah upon Jordan toward the sunrising.
 
 35 And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinners,
 
@@ -1092,7 +1092,7 @@
 
 5 And if the one who brings justice of blood pursue after him, then they will not deliver the slayer up into his hand; because he struck his neighbour unwittingly, and hated him not beforetime.
 
-6 And he will dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that will be in those days: then will the slayer return, and come to his own city, and to his own house, to the city from from where he fled.
+6 And he will dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that will be in those days: then will the slayer return, and come to his own city, and to his own house, to the city from where he fled.
 
 7 And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.
 

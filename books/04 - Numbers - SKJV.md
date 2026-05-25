@@ -298,7 +298,7 @@
 
 6 And will put thereon the covering of badgers' skins, and will spread over it a cloth wholly of blue, and will put in the staves of it.
 
-7 And upon the table of shewbread they will spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover also: and the continual bread will be thereon:
+7 And upon the table of showbread they will spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover also: and the continual bread will be thereon:
 
 8 And they will spread upon them a cloth of scarlet, and cover the same with a covering of badgers' skins, and will put in the staves of it.
 
@@ -926,7 +926,7 @@
 
 32 And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
 
-33 And while the flesh was yet between their tes, ere it was chewed, the wrath of the Lord was burned against the people, and the Lord struck the people with a very great plague.
+33 And while the flesh was yet between their teeth, ere it was chewed, the wrath of the Lord was burned against the people, and the Lord struck the people with a very great plague.
 
 34 And he called the name of that place Kibrothhattaavah: because there they buried the people that lusted.
 
@@ -1012,9 +1012,9 @@
 
 22 And they ascended by the south, and came to Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 
-23 And they came to the brook of Eshcol, and cut down from from there a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
+23 And they came to the brook of Eshcol, and cut down from there a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
 
-24 The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from from there.
+24 The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from there.
 
 25 And they returned from searching of the land after forty days.
 
@@ -1536,15 +1536,15 @@
 
 11 And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
 
-12 From from there they removed, and pitched in the valley of Zared.
+12 From there they removed, and pitched in the valley of Zared.
 
-13 From from there they removed, and pitched on the other side of Arnon, which is in the wilderness that comes out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
+13 From there they removed, and pitched on the other side of Arnon, which is in the wilderness that comes out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
 
 14 therefore it is said in the book of the wars of the Lord, What he did in the Red sea, and in the brooks of Arnon,
 
 15 And at the stream of the brooks that goes down to the dwelling of Ar, and lies upon the border of Moab.
 
-16 And from from there they went to Beer: that is the well whereof the Lord spoke to Moses, Gather the people together, and I will give them water.
+16 And from there they went to Beer: that is the well whereof the Lord spoke to Moses, Gather the people together, and I will give them water.
 
 17 Then Israel sang this song, Spring up, O well; sing you to it:
 
@@ -1694,7 +1694,7 @@
 
 12 And he answered and said, Must I not take heed to speak that which the Lord has put in my mouth?
 
-13 And Balak said to him, Come, I pray you, with me to another place, from from where you may see them: you will see but the utmost part of them, and will not see them all: and curse me them from from there.
+13 And Balak said to him, Come, I pray you, with me to another place, from where you may see them: you will see but the utmost part of them, and will not see them all: and curse me them from there.
 
 14 And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 
@@ -1722,7 +1722,7 @@
 
 26 But Balaam answered and said to Balak, Told not I you, saying, All that the Lord speaks, that I must do?
 
-27 And Balak said to Balaam, Come, I pray you, I will bring you to another place; perhaps it will please God that you may curse me them from from there.
+27 And Balak said to Balaam, Come, I pray you, I will bring you to another place; perhaps it will please God that you may curse me them from there.
 
 28 And Balak brought Balaam to the top of Peor, that looks toward jeshimon.
 

@@ -224,7 +224,7 @@
 
 8 But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my God, and in whom is the spirit of the holy gods: and before him I told the dream, saying,
 
-9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubls you, tell me the visions of my dream that I have seen, and the interpretation of it.
+9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubles you, tell me the visions of my dream that I have seen, and the interpretation of it.
 
 10 Thus were the visions of mine head in my bed; I saw, and look, a tree in the midst of the earth, and the height of it was great.
 
@@ -414,11 +414,11 @@
 
 4 The first was like a lion, and had eagle's wings: I looked until the wings of it were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
 
-5 And look another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the tes of it: and they said thus to it, Arise, devour much flesh.
+5 And look another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus to it, Arise, devour much flesh.
 
 6 After this I looked, and look another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
 
-7 After this I saw in the night visions, and look, a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron tes: it devoured and broke in pieces, and stamped the rest with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
+7 After this I saw in the night visions, and look, a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and broke in pieces, and stamped the rest with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
 8 I considered the horns, and, look, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, look, in this horn were eyes like the eyes of man, and a mouth speaking great things.
 
@@ -442,7 +442,7 @@
 
 18 But the saints of the most High will take the kingdom, and possess the kingdom for ever, even for ever and ever.
 
-19 Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose tes were of iron, and his nails of brass; which devoured, broke in pieces, and stamped the rest with his feet;
+19 Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, broke in pieces, and stamped the rest with his feet;
 
 20 And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spoke very great things, whose look was more stout than his fellows.
 

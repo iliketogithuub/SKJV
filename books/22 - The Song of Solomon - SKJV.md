@@ -100,7 +100,7 @@
 
 1 Look, you are fair, my love; look, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
 
-2 your tes are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
+2 your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
 
 3 your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.
 
@@ -176,7 +176,7 @@
 
 5 Turn away your eyes from me, for they have overcome me: your hair is as a flock of goats that appear from Gilead.
 
-6 your tes are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them.
+6 your teeth are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them.
 
 7 As a piece of a pomegranate are your temples within your locks.
 

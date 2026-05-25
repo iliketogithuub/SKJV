@@ -54,7 +54,7 @@
 
 6 I will not be afraid of ten thousands of people, that have set themselves against me round about.
 
-7 Arise, O Lord; save me, O my God: for you have smitten all mine enemies upon the cheek bone; you have broken the tes of the ungodly.
+7 Arise, O Lord; save me, O my God: for you have smitten all mine enemies upon the cheek bone; you have broken the teeth of the ungodly.
 
 8 Salvation belongs to the Lord: your blessing is upon your people. [Pause and reflect].
 
@@ -1042,7 +1042,7 @@
 
 15 But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:
 
-16 With hypocritical mockers in feasts, they gnashed upon me with their tes.
+16 With hypocritical mockers in feasts, they gnashed upon me with their teeth.
 
 17 Lord, how long will you look on? rescue my soul from their destructions, my darling from the lions.
 
@@ -1118,7 +1118,7 @@
 
 11 But the meek will inherit the earth; and will delight themselves in the abundance of peace.
 
-12 The wicked plots against the just, and gnashs upon him with his tes.
+12 The wicked plots against the just, and gnashs upon him with his teeth.
 
 13 The Lord will laugh at him: for he sees that his day is coming.
 
@@ -1778,7 +1778,7 @@
 
 3 He will send from heaven, and save me from the disgrace of him that would swallow me up. [Pause and reflect]. God will send forth his mercy and his truth.
 
-4 My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose tes are spears and arrows, and their tongue a sharp sword.
+4 My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.
 
 5 Be you exalted, O God, above the heavens; let your glory be above all the earth.
 
@@ -1806,7 +1806,7 @@
 
 5 Which will not listen to the voice of charmers, charming never so wisely.
 
-6 Break their tes, O God, in their mouth: break out the great tes of the young lions, O Lord.
+6 Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.
 
 7 Let them melt away as waters which run continually: when he bends his bow to shoot his arrows, let them be as cut in pieces.
 
@@ -1978,7 +1978,7 @@
 
 3 Wickedness prevail against me: as for our sins, you will purge them away.
 
-4 Blessed is the man whom you chooses, and caus to approach to you, that he may dwell in your courts: we will be satisfied with the goodness of your house, even of your holy temple.
+4 Blessed is the man whom you choose, and cause to approach to you, that he may dwell in your courts: we will be satisfied with the goodness of your house, even of your holy temple.
 
 5 By terrible things in righteousness will you answer us, O God of our salvation; who are the confidence of all the ends of the earth, and of them that are afar off upon the sea:
 
@@ -3970,7 +3970,7 @@
 
 9 He has dispersed, he has given to the poor; his righteousness endures for ever; his horn will be exalted with honour.
 
-10 The wicked will see it, and be grieved; he will gnash with his tes, and melt away: the desire of the wicked will perish.
+10 The wicked will see it, and be grieved; he will gnash with his teeth, and melt away: the desire of the wicked will perish.
 
 ## Psalm Chapter 113
 
@@ -4526,7 +4526,7 @@
 
 ## Psalm Chapter 121
 
-1 I will lift up mine eyes to the hills, from from where comes my help.
+1 I will lift up mine eyes to the hills, from where comes my help.
 
 2 My help comes from the Lord, which made heaven and earth.
 
@@ -4584,7 +4584,7 @@
 
 5 Then the proud waters had gone over our soul.
 
-6 Blessed be the Lord, who has not given us as a prey to their tes.
+6 Blessed be the Lord, who has not given us as a prey to their teeth.
 
 7 Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.
 
@@ -4594,7 +4594,7 @@
 
 1 They that trust in the Lord will be as mount Zion, which cannot be removed, but abides for ever.
 
-2 As the mountains are round about Jerusalem, so the Lord is round about his people from from now on even for ever.
+2 As the mountains are round about Jerusalem, so the Lord is round about his people from now on even for ever.
 
 3 For the rod of the wicked will not rest upon the lot of the righteous; otherwise the righteous put forth their hands to wickedness.
 
@@ -4684,7 +4684,7 @@
 
 2 Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.
 
-3 Let Israel hope in the Lord from from now on and for ever.
+3 Let Israel hope in the Lord from now on and for ever.
 
 ## Psalm Chapter 132
 

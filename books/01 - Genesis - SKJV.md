@@ -84,7 +84,7 @@
 
 9 And out of the ground made the Lord God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 
-10 And a river went out of Eden to water the garden; and from from there it was parted, and became into four heads.
+10 And a river went out of Eden to water the garden; and from there it was parted, and became into four heads.
 
 11 The name of the first is Pison: that is it which compasses the whole land of Havilah, where there is gold;
 
@@ -162,7 +162,7 @@
 
 22 And the Lord God said, Look, the man is become as one of us, to know good and evil: and now, otherwise he put forth his hand, and take also of the tree of life, and eat, and live for ever:
 
-23 Therefore the Lord God sent him forth from the garden of Eden, to till the ground from from where he was taken.
+23 Therefore the Lord God sent him forth from the garden of Eden, to till the ground from where he was taken.
 
 24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 
@@ -570,9 +570,9 @@
 
 7 Go to, let us go down, and there confound their language, that they may not understand one another's speech.
 
-8 So the Lord scattered them abroad from from there upon the face of all the earth: and they left off to build the city.
+8 So the Lord scattered them abroad from there upon the face of all the earth: and they left off to build the city.
 
-9 Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from from there did the Lord scatter them abroad upon the face of all the earth.
+9 Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from there did the Lord scatter them abroad upon the face of all the earth.
 
 10 These are the generations of Shem: Shem was an hundred years old, and fathered Arphaxad two years after the flood:
 
@@ -636,7 +636,7 @@
 
 7 And the Lord appeared to Abram, and said, to your seed will I give this land: and there builded he an altar to the Lord, who appeared to him.
 
-8 And he removed from from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar to the Lord, and called upon the name of the Lord.
+8 And he removed from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar to the Lord, and called upon the name of the Lord.
 
 9 And Abram journeyed, going on still toward the south.
 
@@ -916,7 +916,7 @@
 
 15 Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but you did laugh.
 
-16 And the men rose up from from there, and looked toward Sodom: and Abraham went with them to bring them on the way.
+16 And the men rose up from there, and looked toward Sodom: and Abraham went with them to bring them on the way.
 
 17 And the Lord said, will I hide from Abraham that thing which I do;
 
@@ -928,7 +928,7 @@
 
 21 I will go down now, and see whether they have done altogether according to the cry of it, which is come to me; and if not, I will know.
 
-22 And the men turned their faces from from there, and went toward Sodom: but Abraham stood yet before the Lord.
+22 And the men turned their faces from there, and went toward Sodom: but Abraham stood yet before the Lord.
 
 23 And Abraham drew near, and said, will you also destroy the righteous with the wicked?
 
@@ -1032,7 +1032,7 @@
 
 ## Genesis Chapter 20
 
-1 And Abraham journeyed from from there toward the south country, and dwelled between Kadesh and Shur, and lived temporarily in Gerar.
+1 And Abraham journeyed from there toward the south country, and dwelled between Kadesh and Shur, and lived temporarily in Gerar.
 
 2 And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.
 
@@ -1240,11 +1240,11 @@
 
 4 But you will go to my country, and to my relatives, and take a wife to my son Isaac.
 
-5 And the servant said to him, Perhaps the woman will not be willing to follow me to this land: must I needs bring your son again to the land from from where you cam?
+5 And the servant said to him, Perhaps the woman will not be willing to follow me to this land: must I needs bring your son again to the land from where you cam?
 
 6 And Abraham said to him, Beware you that you bring not my son there again.
 
-7 The Lord God of heaven, which took me from my father's house, and from the land of my relatives, and which spoke to me, and that sware to me, saying, to your seed will I give this land; he will send his angel before you, and you will take a wife to my son from from there.
+7 The Lord God of heaven, which took me from my father's house, and from the land of my relatives, and which spoke to me, and that sware to me, saying, to your seed will I give this land; he will send his angel before you, and you will take a wife to my son from there.
 
 8 And if the woman will not be willing to follow you, then you will be clear from this my oath: only bring not my son there again.
 
@@ -1480,9 +1480,9 @@
 
 21 And they digged another well, and strove for that also: and he called the name of it Sitnah.
 
-22 And he removed from from there, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the Lord has made room for us, and we will be fruitful in the land.
+22 And he removed from there, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the Lord has made room for us, and we will be fruitful in the land.
 
-23 And he went up from from there to Beersheba.
+23 And he went up from there to Beersheba.
 
 24 And the Lord appeared to him the same night, and said, I am the God of Abraham your father: fear not, for I am with you, and will bless you, and multiply your seed for my servant Abraham's sake.
 
@@ -1526,7 +1526,7 @@
 
 8 Now therefore, my son, obey my voice according to that which I command you.
 
-9 Go now to the flock, and fetch me from from there two good kids of the goats; and I will make them savoury meat for your father, such as he loves:
+9 Go now to the flock, and fetch me from there two good kids of the goats; and I will make them savoury meat for your father, such as he loves:
 
 10 And you will bring it to your father, that he may eat, and that he may bless you before his death.
 
@@ -1598,7 +1598,7 @@
 
 44 And tarry with him a few days, until your brother's fury turn away;
 
-45 Until your brother's anger turn away from you, and he forget that which you have done to him: then I will send, and fetch you from from there: why should I be deprived also of you both in one day?
+45 Until your brother's anger turn away from you, and he forget that which you have done to him: then I will send, and fetch you from there: why should I be deprived also of you both in one day?
 
 46 And Rebekah said to Isaac, I am weary of my life because of the daughters of Hs: if Jacob take a wife of the daughters of Hs, such as these which are of the daughters of the land, what good will my life do me?
 
@@ -1606,7 +1606,7 @@
 
 1 And Isaac called Jacob, and blessed him, and charged him, and said to him, you will not take a wife of the daughters of Canaan.
 
-2 Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from from there of the daughers of Laban your mother's brother.
+2 Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from there of the daughers of Laban your mother's brother.
 
 3 And God Almighty bless you, and make you fruitful, and multiply you, that you may be a multitude of people;
 
@@ -1614,7 +1614,7 @@
 
 5 And Isaac sent away Jacob: and he went to Padanaram to Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.
 
-6 When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from from there; and that as he blessed him he gave him a charge, saying, you will not take a wife of the daughers of Canaan;
+6 When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from there; and that as he blessed him he gave him a charge, saying, you will not take a wife of the daughers of Canaan;
 
 7 And that Jacob obeyed his father and his mother, and was gone to Padanaram;
 
@@ -1784,7 +1784,7 @@
 
 31 And he said, What will I give you? And Jacob said, you will not give me any thing: if you will do this thing for me, I will again feed and keep your flock.
 
-32 I will pass through all your flock to day, removing from from there all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such will be my hire.
+32 I will pass through all your flock to day, removing from there all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such will be my hire.
 
 33 So will my righteousness answer for me in time to come, when it will come for my hire before your face: every one that is not speckled and spotted among the goats, and brown among the sheep, that will be counted stolen with me.
 
@@ -2592,7 +2592,7 @@
 
 1 Now when Jacob saw that there was corn in Egypt, Jacob said to his sons, Why do you look one upon another?
 
-2 And he said, Look, I have heard that there is corn in Egypt: get you down there, and buy for us from from there; that we may live, and not die.
+2 And he said, Look, I have heard that there is corn in Egypt: get you down there, and buy for us from there; that we may live, and not die.
 
 3 And Joseph's ten brothers went down to buy corn in Egypt.
 
@@ -3068,7 +3068,7 @@
 
 11 Binding his foal to the vine, and his ass's colt to the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
 
-12 His eyes will be red with wine, and his tes white with milk.
+12 His eyes will be red with wine, and his teeth white with milk.
 
 13 Zebulun will dwell at the haven of the sea; and he will be for an haven of ships; and his border will be to Zidon.
 
@@ -3092,7 +3092,7 @@
 
 23 The archers have sorely grieved him, and shot at him, and hated him:
 
-24 But his bow stayed in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from from there is the shepherd, the stone of Israel:)
+24 But his bow stayed in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from there is the shepherd, the stone of Israel:)
 
 25 Even by the God of your father, who will help you; and by the Almighty, who will bless you with blessings of heaven above, blessings of the deep that lies under, blessings of the breasts, and of the womb:
 

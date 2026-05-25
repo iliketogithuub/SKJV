@@ -150,7 +150,7 @@
 
 ## James Chapter 4
 
-1 From from where come wars and fightings among you? come they not from here, even of your lusts that war in your members?
+1 From where come wars and fightings among you? come they not from here, even of your lusts that war in your members?
 
 2 you lust, and have not: you kill, and desire to have, and cannot obtain: you fight and war, yet you have not, because you ask not.
 

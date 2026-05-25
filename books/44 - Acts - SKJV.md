@@ -410,7 +410,7 @@
 
 3 And said to him, Get you out of your country, and from your relatives, and come into the land which I will show you.
 
-4 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from from there, when his father was dead, he removed him into this land, in which you now dwell.
+4 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from there, when his father was dead, he removed him into this land, in which you now dwell.
 
 5 And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
 
@@ -510,7 +510,7 @@
 
 53 Who have received the law by the disposition of angels, and have not kept it.
 
-54 When they heard these things, they were cut to the heart, and they gnashed on him with their tes.
+54 When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.
 
 55 But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 
@@ -914,7 +914,7 @@
 
 3 And when they had fasted and prayed, and laid their hands on them, they sent them away.
 
-4 So they, being sent forth by the Holy Spirit, departed to Seleucia; and from from there they sailed to Cyprus.
+4 So they, being sent forth by the Holy Spirit, departed to Seleucia; and from there they sailed to Cyprus.
 
 5 And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.
 
@@ -1064,7 +1064,7 @@
 
 25 And when they had preached the word in Perga, they went down into Attalia:
 
-26 And from there sailed to Antioch, from from where they had been recommended to the grace of God for the work which they fulfilled.
+26 And from there sailed to Antioch, from where they had been recommended to the grace of God for the work which they fulfilled.
 
 27 And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith to the Gentiles.
 
@@ -1178,7 +1178,7 @@
 
 11 Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;
 
-12 And from from there to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
+12 And from there to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 
 13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spoke to the women which resorted there.
 
@@ -1318,7 +1318,7 @@
 
 5 And when Silas and Timotheus were come from Macedonia, Paul was pressed in the Holy Spirit, and testified to the Jews that Jesus was Christ.
 
-6 And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from from now on I will go to the Gentiles.
+6 And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from now on I will go to the Gentiles.
 
 7 And he departed from there, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
 
@@ -1528,7 +1528,7 @@
 
 ## Acts Chapter 21
 
-1 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course to Coos, and the day following to Rhodes, and from from there to Patara:
+1 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course to Coos, and the day following to Rhodes, and from there to Patara:
 
 2 And finding a ship sailing over to Phenicia, we went aboard, and set forth.
 
@@ -1928,7 +1928,7 @@
 
 3 And the next day we touched at Sidon. And Julius courteously treated Paul, and gave him liberty to go to his friends to refresh himself.
 
-4 And when we had launched from from there, we sailed under Cyprus, because the winds were contrary.
+4 And when we had launched from there, we sailed under Cyprus, because the winds were contrary.
 
 5 And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia.
 
@@ -2036,11 +2036,11 @@
 
 12 And landing at Syracuse, we tarried there three days.
 
-13 And from from there we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
+13 And from there we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
 
 14 Where we found brothers, and were desired to tarry with them seven days: and so we went toward Rome.
 
-15 And from from there, when the brothers heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
+15 And from there, when the brothers heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
 
 16 And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.
 

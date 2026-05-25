@@ -12,7 +12,7 @@
 
 5 Awake, you drunkards, and weep; and howl, all you drinkers of wine, because of the new wine; for it is cut off from your mouth.
 
-6 For a nation is come up upon my land, strong, and without number, whose tes are the tes of a lion, and he has the cheek tes of a great lion.
+6 For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he has the cheek teeth of a great lion.
 
 7 He has laid my vine waste, and barked my fig tree: he has made it clean bare, and cast it away; the branches of it are made white.
 

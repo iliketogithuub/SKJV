@@ -72,7 +72,7 @@
 
 4 Then will they cry to the Lord, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.
 
-5 Thus says the Lord concerning the prophets that make my people err, that bite with their tes, and cry, Peace; and he that puts not into their mouths, they even prepare war against him.
+5 Thus says the Lord concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that puts not into their mouths, they even prepare war against him.
 
 6 Therefore night will be to you, that you will not have a vision; and it will be dark to you, that you will not divine; and the sun will go down over the prophets, and the day will be dark over them.
 
@@ -102,7 +102,7 @@
 
 6 In that day, says the Lord, will I assemble her that halts, and I will gather her that is driven out, and her that I have afflicted;
 
-7 And I will make her that halted a remnant, and her that was cast far off a strong nation: and the Lord will reign over them in mount Zion from from now on, even for ever.
+7 And I will make her that halted a remnant, and her that was cast far off a strong nation: and the Lord will reign over them in mount Zion from now on, even for ever.
 
 8 And you, O tower of the flock, the strong hold of the daughter of Zion, to you will it come, even the first dominion; the kingdom will come to the daughter of Jerusalem.
 

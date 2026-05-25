@@ -96,7 +96,7 @@
 
 47 And my human spirit has rejoiced in God my Saviour.
 
-48 For he has regarded the low estate of his female servant: for, look, from from now on all generations will call me blessed.
+48 For he has regarded the low estate of his female servant: for, look, from now on all generations will call me blessed.
 
 49 For he that is mighty has done to me great things; and holy is his name.
 
@@ -456,7 +456,7 @@
 
 9 For he was amazed, and all that were with him, at the draught of the fishes which they had taken:
 
-10 And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said to Simon, Fear not; from from now on you will catch men.
+10 And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said to Simon, Fear not; from now on you will catch men.
 
 11 And when they had brought their ships to land, they forsook all, and followed him.
 
@@ -524,7 +524,7 @@
 
 3 And Jesus answering them said, Have you not read so much as this, what David did, when himself was an hungred, and they which were with him;
 
-4 How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
+4 How he went into the house of God, and did take and eat the showbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
 
 5 And he said to them, That the Son of man is Lord also of the sabbath.
 
@@ -1260,7 +1260,7 @@
 
 51 Suppose you that I am come to give peace on earth? I tell you, Nay; but rather division:
 
-52 For from from now on there will be five in one house divided, three against two, and two against three.
+52 For from now on there will be five in one house divided, three against two, and two against three.
 
 53 The father will be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.
 
@@ -1332,7 +1332,7 @@
 
 27 But he will say, I tell you, I know you not from where you are; depart from me, all you workers of wickedness.
 
-28 There will be weeping and gnashing of tes, when you will see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
+28 There will be weeping and gnashing of teeth, when you will see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
 
 29 And they will come from the east, and from the west, and from the north, and from the south, and will sit down in the kingdom of God.
 
@@ -1538,7 +1538,7 @@
 
 25 But Abraham said, Son, remember that you in your lifetime received your good things, and likewise Lazarus evil things: but now he is comforted, and you are tormented.
 
-26 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from here to you cannot; neither can they pass to us, that would come from from there.
+26 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from here to you cannot; neither can they pass to us, that would come from there.
 
 27 Then he said, I pray you therefore, father, that you would send him to my father's house:
 
@@ -1636,7 +1636,7 @@
 
 4 And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;
 
-5 Yet because this widow troubls me, I will bring justice her, otherwise by her continual coming she weary me.
+5 Yet because this widow troubles me, I will bring justice her, otherwise by her continual coming she weary me.
 
 6 And the Lord said, Hear what the unjust judge says.
 

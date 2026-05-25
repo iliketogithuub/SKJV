@@ -1434,7 +1434,7 @@
 
 29 And you will make the dishes of it, and spoons of it, and covers of it, and bowls of it, to cover also: of pure gold will you make them.
 
-30 And you will set upon the table shewbread before me alway.
+30 And you will set upon the table showbread before me alway.
 
 31 And you will make a candlestick of pure gold: of beaten work will the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, will be of the same.
 
@@ -2092,7 +2092,7 @@
 
 12 The ark, and the staves of it, with the mercy seat, and the vail of the covering,
 
-13 The table, and his staves, and all his vessels, and the shewbread,
+13 The table, and his staves, and all his vessels, and the showbread,
 
 14 The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,
 
@@ -2412,7 +2412,7 @@
 
 35 The ark of the testimony, and the staves of it, and the mercy seat,
 
-36 The table, and all the vessels of it, and the shewbread,
+36 The table, and all the vessels of it, and the showbread,
 
 37 The pure candlestick, with the lamps of it, even with the lamps to be set in order, and all the vessels of it, and the oil for light,
 

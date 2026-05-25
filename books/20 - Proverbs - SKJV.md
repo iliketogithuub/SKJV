@@ -582,7 +582,7 @@
 
 25 As the whirlwind passes, so is the wicked no more: but the righteous is an everlasting foundation.
 
-26 As vinegar to the tes, and as smoke to the eyes, so is the sluggard to them that send him.
+26 As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.
 
 27 The fear of the Lord prolongs days: but the years of the wicked will be shortened.
 
@@ -630,7 +630,7 @@
 
 16 A gracious woman retains honour: and strong men retain riches.
 
-17 The merciful man does good to his own soul: but he that is cruel troubls his own flesh.
+17 The merciful man does good to his own soul: but he that is cruel troubles his own flesh.
 
 18 The wicked works a deceitful work: but to him that sows righteousness will be a sure reward.
 
@@ -654,7 +654,7 @@
 
 28 He that trusts in his riches will fall; but the righteous will flourish as a branch.
 
-29 He that troubls his own house will inherit the wind: and the fool will be servant to the wise of heart.
+29 He that troubles his own house will inherit the wind: and the fool will be servant to the wise of heart.
 
 30 The fruit of the righteous is a tree of life; and he that wins souls is wise.
 
@@ -896,7 +896,7 @@
 
 26 The thoughts of the wicked are an abomination to the Lord: but the words of the pure are pleasant words.
 
-27 He that is greedy of gain troubls his own house; but he that hates gifts will live.
+27 He that is greedy of gain troubles his own house; but he that hates gifts will live.
 
 28 The heart of the righteous studies to answer: but the mouth of the wicked pours out evil things.
 
@@ -1788,7 +1788,7 @@
 
 13 There is a generation, O how lofty are their eyes! and their eyelids are lifted up.
 
-14 There is a generation, whose tes are as swords, and their jaw tes as knives, to devour the poor from off the earth, and the needy from among men.
+14 There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.
 
 15 The horseleach has two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
 

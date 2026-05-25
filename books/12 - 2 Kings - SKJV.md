@@ -80,15 +80,15 @@
 
 20 And he said, Bring me a new cruse, and put salt in it. And they brought it to him.
 
-21 And he went forth to the spring of the waters, and cast the salt in there, and said, Thus says the Lord, I have healed these waters; there will not be from from there any more death or barren land.
+21 And he went forth to the spring of the waters, and cast the salt in there, and said, Thus says the Lord, I have healed these waters; there will not be from there any more death or barren land.
 
 22 So the waters were healed to this day, according to the saying of Elisha which he spoke.
 
-23 And he went up from from there to Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said to him, Go up, you bald head; go up, you bald head.
+23 And he went up from there to Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said to him, Go up, you bald head; go up, you bald head.
 
 24 And he turned back, and looked on them, and cursed them in the name of the Lord. And there came forth two she bears out of the wood, and tare forty and two children of them.
 
-25 And he went from from there to mount Carmel, and from from there he returned to Samaria.
+25 And he went from there to mount Carmel, and from there he returned to Samaria.
 
 ## 2 Kings Chapter 3
 
@@ -986,7 +986,7 @@
 
 26 therefore they spoke to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, look, they slay them, because they know not the manner of the God of the land.
 
-27 Then the king of Assyria commanded, saying, Carry there one of the priests whom you brought from from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
+27 Then the king of Assyria commanded, saying, Carry there one of the priests whom you brought from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
 
 28 Then one of the priests whom they had carried away from Samaria came and dwelt in Bethel, and taught them how they should fear the Lord.
 
@@ -998,7 +998,7 @@
 
 32 So they feared the Lord, and made to themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.
 
-33 They feared the Lord, and served their own gods, after the manner of the nations whom they carried away from from there.
+33 They feared the Lord, and served their own gods, after the manner of the nations whom they carried away from there.
 
 34 to this day they do after the former manners: they fear not the Lord, neither do they after their statutes, or after their ordinances, or after the law and commandment which the Lord commanded the children of Jacob, whom he named Israel;
 
@@ -1196,7 +1196,7 @@
 
 13 And Hezekiah listened to them, and showed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
 
-14 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from from where came they to you? And Hezekiah said, They are come from a far country, even from Babylon.
+14 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from where came they to you? And Hezekiah said, They are come from a far country, even from Babylon.
 
 15 And he said, What have they seen in your house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not showed them.
 
@@ -1332,7 +1332,7 @@
 
 11 And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the Lord, by the chamber of Nathanmelech the court official, which was in the suburbs, and burned the chariots of the sun with fire.
 
-12 And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the Lord, did the king beat down, and broke them down from from there, and cast the dust of them into the brook Kidron.
+12 And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the Lord, did the king beat down, and broke them down from there, and cast the dust of them into the brook Kidron.
 
 13 And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtors the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 

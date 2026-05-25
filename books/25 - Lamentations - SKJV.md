@@ -78,7 +78,7 @@
 
 15 All that pass by clap their hands at you; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?
 
-16 All your enemies have opened their mouth against you: they hiss and gnash the tes: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
+16 All your enemies have opened their mouth against you: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
 
 17 The Lord has done that which he had devised; he has fulfilled his word that he had commanded in the days of old: he has thrown down, and has not pitied: and he has caused your enemy to rejoice over you, he has set up the horn of your adversaries.
 
@@ -124,7 +124,7 @@
 
 15 He has filled me with bitterness, he has made me drunken with wormwood.
 
-16 He has also broken my tes with gravel stones, he has covered me with ashes.
+16 He has also broken my teeth with gravel stones, he has covered me with ashes.
 
 17 And you have removed my soul far off from peace: I forgat prosperity.
 

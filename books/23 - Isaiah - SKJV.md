@@ -380,7 +380,7 @@
 
 6 For to us a child is born, to us a son is given: and the government will be upon his shoulder: and his name will be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
 
-7 Of the increase of his government and peace there will be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from from now on even for ever. The zeal of the Lord of hosts will perform this.
+7 Of the increase of his government and peace there will be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from now on even for ever. The zeal of the Lord of hosts will perform this.
 
 8 The Lord sent a word into Jacob, and it has lighted upon Israel.
 
@@ -1196,7 +1196,7 @@
 
 5 They were all ashamed of a people that could not profit them, nor be an help nor profit, but a shame, and also a disgrace.
 
-6 The burden of the beasts of the south: into the land of trouble and anguish, from from where come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that will not profit them.
+6 The burden of the beasts of the south: into the land of trouble and anguish, from where come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that will not profit them.
 
 7 For the Egyptians will help for nothing, and to no purpose: therefore have I cried concerning this, Their strength is to sit still.
 
@@ -1598,7 +1598,7 @@
 
 2 And Hezekiah was glad of them, and showed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
 
-3 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from from where came they to you? And Hezekiah said, They are come from a far country to me, even from Babylon.
+3 Then came Isaiah the prophet to king Hezekiah, and said to him, What said these men? and from where came they to you? And Hezekiah said, They are come from a far country to me, even from Babylon.
 
 4 Then said he, What have they seen in your house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not showed them.
 
@@ -1704,7 +1704,7 @@
 
 14 Fear not, you worm Jacob, and you men of Israel; I will help you, says the Lord, and your redeemer, the Holy One of Israel.
 
-15 Look, I will make you a new sharp threshing instrument having tes: you will thresh the mountains, and beat them small, and will make the hills as chaff.
+15 Look, I will make you a new sharp threshing instrument having teeth: you will thresh the mountains, and beat them small, and will make the hills as chaff.
 
 16 you will fan them, and the wind will carry them away, and the whirlwind will scatter them: and you will rejoice in the Lord, and will glory in the Holy One of Israel.
 
@@ -1920,7 +1920,7 @@
 
 8 Drop down, you heavens, from above, and let the skies pour down righteousness: let the earth open, and let them bring forth salvation, and let righteousness spring up together; I the Lord have created it.
 
-9 Woe to him that strivs with his Maker! Let the potsherd strive with the potsherds of the earth. will the clay say to him that fashions it, What mak you? or your work, He has no hands?
+9 Woe to him that strives with his Maker! Let the potsherd strive with the potsherds of the earth. will the clay say to him that fashions it, What mak you? or your work, He has no hands?
 
 10 Woe to him that says to his father, What begett you? or to the woman, What have you brought forth?
 
@@ -2004,7 +2004,7 @@
 
 10 For you have trusted in your wickedness: you have said, None sees me. your wisdom and your knowledge, it has perverted you; and you have said in your heart, I am, and none else beside me.
 
-11 Therefore will evil come upon you; you will not know from from where it riss: and mischief will fall upon you; you will not be able to put it off: and desolation will come upon you suddenly, which you will not know.
+11 Therefore will evil come upon you; you will not know from where it riss: and mischief will fall upon you; you will not be able to put it off: and desolation will come upon you suddenly, which you will not know.
 
 12 Stand now with your enchantments, and with the multitude of your sorceries, in which you have laboured from your youth; if so be you will be able to profit, if so be you may prevail.
 
@@ -2208,7 +2208,7 @@
 
 10 The Lord has made bare his holy arm in the eyes of all the nations; and all the ends of the earth will see the salvation of our God.
 
-11 Depart you, depart you, go you out from from there, touch no unclean thing; go you out of the midst of her; be you clean, that bear the vessels of the Lord.
+11 Depart you, depart you, go you out from there, touch no unclean thing; go you out of the midst of her; be you clean, that bear the vessels of the Lord.
 
 12 For you will not go out with haste, nor go by flight: for the Lord will go before you; and the God of Israel will be your reward.
 
@@ -2452,7 +2452,7 @@
 
 20 And the Redeemer will come to Zion, and to them that turn from sin in Jacob, says the Lord.
 
-21 As for me, this is my covenant with them, says the Lord; my Holy Spirit that is upon you, and my words which I have put in your mouth, will not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed's seed, says the Lord, from from now on and for ever.
+21 As for me, this is my covenant with them, says the Lord; my Holy Spirit that is upon you, and my words which I have put in your mouth, will not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed's seed, says the Lord, from now on and for ever.
 
 ## Isaiah Chapter 60
 
@@ -2484,7 +2484,7 @@
 
 14 The sons also of them that afflicted you will come bending to you; and all they that despised you will bow themselves down at the soles of your feet; and they will call you; The city of the Lord, The Zion of the Holy One of Israel.
 
-15 Whereas you has been forsaken and hated, so that no man went through you, I will make you an eternal excellency, a joy of many generations.
+15 Whereas you have been forsaken and hated, so that no man went through you, I will make you an eternal excellency, a joy of many generations.
 
 16 you will also suck the milk of the Gentiles, and will suck the breast of kings: and you will know that I the Lord am your Saviour and your Redeemer, the mighty One of Jacob.
 

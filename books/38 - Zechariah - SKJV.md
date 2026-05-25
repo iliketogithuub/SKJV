@@ -272,7 +272,7 @@
 
 6 And a bastard will dwell in Ashdod, and I will cut off the pride of the Philistines.
 
-7 And I will take away his blood out of his mouth, and his abominations from between his tes: but he that remains, even he, will be for our God, and he will be as a governor in Judah, and Ekron as a Jebusite.
+7 And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remains, even he, will be for our God, and he will be as a governor in Judah, and Ekron as a Jebusite.
 
 8 And I will encamp about mine house because of the army, because of him that passes by, and because of him that returns: and no oppressor will pass through them any more: for now have I seen with mine eyes.
 

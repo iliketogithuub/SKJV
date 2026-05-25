@@ -144,7 +144,7 @@
 
 25 And he said to them, Have you never read what David did, when he had need, and was an hungred, he, and they that were with him?
 
-26 How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
+26 How he went into the house of God in the days of Abiathar the high priest, and did eat the showbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
 
 27 And he said to them, The sabbath was made for man, and not man for the sabbath:
 
@@ -396,9 +396,9 @@
 
 ## Mark Chapter 6
 
-1 And he went out from from there, and came into his own country; and his disciples follow him.
+1 And he went out from there, and came into his own country; and his disciples follow him.
 
-2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were amazed, saying, From from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
+2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were amazed, saying, From where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
 
 3 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
@@ -556,7 +556,7 @@
 
 23 All these evil things come from within, and defile the man.
 
-24 And from from there he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
+24 And from there he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
 
 25 For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
 
@@ -592,7 +592,7 @@
 
 3 And if I send them away fasting to their own houses, they will faint by the way: for various of them came from far.
 
-4 And his disciples answered him, From from where can a man satisfy these men with bread here in the wilderness?
+4 And his disciples answered him, From where can a man satisfy these men with bread here in the wilderness?
 
 5 And he asked them, How many loaves have you? And they said, Seven.
 
@@ -698,7 +698,7 @@
 
 17 And one of the multitude answered and said, Master, I have brought to you my son, which has a dumb spirit;
 
-18 And wheresoever he takes him, he tears him: and he foams, and gnashs with his tes, and pins away: and I spoke to your disciples that they should cast him out; and they could not.
+18 And wheresoever he takes him, he tears him: and he foams, and gnashs with his teeth, and pins away: and I spoke to your disciples that they should cast him out; and they could not.
 
 19 He answers him, and says, O faithless generation, how long will I be with you? how long will I suffer you? bring him to me.
 
@@ -766,7 +766,7 @@
 
 ## Mark Chapter 10
 
-1 And he arose from from there, and comes into the coasts of Judaea by the farther side of Jordan: and the people resort to him again; and, as he was wont, he taught them again.
+1 And he arose from there, and comes into the coasts of Judaea by the farther side of Jordan: and the people resort to him again; and, as he was wont, he taught them again.
 
 2 And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him.
 

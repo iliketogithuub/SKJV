@@ -6,7 +6,7 @@
 
 2 It came even to pass on the third day, that, look, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
 
-3 And David said to him, From from where com you? And he said to him, Out of the camp of Israel am I escaped.
+3 And David said to him, From where com you? And he said to him, Out of the camp of Israel am I escaped.
 
 4 And David said to him, How went the matter? I pray you, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
 
@@ -284,7 +284,7 @@
 
 1 Again, David gathered together all the chosen men of Israel, thirty thousand.
 
-2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from from there the ark of God, whose name is called by the name of the Lord of hosts that dwells between the cherubims.
+2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from there the ark of God, whose name is called by the name of the Lord of hosts that dwells between the cherubims.
 
 3 And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 
@@ -1182,7 +1182,7 @@
 
 12 And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabeshgilead, which had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa:
 
-13 And he brought up from from there the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
+13 And he brought up from there the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 
 14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the tomb of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
 

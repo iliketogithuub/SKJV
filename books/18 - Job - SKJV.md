@@ -50,7 +50,7 @@
 
 1 Again there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them to present himself before the Lord.
 
-2 And the Lord said to Satan, From from where com you? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
+2 And the Lord said to Satan, From where com you? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
 
 3 And the Lord said to Satan, have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that fears God, and eschews evil? and still he holds fast his integrity, although you moved me against him, to destroy him without cause.
 
@@ -148,7 +148,7 @@
 
 9 By the blast of God they perish, and by the breath of his nostrils are they consumed.
 
-10 The roaring of the lion, and the voice of the fierce lion, and the tes of the young lions, are broken.
+10 The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.
 
 11 The old lion perishs for lack of prey, and the stout lion's whelps are scattered abroad.
 
@@ -620,7 +620,7 @@
 
 13 Hold your peace, let me alone, that I may speak, and let come on me what will.
 
-14 therefore do I take my flesh in my tes, and put my life in mine hand?
+14 therefore do I take my flesh in my teeth, and put my life in mine hand?
 
 15 Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.
 
@@ -706,7 +706,7 @@
 
 4 Yea, you cast off fear, and restrain prayer before God.
 
-5 For your mouth utters your wickedness, and you chooses the tongue of the crafty.
+5 For your mouth utters your wickedness, and you choose the tongue of the crafty.
 
 6 your own mouth condemns you, and not I: yea, your own lips testify against you.
 
@@ -786,7 +786,7 @@
 
 8 And you have filled me with wrinkles, which is a witness against me: and my leanness rising up in me bears witness to my face.
 
-9 He tears me in his wrath, who hates me: he gnashs upon me with his tes; mine enemy sharpens his eyes upon me.
+9 He tears me in his wrath, who hates me: he gnashs upon me with his teeth; mine enemy sharpens his eyes upon me.
 
 10 They have gaped upon me with their mouth; they have smitten me upon the cheek disgracefully; they have gathered themselves together against me.
 
@@ -932,7 +932,7 @@
 
 19 All my inward friends despised me: and they whom I loved are turned against me.
 
-20 My bone cleavs to my skin and to my flesh, and I am escaped with the skin of my tes.
+20 My bone cleavs to my skin and to my flesh, and I am escaped with the skin of my teeth.
 
 21 Have pity upon me, have pity upon me, O you my friends; for the hand of God has touched me.
 
@@ -1102,7 +1102,7 @@
 
 9 you have sent widows away empty, and the arms of the fatherless have been broken.
 
-10 Therefore snares are round about you, and sudden fear troubls you;
+10 Therefore snares are round about you, and sudden fear troubles you;
 
 11 Or darkness, that you can not see; and abundance of waters cover you.
 
@@ -1176,7 +1176,7 @@
 
 15 Therefore am I troubled at his presence: when I consider, I am afraid of him.
 
-16 For God makes my heart soft, and the Almighty troubls me:
+16 For God makes my heart soft, and the Almighty troubles me:
 
 17 Because I was not cut off before the darkness, neither has he covered the darkness from my face.
 
@@ -1416,7 +1416,7 @@
 
 16 I was a father to the poor: and the cause which I knew not I searched out.
 
-17 And I broke the jaws of the wicked, and plucked the spoil out of his tes.
+17 And I broke the jaws of the wicked, and plucked the spoil out of his teeth.
 
 18 Then I said, I will die in my nest, and I will multiply my days as the sand.
 
@@ -1476,9 +1476,9 @@
 
 20 I cry to you, and you do not hear me: I stand up, and you regard me not.
 
-21 you are become cruel to me: with your strong hand you oppos yourself against me.
+21 you are become cruel to me: with your strong hand you oppose yourself against me.
 
-22 you lift me up to the wind; you caus me to ride upon it, and dissolv my substance.
+22 you lift me up to the wind; you cause me to ride upon it, and dissolve my substance.
 
 23 For I know that you will bring me to death, and to the house appointed for all living.
 
@@ -2064,7 +2064,7 @@
 
 28 She dwells and abides on the rock, upon the crag of the rock, and the strong place.
 
-29 From from there she seeks the prey, and her eyes look afar off.
+29 From there she seeks the prey, and her eyes look afar off.
 
 30 Her young ones also suck up blood: and where the slain are, there is she.
 
@@ -2146,7 +2146,7 @@
 
 13 Who can discover the face of his garment? or who can come to him with his double bridle?
 
-14 Who can open the doors of his face? his tes are terrible round about.
+14 Who can open the doors of his face? his teeth are terrible round about.
 
 15 His scales are his pride, shut up together as with a close seal.
 

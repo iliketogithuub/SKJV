@@ -44,7 +44,7 @@
 
 3 And Solomon sent to Huram the king of Tyre, saying, As you did deal with David my father, and did send him cedars to build him an house to dwell in it, even so deal with me.
 
-4 Look, I build an house to the name of the Lord my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the Lord our God. This is an ordinance for ever to Israel.
+4 Look, I build an house to the name of the Lord my God, to dedicate it to him, and to burn before him sweet incense, and for the continual showbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the Lord our God. This is an ordinance for ever to Israel.
 
 5 And the house which I build is great: for great is our God above all gods.
 
@@ -148,7 +148,7 @@
 
 18 Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out.
 
-19 And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the shewbread was set;
+19 And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the showbread was set;
 
 20 Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;
 
@@ -564,7 +564,7 @@
 
 10 But as for us, the Lord is our God, and we have not forsaken him; and the priests, which minister to the Lord, are the sons of Aaron, and the Levites wait upon their business:
 
-11 And they burn to the Lord every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps of it, to burn every evening: for we keep the charge of the Lord our God; but you have forsaken him.
+11 And they burn to the Lord every morning and every evening burnt sacrifices and sweet incense: the showbread also set they in order upon the pure table; and the candlestick of gold with the lamps of it, to burn every evening: for we keep the charge of the Lord our God; but you have forsaken him.
 
 12 And, look, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight you not against the Lord God of your fathers; for you will not prosper.
 
@@ -678,7 +678,7 @@
 
 8 Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because you did rely on the Lord, he delivered them into your hand.
 
-9 For the eyes of the Lord run to and fro throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. In this you have done foolishly: therefore from from now on you will have wars.
+9 For the eyes of the Lord run to and fro throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. In this you have done foolishly: therefore from now on you will have wars.
 
 10 Then Asa was furious with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.
 
@@ -1166,7 +1166,7 @@
 
 19 Then Uzziah was furious, and had a censer in his hand to burn incense: and while he was furious with the priests, the leprosy even rose up in his forehead before the priests in the house of the Lord, from beside the incense altar.
 
-20 And Azariah the chief priest, and all the priests, looked upon him, and, look, he was leprous in his forehead, and they thrust him out from from there; yea, himself hasted also to go out, because the Lord had smitten him.
+20 And Azariah the chief priest, and all the priests, looked upon him, and, look, he was leprous in his forehead, and they thrust him out from there; yea, himself hasted also to go out, because the Lord had smitten him.
 
 21 And Uzziah the king was a leper to the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the Lord: and Jotham his son was over the king's house, judging the people of the land.
 
@@ -1286,7 +1286,7 @@
 
 17 Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the Lord: so they sanctified the house of the Lord in eight days; and in the sixteenth day of the first month they made an end.
 
-18 Then they went in to Hezekiah the king, and said, We have cleansed all the house of the Lord, and the altar of burnt offering, with all the vessels of it, and the shewbread table, with all the vessels of it.
+18 Then they went in to Hezekiah the king, and said, We have cleansed all the house of the Lord, and the altar of burnt offering, with all the vessels of it, and the showbread table, with all the vessels of it.
 
 19 Moreover all the vessels, which king Ahaz in his reign did cast away in his sin, have we prepared and sanctified, and, look, they are before the altar of the Lord.
 
@@ -1470,7 +1470,7 @@
 
 22 Thus the Lord saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side.
 
-23 And many brought gifts to the Lord to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from from then on.
+23 And many brought gifts to the Lord to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from then on.
 
 24 In those days Hezekiah was sick to the death, and prayed to the Lord: and he spoke to him, and he gave him a sign.
 

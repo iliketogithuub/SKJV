@@ -110,7 +110,7 @@
 
 5 And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liks you, O you children of Israel, says the Lord God.
 
-6 And I also have given you cleanness of tes in all your cities, and want of bread in all your places: yet have you not returned to me, says the Lord.
+6 And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have you not returned to me, says the Lord.
 
 7 And also I have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.
 
@@ -186,7 +186,7 @@
 
 1 Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!
 
-2 Pass you to Calneh, and see; and from from there go you to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?
+2 Pass you to Calneh, and see; and from there go you to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?
 
 3 you that put far away the evil day, and cause the seat of violence to come near;
 

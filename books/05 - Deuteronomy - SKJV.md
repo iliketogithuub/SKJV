@@ -288,7 +288,7 @@
 
 28 And there you will serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
 
-29 But if from from there you will seek the Lord your God, you will find him, if you seek him with all your heart and with all your soul.
+29 But if from there you will seek the Lord your God, you will find him, if you seek him with all your heart and with all your soul.
 
 30 When you are in suffering, and all these things are come upon you, even in the latter days, if you turn to the Lord your God, and will be obedient to his voice;
 
@@ -444,7 +444,7 @@
 
 22 And the Lord showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
 
-23 And he brought us out from from there, that he might bring us in, to give us the land which he sware to our fathers.
+23 And he brought us out from there, that he might bring us in, to give us the land which he sware to our fathers.
 
 24 And the Lord commanded us to do all these statutes, to fear the Lord our God, for our good always, that he might preserve us alive, as it is at this day.
 
@@ -620,7 +620,7 @@
 
 6 And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
 
-7 From from there they journeyed to Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
+7 From there they journeyed to Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 
 8 At that time the Lord separated the tribe of Levi, to bear the ark of the covenant of the Lord, to stand before the Lord to minister to him, and to bless in his name, to this day.
 
@@ -672,7 +672,7 @@
 
 9 And that you may prolong your days in the land, which the Lord sware to your fathers to give to them and to their seed, a land that flows with milk and honey.
 
-10 For the land, where you go in to possess it, is not as the land of Egypt, from from where you came out, where you sowed your seed, and watered it with your foot, as a garden of herbs:
+10 For the land, where you go in to possess it, is not as the land of Egypt, from where you came out, where you sowed your seed, and watered it with your foot, as a garden of herbs:
 
 11 But the land, where you go to possess it, is a land of hills and valleys, and drinks water of the rain of heaven:
 
@@ -1214,7 +1214,7 @@
 
 7 But you will in any wise let the dam go, and take the young to you; that it may be well with you, and that you may prolong your days.
 
-8 When you build a new house, then you will make a battlement for your roof, that you bring not blood upon your house, if any man fall from from there.
+8 When you build a new house, then you will make a battlement for your roof, that you bring not blood upon your house, if any man fall from there.
 
 9 you will not sow your vineyard with various seeds: otherwise the fruit of your seed which you have sown, and the fruit of your vineyard, be defiled.
 
@@ -1698,7 +1698,7 @@
 
 3 That then the Lord your God will turn your captivity, and have compassion upon you, and will return and gather you from all the nations, where the Lord your God has scattered you.
 
-4 If any of your be driven out to the outmost parts of heaven, from from there will the Lord your God gather you, and from from there will he fetch you:
+4 If any of your be driven out to the outmost parts of heaven, from there will the Lord your God gather you, and from there will he fetch you:
 
 5 And the Lord your God will bring you into the land which your fathers possessed, and you will possess it; and he will do you good, and multiply you above your fathers.
 
@@ -1842,7 +1842,7 @@
 
 23 I will heap mischiefs upon them; I will spend mine arrows upon them.
 
-24 They will be burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the tes of beasts upon them, with the poison of serpents of the dust.
+24 They will be burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.
 
 25 The sword without, and terror within, will destroy both the young man and the virgin, the suckling also with the man of gray hairs.
 

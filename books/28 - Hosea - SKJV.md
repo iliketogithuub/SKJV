@@ -54,7 +54,7 @@
 
 14 Therefore, look, I will allure her, and bring her into the wilderness, and speak comfortably to her.
 
-15 And I will give her her vineyards from from there, and the valley of Achor for a door of hope: and she will sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
+15 And I will give her her vineyards from there, and the valley of Achor for a door of hope: and she will sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 
 16 And it will be at that day, says the Lord, that you will call me Ishi; and will call me no more Baali.
 

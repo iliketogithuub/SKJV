@@ -84,7 +84,7 @@
 
 12 Now the sons of Eli were sons of Belial; they knew not the Lord.
 
-13 And the priest's custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three tes in his hand;
+13 And the priest's custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;
 
 14 And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh to all the Israelites that came there.
 
@@ -184,7 +184,7 @@
 
 3 And when the people were come into the camp, the elders of Israel said, therefore has the Lord smitten us to day before the Philistines? Let us fetch the ark of the covenant of the Lord out of Shiloh to us, that, when it comes among us, it may save us out of the hand of our enemies.
 
-4 So the people sent to Shiloh, that they might bring from from there the ark of the covenant of the Lord of hosts, which dwells between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
+4 So the people sent to Shiloh, that they might bring from there the ark of the covenant of the Lord of hosts, which dwells between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
 
 5 And when the ark of the covenant of the Lord came into the camp, all Israel shouted with a great shout, so that the earth rang again.
 
@@ -436,7 +436,7 @@
 
 2 When you are departed from me to day, then you will find two men by Rachel's tomb in the border of Benjamin at Zelzah; and they will say to you, The asses which you went to seek are found: and, look, your father has left the care of the asses, and sorrows for you, saying, What will I do for my son?
 
-3 Then will you go on forward from from there, and you will come to the plain of Tabor, and there will meet you three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
+3 Then will you go on forward from there, and you will come to the plain of Tabor, and there will meet you three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
 
 4 And they will greet you, and give you two loaves of bread; which you will receive of their hands.
 
@@ -826,7 +826,7 @@
 
 14 But the Holy Spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him.
 
-15 And Saul's servants said to him, Look, now, an evil spirit from God troubls you.
+15 And Saul's servants said to him, Look, now, an evil spirit from God troubles you.
 
 16 Let our lord now command your servants, which are before you, to seek out a man, who is a cunning player on an harp: and it will come to pass, when the evil spirit from God is upon you, that he will play with his hand, and you will be well.
 
@@ -1172,7 +1172,7 @@
 
 5 And David answered the priest, and said to him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
 
-6 So the priest gave him holy bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
+6 So the priest gave him holy bread: for there was no bread there but the showbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
 
 7 Now a certain man of the servants of Saul was there that day, detained before the Lord; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.
 
@@ -1298,7 +1298,7 @@
 
 28 therefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth.
 
-29 And David went up from from there, and dwelt in strong holds at Engedi.
+29 And David went up from there, and dwelt in strong holds at Engedi.
 
 ## 1 Samuel Chapter 24
 

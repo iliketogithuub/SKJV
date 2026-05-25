@@ -164,7 +164,7 @@
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
-20 For our conversation is in heaven; from from where also we look for the Saviour, the Lord Jesus Christ:
+20 For our conversation is in heaven; from where also we look for the Saviour, the Lord Jesus Christ:
 
 21 Who will change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself.
 

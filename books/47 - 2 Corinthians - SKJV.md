@@ -76,7 +76,7 @@
 
 12 Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened to me of the Lord,
 
-13 I had no rest in my human spirit, because I found not Titus my brother: but taking my leave of them, I went from from there into Macedonia.
+13 I had no rest in my human spirit, because I found not Titus my brother: but taking my leave of them, I went from there into Macedonia.
 
 14 Now thanks be to God, which always causes us to triumph in Christ, and makes manifest the savour of his knowledge by us in every place.
 

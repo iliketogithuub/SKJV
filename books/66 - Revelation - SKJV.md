@@ -52,7 +52,7 @@
 
 4 Nevertheless I have somewhat against you, because you have left your first love.
 
-5 Remember therefore from from where you are fallen, and repent, and do the first works; or else I will come to you quickly, and will remove your candlestick out of his place, except you repent.
+5 Remember therefore from where you are fallen, and repent, and do the first works; or else I will come to you quickly, and will remove your candlestick out of his place, except you repent.
 
 6 But this you have, that you hat the deeds of the Nicolaitanes, which I also hate.
 
@@ -318,7 +318,7 @@
 
 7 And the shapes of the locusts were like to horses prepared to battle; and on their heads were as it were crowns like gold, and their faces were as the faces of men.
 
-8 And they had hair as the hair of women, and their tes were as the tes of lions.
+8 And they had hair as the hair of women, and their teeth were as the teeth of lions.
 
 9 And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.
 
@@ -510,7 +510,7 @@
 
 12 Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
-13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Holy Spirit, that they may rest from their labours; and their works do follow them.
+13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from now on: Yea, says the Holy Spirit, that they may rest from their labours; and their works do follow them.
 
 14 And I looked, and look, a white cloud, and upon the cloud one sat like to the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 

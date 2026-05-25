@@ -438,7 +438,7 @@
 
 17 Therefore say, Thus says the Lord God; I will even gather you from the people, and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.
 
-18 And they will come there, and they will take away all the detestable things of it and all the abominations of it from from there.
+18 And they will come there, and they will take away all the detestable things of it and all the abominations of it from there.
 
 19 And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:
 
@@ -808,7 +808,7 @@
 
 1 The word of the Lord came to me again, saying,
 
-2 What mean you, that you use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's tes are set on edge?
+2 What mean you, that you use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?
 
 3 As I live, says the Lord God, you will not have occasion any more to use this proverb in Israel.
 

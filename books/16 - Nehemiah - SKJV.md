@@ -18,7 +18,7 @@
 
 8 Remember, I urge you, the word that you commanded your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
 
-9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from from there, and will bring them to the place that I have chosen to set my name there.
+9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from there, and will bring them to the place that I have chosen to set my name there.
 
 10 Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand.
 
@@ -590,7 +590,7 @@
 
 32 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
 
-33 For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.
+33 For the showbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.
 
 34 And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the Lord our God, as it is written in the law:
 

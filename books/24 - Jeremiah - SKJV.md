@@ -676,7 +676,7 @@
 
 5 So I went, and hid it by Euphrates, as the Lord commanded me.
 
-6 And it came to pass after many days, that the Lord said to me, Arise, go to Euphrates, and take the belt from from there, which I commanded you to hide there.
+6 And it came to pass after many days, that the Lord said to me, Arise, go to Euphrates, and take the belt from there, which I commanded you to hide there.
 
 7 Then I went to Euphrates, and digged, and took the belt from the place where I had hid it: and, look, the belt was marred, it was profitable for nothing.
 
@@ -1608,9 +1608,9 @@
 
 28 And it will come to pass, that like as I have watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build, and to plant, says the Lord.
 
-29 In those days they will say no more, The fathers have eaten a sour grape, and the children's tes are set on edge.
+29 In those days they will say no more, The fathers have eaten a sour grape, and the children's teeth are set on edge.
 
-30 But every one will die for his own wickedness: every man that eats the sour grape, his tes will be set on edge.
+30 But every one will die for his own wickedness: every man that eats the sour grape, his teeth will be set on edge.
 
 31 Look, the days come, says the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 
@@ -1920,7 +1920,7 @@
 
 28 Take you again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah has burned.
 
-29 And you will say to Jehoiakim king of Judah, Thus says the Lord; you have burned this roll, saying, Why have you written in it, saying, The king of Babylon will certainly come and destroy this land, and will cause to cease from from there man and beast?
+29 And you will say to Jehoiakim king of Judah, Thus says the Lord; you have burned this roll, saying, Why have you written in it, saying, The king of Babylon will certainly come and destroy this land, and will cause to cease from there man and beast?
 
 30 Therefore thus says the Lord of Jehoiakim king of Judah; He will have none to sit upon the throne of David: and his dead body will be cast out in the day to the heat, and in the night to the frost.
 
@@ -2210,7 +2210,7 @@
 
 11 And when he comes, he will smite the land of Egypt, and deliver such as are for death to death; and such as are for captivity to captivity; and such as are for the sword to the sword.
 
-12 And I will kindle a fire in the houses of the gods of Egypt; and he will burn them, and carry them away captives: and he will array himself with the land of Egypt, as a shepherd puts on his garment; and he will go forth from from there in peace.
+12 And I will kindle a fire in the houses of the gods of Egypt; and he will burn them, and carry them away captives: and he will array himself with the land of Egypt, as a shepherd puts on his garment; and he will go forth from there in peace.
 
 13 He will break also the images of Bethshemesh, that is in the land of Egypt; and the houses of the gods of the Egyptians will he burn with fire.
 
@@ -2490,7 +2490,7 @@
 
 15 For, look, I will make you small among the heathen, and despised among men.
 
-16 your terribleness has deceived you, and the pride of your heart, O you that dwell in the clefts of the rock, that hold the height of the hill: though you should make your nest as high as the eagle, I will bring you down from from there, says the Lord.
+16 your terribleness has deceived you, and the pride of your heart, O you that dwell in the clefts of the rock, that hold the height of the hill: though you should make your nest as high as the eagle, I will bring you down from there, says the Lord.
 
 17 Also Edom will be a desolation: every one that goes by it will be amazed, and will hiss at all the plagues of it.
 
@@ -2534,7 +2534,7 @@
 
 37 For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, says the Lord; and I will send the sword after them, till I have consumed them:
 
-38 And I will set my throne in Elam, and will destroy from from there the king and the princes, says the Lord.
+38 And I will set my throne in Elam, and will destroy from there the king and the princes, says the Lord.
 
 39 But it will come to pass in the latter days, that I will bring again the captivity of Elam, says the Lord.
 
@@ -2556,7 +2556,7 @@
 
 8 Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
 
-9 For, look, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they will set themselves in array against her; from from there she will be taken: their arrows will be as of a mighty expert man; none will return for nothing.
+9 For, look, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they will set themselves in array against her; from there she will be taken: their arrows will be as of a mighty expert man; none will return for nothing.
 
 10 And Chaldea will be a spoil: all that spoil her will be satisfied, says the Lord.
 

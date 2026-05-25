@@ -252,7 +252,7 @@
 
 10 Jesus answered and said to her, If you knew the gift of God, and who it is that says to you, Give me to drink; you would have asked of him, and he would have given you living water.
 
-11 The woman says to him, Sir, you have nothing to draw with, and the well is deep: from from where then have you that living water?
+11 The woman says to him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?
 
 12 are you greater than our father Jacob, which gave us the well, and drank of it himself, and his children, and his cattle?
 
@@ -866,9 +866,9 @@
 
 28 Then they insulted him, and said, you are his disciple; but we are Moses' disciples.
 
-29 We know that God spoke to Moses: as for this fellow, we know not from from where he is.
+29 We know that God spoke to Moses: as for this fellow, we know not from where he is.
 
-30 The man answered and said to them, Why in this is a marvellous thing, that you know not from from where he is, and yet he has opened mine eyes.
+30 The man answered and said to them, Why in this is a marvellous thing, that you know not from where he is, and yet he has opened mine eyes.
 
 31 Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears.
 
@@ -1288,7 +1288,7 @@
 
 6 Jesus says to him, I am the way, the truth, and the life: no man comes to the Father, but by me.
 
-7 If you had known me, you should have known my Father also: and from from now on you know him, and have seen him.
+7 If you had known me, you should have known my Father also: and from now on you know him, and have seen him.
 
 8 Philip says to him, Lord, show us the Father, and it suffics us.
 
@@ -1622,7 +1622,7 @@
 
 11 Jesus answered, you could have no power at all against me, except it were given you from above: therefore he that delivered me to you has the greater sin.
 
-12 And from from then on Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Caesar's friend: whosoever makes himself a king speaks against Caesar.
+12 And from then on Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Caesar's friend: whosoever makes himself a king speaks against Caesar.
 
 13 When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
 

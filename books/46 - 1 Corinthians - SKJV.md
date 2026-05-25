@@ -332,7 +332,7 @@
 
 35 And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that you may attend upon the Lord without distraction.
 
-36 But if any man think that he behavs himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sins not: let them marry.
+36 But if any man think that he behaves himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sins not: let them marry.
 
 37 Nevertheless he that stands stedfast in his heart, having no necessity, but has power over his own will, and has so decreed in his heart that he will keep his virgin, does well.
 
@@ -420,7 +420,7 @@
 
 24 Know you not that they which run in a race run all, but one receives the prize? So run, that you may obtain.
 
-25 And every man that strivs for the mastery is self-controlled in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
+25 And every man that strives for the mastery is self-controlled in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
 
 26 I therefore so run, not as uncertainly; so fight I, not as one that beats the air:
 

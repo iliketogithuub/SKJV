@@ -292,7 +292,7 @@
 
 5 And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought to Babylon, be restored, and brought again to the temple which is at Jerusalem, every one to his place, and place them in the house of God.
 
-6 Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be you far from from there:
+6 Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be you far from there:
 
 7 Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 

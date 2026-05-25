@@ -90,7 +90,7 @@
 
 44 And the king has sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king's mule:
 
-45 And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from from there rejoicing, so that the city rang again. This is the noise that you have heard.
+45 And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from there rejoicing, so that the city rang again. This is the noise that you have heard.
 
 46 And also Solomon sits on the throne of the kingdom.
 
@@ -542,7 +542,7 @@
 
 47 And Solomon left all the vessels unweighed, because they were exceeding many: neither was the weight of the brass found out.
 
-48 And Solomon made all the vessels that pertained to the house of the Lord: the altar of gold, and the table of gold, whereupon the shewbread was,
+48 And Solomon made all the vessels that pertained to the house of the Lord: the altar of gold, and the table of gold, whereupon the showbread was,
 
 49 And the candlesticks of pure gold, five on the right side, and five on the left, before the oracle, with the flowers, and the lamps, and the tongs of gold,
 
@@ -740,7 +740,7 @@
 
 27 And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
 
-28 And they came to Ophir, and fetched from from there gold, four hundred and twenty talents, and brought it to king Solomon.
+28 And they came to Ophir, and fetched from there gold, four hundred and twenty talents, and brought it to king Solomon.
 
 ## 1 Kings Chapter 10
 
@@ -940,7 +940,7 @@
 
 24 Thus says the Lord, you will not go up, nor fight against your brothers the children of Israel: return every man to his house; for this thing is from me. They listened therefore to the word of the Lord, and returned to depart, according to the word of the Lord.
 
-25 Then Jeroboam built Shechem in mount Ephraim, and dwelt in it; and went out from from there, and built Penuel.
+25 Then Jeroboam built Shechem in mount Ephraim, and dwelt in it; and went out from there, and built Penuel.
 
 26 And Jeroboam said in his heart, Now will the kingdom return to the house of David:
 
@@ -1316,7 +1316,7 @@
 
 16 So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.
 
-17 And it came to pass, when Ahab saw Elijah, that Ahab said to him, are you he that troubls Israel?
+17 And it came to pass, when Ahab saw Elijah, that Ahab said to him, are you he that troubles Israel?
 
 18 And he answered, I have not troubled Israel; but you, and your father's house, in that you have forsaken the commandments of the Lord, and you have followed Baalim.
 

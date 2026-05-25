@@ -304,7 +304,7 @@
 
 1 Then truly the first covenant had also ordinances of divine service, and a worldly sanctuary.
 
-2 For there was a tabernacle made; the first, in which was the candlestick, and the table, and the shewbread; which is called the sanctuary.
+2 For there was a tabernacle made; the first, in which was the candlestick, and the table, and the showbread; which is called the sanctuary.
 
 3 And after the second veil, the tabernacle which is called the Holiest of all;
 
@@ -384,7 +384,7 @@
 
 12 But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
 
-13 From from now on expecting till his enemies be made his footstool.
+13 From now on expecting till his enemies be made his footstool.
 
 14 For by one offering he has perfected for ever them that are sanctified.
 
@@ -468,7 +468,7 @@
 
 14 For they that say such things declare plainly that they seek a country.
 
-15 And truly, if they had been mindful of that country from from where they came out, they might have had opportunity to have returned.
+15 And truly, if they had been mindful of that country from where they came out, they might have had opportunity to have returned.
 
 16 But now they desire a better country, that is, an heavenly: therefore God is not ashamed to be called their God: for he has prepared for them a city.
 
@@ -476,7 +476,7 @@
 
 18 Of whom it was said, That in Isaac will your seed be called:
 
-19 Accounting that God was able to raise him up, even from the dead; from from where also he received him in a figure.
+19 Accounting that God was able to raise him up, even from the dead; from where also he received him in a figure.
 
 20 By faith Isaac blessed Jacob and Esau concerning things to come.
 

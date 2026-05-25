@@ -14,7 +14,7 @@
 
 6 The wind goes toward the south, and turns about to the north; it whirls about continually, and the wind returns again according to his circuits.
 
-7 All the rivers run into the sea; yet the sea is not full; to the place from from where the rivers come, there they return again.
+7 All the rivers run into the sea; yet the sea is not full; to the place from where the rivers come, there they return again.
 
 8 All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
 

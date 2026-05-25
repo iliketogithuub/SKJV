@@ -238,7 +238,7 @@
 
 9 A little leaven leavens the whole lump.
 
-10 I have confidence in you through the Lord, that you will be none otherwise minded: but he that troubls you will bear his judgment, whosoever he be.
+10 I have confidence in you through the Lord, that you will be none otherwise minded: but he that troubles you will bear his judgment, whosoever he be.
 
 11 And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
 
@@ -306,7 +306,7 @@
 
 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
 
-17 From from now on let no man trouble me: for I bear in my body the marks of the Lord Jesus.
+17 From now on let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 
 18 Brothers, the grace of our Lord Jesus Christ be with your human spirit. Amen.
 
