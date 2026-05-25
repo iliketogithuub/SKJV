@@ -123,3 +123,8 @@ This glossary compiles the Top 30 Operational Words used in the Simple King Jame
 ### 30. MATURITY (Teleiotes - G5047)
 * **Definition**: Perfection, completion, or full growth.
 * **Mechanism**: The destination of the believer who leaves behind elementary repentance to build the house of faith.
+
+### 31. HOLY SPIRIT / GHOST (Pneuma Hagion - G4151 / G40)
+* **Definition**: The literal spiritual Person of God who dwells within the believer.
+* **Mechanism**: The SKJV uses "Holy Spirit" for peak modern readability, replacing the archaic "Holy Ghost." However, the operational reality remains identical: He is a literal, tangible spiritual Person (literally a "Ghost" occupying the believer's body as His temple) rather than an abstract influence or feeling. He works in perfect alignment with the *human spirit* to enforce New Covenant authority on earth.
+

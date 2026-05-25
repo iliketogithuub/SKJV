@@ -38,6 +38,7 @@ All chapters processed for the SKJV must adhere to the following strict guidelin
    - `Exousia` (delegated authority/legal standing) must be translated as **delegated authority** or **legal authority**.
    - `Dunamis` (inherent supernatural force/miraculous ability) must be translated as **supernatural power** or **miraculous power**.
 5. **Absolute Copyright Safety**: The resulting text must be uniquely phrased and structurally distinct from the NKJV or other copyrighted modern translations, while preserving the exact semantic truth.
+6. **Clarify Human Spirit vs. Holy Spirit**: Differentiate the *human spirit* (lowercase) from the *Holy Spirit* (capitalized). The Holy Spirit is treated as a literal spiritual Person (literally a Ghost inhabiting the believer's body as His temple) working in alignment with the believer's human spirit to manifest covenant power. Banish the word "ghost" globally from the translation text to preserve modern readability while reinforcing this literal personal presence.
 
 ---
 
