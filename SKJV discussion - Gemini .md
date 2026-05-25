@@ -2598,7 +2598,7 @@ Here's a research plan for that topic. If you need to update it, let me know\!
 Research Websites and Files  
 (1) Search the web to identify the background, definitions, and characteristics of the SKJV Bible format.  
 (2) Research the Eth Cepher Bible online to understand its unique features, sacred name restorations, and inclusion of apocryphal texts.  
-(3) Review the uploaded documents, including john\_g\_lake\_ministry\_divine-healing-training-blake1.pdf and New\_Man\_2\_Manual\_\_260523\_052314.pdf, to check for any translation preferences or guidelines concerning the King James Version (KJV) or scripture study.  
+(3) Review the translation preferences and guidelines concerning the King James Version (KJV) and scripture study to ensure alignment with the original text.  
 (4) Compare and contrast the SKJV concept with the Eth Cepher, highlighting differences in readability, source texts, name transliteration, and spiritual utility.  
 (5) Evaluate the strengths, weaknesses, and target audiences of both translation styles.  
 (6) Synthesize the findings to outline the best approach and development path for the user's SKJV idea, incorporating lessons from the Eth Cepher's implementation.  
