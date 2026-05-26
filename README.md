@@ -1,12 +1,12 @@
-# 📖 Based King James Version (BKJV)
+# 📖 Giga King James Version (GIGAKJV)
 
-The **Based King James Version (BKJV)** is an independent, modern English Bible translation derived from the public domain **1611 King James Version (KJV)**. Every word choice is anchored to the original **Strong's Greek and Hebrew Concordance** definitions.
+The **Giga King James Version (GIGAKJV)** is an independent, modern English Bible translation derived from the public domain **1611 King James Version (KJV)**. Every word choice is anchored to the original **Strong's Greek and Hebrew Concordance** definitions.
 
 ## Mission
 
 To deliver God's Word in **concise, precise, and clear 2026 English** — stripping away centuries of archaic language while preserving the majestic truth and authority of the King James lineage.
 
-## What Makes the BKJV Different
+## What Makes the GIGAKJV Different
 
 | Feature | Description |
 |:---|:---|
@@ -21,7 +21,7 @@ To deliver God's Word in **concise, precise, and clear 2026 English** — stripp
 ## Repository Structure
 
 ```
-BKJV/
+GIGAKJV/
 ├── books/                 # All 66 books of the Bible in Markdown (.md)
 │   ├── Old Testament/     # Books 01 through 39 (Genesis to Malachi)
 │   └── New Testament/     # Books 40 through 66 (Matthew to Revelation)
@@ -30,7 +30,7 @@ BKJV/
 │   ├── translation_philosophy_and_trail.md
 │   └── power_word_lexicon.md
 ├── scripts/               # Translation and verification automation (Python)
-│   ├── translate_kjv_to_bkjv.py
+│   ├── translate_kjv_to_gigakjv.py
 │   ├── translate_all_books.py
 │   ├── verify_translation.py
 │   └── fix_all_books.py
@@ -63,23 +63,23 @@ BKJV/
    - *entreated* → *treated* / *mistreated*
 5. **Copyright safety** — every phrase is structurally distinct from the NKJV and other copyrighted translations, utilizing the **Zero-Pronoun Rule** (substituting third-person pronouns with active targets in instruction blocks) to secure independent derivative originality.
 
-## Quoting the BKJV
+## Quoting theGIGAKJV
 
 You may quote up to **1,000 verses** without written permission, provided the verses do not constitute a complete book or more than 50% of your work. Include the notice:
 
-> *Scripture quotations are taken from the Based King James Version (BKJV). Copyright © 2026. Used by permission. All rights reserved.*
+> *Scripture quotations are taken from the Giga King James Version (GIGAKJV). Copyright © 2026. Used by permission. All rights reserved.*
 
-For non-commercial media (bulletins, posters, etc.), simply append **(BKJV)** after each quotation.
+For non-commercial media (bulletins, posters, etc.), simply append **(GIGAKJV)** after each quotation.
 
 ## Legal Status
 
 - **Source material**: Public domain 1611 KJV (no copyright restrictions in US/Australia)
-- **BKJV text**: Protected as a derivative work under 17 U.S.C. § 103
-- **Trademark**: "Based King James Version" and "BKJV" are protected marks
+- **GIGAKJV text**: Protected as a derivative work under 17 U.S.C. § 103
+- **Trademark**: "Giga King James Version" and "GIGAKJV" are protected marks
 
 See [COPYRIGHT_DEFENSE.md](COPYRIGHT_DEFENSE.md) for the full legal framework.
 
-## Who Is Behind the BKJV
+## Who Is Behind the GIGAKJV
 
 This translation is produced under the theological oversight of **supernaturalchurches.org** and distributed through **supernatural.institute** -- a movement of believers contending for the restoration of divine health to the church. The front matter contains a complete gospel presentation on the blood AND stripes of Jesus, because the finished work is not forgiveness only -- it is healing too.
 

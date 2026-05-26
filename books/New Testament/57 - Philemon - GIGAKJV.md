@@ -1,0 +1,56 @@
+# Philemon - Giga King James Version (GIGAKJV)
+
+## Philemon Chapter 1
+
+1 Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and co-worker,
+
+2 And to our beloved Apphia, and Archippus our fellow soldier, and to the church in your house:
+
+3 Grace to you, and peace, from God our Father and the Lord Jesus Christ.
+
+4 I thank my God, making mention of you always in my prayers,
+
+5 Hearing of your love and faith, which you have toward the Lord Jesus, and toward all saints;
+
+6 That the communication of your faith may become effective by the acknowledging of every good thing which is in you in Christ Jesus.
+
+7 For we have great joy and comfort in your love, because the deep affection of the saints are refreshed by you, brother.
+
+8 Therefore, though I might be much bold in Christ to require you that which is convenient,
+
+9 Yet for love's sake I rather urge you, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
+
+10 I urge you for my son Onesimus, who I have begotten in my bonds:
+
+11 Which in time past was to you unprofitable, but now profitable to you and to me:
+
+12 who I have sent again: you therefore receive him, that is, mine own deep affection:
+
+13 who I would have retained with me, that in your stead he might have ministered to me in the bonds of the gospel:
+
+14 But without your mind would I do nothing; that your benefit should not be as it were of necessity, but willingly.
+
+15 For perhaps he therefore departed for a season, that you should receive him for ever;
+
+16 Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more to you, both in the flesh, and in the Lord?
+
+17 If you count me therefore a partner, receive him as myself.
+
+18 If he has wronged you, or owes you ought, put that on mine account;
+
+19 I Paul have written it with mine own hand, I will repay it: even though I do not say to you how you owe to me even your own self besides.
+
+20 Yea, brother, let me have joy of you in the Lord: refresh my heart in the Lord.
+
+21 Having confidence in your obedience I wrote to you, knowing that you will also do more than I say.
+
+22 But also prepare me also a lodging: for I trust that through your prayers I shall be given to you.
+
+23 There greet you Epaphras, my fellow prisoner in Christ Jesus;
+
+24 Marcus, Aristarchus, Demas, Lucas, my co-workers.
+
+25 The grace of our Lord Jesus Christ be with your human spirit. Amen.
+
+
+## eof

@@ -1,0 +1,116 @@
+# Zephaniah - Giga King James Version (GIGAKJV)
+
+## Zephaniah Chapter 1
+
+1 The word of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
+
+2 I will utterly consume all things from off the land, says the Lord.
+
+3 I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumbling blocks with the wicked: and I will cut off man from off the land, says the Lord.
+
+4 I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;
+
+5 And them that worship the host of heaven upon the housetops; and them that worship and that swear by the Lord, and that swear by Malcham;
+
+6 And them that are turned back from the Lord; and those that have not sought the Lord, nor enquired for him.
+
+7 Hold your peace at the presence of the Lord God: for the day of the Lord is at hand: for the Lord has prepared a sacrifice, he has bid his guests.
+
+8 And it will come to pass in the day of the Lord's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange clothing.
+
+9 In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit.
+
+10 And it will come to pass in that day, says the Lord, that there will be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
+
+11 Howl, you inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.
+
+12 And it will come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.
+
+13 Therefore their goods will become a booty, and their houses a desolation: they will also build houses, but not inhabit them; and they will plant vineyards, but not drink the wine of it.
+
+14 The great day of the Lord is near, it is near, and hasts greatly, even the voice of the day of the Lord: the mighty man will cry there bitterly.
+
+15 That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,
+
+16 A day of the trumpet and alarm against the fenced cities, and against the high towers.
+
+17 And I will bring distress upon men, that they will walk like blind men, because they have sinned against the Lord: and their blood will be poured out as dust, and their flesh as the dung.
+
+18 Neither their silver nor their gold will be able to deliver them in the day of the Lord's wrath; but the whole land will be devoured by the fire of his jealousy: for he will make even a speedy riddance of all them that dwell in the land.
+
+## Zephaniah Chapter 2
+
+1 Gather yourselves together, yea, gather together, O nation not desired;
+
+2 Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord's anger come upon you.
+
+3 Seek you the Lord, all you meek of the earth, which have done his judgment; seek righteousness, seek meekness: it may be you will be hid in the day of the Lord's anger.
+
+4 For Gaza will be forsaken, and Ashkelon a desolation: they will drive out Ashdod at the noon day, and Ekron will be rooted up.
+
+5 Woe to the inhabitants of the sea coast, the nation of the Cherethites! the word of the Lord is against you; O Canaan, the land of the Philistines, I will even destroy you, that there will be no inhabitant.
+
+6 And the sea coast will be dwellings and cottages for shepherds, and folds for flocks.
+
+7 And the coast will be for the remnant of the house of Judah; they will feed thereupon: in the houses of Ashkelon will they lie down in the evening: for the Lord their God will visit them, and turn away their captivity.
+
+8 I have heard the disgrace of Moab, and the insults of the children of Ammon, by which they have disgraced my people, and magnified themselves against their border.
+
+9 Therefore as I live, says the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the rest of my people will spoil them, and the remnant of my people will possess them.
+
+10 This will they have for their pride, because they have disgraced and magnified themselves against the people of the Lord of hosts.
+
+11 The Lord will be terrible to them: for he will famish all the gods of the earth; and men will worship him, every one from his place, even all the isles of the heathen.
+
+12 you Ethiopians also, you will be slain by my sword.
+
+13 And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness.
+
+14 And flocks will lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern will lodge in the upper lintels of it; their voice will sing in the windows; desolation will be in the thresholds; for he will uncover the cedar work.
+
+15 This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passes by her will hiss, and wag his hand.
+
+## Zephaniah Chapter 3
+
+1 Woe to her that is filthy and polluted, to the oppressing city!
+
+2 She obeyed not the voice; she received not correction; she trusted not in the Lord; she drew not near to her God.
+
+3 Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow.
+
+4 Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
+
+5 The just Lord is in the midst of it; he will not do wickedness: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
+
+6 I have cut off the nations: their towers are desolate; I made their streets waste, that none passes by: their cities are destroyed, so that there is no man, that there is none inhabitant.
+
+7 I said, Surely you will fear me, you will receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.
+
+8 Therefore wait you upon me, says the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth will be devoured with the fire of my jealousy.
+
+9 For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent.
+
+10 From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, will bring mine offering.
+
+11 In that day will you not be ashamed for all your doings, in which you have sinned against me: for then I will take away out of the midst of you them that rejoice in your pride, and you will no more be haughty because of my holy mountain.
+
+12 I will also leave in the midst of you an afflicted and poor people, and they will trust in the name of the Lord.
+
+13 The remnant of Israel will not do wickedness, nor speak lies; neither will a deceitful tongue be found in their mouth: for they will feed and lie down, and none will make them afraid.
+
+14 Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
+
+15 The Lord has taken away your judgments, he has cast out your enemy: the king of Israel, even the Lord, is in the midst of you: you will not see evil any more.
+
+16 In that day it will be said to Jerusalem, Fear you not: and to Zion, Let not your hands be slack.
+
+17 The Lord your God in the midst of you is mighty; he will save, he will rejoice over you with joy; he will rest in his love, he will joy over you with singing.
+
+18 I will gather them that are sorrowful for the solemn assembly, who are of you, to who the disgrace of it was a burden.
+
+19 Look, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
+
+20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, says the Lord.
+
+
+## eof
