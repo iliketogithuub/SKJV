@@ -4,7 +4,7 @@ BKJV Hard Word Simplifier
 ===========================
 Replaces archaic, obscure, and unnecessarily difficult English words
 across all 66 BKJV book files with simple, clear modern equivalents.
-The "Simple" King James Version must be instantly understandable.
+The "Based" King James Version must be instantly understandable.
 """
 import os
 import re

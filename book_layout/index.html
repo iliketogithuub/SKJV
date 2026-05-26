@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BKJV - Based King James Version Bible Reader</title>
+  <!-- Google Fonts: Inter for reading body, Outfit for headers -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Mobile Header Bar -->
+  <header class="mobile-header">
+    <button id="menu-toggle-btn" class="menu-toggle-btn" aria-label="Open menu">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </button>
+    <div class="mobile-logo">Based King James Version</div>
+  </header>
+
+  <!-- Sidebar Overlay -->
+  <div id="sidebar-overlay" class="sidebar-overlay hidden"></div>
+
+  <div class="app-container">
+    <!-- Glassmorphic Sidebar -->
+    <aside id="app-sidebar" class="sidebar">
+      <div class="brand-header">
+        <h1 class="logo-text">BKJV</h1>
+        <span class="version-tag">Reader</span>
+        <button id="sidebar-close-btn" class="sidebar-close-btn" aria-label="Close menu">&times;</button>
+      </div>
+      
+      <!-- Bible Navigation -->
+      <div class="sidebar-section">
+        <h3 class="section-title">Navigation</h3>
+        
+        <div class="select-group">
+          <label for="testament-select">Testament</label>
+          <select id="testament-select">
+            <option value="NT">New Testament</option>
+            <option value="OT">Old Testament</option>
+          </select>
+        </div>
+
+        <div class="select-group">
+          <label for="book-select">Book</label>
+          <select id="book-select">
+            <!-- Dynamically populated -->
+          </select>
+        </div>
+      </div>
+
+      <!-- Chapter Selector Grid -->
+      <div class="sidebar-section">
+        <h3 class="section-title">Chapters</h3>
+        <div class="chapter-grid" id="chapter-grid">
+          <!-- Dynamically populated buttons -->
+        </div>
+      </div>
+
+      <!-- Search Bar -->
+      <div class="sidebar-section search-section">
+        <h3 class="section-title">Search Database</h3>
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="Search scripture...">
+          <button id="search-clear-btn" class="hidden">×</button>
+        </div>
+        <div id="search-results" class="search-results-container hidden">
+          <!-- Dynamically populated results -->
+        </div>
+      </div>
+
+      <!-- Display settings controls -->
+      <div class="sidebar-section">
+        <h3 class="section-title">Display Settings</h3>
+        <div class="control-group">
+          <label>View Mode</label>
+          <div class="toggle-buttons">
+            <button id="btn-print" class="toggle-btn active">Print Page</button>
+            <button id="btn-reader" class="toggle-btn">E-Reader</button>
+          </div>
+        </div>
+        
+        <div class="control-group font-controls">
+          <label>Font Size</label>
+          <div class="size-controls">
+            <button id="font-dec" class="size-btn">-</button>
+            <span id="font-size-val">14px</span>
+            <button id="font-inc" class="size-btn">+</button>
+          </div>
+        </div>
+
+        <div class="control-group theme-controls">
+          <label>Theme</label>
+          <div class="theme-buttons">
+            <button id="theme-cream" class="theme-btn active" style="background: #FDFBF7; border: 1px solid #dcdad5;" title="Cream"></button>
+            <button id="theme-light" class="theme-btn" style="background: #ffffff; border: 1px solid #e0e0e0;" title="Pure White"></button>
+            <button id="theme-dark" class="theme-btn" style="background: #1e1e1e; border: 1px solid #333333;" title="Charcoal"></button>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <p>Based King James Version</p>
+        <p class="copyright">© 2026 Samuel Waterhouse</p>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="content-viewport">
+      <!-- Layout Mode Wrapper -->
+      <div id="layout-wrapper" class="print-mode theme-cream">
+        
+        <!-- Physical Page Outline Simulator -->
+        <div class="page-margin-box">
+          <div class="crop-mark top-left"></div>
+          <div class="crop-mark top-right"></div>
+          <div class="crop-mark bottom-left"></div>
+          <div class="crop-mark bottom-right"></div>
+          
+          <!-- Running Header (Invisible in reflowable reader) -->
+          <div class="running-header">
+            <span id="header-left">THE NEW TESTAMENT</span>
+            <span id="header-right">BASED KING JAMES VERSION</span>
+          </div>
+
+          <!-- Page Content Container -->
+          <div class="page-content" id="bible-content">
+            <!-- Dynamically populated Bible pages -->
+          </div>
+
+          <!-- Running Footer (Page Numbers) -->
+          <div class="running-footer">
+            <span class="bottom-page-num" id="page-num">1</span>
+          </div>
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- Interactive Covenant Lexicon Tooltip -->
+  <div id="covenant-tooltip" class="tooltip hidden">
+    <div class="tooltip-arrow"></div>
+    <div class="tooltip-header">Covenant Key</div>
+    <div class="tooltip-content" id="tooltip-text">Description goes here</div>
+  </div>
+
+  <!-- Load Database and Script -->
+  <script src="bible_data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

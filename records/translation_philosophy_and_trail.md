@@ -1,12 +1,12 @@
 # BKJV Translation Philosophy & Trail Document
 
-This document records the official translation philosophy, linguistic parameters, and specific word mappings for the **Simple King James Version (BKJV)** Bible translation project. It serves as a guide for translators (and AI agents) and forms part of the project's legal record of independent creation.
+This document records the official translation philosophy, linguistic parameters, and specific word mappings for the **Based King James Version (BKJV)** Bible translation project. It serves as a guide for translators (and AI agents) and forms part of the project's legal record of independent creation.
 
 ---
 
 ## 1. Core Translation Philosophy
 
-The Simple King James Version (BKJV) is built upon a **Functional Covenant Model** of translation. Unlike traditional modern Bibles that prioritize either formal equivalence (literal word-for-word) or dynamic equivalence (thought-for-thought), the BKJV is designed to read as a **functional operating manual** for the believer.
+The Based King James Version (BKJV) is built upon a **Functional Covenant Model** of translation. Unlike traditional modern Bibles that prioritize either formal equivalence (literal word-for-word) or dynamic equivalence (thought-for-thought), the BKJV is designed to read as a **functional operating manual** for the believer.
 
 ### A. The Direct-Address Principle
 God's Word is treated as a direct broadcast to the reader. Wherever the text describes covenant blessings, identity, or authority, the translation shifts from abstract third-person narratives to direct, personal possession ("my body", "your body", "your Father").

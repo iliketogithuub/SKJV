@@ -353,7 +353,7 @@ def fix_est_verbs(text):
     return text, count
 
 
-def translate_single_chapter_book(kjv_path, skjv_path, book_name):
+def translate_single_chapter_book(kjv_path, bkjv_path, book_name):
     """
     Translate a single-chapter KJV book (Obadiah, Philemon, 2 John, 3 John, Jude).
     These don't have ## Chapter headers so the main script skipped them.
@@ -402,7 +402,7 @@ def translate_single_chapter_book(kjv_path, skjv_path, book_name):
     output += f"## {book_name} Chapter 1\n\n"
     output += body.strip() + "\n\n## eof\n"
 
-    with open(skjv_path, 'w', encoding='utf-8') as f:
+    with open(bkjv_path, 'w', encoding='utf-8') as f:
         f.write(output)
 
     print(f"  ✅ Generated {book_name} ({len(body_lines)} lines)")
@@ -467,7 +467,7 @@ def main():
     }
 
     for file_prefix, book_name in stubs.items():
-        skjv_path = os.path.join(BOOKS_DIR, f"{file_prefix} - BKJV.md")
+        bkjv_path = os.path.join(BOOKS_DIR, f"{file_prefix} - BKJV.md")
         kjv_path = os.path.join(KJV_SOURCE_DIR, f"{file_prefix} - KJV.md")
 
         if not os.path.exists(kjv_path):
@@ -475,8 +475,8 @@ def main():
             continue
 
         # Check if it's still a stub (less than 200 bytes)
-        if os.path.exists(skjv_path) and os.path.getsize(skjv_path) < 200:
-            translate_single_chapter_book(kjv_path, skjv_path, book_name)
+        if os.path.exists(bkjv_path) and os.path.getsize(bkjv_path) < 200:
+            translate_single_chapter_book(kjv_path, bkjv_path, book_name)
         else:
             print(f"  ⏭️  {book_name}: already has content, skipping")
 

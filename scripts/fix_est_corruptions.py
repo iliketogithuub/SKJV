@@ -121,33 +121,33 @@ def parse_file_to_verses(lines):
             
     return verse_map
 
-def fix_book(kjv_path, skjv_path):
-    if not os.path.exists(skjv_path):
+def fix_book(kjv_path, bkjv_path):
+    if not os.path.exists(bkjv_path):
         return 0
         
     with open(kjv_path, 'r', encoding='utf-8') as f:
         kjv_lines = f.readlines()
         
-    with open(skjv_path, 'r', encoding='utf-8') as f:
-        skjv_lines = f.readlines()
+    with open(bkjv_path, 'r', encoding='utf-8') as f:
+        bkjv_lines = f.readlines()
         
     kjv_map = parse_file_to_verses(kjv_lines)
-    skjv_map = parse_file_to_verses(skjv_lines)
+    bkjv_map = parse_file_to_verses(bkjv_lines)
     
     fixes_count = 0
     modified = False
     
     # 1. Verse-level alignment for whitelisted -est words
     for (chapter, verse), kjv_idx in kjv_map.items():
-        if (chapter, verse) not in skjv_map:
+        if (chapter, verse) not in bkjv_map:
             continue
             
-        skjv_idx = skjv_map[(chapter, verse)]
+        bkjv_idx = bkjv_map[(chapter, verse)]
         kjv_line = kjv_lines[kjv_idx]
-        skjv_line = skjv_lines[skjv_idx]
+        bkjv_line = bkjv_lines[bkjv_idx]
         
         kjv_tokens = kjv_line.split()
-        skjv_tokens = skjv_line.split()
+        bkjv_tokens = bkjv_line.split()
         
         line_modified = False
         
@@ -164,39 +164,39 @@ def fix_book(kjv_path, skjv_path):
                 
                 # Check near idx in BKJV tokens
                 search_start = max(0, idx - 3)
-                search_end = min(len(skjv_tokens), idx + 4)
+                search_end = min(len(bkjv_tokens), idx + 4)
                 
                 for s_idx in range(search_start, search_end):
-                    skjv_token_to_check = skjv_tokens[s_idx]
-                    skjv_word = clean_word(skjv_token_to_check)
+                    bkjv_token_to_check = bkjv_tokens[s_idx]
+                    bkjv_word = clean_word(bkjv_token_to_check)
                     
-                    if skjv_word.lower() == stem.lower():
-                        prefix_match = re.match(r"^([^\w']+)", skjv_token_to_check)
-                        suffix_match = re.search(r"([^\w']+)$", skjv_token_to_check)
+                    if bkjv_word.lower() == stem.lower():
+                        prefix_match = re.match(r"^([^\w']+)", bkjv_token_to_check)
+                        suffix_match = re.search(r"([^\w']+)$", bkjv_token_to_check)
                         prefix = prefix_match.group(1) if prefix_match else ""
                         suffix = suffix_match.group(1) if suffix_match else ""
                         
                         restored_word = kjv_word
-                        if skjv_word.isupper():
+                        if bkjv_word.isupper():
                             restored_word = restored_word.upper()
-                        elif skjv_word[0].isupper():
+                        elif bkjv_word[0].isupper():
                             restored_word = restored_word[0].upper() + restored_word[1:]
                             
                         new_token = prefix + restored_word + suffix
                         
-                        if skjv_tokens[s_idx] != new_token:
-                            skjv_tokens[s_idx] = new_token
+                        if bkjv_tokens[s_idx] != new_token:
+                            bkjv_tokens[s_idx] = new_token
                             line_modified = True
                             fixes_count += 1
                         break
                         
         if line_modified:
-            skjv_lines[skjv_idx] = " ".join(skjv_tokens) + "\n"
+            bkjv_lines[bkjv_idx] = " ".join(bkjv_tokens) + "\n"
             modified = True
             
     # 2. Global clean-up sweep of unique stems (only for those in RESTORE_WORDS / GLOBAL_STEM_MAP)
-    for i in range(len(skjv_lines)):
-        line = skjv_lines[i]
+    for i in range(len(bkjv_lines)):
+        line = bkjv_lines[i]
         orig_line = line
         
         # We do case-sensitive global word boundary replacements for unique stems
@@ -204,13 +204,13 @@ def fix_book(kjv_path, skjv_path):
             line = re.sub(pattern, replacement, line)
             
         if line != orig_line:
-            skjv_lines[i] = line
+            bkjv_lines[i] = line
             modified = True
             fixes_count += 1
             
     if modified:
-        with open(skjv_path, 'w', encoding='utf-8') as f:
-            f.writelines(skjv_lines)
+        with open(bkjv_path, 'w', encoding='utf-8') as f:
+            f.writelines(bkjv_lines)
             
     return fixes_count
 
@@ -227,12 +227,12 @@ def main():
     for filename in book_files:
         kjv_filename = filename.replace("- BKJV.md", "- KJV.md")
         kjv_path = os.path.join(KJV_DIR, kjv_filename)
-        skjv_path = os.path.join(BKJV_DIR, filename)
+        bkjv_path = os.path.join(BKJV_DIR, filename)
         
         if not os.path.exists(kjv_path):
             continue
             
-        fixes = fix_book(kjv_path, skjv_path)
+        fixes = fix_book(kjv_path, bkjv_path)
         total_fixes += fixes
         
         if fixes > 0:

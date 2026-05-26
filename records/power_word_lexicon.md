@@ -1,6 +1,6 @@
 # The New Man's Power-Word Lexicon (BKJV)
 
-This glossary compiles the Top 30 Operational Words used in the Simple King James Version (BKJV) translation. By linking these terms to their original Greek and Hebrew root definitions, this lexicon serves as a practical field guide to the mechanics of the New Covenant.
+This glossary compiles the Top 30 Operational Words used in the Based King James Version (BKJV) translation. By linking these terms to their original Greek and Hebrew root definitions, this lexicon serves as a practical field guide to the mechanics of the New Covenant.
 
 ---
 

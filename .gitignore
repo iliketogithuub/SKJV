@@ -16,5 +16,10 @@ Training Material Recycled/
 # Local/Internal records (not for GitHub)
 records/internal_improvement_log.md
 internal/
-book_layout/
+
+# Scratch & Temporary files
+scratch/
+
+# Large compiled binary files
+*.pdf
 
