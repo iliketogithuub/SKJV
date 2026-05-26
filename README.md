@@ -23,6 +23,8 @@ To deliver God's Word in **concise, precise, and clear 2026 English** — stripp
 ```
 BKJV/
 ├── books/                 # All 66 books of the Bible in Markdown (.md)
+│   ├── Old Testament/     # Books 01 through 39 (Genesis to Malachi)
+│   └── New Testament/     # Books 40 through 66 (Matthew to Revelation)
 ├── records/               # Translation trail, philosophy, and legal records
 │   ├── chat_history_archive_01.md
 │   ├── translation_philosophy_and_trail.md
