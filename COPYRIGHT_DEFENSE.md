@@ -166,13 +166,13 @@ This verse alone contains **five structurally distinct phrasing choices** that d
 - "chastisement" → "punishment"
 - "stripes" → "wounds"
 
-None of these specific replacements appear simultaneously in the NKJV, SKJV, or MEV. The MEV uses "crushed" (one overlap), but retains "stripes" and "iniquities." TheGIGAKJV's combination is unique.
+None of these specific replacements appear simultaneously in the NKJV, SKJV, or MEV. The MEV uses "crushed" (one overlap), but retains "stripes" and "iniquities." The GIGAKJV's combination is unique.
 
 ---
 
 ## 6. The GIGAKJV Translation Rules Matrix (Expanded)
 
-The following matrix governs every modernization decision in theGIGAKJV. Each rule is either (a) a generic public-domain modernization (*scènes à faire*), or (b) an original GIGAKJV creative choice that contributes to the copyrightable derivative work.
+The following matrix governs every modernization decision in the GIGAKJV. Each rule is either (a) a generic public-domain modernization (*scènes à faire*), or (b) an original GIGAKJV creative choice that contributes to the copyrightable derivative work.
 
 | Element / Rule | KJV 1611 Pattern | Typical Modern Pattern (NKJV / SKJV / MEV) | GIGAKJV Original Pattern | Legal Defense / Originality Purpose |
 | :--- | :--- | :--- | :--- | :--- |
@@ -217,25 +217,25 @@ The following matrix governs every modernization decision in theGIGAKJV. Each ru
 
 ## 7. Preemptive Defense Against Common Infringement Claims
 
-This section addresses the typical accusations that proprietary publishers level against independent KJV modernizations, and rebuts each with evidence from theGIGAKJV's documented independent creation process.
+This section addresses the typical accusations that proprietary publishers level against independent KJV modernizations, and rebuts each with evidence from the GIGAKJV's documented independent creation process.
 
 ### Claim 1: "The GIGAKJV is substantially similar to our translation."
-**Rebuttal**: "Substantial similarity" is a necessary but insufficient condition for copyright infringement. Under *Feist Publications, Inc. v. Rural Telephone Service Co.*, 499 U.S. 340 (1991), copyright protects only original expression, not facts or ideas. Where two translators independently modernize the same public domain KJV text, natural overlap in generic modernizations (e.g., "thee" → "you") is inevitable and unprotectable. TheGIGAKJV's **zero-pronoun rule**, **power-word matrix**, and **operational insights** create structural divergence that exceeds the threshold of "substantial similarity" for protectable expression.
+**Rebuttal**: "Substantial similarity" is a necessary but insufficient condition for copyright infringement. Under *Feist Publications, Inc. v. Rural Telephone Service Co.*, 499 U.S. 340 (1991), copyright protects only original expression, not facts or ideas. Where two translators independently modernize the same public domain KJV text, natural overlap in generic modernizations (e.g., "thee" → "you") is inevitable and unprotectable. The GIGAKJV's **zero-pronoun rule**, **power-word matrix**, and **operational insights** create structural divergence that exceeds the threshold of "substantial similarity" for protectable expression.
 
 ### Claim 2: "The GIGAKJV contains the same 'unique' word choices as our translation."
-**Rebuttal**: TheGIGAKJV's distinctive vocabulary choices (e.g., "delegated authority," "supernatural power," "sicknesses and diseases") are derived from Strong's Concordance Greek/Hebrew numbering, not from any modern competitor. The `/records/power_word_lexicon.md` file documents the step-by-step development of these choices, predating any comparison to competing translations. Where a word choice coincides with a competitor (e.g., "sensuality" for *lasciviousness*), that choice is a natural modern English equivalent and therefore *scènes à faire*.
+**Rebuttal**: The GIGAKJV's distinctive vocabulary choices (e.g., "delegated authority," "supernatural power," "sicknesses and diseases") are derived from Strong's Concordance Greek/Hebrew numbering, not from any modern competitor. The `/records/power_word_lexicon.md` file documents the step-by-step development of these choices, predating any comparison to competing translations. Where a word choice coincides with a competitor (e.g., "sensuality" for *lasciviousness*), that choice is a natural modern English equivalent and therefore *scènes à faire*.
 
 ### Claim 3: "The GIGAKJV reproduces our 'shared errors' or editorial quirks."
-**Rebuttal**: TheGIGAKJV's GitHub commit history reveals a **completely different error profile** from any commercial translation. The GIGAKJV development trail includes:
+**Rebuttal**: The GIGAKJV's GitHub commit history reveals a **completely different error profile** from any commercial translation. The GIGAKJV development trail includes:
 - 1,251 suffix-corruption restorations (e.g., "priest" → "pri" → restored).
 - 515 ordinal/verb-stem fixes (e.g., "twentis" → "twentieth").
 - 49-book Holy Spirit disambiguation sweep.
 - 63-book hard-word simplification wave.
 
-These errors—and their corrections—are unique to theGIGAKJV's algorithmic translation pipeline and do not match the known error profiles of the NKJV, SKJV, MEV, or any other translation.
+These errors—and their corrections—are unique to the GIGAKJV's algorithmic translation pipeline and do not match the known error profiles of the NKJV, SKJV, MEV, or any other translation.
 
 ### Claim 4: "The GIGAKJV copied our formatting, paragraphing, or structural choices."
-**Rebuttal**: The GIGAKJV does not follow the paragraphing, quotation-mark insertion, or divine-pronoun capitalization conventions of the Barbour SKJV. TheGIGAKJV's formatting innovations—**bolded functional directives** and **bracketed operational insights**—are original editorial devices that do not appear in any competing translation.
+**Rebuttal**: The GIGAKJV does not follow the paragraphing, quotation-mark insertion, or divine-pronoun capitalization conventions of the Barbour SKJV. The GIGAKJV's formatting innovations—**bolded functional directives** and **bracketed operational insights**—are original editorial devices that do not appear in any competing translation.
 
 ### Claim 5: "Your translator must have read our text."
 **Rebuttal**: The GIGAKJV was produced through an AI-assisted, algorithmic translation process applied directly to the public domain 1611 KJV text, guided by Strong's Concordance and an independent theological framework (supernaturalchurches.org). No GIGAKJV editor was provided with, trained on, or exposed to the NKJV, SKJV, MEV, MKJV, KJ21, or KJVER text during the creation process. This is documented in the `/records/translation_philosophy_and_trail.md` file.
