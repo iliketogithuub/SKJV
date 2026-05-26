@@ -10,7 +10,7 @@
 
 4 And declared to be the Son of God with power, according to the Holy Spirit of holiness, by the resurrection from the dead:
 
-5 By who we have received grace and apostleship, for obedience to the faith among all nations, for his name:
+5 Through Him we have received grace and apostleship, for obedience to the faith among all nations, for his name:
 
 6 Among who are you also the called of Jesus Christ:
 
@@ -202,11 +202,11 @@
 
 5 But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness.
 
-6 Even as David also describs the blessedness of the man, to who God imputs righteousness without works,
+6 Even as David also describs the blessedness of the man, to Him who God credits righteousness without works,
 
 7 Saying, Blessed are they whose wickedness are forgiven, and whose sins are covered.
 
-8 Blessed is the man to who the Lord will not credit sin.
+8 Blessed is the man who the Lord will not credit with sin.
 
 9 comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
 
@@ -238,7 +238,7 @@
 
 23 Now it was not written for his sake alone, that it was credited to him;
 
-24 But for us also, to who it will be credited, if we believe on him that raised up Jesus our Lord from the dead;
+24 But for us also, who it will be credited to, if we believe on him that raised up Jesus our Lord from the dead;
 
 25 Who was delivered for our offences, and was raised again for our being made right.
 
@@ -246,7 +246,7 @@
 
 1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 
-2 By who also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
+2 Through Him also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 
 3 And not only so, but we glory in sufferings also: knowing that suffering works patience;
 
@@ -264,7 +264,7 @@
 
 10 For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we will be saved by his life.
 
-11 And not only so, but we also joy in God through our Lord Jesus Christ, by who we have now received the atonement.
+11 And not only so, but we also joy in God through our Lord Jesus Christ, through Him we have now received the reconciliation.
 
 12 therefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 
@@ -318,7 +318,7 @@
 
 15 What then? will we sin, because we are not under the law, but under grace? God forbid.
 
-16 Know you not, that to who you yield yourselves servants to obey, his servants you are to who you obey; whether of sin to death, or of obedience to righteousness?
+16 Know you not, that whoever you yield yourselves servants to obey, his servants you are who you obey; whether of sin to death, or of obedience to righteousness?
 
 17 But God be thanked, that you were the servants of sin, but you have obeyed from the heart that form of doctrine which was delivered you.
 
@@ -444,7 +444,7 @@
 
 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
-29 For who he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brothers.
+29 For those he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers.
 
 30 Moreover who he did predestinate, them he also called: and who he called, them he also justified: and who he justified, them he also glorified.
 
@@ -474,9 +474,9 @@
 
 3 For I could wish that myself were accursed from Christ for my brothers, my kinsmen according to the flesh:
 
-4 Who are Israelites; to who pertains the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+4 Who are Israelites; to them belongs the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
-5 Whose are the fathers, and of who as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+5 Whose are the fathers, and from them, as concerning the flesh, Christ came, who is over all, God blessed for ever. Amen.
 
 6 Not as though the word of God has taken none effect. For they are not all Israel, which are of Israel:
 
@@ -496,13 +496,13 @@
 
 14 What will we say then? Is there unrighteousness with God? God forbid.
 
-15 For he says to Moses, I will have mercy on who I will have mercy, and I will have compassion on who I will have compassion.
+15 For he says to Moses, I will have mercy on whoever I will have mercy, and I will have compassion on whoever I will have compassion.
 
 16 So then it is not of him that wills, nor of him that runs, but of God that shews mercy.
 
 17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth.
 
-18 Therefore has he mercy on who he will have mercy, and who he will he hardens.
+18 Therefore has he mercy on whoever he will have mercy, and whoever he will he hardens.
 
 19 you will say then to me, Why does he yet find fault? For who has resisted his will?
 
@@ -562,7 +562,7 @@
 
 13 For whosoever will call upon the name of the Lord will be saved.
 
-14 How then will they call on him in who they have not believed? and how will they believe in him of who they have not heard? and how will they hear without a preacher?
+14 How then will they call on him who they have not believed in? and how will they believe in him who they have not heard of? and how will they hear without a preacher?
 
 15 And how will they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 
@@ -650,7 +650,7 @@
 
 35 Or who has first given to him, and it will be rewarded to him again?
 
-36 For of him, and through him, and to him, are all things: to who be glory for ever. Amen.
+36 For of him, and through him, and to him, are all things: to Him be glory for ever. Amen.
 
 ## Romans Chapter 12
 
@@ -710,7 +710,7 @@
 
 6 For for this cause pay you tribute also: for they are God's ministers, attending continually upon this very thing.
 
-7 Render therefore to all their dues: tribute to who tribute is due; custom to who custom; fear to who fear; honour to who honour.
+7 Render therefore to all their dues: tribute to whoever tribute is due; custom to whoever custom; fear to whoever fear; honour to whoever honour.
 
 8 Owe no man any thing, but to love one another: for he that loves another has fulfilled the law.
 
@@ -756,7 +756,7 @@
 
 14 I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteems any thing to be unclean, to him it is unclean.
 
-15 But if your brother be grieved with your meat, now walk you not charitably. Destroy not him with your meat, for who Christ died.
+15 But if your brother be grieved with your meat, now walk you not charitably. Destroy not him with your meat, for whose sake Christ died.
 
 16 Let not then your good be evil spoken of:
 
@@ -816,7 +816,7 @@
 
 20 Yea, so have I strived to preach the gospel, not where Christ was named, otherwise I should build upon another man's foundation:
 
-21 But as it is written, To who he was not spoken of, they will see: and they that have not heard will understand.
+21 But as it is written, Those who were not told of Him will see: and they that have not heard will understand.
 
 22 For which cause also I have been much hindered from coming to you.
 
@@ -850,7 +850,7 @@
 
 3 Greet Priscilla and Aquila my helpers in Christ Jesus:
 
-4 Who have for my life laid down their own necks: to who not only I give thanks, but also all the churches of the Gentiles.
+4 Who have for my life laid down their own necks: to them not only I give thanks, but also all the churches of the Gentiles.
 
 5 Likewise greet the church that is in their house. Greet my well-beloved Epaenetus, who is the firstfruits of Achaia to Christ.
 

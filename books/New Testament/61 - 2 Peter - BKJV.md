@@ -34,7 +34,7 @@
 
 16 For we have not followed cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
 
-17 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in who I am well pleased.
+17 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in Him I am well pleased.
 
 18 And this voice which came from heaven we heard, when we were with him in the holy mount.
 
@@ -48,7 +48,7 @@
 
 1 But there were false prophets also among the people, even as there will be false teachers among you, who secretly will bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
-2 And many will follow their pernicious ways; by reason of who the way of truth will be evil spoken of.
+2 And many will follow their pernicious ways; because of them the way of truth will be evil spoken of.
 
 3 And through greed will they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their condemnation slumbers not.
 
@@ -78,11 +78,11 @@
 
 16 But was rebuked for his wickedness: the dumb ass speaking with man's voice forbad the madness of the prophet.
 
-17 These are wells without water, clouds that are carried with a tempest; to who the mist of darkness is reserved for ever.
+17 These are wells without water, clouds that are carried with a tempest; for them the mist of darkness is reserved for ever.
 
 18 For when they speak great swelling words of emptiness, they allure through the lusts of the flesh, through much lustfulness, those that were clean escaped from them who live in error.
 
-19 While they promise them liberty, they themselves are the servants of corruption: for of who a man is overcome, of the same is he brought in bondage.
+19 While they promise them liberty, they themselves are the servants of corruption: for by whoever a man is overcome, by the same is he brought into bondage.
 
 20 For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
 

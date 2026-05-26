@@ -22,7 +22,7 @@
 
 10 And immediately coming up out of the water, he saw the heavens opened, and the Holy Spirit like a dove descending upon him:
 
-11 And there came a voice from heaven, saying, you are my beloved Son, in who I am well pleased.
+11 And there came a voice from heaven, saying, you are my beloved Son, in Him I am well pleased.
 
 12 And immediately the Holy Spirit drives him into the wilderness.
 
@@ -844,7 +844,7 @@
 
 39 And they said to him, We can. And Jesus said to them, you will indeed drink of the cup that I drink of; and with the baptism that I am baptized also will you be baptized:
 
-40 But to sit on my right hand and on my left hand is not mine to give; but it will be given to them for who it is prepared.
+40 But to sit on my right hand and on my left hand is not mine to give; but it will be given to those it has been prepared for.
 
 41 And when the ten heard it, they began to be much displeased with James and John.
 
@@ -1148,7 +1148,7 @@
 
 20 And he answered and said to them, It is one of the twelve, that dips with me in the dish.
 
-21 The Son of man indeed goes, as it is written of him: but woe to that man by who the Son of man is betrayed! good were it for that man if he had never been born.
+21 The Son of man indeed goes, as it is written of him: but woe to that man who betrays the Son of man! good were it for that man if he had never been born.
 
 22 And as they did eat, Jesus took bread, and blessed, and broke it, and gave to them, and said, Take, eat: this is my body.
 
@@ -1248,7 +1248,7 @@
 
 70 And he denied it again. And a little after, they that stood by said again to Peter, Surely you are one of them: for you are a Galilaean, and your speech agres to it.
 
-71 But he began to curse and to swear, saying, I know not this man of who you speak.
+71 But he began to curse and to swear, saying, I know not this man you speak of.
 
 72 And the second time the cock crew. And Peter called to mind the word that Jesus said to him, Before the cock crow twice, you will deny me thrice. And when he thought thereon, he wept.
 
@@ -1366,7 +1366,7 @@
 
 8 And they went out quickly, and fled from the tomb; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.
 
-9 Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of who he had cast seven devils.
+9 Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of her he had cast seven devils.
 
 10 And she went and told them that had been with him, as they mourned and wept.
 

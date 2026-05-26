@@ -358,7 +358,7 @@
 
 5 And the devil, taking him up into an high mountain, showed to him all the kingdoms of the world in a moment of time.
 
-6 And the devil said to him, All this power will I give you, and the glory of them: for that is delivered to me; and to whoever I will I give it.
+6 And the devil said to him, All this power will I give you, and the glory of them: for that is delivered to me; and I give it to whoever I want.
 
 7 If you therefore will worship me, all will be your.
 
@@ -584,7 +584,7 @@
 
 33 And if you do good to them which do good to you, what thank have you? for sinners also do even the same.
 
-34 And if you lend to them of who you hope to receive, what thank have you? for sinners also lend to sinners, to receive as much again.
+34 And if you lend to those you hope to receive from, what thank have you? for sinners also lend to sinners, to receive as much again.
 
 35 But love you your enemies, and do good, and lend, hoping for nothing again; and your reward will be great, and you will be the children of the Highest: for he is kind to the unthankful and to the evil.
 
@@ -610,7 +610,7 @@
 
 46 And why call you me, Lord, Lord, and do not the things which I say?
 
-47 Whosoever comes to me, and hears my sayings, and does them, I will show you to who he is like:
+47 Whosoever comes to me, and hears my sayings, and does them, I will show you what he is like:
 
 48 He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 
@@ -624,7 +624,7 @@
 
 3 And when he heard of Jesus, he sent to him the elders of the Jews, beseeching him that he would come and heal his servant.
 
-4 And when they came to Jesus, they urged him instantly, saying, That he was worthy for who he should do this:
+4 And when they came to Jesus, they urged him instantly, saying, That he was worthy to have this done for him:
 
 5 For he loves our nation, and he has built us a synagogue.
 
@@ -670,7 +670,7 @@
 
 26 But what went you out for to see? A prophet? Yea, I say to you, and much more than a prophet.
 
-27 This is he, of who it is written, Look, I send my messenger before your face, which will prepare your way before you.
+27 This is he, who it is written of, Look, I send my messenger before your face, which will prepare your way before you.
 
 28 For I say to you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.
 
@@ -702,7 +702,7 @@
 
 42 And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
 
-43 Simon answered and said, I suppose that he, to who he forgave most. And he said to him, you have rightly judged.
+43 Simon answered and said, I suppose that the one he forgave most. And he said to him, you have rightly judged.
 
 44 And he turned to the woman, and said to Simon, Se you this woman? I entered into your house, you gav me no water for my feet: but she has washed my feet with tears, and wiped them with the hairs of her head.
 
@@ -710,7 +710,7 @@
 
 46 My head with oil you did not anoint: but this woman has anointed my feet with ointment.
 
-47 therefore I say to you, Her sins, which are many, are forgiven; for she loved much: but to who little is forgiven, the same loves little.
+47 therefore I say to you, Her sins, which are many, are forgiven; for she loved much: but he who is forgiven little, loves little.
 
 48 And he said to her, your sins are forgiven.
 
@@ -722,7 +722,7 @@
 
 1 And it came to pass afterward, that he went throughout every city and village, preaching and showing the glad tidings of the kingdom of God: and the twelve were with him,
 
-2 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of who went seven devils,
+2 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of her went seven devils,
 
 3 And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered to him of their substance.
 
@@ -788,13 +788,13 @@
 
 34 When they that fed them saw what was done, they fled, and went and told it in the city and in the country.
 
-35 Then they went out to see what was done; and came to Jesus, and found the man, out of who the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
+35 Then they went out to see what was done; and came to Jesus, and found the man, who the devils had departed from, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
 
 36 They also which saw it told them by what means he that was possessed of the devils was healed.
 
 37 Then the whole multitude of the country of the Gadarenes round about urged him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.
 
-38 Now the man out of who the devils were departed urged him that he might be with him: but Jesus sent him away, saying,
+38 Now the man who the devils had departed from urged him that he might be with him: but Jesus sent him away, saying,
 
 39 Return to your own house, and show how great things God has done to you. And he went his way, and published throughout the whole city how great things Jesus had done to him.
 
@@ -850,7 +850,7 @@
 
 8 And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.
 
-9 And Herod said, John have I beheaded: but who is this, of who I hear such things? And he desired to see him.
+9 And Herod said, John have I beheaded: but who is this, I hear such things about? And he desired to see him.
 
 10 And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.
 
@@ -1002,7 +1002,7 @@
 
 21 In that hour Jesus rejoiced in spirit, and said, I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and wise, and have revealed them to babes: even so, Father; for so it seemed good in your sight.
 
-22 All things are delivered to me of my Father: and no man knows who the Son is, but the Father; and who the Father is, but the Son, and he to who the Son will reveal him.
+22 All things are delivered to me of my Father: and no man knows who the Son is, but the Father; and who the Father is, but the Son, and anyone the Son chooses to reveal Him to.
 
 23 And he turned him to his disciples, and said privately, Blessed are the eyes which see the things that you see:
 
@@ -1084,7 +1084,7 @@
 
 18 If Satan also be divided against himself, how will his kingdom stand? because you say that I cast out devils through Beelzebub.
 
-19 And if I by Beelzebub cast out devils, by who do your sons cast them out? therefore will they be your judges.
+19 And if I by Beelzebub cast out devils, by whose power do your sons cast them out? therefore will they be your judges.
 
 20 But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
 
@@ -1252,7 +1252,7 @@
 
 47 And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, will be beaten with many stripes.
 
-48 But he that knew not, and did commit things worthy of stripes, will be beaten with few stripes. For to whoever much is given, of him will be much required: and to who men have committed much, of him they will ask the more.
+48 But he that knew not, and did commit things worthy of stripes, will be beaten with few stripes. For to everyone who has been given much, much will be required of him: and to the one men have committed much to, they will ask the more.
 
 49 I am come to send fire on the earth; and what will I, if it be already burned?
 
@@ -1284,7 +1284,7 @@
 
 3 I tell you, Nay: but, except you repent, you will all likewise perish.
 
-4 Or those eighteen, upon who the tower in Siloam fell, and killed them, think you that they were sinners above all men that dwelt in Jerusalem?
+4 Or those eighteen, who the tower in Siloam fell on, and killed them, think you that they were sinners above all men that dwelt in Jerusalem?
 
 5 I tell you, Nay: but, except you repent, you will all likewise perish.
 
@@ -1552,7 +1552,7 @@
 
 ## Luke Chapter 17
 
-1 Then said he to the disciples, It is impossible but that offences will come: but woe to him, through who they come!
+1 Then said he to the disciples, It is impossible but that offences will come: but woe to him, who they come through!
 
 2 It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.
 
@@ -1744,7 +1744,7 @@
 
 14 But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.
 
-15 And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called to him, to who he had given the money, that he might know how much every man had gained by trading.
+15 And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called to him, who he had given the money to, that he might know how much every man had gained by trading.
 
 16 Then came the first, saying, Lord, your pound has gained ten pounds.
 
@@ -1848,7 +1848,7 @@
 
 17 And he saw them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
 
-18 Whosoever will fall upon that stone will be broken; but on whoever it will fall, it will grind him to powder.
+18 Whosoever will fall upon that stone will be broken; but whoever it falls on, it will grind him to powder.
 
 19 And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
 
@@ -2030,7 +2030,7 @@
 
 21 But, look, the hand of him that betrays me is with me on the table.
 
-22 And truly the Son of man goes, as it was determined: but woe to that man by who he is betrayed!
+22 And truly the Son of man goes, as it was determined: but woe to that man who betrays him!
 
 23 And they began to enquire among themselves, which of them it was that should do this thing.
 

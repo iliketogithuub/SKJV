@@ -30,7 +30,7 @@
 
 14 And the Word was made flesh, and dwelt among us, (and we saw his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
-15 John bare witness of him, and cried, saying, This was he of who I spoke, He that comes after me is preferred before me: for he was before me.
+15 John bare witness of him, and cried, saying, This was he I spoke of, He that comes after me is preferred before me: for he was before me.
 
 16 And of his fulness have all we received, and grace for grace.
 
@@ -60,13 +60,13 @@
 
 29 The next day John sees Jesus coming to him, and says, Look at the Lamb of God, which takes away the sin of the world.
 
-30 This is he of who I said, After me comes a man which is preferred before me: for he was before me.
+30 This is he I spoke of, After me comes a man which is preferred before me: for he was before me.
 
 31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 
 32 And John bare record, saying, I saw the Holy Spirit descending from heaven like a dove, and it stayed upon him.
 
-33 And I knew him not: but he that sent me to baptize with water, the same said to me, Upon who you will see the Holy Spirit descending, and remaining on him, the same is he which baptizs with the Holy Spirit.
+33 And I knew him not: but he that sent me to baptize with water, the same said to me, on Him who you will see the Holy Spirit descending and remaining, the same is he which baptizs with the Holy Spirit.
 
 34 And I saw, and bare record that this is the Son of God.
 
@@ -90,11 +90,11 @@
 
 44 Now Philip was of Bethsaida, the city of Andrew and Peter.
 
-45 Philip finds Nathanael, and says to him, We have found him, of who Moses in the law, and the prophets, did write, Jesus of Nazars, the son of Joseph.
+45 Philip finds Nathanael, and says to him, We have found him, who Moses in the law and the prophets wrote of, Jesus of Nazars, the son of Joseph.
 
 46 And Nathanael said to him, Can there any good thing come out of Nazars? Philip says to him, Come and see.
 
-47 Jesus saw Nathanael coming to him, and says of him, Look an Israelite indeed, in who is no guile!
+47 Jesus saw Nathanael coming to him, and says of him, Look an Israelite indeed, who has no deceit in him!
 
 48 Nathanael says to him, From where know you me? Jesus answered and said to him, Before that Philip called you, when you were under the fig tree, I saw you.
 
@@ -208,7 +208,7 @@
 
 25 Then there arose a question between some of John's disciples and the Jews about purifying.
 
-26 And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, to who you bar witness, look, the same baptizs, and all men come to him.
+26 And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, who you bore witness to, look, the same baptizs, and all men come to him.
 
 27 John answered and said, A man can receive nothing, except it be given him from heaven.
 
@@ -382,7 +382,7 @@
 
 20 For the Father loves the Son, and shews him all things that himself does: and he will show him greater works than these, that you may marvel.
 
-21 For as the Father raiss up the dead, and gives life to them; even so the Son gives life to who he will.
+21 For as the Father raiss up the dead, and gives life to them; even so the Son gives life to whoever he wills.
 
 22 For the Father judges no man, but has committed all judgment to the Son:
 
@@ -416,7 +416,7 @@
 
 37 And the Father himself, which has sent me, has borne witness of me. you have neither heard his voice at any time, nor seen his shape.
 
-38 And you have not his word abiding in you: for who he has sent, him you believe not.
+38 And you have not his word abiding in you: for you do not believe the one he sent.
 
 39 Search the scriptures; for in them you think you have eternal life: and they are they which testify of me.
 
@@ -430,7 +430,7 @@
 
 44 How can you believe, which receive honour one of another, and seek not the honour that comes from God only?
 
-45 Do not think that I will accuse you to the Father: there is one that accuss you, even Moses, in who you trust.
+45 Do not think that I will accuse you to the Father: there is one that accuss you, even Moses, who you trust in.
 
 46 For had you believed Moses, you would have believed me; for he wrote of me.
 
@@ -572,7 +572,7 @@
 
 67 Then said Jesus to the twelve, Will you also go away?
 
-68 Then Simon Peter answered him, Lord, to who will we go? you have the words of eternal life.
+68 Then Simon Peter answered him, Lord, who will we go to? you have the words of eternal life.
 
 69 And we believe and are sure that you are that Christ, the Son of the living God.
 
@@ -796,7 +796,7 @@
 
 53 are you greater than our father Abraham, which is dead? and the prophets are dead: who mak you yourself?
 
-54 Jesus answered, If I honour myself, my honour is nothing: it is my Father that honours me; of who you say, that he is your God:
+54 Jesus answered, If I honour myself, my honour is nothing: it is my Father that honours me; who you say is your God:
 
 55 Yet you have not known him; but I know him: and if I should say, I know him not, I will be a liar like to you: but I know him, and keep his saying.
 
@@ -962,7 +962,7 @@
 
 34 Jesus answered them, Is it not written in your law, I said, you are gods?
 
-35 If he called them gods, to who the word of God came, and the scripture cannot be broken;
+35 If he called them gods, who the word of God came to, and the scripture cannot be broken;
 
 36 Say you of him, who the Father has sanctified, and sent into the world, you blasphem; because I said, I am the Son of God?
 
@@ -1170,7 +1170,7 @@
 
 37 But though he had done so many miracles before them, yet they believed not on him:
 
-38 That the saying of Esaias the prophet might be fulfilled, which he spoke, Lord, who has believed our report? and to who has the arm of the Lord been revealed?
+38 That the saying of Esaias the prophet might be fulfilled, which he spoke, Lord, who has believed our report? and who has the arm of the Lord been revealed to?
 
 39 Therefore they could not believe, because that Esaias said again,
 
@@ -1240,15 +1240,15 @@
 
 21 When Jesus had thus said, he was troubled in spirit, and testified, and said, Truly, truly, I say to you, that one of you will betray me.
 
-22 Then the disciples looked one on another, doubting of who he spoke.
+22 Then the disciples looked one on another, wondering who he spoke of.
 
 23 Now there was leaning on Jesus' bosom one of his disciples, who Jesus loved.
 
-24 Simon Peter therefore beckoned to him, that he should ask who it should be of who he spoke.
+24 Simon Peter therefore beckoned to him, that he should ask who it was he was speaking of.
 
 25 He then lying on Jesus' breast says to him, Lord, who is it?
 
-26 Jesus answered, He it is, to who I will give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon.
+26 Jesus answered, He it is, who I will give a piece of bread to, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon.
 
 27 And after the sop Satan entered into him. Then said Jesus to him, That you do, do quickly.
 

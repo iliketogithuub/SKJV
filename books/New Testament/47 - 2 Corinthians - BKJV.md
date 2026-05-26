@@ -20,7 +20,7 @@
 
 9 But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiss the dead:
 
-10 Who delivered us from so great a death, and does deliver: in who we trust that he will yet deliver us;
+10 Who delivered us from so great a death, and does deliver: in Him we trust that He will yet deliver us;
 
 11 you also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.
 
@@ -56,7 +56,7 @@
 
 2 For if I make you sorry, who is he then that makes me glad, but the same which is made sorry by me?
 
-3 And I wrote this same to you, otherwise, when I came, I should have sorrow from them of who I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
+3 And I wrote this same to you, otherwise, when I came, I should have sorrow from those who should make me rejoice; having confidence in you all, that my joy is the joy of you all.
 
 4 For out of much affliction and anguish of heart I wrote to you with many tears; not that you should be grieved, but that you might know the love which I have more abundantly to you.
 
@@ -70,7 +70,7 @@
 
 9 For to this end also did I write, that I might know the proof of you, whether you be obedient in all things.
 
-10 To who you forgive any thing, I forgive also: for if I forgave any thing, to who I forgave it, for your sakes forgave I it in the person of Christ;
+10 Anyone you forgive, I also forgive; and what I have forgiven, if I have forgiven anything, for your sakes forgave I it in the person of Christ;
 
 11 otherwise Satan should get an advantage of us: for we are not ignorant of his devices.
 
@@ -132,7 +132,7 @@
 
 3 But if our gospel be hid, it is hid to them that are lost:
 
-4 In who the god of this world has blinded the minds of them which believe not, otherwise the light of the glorious gospel of Christ, who is the image of God, should shine to them.
+4 whose minds the god of this world has blinded, so they do not believe, otherwise the light of the glorious gospel of Christ, who is the image of God, should shine to them.
 
 5 For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
 

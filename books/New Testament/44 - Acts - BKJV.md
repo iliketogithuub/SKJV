@@ -6,7 +6,7 @@
 
 2 Until the day in which he was taken up, after that he through the Holy Spirit had given commandments to the apostles who he had chosen:
 
-3 To who also he showed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
+3 To them also he showed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 
 4 And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, says he, you have heard of me.
 
@@ -252,7 +252,7 @@
 
 21 So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done.
 
-22 For the man was above forty years old, on who this miracle of healing was showed.
+22 For the man was above forty years old, who this miracle of healing was performed on.
 
 23 And being let go, they went to their own company, and reported all that the chief priests and elders had said to them.
 
@@ -356,7 +356,7 @@
 
 35 And said to them, you men of Israel, take heed to yourselves what you intend to do as touching these men.
 
-36 For before these days rose up Theudas, boasting himself to be somebody; to who a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nothing.
+36 For before these days rose up Theudas, boasting himself to be somebody; who a number of men, about four hundred, joined: who was slain; and all, as many as obeyed him, were scattered, and brought to nothing.
 
 37 After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.
 
@@ -416,7 +416,7 @@
 
 6 And God spoke on this wise, That his seed should live temporarily in a strange land; and that they should bring them into bondage, and plead with them evil four hundred years.
 
-7 And the nation to who they will be in bondage will I judge, said God: and after that will they come forth, and serve me in this place.
+7 And the nation they will be in bondage to will I judge, said God: and after that will they come forth, and serve me in this place.
 
 8 And he gave him the covenant of circumcision: and so Abraham fathered Isaac, and circumcised him the eighth day; and Isaac fathered Jacob; and Jacob fathered the twelve patriarchs.
 
@@ -480,7 +480,7 @@
 
 38 This is he, that was in the church in the wilderness with the angel which spoke to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
 
-39 To who our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
+39 Who our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
 
 40 Saying to Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we know not what is become of him.
 
@@ -506,7 +506,7 @@
 
 51 you stiffnecked and uncircumcised in heart and ears, you do always resist the Holy Spirit: as your fathers did, so do you.
 
-52 Which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One; of who you have been now the betrayers and murderers:
+52 Which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One; whose betrayers and murderers you have now become:
 
 53 Who have received the law by the disposition of angels, and have not kept it.
 
@@ -544,7 +544,7 @@
 
 9 But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
 
-10 To who they all gave heed, from the least to the greatest, saying, This man is the great power of God.
+10 To him they all gave heed, from the least to the greatest, saying, This man is the great power of God.
 
 11 And to him they had regard, because that of long time he had bewitched them with sorceries.
 
@@ -562,7 +562,7 @@
 
 18 And when Simon saw that through laying on of the apostles' hands the Holy Spirit was given, he offered them money,
 
-19 Saying, Give me also this power, that on whoever I lay hands, he may receive the Holy Spirit.
+19 Saying, Give me also this power, that whoever I lay hands on may receive the Holy Spirit.
 
 20 But Peter said to him, your money perish with you, because you have thought that the gift of God may be purchased with money.
 
@@ -592,7 +592,7 @@
 
 33 In his humiliation his judgment was taken away: and who will declare his generation? for his life is taken from the earth.
 
-34 And the eunuch answered Philip, and said, I pray you, of who speaks the prophet this? of himself, or of some other man?
+34 And the eunuch answered Philip, and said, I pray you, who is the prophet speaking of? of himself, or of some other man?
 
 35 Then Philip opened his mouth, and began at the same scripture, and preached to him Jesus.
 
@@ -950,7 +950,7 @@
 
 21 And afterward they desired a king: and God gave to them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
 
-22 And when he had removed him, he raised up to them David to be their king; to who also he gave their testimony, and said, I have found David the son of Jesse, a man after mine own heart, which will fulfil all my will.
+22 And when he had removed him, he raised up to them David to be their king; of him also he testified, saying, I have found David the son of Jesse, a man after mine own heart, which will fulfil all my will.
 
 23 Of this man's seed has God according to his promise raised to Israel a Saviour, Jesus:
 
@@ -1058,7 +1058,7 @@
 
 22 Confirming the souls of the disciples, and encouraging them to continue in the faith, and that we must through much suffering enter into the kingdom of God.
 
-23 And when they had ordained them elders in every church, and had prayed with fasting, they praised them to the Lord, on who they believed.
+23 And when they had ordained them elders in every church, and had prayed with fasting, they praised them to the Lord, who they believed in.
 
 24 And after they had passed throughout Pisidia, they came to Pamphylia.
 
@@ -1104,7 +1104,7 @@
 
 16 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins of it, and I will set it up:
 
-17 That the rest of men might seek after the Lord, and all the Gentiles, upon who my name is called, says the Lord, who does all these things.
+17 That the rest of men might seek after the Lord, and all the Gentiles, who are called by my name, says the Lord, who does all these things.
 
 18 Known to God are all his works from the beginning of the world.
 
@@ -1118,7 +1118,7 @@
 
 23 And they wrote letters by them after this manner; The apostles and elders and brothers send greeting to the brothers which are of the Gentiles in Antioch and Syria and Cilicia.
 
-24 Since as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, you must be circumcised, and keep the law: to who we gave no such commandment:
+24 Since as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, you must be circumcised, and keep the law: who we gave no such commandment to:
 
 25 It seemed good to us, being assembled with one accord, to send chosen men to you with our beloved Barnabas and Paul,
 
@@ -1396,7 +1396,7 @@
 
 15 And the evil spirit answered and said, Jesus I know, and Paul I know; but who are you?
 
-16 And the man in who the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
+16 And the man who had the evil spirit leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
 
 17 And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.
 
@@ -1558,7 +1558,7 @@
 
 15 And after those days we took up our carriages, and went up to Jerusalem.
 
-16 There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with who we should lodge.
+16 There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, who we should lodge with.
 
 17 And when we were come to Jerusalem, the brothers received us gladly.
 
@@ -1618,7 +1618,7 @@
 
 4 And I persecuted this way to the death, binding and delivering into prisons both men and women.
 
-5 As also the high priest does bear me witness, and all the estate of the elders: from who also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
+5 As also the high priest does bear me witness, and all the estate of the elders: from them also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, for to be punished.
 
 6 And it came to pass, that, as I made my journey, and was come near to Damascus about noon, suddenly there shone from heaven a great light round about me.
 
@@ -1758,7 +1758,7 @@
 
 7 But the chief captain Lysias came upon us, and with great violence took him away out of our hands,
 
-8 Commanding his accusers to come to you: by examining of who yourself may take knowledge of all these things, of which we accuse him.
+8 Commanding his accusers to come to you: by examining him yourself you may learn the truth of all these things, of which we accuse him.
 
 9 And the Jews also assented, saying that these things were so.
 
@@ -1828,13 +1828,13 @@
 
 14 And when they had been there many days, Festus declared Paul's cause to the king, saying, There is a certain man left in bonds by Felix:
 
-15 About who, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.
+15 About him, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.
 
-16 To who I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
+16 To them I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
 
 17 Therefore, when they were come here, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
 
-18 Against who when the accusers stood up, they brought none accusation of such things as I supposed:
+18 Against him when the accusers stood up, they brought none accusation of such things as I supposed:
 
 19 But had certain questions against him of their own false religion, and of one Jesus, which was dead, who Paul affirmed to be alive.
 
@@ -1846,11 +1846,11 @@
 
 23 And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.
 
-24 And Festus said, King Agrippa, and all men which are here present with us, you see this man, about who all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.
+24 And Festus said, King Agrippa, and all men which are here present with us, you see this man, about him all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.
 
 25 But when I found that he had committed nothing worthy of death, and that he himself has appealed to Augustus, I have determined to send him.
 
-26 Of who I have no certain thing to write to my lord. therefore I have brought him forth before you, and specially before you, O king Agrippa, that, after examination had, I might have somewhat to write.
+26 About him I have no certain thing to write to my lord. therefore I have brought him forth before you, and specially before you, O king Agrippa, that, after examination had, I might have somewhat to write.
 
 27 For it seems to me unreasonable to send a prisoner, and not also to signify the crimes laid against him.
 
@@ -1888,7 +1888,7 @@
 
 16 But rise, and stand upon your feet: for I have appeared to you for this purpose, to make you a minister and a witness both of these things which you have seen, and of those things in the which I will appear to you;
 
-17 Delivering you from the people, and from the Gentiles, to who now I send you,
+17 Delivering you from the people, and from the Gentiles, who I now send you to,
 
 18 To open their eyes, and to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
 
@@ -1906,7 +1906,7 @@
 
 25 But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.
 
-26 For the king knows of these things, before who also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.
+26 For the king knows of these things, before him also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.
 
 27 King Agrippa, believ you the prophets? I know that you believ.
 
@@ -2026,7 +2026,7 @@
 
 7 In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.
 
-8 And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to who Paul entered in, and prayed, and laid his hands on him, and healed him.
+8 And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to him Paul went in, and prayed, and laid his hands on him, and healed him.
 
 9 So when this was done, others also, which had diseases in the island, came, and were healed:
 
@@ -2056,7 +2056,7 @@
 
 22 But we desire to hear of you what you think: for as concerning this sect, we know that every where it is spoken against.
 
-23 And when they had appointed him a day, there came many to him into his lodging; to who he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
+23 And when they had appointed him a day, there came many to him into his lodging; to them he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
 
 24 And some believed the things which were spoken, and some believed not.
 

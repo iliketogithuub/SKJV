@@ -4,7 +4,7 @@
 
 1 God, who at various times and in various manners spoke in time past to the fathers by the prophets,
 
-2 has in these last days spoken to us by his Son, who he has appointed heir of all things, by who also he made the worlds;
+2 has in these last days spoken to us by his Son, who he has appointed heir of all things, through Him also he made the worlds;
 
 3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:
 
@@ -50,7 +50,7 @@
 
 9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
 
-10 For it became him, for who are all things, and by who are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings.
+10 For it became him, for whose sake are all things, and through Him are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings.
 
 11 For both he that sanctifies and they who are sanctified are all of one: for which cause he is not ashamed to call them brothers,
 
@@ -102,9 +102,9 @@
 
 16 For some, when they had heard, did provoke: however not all that came out of Egypt by Moses.
 
-17 But with who was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
+17 But who was he grieved with forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
 
-18 And to who sware he that they should not enter into his rest, but to them that believed not?
+18 And who did he swear to that they should not enter into his rest, but to them that believed not?
 
 19 So we see that they could not enter in because of unbelief.
 
@@ -120,7 +120,7 @@
 
 5 And in this place again, If they will enter into my rest.
 
-6 Seeing therefore it remains that some must enter in it, and they to who it was first preached entered not in because of unbelief:
+6 Seeing therefore it remains that some must enter in it, and those who first had it preached to them entered not in because of unbelief:
 
 7 Again, he limits a certain day, saying in David, To day, after so long a time; as it is said, To day if you will hear his voice, harden not your hearts.
 
@@ -134,7 +134,7 @@
 
 12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing apart of soul and human spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of him with who we have to do.
+13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of Him who we must answer to.
 
 14 Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
 
@@ -164,7 +164,7 @@
 
 10 Called of God an high priest after the order of Melchisedec.
 
-11 Of who we have many things to say, and hard to be uttered, seeing you are dull of hearing.
+11 About him we have many things to say, and hard to be uttered, seeing you are dull of hearing.
 
 12 For when for the time you ought to be teachers, you have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
 
@@ -186,7 +186,7 @@
 
 6 If they will fall away, to renew them again to repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
 
-7 For the earth which drinks in the rain that comes often upon it, and brings forth herbs meet for them by who it is dressed, receives blessing from God:
+7 For the earth which drinks in the rain that comes often upon it, and brings forth herbs useful to those who cultivate it, receives blessing from God:
 
 8 But that which bears thorns and briers is rejected, and is near to cursing; whose end is to be burned.
 
@@ -218,11 +218,11 @@
 
 1 For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 
-2 To who also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;
+2 To him also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;
 
 3 Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like to the Son of God; abides a priest continually.
 
-4 Now consider how great this man was, to who even the patriarch Abraham gave the tenth of the spoils.
+4 Now consider how great this man was, to him even the patriarch Abraham gave the tenth of the spoils.
 
 5 And truly they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brothers, though they come out of the loins of Abraham:
 
@@ -230,7 +230,7 @@
 
 7 And without all contradiction the less is blessed of the better.
 
-8 And here men that die receive tithes; but there he receives them, of who it is witnessed that he lives.
+8 And here men that die receive tithes; but there he receives them, of him it is witnessed that he lives.
 
 9 And as I may so say, Levi also, who receives tithes, payed tithes in Abraham.
 
@@ -240,7 +240,7 @@
 
 12 For the priesthood being changed, there is made of necessity a change also of the law.
 
-13 For he of who these things are spoken pertains to another tribe, of which no man gave attendance at the altar.
+13 For the one these things are spoken of pertains to another tribe, of which no man gave attendance at the altar.
 
 14 For it is evident that our Lord sprang out of Juda; of which tribe Moses spoke nothing concerning priesthood.
 
@@ -474,7 +474,7 @@
 
 17 By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,
 
-18 Of who it was said, That in Isaac will your seed be called:
+18 About him it was said, That in Isaac will your seed be called:
 
 19 Accounting that God was able to raise him up, even from the dead; from where also he received him in a figure.
 
@@ -514,7 +514,7 @@
 
 37 They were stoned, they were sawn apart, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
 
-38 (Of who the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
+38 (who the world was not worthy of:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
 
 39 And these all, having obtained a good report through faith, received not the promise:
 
@@ -532,7 +532,7 @@
 
 5 And you have forgotten the encouragement which speaks to you as to children, My son, despise not you the discipline of the Lord, nor faint when you are rebuked of him:
 
-6 For who the Lord loves he disciplines, and scourgs every son who he receives.
+6 For the one the Lord loves he disciplines, and scourges every son he receives.
 
 7 If you endure discipline, God deals with you as with sons; for what son is he who the father disciplines not?
 
@@ -622,11 +622,11 @@
 
 20 Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
 
-21 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to who be glory for ever and ever. Amen.
+21 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to Him be glory for ever and ever. Amen.
 
 22 And I urge you, brothers, suffer the word of encouragement: for I have written a letter to you in few words.
 
-23 Know you that our brother Timothy is set at liberty; with who, if he come shortly, I will see you.
+23 Know you that our brother Timothy is set at liberty; with him, if he comes shortly, I will see you.
 
 24 Greet all them that have the rule over you, and all the saints. They of Italy greet you.
 

@@ -10,7 +10,7 @@
 
 4 Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
 
-5 To who be glory for ever and ever. Amen.
+5 To Him be glory for ever and ever. Amen.
 
 6 I marvel that you are so soon removed from him that called you into the grace of Christ to another gospel:
 
@@ -60,7 +60,7 @@
 
 4 And that because of false brothers secretly brought in, who came in secretly to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 
-5 To who we gave place by submission, no, not for an hour; that the truth of the gospel might continue with you.
+5 To them we did not yield in submission, no, not for an hour; that the truth of the gospel might continue with you.
 
 6 But of these who seemed to be somewhat, (whatsoever they were, it makes no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
 
@@ -132,7 +132,7 @@
 
 18 For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
 
-19 therefore then serves the law? It was added because of sins, till the seed should come to who the promise was made; and it was ordained by angels in the hand of a mediator.
+19 therefore then serves the law? It was added because of sins, till the seed should come who the promise was made to; and it was ordained by angels in the hand of a mediator.
 
 20 Now a mediator is not a mediator of one, but God is one.
 
@@ -192,7 +192,7 @@
 
 18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-19 My little children, of who I labor in birth again until Christ be formed in you,
+19 My little children, who I labor in birth for again until Christ be formed in you,
 
 20 I desire to be present with you now, and to change my voice; for I stand in doubt of you.
 
@@ -300,7 +300,7 @@
 
 13 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 
-14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by who the world is crucified to me, and I to the world.
+14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by which the world is crucified to me, and I to the world.
 
 15 For in Christ Jesus neither circumcision avails any thing, nor uncircumcision, but a new creature.
 

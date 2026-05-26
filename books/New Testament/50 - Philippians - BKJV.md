@@ -140,7 +140,7 @@
 
 7 But what things were gain to me, those I counted looses for Christ.
 
-8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for who I have suffered the looses of all things, and do count them but dung, that I may win Christ,
+8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for whose sake I have suffered the loss of all things, and do count them but dung, that I may win Christ,
 
 9 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 
@@ -160,7 +160,7 @@
 
 17 Brothers, be followers together of me, and mark them which walk so as you have us for an example.
 
-18 (For many walk, of who I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+18 (For many walk, who I have told you of often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 

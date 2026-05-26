@@ -18,7 +18,7 @@
 
 8 Who will also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
 
-9 God is faithful, by who you were called to the fellowship of his Son Jesus Christ our Lord.
+9 God is faithful, who called you to the fellowship of his Son Jesus Christ our Lord.
 
 10 Now I urge you, brothers, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you; but that you be perfectly joined together in the same mind and in the same judgment.
 
@@ -108,7 +108,7 @@
 
 4 For while one says, I am of Paul; and another, I am of Apollos; are you not carnal?
 
-5 Who then is Paul, and who is Apollos, but ministers by who you believed, even as the Lord gave to every man?
+5 Who then is Paul, and who is Apollos, but ministers who you believed through you believed, even as the Lord gave to every man?
 
 6 I have planted, Apollos watered; but God gave the increase.
 
@@ -338,7 +338,7 @@
 
 38 So then he that gives her in marriage does well; but he that gives her not in marriage does better.
 
-39 The wife is bound by the law as long as her husband lives; but if her husband be dead, she is at liberty to be married to who she will; only in the Lord.
+39 The wife is bound by the law as long as her husband lives; but if her husband be dead, she is at liberty to be married to whoever she wishes; only in the Lord.
 
 40 But she is happier if she so abide, after my judgment: and I think also that I have the Holy Spirit of God.
 
@@ -354,7 +354,7 @@
 
 5 For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
 
-6 But to us there is but one God, the Father, of who are all things, and we in him; and one Lord Jesus Christ, by who are all things, and we by him.
+6 But to us there is but one God, the Father, from Him are all things, and we in Him; and one Lord Jesus Christ, through Him are all things, and we by him.
 
 7 However there is not in every man that knowledge: for some with conscience of the idol to this hour eat it as a thing offered to an idol; and their conscience being weak is defiled.
 
@@ -364,7 +364,7 @@
 
 10 For if any man see you which have knowledge sit at meat in the idol's temple, will not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 
-11 And through your knowledge will the weak brother perish, for who Christ died?
+11 And through your knowledge will the weak brother perish, for whose sake Christ died?
 
 12 But when you sin so against the brothers, and wound their weak conscience, you sin against Christ.
 
@@ -448,7 +448,7 @@
 
 10 Neither murmur you, as some of them also murmured, and were destroyed of the destroyer.
 
-11 Now all these things happened to them for examples: and they are written for our admonition, upon who the ends of the world are come.
+11 Now all these things happened to them for examples: and they are written for our admonition, who the ends of the world have come upon.
 
 12 therefore let him that thinks he stands take heed otherwise he fall.
 
@@ -750,7 +750,7 @@
 
 5 And that he was seen of Cephas, then of the twelve:
 
-6 After that, he was seen of above five hundred brothers at once; of who the greater part remain to this present, but some are fallen asleep.
+6 After that, he was seen of above five hundred brothers at once; most of them remain to this present, but some are fallen asleep.
 
 7 After that, he was seen of James; then of all the apostles.
 

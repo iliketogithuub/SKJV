@@ -28,7 +28,7 @@
 
 13 Who has delivered us from the power of darkness, and has transferred us into the kingdom of his dear Son:
 
-14 In who we have redemption through his blood, even the forgiveness of sins:
+14 In Him we have redemption through his blood, even the forgiveness of sins:
 
 15 Who is the image of the invisible God, the firstborn of every creature:
 
@@ -54,7 +54,7 @@
 
 26 Even the mystery which has been hid from ages and from generations, but now is made manifest to his saints:
 
-27 To who God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+27 To them God willed to make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
 28 who we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
 
@@ -66,7 +66,7 @@
 
 2 That their hearts might be comforted, being knit together in love, and to all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 
-3 In who are hid all the treasures of wisdom and knowledge.
+3 In Him are hid all the treasures of wisdom and knowledge.
 
 4 And this I say, otherwise any man should beguile you with enticing words.
 
@@ -82,7 +82,7 @@
 
 10 And you are complete in him, which is the head of all principality and power:
 
-11 In who also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
+11 In Him also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
 12 Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
 

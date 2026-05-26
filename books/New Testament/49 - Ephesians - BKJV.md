@@ -14,7 +14,7 @@
 
 6 To the praise of the glory of his grace, in which he has made us accepted in the beloved.
 
-7 In who we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+7 In Him we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
 8 In which he has abounded toward us in all wisdom and wisdom;
 
@@ -22,11 +22,11 @@
 
 10 That in the administration of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
-11 In who also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
+11 In Him also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
 
 12 That we should be to the praise of his glory, who first trusted in Christ.
 
-13 In who you also trusted, after that you heard the word of truth, the gospel of your salvation: in who also after that you believed, you were sealed with that holy Holy Spirit of promise,
+13 In Him you also trusted, after you heard the word of truth, the gospel of your salvation; in Him also, after you believed, you were sealed with that holy Holy Spirit of promise,
 
 14 Which is the earnest of our inheritance until the redemption of the purchased possession, to the praise of his glory.
 
@@ -90,9 +90,9 @@
 
 20 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
 
-21 In who all the building fitly framed together grows to an holy temple in the Lord:
+21 In Him all the building fitly framed together grows to an holy temple in the Lord:
 
-22 In who you also are builded together for an habitation of God through the Holy Spirit.
+22 In Him you also are builded together for an habitation of God through the Holy Spirit.
 
 ## Ephesians Chapter 3
 
@@ -118,13 +118,13 @@
 
 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-12 In who we have boldness and access with confidence by the faith of him.
+12 In Him we have boldness and access with confidence by the faith of him.
 
 13 therefore I desire that you faint not at my sufferings for you, which is your glory.
 
 14 For this cause I bow my knees to the Father of our Lord Jesus Christ,
 
-15 Of who the whole family in heaven and earth is named,
+15 From Him the whole family in heaven and earth is named,
 
 16 That he would grant you, according to the riches of his glory, to be strengthened with might by His Holy Spirit in the inner man;
 
@@ -170,7 +170,7 @@
 
 15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
 
-16 From who the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
+16 From Him the whole body, fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
 
 17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the emptiness of their mind,
 

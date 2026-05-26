@@ -16,7 +16,7 @@
 
 7 That the trial of your faith, being much more precious than of gold that perishs, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
 
-8 who having not seen, you love; in who, though now you see him not, yet believing, you rejoice with joy unspeakable and full of glory:
+8 who having not seen, you love; in Him, though now you see Him not, yet believing, you rejoice with joy unspeakable and full of glory:
 
 9 Receiving the end of your faith, even the salvation of your souls.
 
@@ -24,7 +24,7 @@
 
 11 Searching what, or what manner of time the Holy Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
-12 to who it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
+12 to them it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
 
 13 therefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Jesus Christ;
 
@@ -60,7 +60,7 @@
 
 3 If so be you have tasted that the Lord is gracious.
 
-4 To who coming, as to a living stone, disallowed indeed of men, but chosen of God, and precious,
+4 Coming to Him, as to a living stone, disallowed indeed of men, but chosen of God, and precious,
 
 5 you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
@@ -174,7 +174,7 @@
 
 10 As every man has received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
 
-11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to who be praise and dominion for ever and ever. Amen.
+11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to Him be praise and dominion for ever and ever. Amen.
 
 12 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened to you:
 

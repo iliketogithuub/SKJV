@@ -26,7 +26,7 @@
 
 12 These are spots in your love feasts, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withers, without fruit, twice dead, plucked up by the roots;
 
-13 Raging waves of the sea, foaming out their own shame; wandering stars, to who is reserved the blackness of darkness for ever.
+13 Raging waves of the sea, foaming out their own shame; wandering stars, for them is reserved the blackness of darkness for ever.
 
 14 And Enoch also, the seventh from Adam, prophesied of these, saying, Look, the Lord comes with ten thousands of his saints,
 

@@ -34,7 +34,7 @@
 
 16 Do not err, my beloved brothers.
 
-17 Every good gift and every perfect gift is from above, and comes down from the Father of lights, with who is no variableness, neither shadow of turning.
+17 Every good gift and every perfect gift is from above, and comes down from the Father of lights, with Him is no variableness, neither shadow of turning.
 
 18 Of his own will fathered he us with the word of truth, that we should be a kind of firstfruits of his creatures.
 

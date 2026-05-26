@@ -242,7 +242,7 @@
 
 1 And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 
-2 And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to who it was given to hurt the earth and the sea,
+2 And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, who it was given to hurt the earth and the sea,
 
 3 Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.
 
@@ -592,7 +592,7 @@
 
 1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great whore that sits upon many waters:
 
-2 With who the kings of the earth have committed sexual sin, and the inhabitants of the earth have been made drunk with the wine of her sexual sin.
+2 With her the kings of the earth have committed sexual sin, and the inhabitants of the earth have been made drunk with the wine of her sexual sin.
 
 3 So he carried me away in the Holy Spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 
@@ -736,7 +736,7 @@
 
 7 And when the thousand years are expired, Satan will be loosed out of his prison,
 
-8 And will go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of who is as the sand of the sea.
+8 And will go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: their number is as the sand of the sea.
 
 9 And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 

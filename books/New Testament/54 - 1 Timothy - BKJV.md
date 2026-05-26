@@ -30,7 +30,7 @@
 
 14 And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
 
-15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of who I am chief.
+15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; who I am chief of.
 
 16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all patience, for a pattern to them which should from now on believe on him to life everlasting.
 
@@ -40,7 +40,7 @@
 
 19 Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
-20 Of who is Hymenaeus and Alexander; who I have delivered to Satan, that they may learn not to blaspheme.
+20 Among them are Hymenaeus and Alexander; who I have delivered to Satan, that they may learn not to blaspheme.
 
 ## 1 Timothy Chapter 2
 
@@ -226,7 +226,7 @@
 
 15 Which in his times he will show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 
-16 Who only has immortality, dwelling in the light which no man can approach to; who no man has seen, nor can see: to who be honour and power everlasting. Amen.
+16 Who only has immortality, dwelling in the light which no man can approach to; who no man has seen, nor can see: to Him be honour and power everlasting. Amen.
 
 17 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
 
