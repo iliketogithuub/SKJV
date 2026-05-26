@@ -790,7 +790,7 @@
 
 7 But he said to me, Look, you will conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child will be a Nazarite to God from the womb to the day of his death.
 
-8 Then Manoah intreated the Lord, and said, O my Lord, let the man of God which you did send come again to us, and teach us what we will do to the child that will be born.
+8 Then Manoah prayed to the Lord, and said, O my Lord, let the man of God which you did send come again to us, and teach us what we will do to the child that will be born.
 
 9 And God listened to the voice of Manoah; and the angel of God came again to the woman as she sat in the field: but Manoah her husband was not with her.
 

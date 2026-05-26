@@ -24,9 +24,9 @@
 
 11 Strengthened with all might, according to his glorious power, to all patience and patience with joyfulness;
 
-12 Giving thanks to the Father, which has made us meet to be partakers of the inheritance of the saints in light:
+12 Giving thanks to the Father, which has qualified us to be partakers of the inheritance of the saints in light:
 
-13 Who has delivered us from the power of darkness, and has translated us into the kingdom of his dear Son:
+13 Who has delivered us from the power of darkness, and has transferred us into the kingdom of his dear Son:
 
 14 In whom we have redemption through his blood, even the forgiveness of sins:
 
@@ -78,7 +78,7 @@
 
 8 Beware otherwise any man spoil you through philosophy and empty deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
-9 For in him dwells all the fulness of the Godhead bodily.
+9 For in him dwells all the fullness of the Deity bodily.
 
 10 And you are complete in him, which is the head of all principality and power:
 
@@ -86,7 +86,7 @@
 
 12 Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
 
-13 And you, being dead in your sins and the uncircumcision of your flesh, has he quickened together with him, having forgiven you all trespasses;
+13 And you, being dead in your sins and the uncircumcision of your flesh, has He made alive together with him, having forgiven you all trespasses;
 
 14 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 

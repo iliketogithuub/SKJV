@@ -8,7 +8,7 @@
 
 3 Beloved, when I gave all diligence to write to you of the common salvation, it was needful for me to write to you, and encourage you that you should earnestly contend for the faith which was once delivered to the saints.
 
-4 For there are certain men crept in unawares, who were before of old ordained to this judgment, ungodly men, turning the grace of our God into sensuality, and denying the only Lord God, and our Lord Jesus Christ.
+4 For there are certain men crept in unnoticed, who were before of old ordained to this judgment, ungodly men, turning the grace of our God into sensuality, and denying the only Lord God, and our Lord Jesus Christ.
 
 5 I will therefore put you in remembrance, though you once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 
@@ -38,7 +38,7 @@
 
 18 How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 
-19 These be they who separate themselves, sensual, having not the Holy Spirit.
+19 These be they who separate themselves, soulish, not having the Holy Spirit.
 
 20 But you, beloved, building up yourselves on your most holy faith, praying in the Holy Spirit,
 

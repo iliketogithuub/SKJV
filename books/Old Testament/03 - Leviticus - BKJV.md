@@ -658,7 +658,7 @@
 
 9 When the plague of leprosy is in a man, then he will be brought to the priest;
 
-10 And the priest will see him: and, look, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
+10 And the priest will see him: and, look, if the rising be white in the skin, and it have turned the hair white, and there be living raw flesh in the rising;
 
 11 It is an old leprosy in the skin of his flesh, and the priest will pronounce him unclean, and will not shut him up: for he is unclean.
 
@@ -686,7 +686,7 @@
 
 23 But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest will pronounce him clean.
 
-24 Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burns have a white bright spot, somewhat reddish, or white;
+24 Or if there be any flesh, in the skin whereof there is a hot burning, and the living flesh that burns have a white bright spot, somewhat reddish, or white;
 
 25 Then the priest will look upon it: and, look, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the priest will pronounce him unclean: it is the plague of leprosy.
 

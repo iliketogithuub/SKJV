@@ -148,7 +148,7 @@
 
 12 And Abner sent messengers to David on his behalf, saying, Whose is the land? saying also, Make your league with me, and, look, my hand will be with you, to bring about all Israel to you.
 
-13 And he said, Well; I will make a league with you: but one thing I require of you, that is, you will not see my face, except you first bring Michal Saul's daughter, when you com to see my face.
+13 And he said, Well; I will make a league with you: but one thing I require of you, that is, you will not see my face, except you first bring Michal Saul's daughter, when you come to see my face.
 
 14 And David sent messengers to Ishboshs Saul's son, saying, Deliver me my wife Michal, which I engaged to me for an hundred foreskins of the Philistines.
 
@@ -1184,7 +1184,7 @@
 
 13 And he brought up from there the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 
-14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the tomb of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
+14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the tomb of Kish his father: and they performed all that the king commanded. And after that God answered prayer for the land.
 
 15 Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David grew faint.
 
@@ -1436,7 +1436,7 @@
 
 24 And the king said to Araunah, Nay; but I will surely buy it of you at a price: neither will I offer burnt offerings to the Lord my God of that which does cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
 
-25 And David built there an altar to the Lord, and offered burnt offerings and peace offerings. So the Lord was intreated for the land, and the plague was stayed from Israel.
+25 And David built there an altar to the Lord, and offered burnt offerings and peace offerings. So the Lord answered prayer for the land, and the plague was stayed from Israel.
 
 
 ## eof

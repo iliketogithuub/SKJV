@@ -430,7 +430,7 @@
 
 22 For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken to the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.
 
-23 So we fasted and urged our God for this: and he was intreated of us.
+23 So we fasted and urged our God for this: and he answered our prayer.
 
 24 Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brothers with them,
 

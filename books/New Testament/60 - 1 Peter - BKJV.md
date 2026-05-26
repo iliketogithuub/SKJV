@@ -30,13 +30,13 @@
 
 14 As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
 
-15 But as he which has called you is holy, so be you holy in all manner of conversation;
+15 But as he which has called you is holy, so be you holy in all your conduct;
 
 16 Because it is written, Be you holy; for I am holy.
 
 17 And if you call on the Father, who without respect of persons judges according to every man's work, pass the time of your living temporarily here in fear:
 
-18 Since as you know that you were not redeemed with corruptible things, as silver and gold, from your empty conversation received by tradition from your fathers;
+18 Since as you know that you were not redeemed with corruptible things, as silver and gold, from your empty way of life received by tradition from your fathers;
 
 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
@@ -76,7 +76,7 @@
 
 11 Dearly beloved, I urge you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
-12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will see, glorify God in the day of visitation.
+12 Having your conduct honorable among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they will see, glorify God in the day of visitation.
 
 13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
 
@@ -108,9 +108,9 @@
 
 ## 1 Peter Chapter 3
 
-1 Likewise, you wives, be in submission to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
+1 Likewise, you wives, be in submission to your own husbands; that, if any obey not the word, they also may without the word be won by the conduct of the wives;
 
-2 While they look at your chaste conversation coupled with fear.
+2 While they look at your pure conduct coupled with fear.
 
 3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of clothing;
 
@@ -138,11 +138,11 @@
 
 15 But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asks you a reason of the hope that is in you with meekness and fear:
 
-16 Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
+16 Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conduct in Christ.
 
 17 For it is better, if the will of God be so, that you suffer for well doing, than for evil doing.
 
-18 For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Holy Spirit:
+18 For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but made alive by the Holy Spirit:
 
 19 By which also he went and preached to the spirits in prison;
 
@@ -162,7 +162,7 @@
 
 4 In which they think it strange that you run not with them to the same excess of riot, speaking evil of you:
 
-5 Who will give account to him that is ready to judge the quick and the dead.
+5 Who will give account to him that is ready to judge the living and the dead.
 
 6 For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the Holy Spirit.
 

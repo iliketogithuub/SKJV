@@ -12,9 +12,9 @@
 
 5 When I call to remembrance the unfeigned faith that is in you, which dwelt first in your grandmother Lois, and your mother Eunice; and I am persuaded that in you also.
 
-6 therefore I put you in remembrance that you stir up the gift of God, which is in you by the putting on of my hands.
+6 therefore I put you in remembrance that you fan into flame the gift of God, which is in you by the putting on of my hands.
 
-7 For God has not given us the Holy Spirit of fear; but of power, and of love, and of a sound mind.
+7 For God has not given us a spirit of cowardice (timidity); but of supernatural power, of love, and of self-discipline (a sound mind).
 
 8 Be not you therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be you partaker of the afflictions of the gospel according to the power of God;
 
@@ -130,7 +130,7 @@
 
 ## 2 Timothy Chapter 4
 
-1 I charge you therefore before God, and the Lord Jesus Christ, who will judge the quick and the dead at his appearing and his kingdom;
+1 I charge you therefore before God, and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his kingdom;
 
 2 Preach the word; be instant in season, out of season; correct, rebuke, encourage with all long suffering and doctrine.
 
@@ -154,7 +154,7 @@
 
 12 And Tychicus have I sent to Ephesus.
 
-13 The cloke that I left at Troas with Carpus, when you com, bring with you, and the books, but especially the parchments.
+13 The cloke that I left at Troas with Carpus, when you come, bring with you, and the books, but especially the parchments.
 
 14 Alexander the coppersmith did me much evil: the Lord reward him according to his works:
 

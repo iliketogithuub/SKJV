@@ -1026,7 +1026,7 @@
 
 7 For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.
 
-8 Let destruction come upon him at unawares; and let his net that he has hid catch himself: into that very destruction let him fall.
+8 Let destruction come upon him unexpectedly; and let his net that he has hid catch himself: into that very destruction let him fall.
 
 9 And my soul will be joyful in the Lord: it will rejoice in his salvation.
 
@@ -1122,7 +1122,7 @@
 
 13 The Lord will laugh at him: for he sees that his day is coming.
 
-14 The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.
+14 The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conduct.
 
 15 Their sword will enter into their own heart, and their bows will be broken.
 
@@ -1428,7 +1428,7 @@
 
 11 So will the king greatly desire your beauty: for he is your Lord; and worship you him.
 
-12 And the daughter of Tyre will be there with a gift; even the rich among the people will intreat your favour.
+12 And the daughter of Tyre will be there with a gift; even the rich among the people will plead your favour.
 
 13 The king's daughter is all glorious within: her clothing is of worked gold.
 
@@ -1602,7 +1602,7 @@
 
 22 Now consider this, you that forget God, otherwise I tear you in pieces, and there be none to deliver.
 
-23 Whoso offers praise glorifies me: and to him that orders his conversation aright will I show the salvation of God.
+23 Whoso offers praise glorifies me: and to him that orders his conduct aright will I show the salvation of God.
 
 ## Psalm Chapter 51
 
@@ -1724,7 +1724,7 @@
 
 14 We took sweet counsel together, and walked to the house of God in company.
 
-15 Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.
+15 Let death seize upon them, and let them go down alive into hell: for wickedness is in their dwellings, and among them.
 
 16 As for me, I will call upon God; and the Lord will save me.
 
@@ -2254,7 +2254,7 @@
 
 19 your righteousness also, O God, is very high, who have done great things: O God, who is like to you!
 
-20 you, which have showed me great and sore troubles, will quicken me again, and will bring me up again from the depths of the earth.
+20 you, which have showed me great and sore troubles, will revive me again, and will bring me up again from the depths of the earth.
 
 21 you will increase my greatness, and comfort me on every side.
 
@@ -2712,7 +2712,7 @@
 
 17 Let your hand be upon the man of your right hand, upon the son of man whom you mad strong for yourself.
 
-18 So will not we go back from you: quicken us, and we will call upon your name.
+18 So will not we go back from you: revive us, and we will call upon your name.
 
 19 Turn us again, O Lord God of hosts, cause your face to shine; and we will be saved.
 
@@ -4234,7 +4234,7 @@
 
 39 Turn away my disgrace which I fear: for your judgments are good.
 
-40 Look, I have longed after your commands: quicken me in your righteousness.
+40 Look, I have longed after your commands: revive me in your righteousness.
 
 41 Let your mercies come also to me, O Lord, even your salvation, according to your word.
 
@@ -4254,7 +4254,7 @@
 
 49 Remember the word to your servant, upon which you have caused me to hope.
 
-50 This is my comfort in my affliction: for your word has quickened me.
+50 This is my comfort in my affliction: for your word has given me life me.
 
 51 The proud have had me greatly in derision: yet have I not declined from your law.
 
@@ -4270,7 +4270,7 @@
 
 57 you are my portion, O Lord: I have said that I would keep your words.
 
-58 I intreated your favour with my whole heart: be merciful to me according to your word.
+58 I pleaded your favour with my whole heart: be merciful to me according to your word.
 
 59 I thought on my ways, and turned my feet to your testimonies.
 
@@ -4330,7 +4330,7 @@
 
 87 They had almost consumed me upon earth; but I forsook not your commands.
 
-88 Quicken me after your faithful love; so will I keep the testimony of your mouth.
+88 revive me after your faithful love; so will I keep the testimony of your mouth.
 
 89 For ever, O Lord, your word is settled in heaven.
 
@@ -4340,7 +4340,7 @@
 
 92 Unless your law had been my delights, I should then have perished in mine affliction.
 
-93 I will never forget your commands: for with them you have quickened me.
+93 I will never forget your commands: for with them you have given me life me.
 
 94 I am your, save me: for I have sought your commands.
 
@@ -4368,7 +4368,7 @@
 
 106 I have sworn, and I will perform it, that I will keep your righteous judgments.
 
-107 I am afflicted very much: quicken me, O Lord, according to your word.
+107 I am afflicted very much: revive me, O Lord, according to your word.
 
 108 Accept, I urge you, the freewill offerings of my mouth, O Lord, and teach me your judgments.
 
@@ -4452,7 +4452,7 @@
 
 148 Mine eyes prevent the night watches, that I might meditate in your word.
 
-149 Hear my voice according to your faithful love: O Lord, quicken me according to your judgment.
+149 Hear my voice according to your faithful love: O Lord, revive me according to your judgment.
 
 150 They draw near that follow after mischief: they are far from your law.
 
@@ -4462,17 +4462,17 @@
 
 153 Consider mine affliction, and deliver me: for I do not forget your law.
 
-154 Plead my cause, and deliver me: quicken me according to your word.
+154 Plead my cause, and deliver me: revive me according to your word.
 
 155 Salvation is far from the wicked: for they seek not your statutes.
 
-156 Great are your tender mercies, O Lord: quicken me according to your judgments.
+156 Great are your tender mercies, O Lord: revive me according to your judgments.
 
 157 Many are my persecutors and mine enemies; yet do I not decline from your testimonies.
 
 158 I saw the sinners, and was grieved; because they kept not your word.
 
-159 Consider how I love your commands: quicken me, O Lord, according to your faithful love.
+159 Consider how I love your commands: revive me, O Lord, according to your faithful love.
 
 160 your word is true from the beginning: and every one of your righteous judgments endures for ever.
 
@@ -5014,7 +5014,7 @@
 
 10 Teach me to do your will; for you are my God: your human spirit is good; lead me into the land of uprightness.
 
-11 Quicken me, O Lord, for your name's sake: for your righteousness' sake bring my soul out of trouble.
+11 revive me, O Lord, for your name's sake: for your righteousness' sake bring my soul out of trouble.
 
 12 And of your mercy cut off mine enemies, and destroy all them that afflict my soul: for I am your servant.
 

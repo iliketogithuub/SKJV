@@ -386,9 +386,9 @@
 
 7 And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.
 
-8 Then Pharaoh called for Moses and Aaron, and said, Intreat the Lord, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice to the Lord.
+8 Then Pharaoh called for Moses and Aaron, and said, pray to the Lord, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice to the Lord.
 
-9 And Moses said to Pharaoh, Glory over me: when will I intreat for you, and for your servants, and for your people, to destroy the frogs from you and your houses, that they may remain in the river only?
+9 And Moses said to Pharaoh, Glory over me: when will I pray for you, and for your servants, and for your people, to destroy the frogs from you and your houses, that they may remain in the river only?
 
 10 And he said, To morrow. And he said, Be it according to your word: that you may know that there is none like to the Lord our God.
 
@@ -426,11 +426,11 @@
 
 27 We will go three days' journey into the wilderness, and sacrifice to the Lord our God, as he will command us.
 
-28 And Pharaoh said, I will let you go, that you may sacrifice to the Lord your God in the wilderness; only you will not go very far away: intreat for me.
+28 And Pharaoh said, I will let you go, that you may sacrifice to the Lord your God in the wilderness; only you will not go very far away: pray for me.
 
-29 And Moses said, Look, I go out from you, and I will intreat the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the Lord.
+29 And Moses said, Look, I go out from you, and I will pray to the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the Lord.
 
-30 And Moses went out from Pharaoh, and intreated the Lord.
+30 And Moses went out from Pharaoh, and prayed to the Lord.
 
 31 And the Lord did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one.
 
@@ -492,7 +492,7 @@
 
 27 And Pharaoh sent, and called for Moses and Aaron, and said to them, I have sinned this time: the Lord is righteous, and I and my people are wicked.
 
-28 Intreat the Lord (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and you will stay no longer.
+28 pray to the Lord (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and you will stay no longer.
 
 29 And Moses said to him, As soon as I am gone out of the city, I will spread abroad my hands to the Lord; and the thunder will cease, neither will there be any more hail; that you may know how that the earth is the Lord's.
 
@@ -542,9 +542,9 @@
 
 16 Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the Lord your God, and against you.
 
-17 Now therefore forgive, I pray you, my sin only this once, and intreat the Lord your God, that he may take away from me this death only.
+17 Now therefore forgive, I pray you, my sin only this once, and pray to the Lord your God, that he may take away from me this death only.
 
-18 And he went out from Pharaoh, and intreated the Lord.
+18 And he went out from Pharaoh, and prayed to the Lord.
 
 19 And the Lord turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
 

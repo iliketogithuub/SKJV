@@ -108,7 +108,7 @@
 
 24 Nay, my sons; for it is no good report that I hear: you make the Lord's people to transgress.
 
-25 If one man sin against another, the judge will judge him: but if a man sin against the Lord, who will intreat for him? Nevertheless they listened not to the voice of their father, because the Lord would slay them.
+25 If one man sin against another, the judge will judge him: but if a man sin against the Lord, who will plead for him? Nevertheless they listened not to the voice of their father, because the Lord would slay them.
 
 26 And the child Samuel grew on, and was in favour both with the Lord, and also with men.
 

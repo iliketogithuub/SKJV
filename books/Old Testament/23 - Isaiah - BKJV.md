@@ -486,7 +486,7 @@
 
 2 And the Holy Spirit of the Lord will rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord;
 
-3 And will make him of quick understanding in the fear of the Lord: and he will not judge after the sight of his eyes, neither correct after the hearing of his ears:
+3 And will make him of sensitive understanding in the fear of the Lord: and he will not judge after the sight of his eyes, neither correct after the hearing of his ears:
 
 4 But with righteousness will he judge the poor, and correct with equity for the meek of the earth: and he will smite the earth: with the rod of his mouth, and with the breath of his lips will he slay the wicked.
 
@@ -780,7 +780,7 @@
 
 21 And the Lord will be known to Egypt, and the Egyptians will know the Lord in that day, and will do sacrifice and offering; yea, they will vow a vow to the Lord, and perform it.
 
-22 And the Lord will smite Egypt: he will smite and heal it: and they will return even to the Lord, and he will be intreated of them, and will heal them.
+22 And the Lord will smite Egypt: he will smite and heal it: and they will return even to the Lord, and He will answer their prayer, and will heal them.
 
 23 In that day will there be a highway out of Egypt to Assyria, and the Assyrian will come into Egypt, and the Egyptian into Assyria, and the Egyptians will serve with the Assyrians.
 

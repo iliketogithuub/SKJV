@@ -132,7 +132,7 @@
 
 11 These things command and teach.
 
-12 Let no man despise your youth; but be you an example of the believers, in word, in conversation, in love, in spirit, in faith, in purity.
+12 Let no man despise your youth; but be you an example of the believers, in word, in conduct, in love, in spirit, in faith, in purity.
 
 13 Till I come, give attendance to reading, to encouragement, to doctrine.
 
@@ -144,7 +144,7 @@
 
 ## 1 Timothy Chapter 5
 
-1 Rebuke not an elder, but intreat him as a father; and the younger men as brothers;
+1 Rebuke not an elder, but appeal to him as a father; and the younger men as brothers;
 
 2 The elder women as mothers; the younger as sisters, with all purity.
 
@@ -220,7 +220,7 @@
 
 12 Fight the good fight of faith, lay hold on eternal life, whereunto you are also called, and have professed a good profession before many witnesses.
 
-13 I give you charge in the sight of God, who quickens all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+13 I give you charge in the sight of God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
 
 14 That you keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ:
 

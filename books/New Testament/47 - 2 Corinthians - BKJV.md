@@ -24,7 +24,7 @@
 
 11 you also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.
 
-12 For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.
+12 For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have conducted ourselves in the world, and more abundantly to you-ward.
 
 13 For we write none other things to you, that what you read or acknowledge; and I trust you will acknowledge even to the end;
 
@@ -286,7 +286,7 @@
 
 3 For to their power, I bear record, yea, and beyond their power they were willing of themselves;
 
-4 Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
+4 Praying us with much pleading that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
 5 And this they did, not as we hoped, but first gave their own selves to the Lord, and to us by the will of God.
 

@@ -1476,7 +1476,7 @@
 
 27 And he said to him, your brother is come; and your father has killed the fatted calf, because he has received him safe and sound.
 
-28 And he was angry, and would not go in: therefore came his father out, and intreated him.
+28 And he was angry, and would not go in: therefore came his father out, and pleaded with him.
 
 29 And he answering said to his father, Look, these many years do I serve you, neither sinned I at any time your commandment: and yet you never gav me a kid, that I might make merry with my friends:
 
@@ -1976,7 +1976,7 @@
 
 33 Heaven and earth will pass away: but my words will not pass away.
 
-34 And take heed to yourselves, otherwise at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.
+34 And take heed to yourselves, otherwise at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unexpectedly.
 
 35 For as a snare will it come on all them that dwell on the face of the whole earth.
 
@@ -2214,7 +2214,7 @@
 
 41 And we indeed justly; for we receive the due reward of our deeds: but this man has done nothing amiss.
 
-42 And he said to Jesus, Lord, remember me when you com into your kingdom.
+42 And he said to Jesus, Lord, remember me when you come into your kingdom.
 
 43 And Jesus said to him, Truly I say to you, Today will you be with me in paradise.
 

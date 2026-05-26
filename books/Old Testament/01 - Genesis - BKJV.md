@@ -1204,7 +1204,7 @@
 
 7 And Abraham stood up, and bowed himself to the people of the land, even to the children of Hs.
 
-8 And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar,
+8 And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and pray for me to Ephron the son of Zohar,
 
 9 That he may give me the cave of Machpelah, which he has, which is in the end of his field; for as much money as it is worth he will give it me for a possession of a buryingplace amongst you.
 
@@ -1312,7 +1312,7 @@
 
 40 And he said to me, The Lord, before whom I walk, will send his angel with you, and prosper your way; and you will take a wife for my son of my relatives, and of my father's house:
 
-41 Then will you be clear from this my oath, when you com to my relatives; and if they give not you one, you will be clear from my oath.
+41 Then will you be clear from this my oath, when you come to my relatives; and if they give not you one, you will be clear from my oath.
 
 42 And I came this day to the well, and said, O Lord God of my master Abraham, if now you do prosper my way which I go:
 
@@ -1408,7 +1408,7 @@
 
 20 And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.
 
-21 And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+21 And Isaac prayed to the Lord for his wife, because she was barren: and the Lord answered his prayer, and Rebekah his wife conceived.
 
 22 And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 
@@ -1848,7 +1848,7 @@
 
 19 And Laban went to shear his sheep: and Rachel had stolen the images that were her father's.
 
-20 And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
+20 And Jacob stole away secretly to Laban the Syrian, in that he told him not that he fled.
 
 21 So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
 
@@ -1860,7 +1860,7 @@
 
 25 Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brothers pitched in the mount of Gilead.
 
-26 And Laban said to Jacob, What have you done, that you have stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
+26 And Laban said to Jacob, What have you done, that you have stolen away secretly to me, and carried away my daughters, as captives taken with the sword?
 
 27 therefore did you flee away secretly, and steal away from me; and did not tell me, that I might have sent you away with mirth, and with songs, with tabret, and with harp?
 

@@ -970,7 +970,7 @@
 
 5 The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the Lord.
 
-6 And the king answered and said to the man of God, Intreat now the face of the Lord your God, and pray for me, that my hand may be restored me again. And the man of God urged the Lord, and the king's hand was restored him again, and became as it was before.
+6 And the king answered and said to the man of God, plead now the face of the Lord your God, and pray for me, that my hand may be restored me again. And the man of God urged the Lord, and the king's hand was restored him again, and became as it was before.
 
 7 And the king said to the man of God, Come home with me, and refresh yourself, and I will give you a reward.
 
@@ -1406,7 +1406,7 @@
 
 14 And he said, I have been very jealous for the Lord God of hosts: because the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.
 
-15 And the Lord said to him, Go, return on your way to the wilderness of Damascus: and when you com, anoint Hazael to be king over Syria:
+15 And the Lord said to him, Go, return on your way to the wilderness of Damascus: and when you come, anoint Hazael to be king over Syria:
 
 16 And Jehu the son of Nimshi will you anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah will you anoint to be prophet in your room.
 

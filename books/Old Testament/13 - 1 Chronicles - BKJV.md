@@ -400,7 +400,7 @@
 
 19 And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.
 
-20 And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.
+20 And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he answered their prayer; because they put their trust in him.
 
 21 And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
 

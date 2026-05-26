@@ -26,7 +26,7 @@
 
 12 For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
 
-13 For you have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
+13 For you have heard of my conduct in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
 
 14 And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
 
@@ -58,7 +58,7 @@
 
 3 But neither Titus, who was with me, being a Greek, was forced to be circumcised:
 
-4 And that because of false brothers unawares brought in, who came in secretly to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+4 And that because of false brothers secretly brought in, who came in secretly to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 
 5 To whom we gave place by submission, no, not for an hour; that the truth of the gospel might continue with you.
 

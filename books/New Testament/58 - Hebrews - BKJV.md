@@ -330,17 +330,17 @@
 
 14 How much more will the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience from dead works so that you can actively serve the living God?
 
-15 And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the sins that were under the first testament, they which are called might receive the promise of eternal inheritance.
+15 And for this cause he is the mediator of the new covenant, that by means of death, for the redemption of the sins that were under the first covenant, they which are called might receive the promise of eternal inheritance.
 
-16 For where a testament is, there must also of necessity be the death of the testator.
+16 For where a will (testament) is, there must also of necessity be the death of the one who made the will (the testator).
 
-17 For a testament is of force after men are dead: otherwise it is of no strength at all while the testator lives.
+17 For a will (testament) is only in force after people are dead; it has no legal strength at all while the one who made it is still alive.
 
-18 Whereupon neither the first testament was dedicated without blood.
+18 Whereupon not even the first covenant was dedicated without blood.
 
 19 For when Moses had spoken every command to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
 
-20 Saying, This is the blood of the testament which God has enjoined to you.
+20 Saying, This is the blood of the covenant which God has enjoined to you.
 
 21 Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
 
@@ -448,7 +448,7 @@
 
 4 By faith Abel offered to God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaks.
 
-5 By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
+5 By faith Enoch was taken up that he should not see death; and was not found, because God had taken him up: for before his being taken up he had this testimony, that he pleased God.
 
 6 But without faith it is impossible to please him: for he that comes to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 
@@ -558,7 +558,7 @@
 
 18 For you are not come to the mount that might be touched, and that burned with fire, nor to blackness, and darkness, and tempest,
 
-19 And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:
+19 And the sound of a trumpet, and the voice of words; which voice they that heard pleaded that the word should not be spoken to them any more:
 
 20 (For they could not endure that which was commanded, And if so much as a beast touch the mountain, it will be stoned, or thrust through with a dart:
 
@@ -584,17 +584,17 @@
 
 1 Let brotherly love continue.
 
-2 Be not forgetful to entertain strangers: for by that some have entertained angels unawares.
+2 Be not forgetful to entertain strangers: for by that some have entertained angels without knowing it.
 
 3 Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.
 
 4 Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
 
-5 Let your conversation be without greed; and be content with such things as you have: for he has said, I will never leave you, nor forsake you.
+5 Let your way of life be without greed; and be content with such things as you have: for he has said, I will never leave you, nor forsake you.
 
 6 So that we may boldly say, The Lord is my helper, and I will not fear what man will do to me.
 
-7 Remember them which have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conversation.
+7 Remember them which have the rule over you, who have spoken to you the word of God: whose faith follow, considering the outcome of their way of life.
 
 8 Jesus Christ the same yesterday, and to day, and for ever.
 

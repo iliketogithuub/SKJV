@@ -382,7 +382,7 @@
 
 20 For the Father loves the Son, and shews him all things that himself does: and he will show him greater works than these, that you may marvel.
 
-21 For as the Father raiss up the dead, and quickens them; even so the Son quickens whom he will.
+21 For as the Father raiss up the dead, and gives life to them; even so the Son gives life to whom he will.
 
 22 For the Father judges no man, but has committed all judgment to the Son:
 
@@ -562,7 +562,7 @@
 
 62 What and if you will see the Son of man ascend up where he was before?
 
-63 It is the Holy Spirit that quickens; the flesh profits nothing: the words that I speak to you, they are spirit, and they are life.
+63 It is the Holy Spirit who gives life; the flesh profits nothing: the words that I speak to you, they are spirit, and they are life.
 
 64 But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
 
@@ -1054,7 +1054,7 @@
 
 37 And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
 
-38 Jesus therefore again groaning in himself comes to the grave. It was a cave, and a stone lay upon it.
+38 Jesus therefore again groaning with indignation within Himself comes to the grave. It was a cave, and a stone lay upon it.
 
 39 Jesus said, Take you away the stone. Martha, the sister of him that was dead, says to him, Lord, by this time he stinks: for he has been dead four days.
 
@@ -1306,7 +1306,7 @@
 
 15 If you love me, keep my commandments.
 
-16 And I will pray the Father, and he will give you another Comforter, that he may abide with you for ever;
+16 And I will pray the Father, and he will give you another Helper (Advocate), that he may abide with you for ever;
 
 17 Even the Holy Spirit of truth; whom the world cannot receive, because it sees him not, neither knows him: but you know him; for he dwells with you, and will be in you.
 
@@ -1326,7 +1326,7 @@
 
 25 These things have I spoken to you, being yet present with you.
 
-26 But the Comforter, which is the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring all things to your remembrance, whatsoever I have said to you.
+26 But the Helper (Advocate), which is the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring all things to your remembrance, whatsoever I have said to you.
 
 27 Peace I leave with you, my peace I give to you: not as the world gives, give I to you. Let not your heart be troubled, neither let it be afraid.
 
@@ -1390,7 +1390,7 @@
 
 25 But this comes to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
 
-26 But when the Comforter is come, whom I will send to you from the Father, even the Holy Spirit of truth, which proceeds from the Father, he will testify of me:
+26 But when the Helper (Advocate) is come, whom I will send to you from the Father, even the Holy Spirit of truth, which proceeds from the Father, he will testify of me:
 
 27 And you also will bear witness, because you have been with me from the beginning.
 
@@ -1408,7 +1408,7 @@
 
 6 But because I have said these things to you, sorrow has filled your heart.
 
-7 Nevertheless I tell you the truth; It is beneficial for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you.
+7 Nevertheless I tell you the truth; It is beneficial for you that I go away: for if I go not away, the Helper (Advocate) will not come to you; but if I depart, I will send him to you.
 
 8 And when he is come, he will correct the world of sin, and of righteousness, and of judgment:
 

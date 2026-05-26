@@ -54,7 +54,7 @@
 
 26 That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
 
-27 Only let your conversation be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
+27 Only let your conduct be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
 
 28 And in nothing terrified by your adversaries: which is to them an evident token of destruction, but to you of salvation, and that of God.
 
@@ -164,7 +164,7 @@
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
-20 For our conversation is in heaven; from where also we look for the Saviour, the Lord Jesus Christ:
+20 For our citizenship is in heaven; from where also we look for the Saviour, the Lord Jesus Christ:
 
 21 Who will change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself.
 
@@ -174,7 +174,7 @@
 
 2 I urge Euodias, and urge Syntyche, that they be of the same mind in the Lord.
 
-3 And I intreat you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my co-workers, whose names are in the book of life.
+3 And I urge you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my co-workers, whose names are in the book of life.
 
 4 Rejoice in the Lord always: and again I say, Rejoice.
 

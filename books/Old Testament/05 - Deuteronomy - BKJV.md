@@ -132,7 +132,7 @@
 
 18 you are to pass over through Ar, the coast of Moab, this day:
 
-19 And when you com near over against the children of Ammon, distress them not, nor meddle with them: for I will not give you of the land of the children of Ammon any possession; because I have given it to the children of Lot for a possession.
+19 And when you come near over against the children of Ammon, distress them not, nor meddle with them: for I will not give you of the land of the children of Ammon any possession; because I have given it to the children of Lot for a possession.
 
 20 (That also was accounted a land of giants: giants dwelt in it in old time; and the Ammonites call them Zamzummims;
 
@@ -314,7 +314,7 @@
 
 41 Then Moses severed three cities on this side Jordan toward the sunrising;
 
-42 That the slayer might flee there, which should kill his neighbour unawares, and hated him not in times past; and that fleeing to one of these cities he might live:
+42 That the slayer might flee there, which should kill his neighbor accidentally, and hated him not in times past; and that fleeing to one of these cities he might live:
 
 43 Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.
 
@@ -1128,7 +1128,7 @@
 
 9 And it will be, when the officers have made an end of speaking to the people that they will make captains of the armies to lead the people.
 
-10 When you com near to a city to fight against it, then proclaim peace to it.
+10 when you come near to a city to fight against it, then proclaim peace to it.
 
 11 And it will be, if it make you answer of peace, and open to you, then it will be, that all the people that is found in it will be tributaries to you, and they will serve you.
 
@@ -1308,9 +1308,9 @@
 
 23 That which is gone out of your lips you will keep and perform; even a freewill offering, according as you have vowed to the Lord your God, which you have promised with your mouth.
 
-24 When you com into your neighbour's vineyard, then you may eat grapes your fill at your own pleasure; but you will not put any in your vessel.
+24 when you come into your neighbour's vineyard, then you may eat grapes your fill at your own pleasure; but you will not put any in your vessel.
 
-25 When you com into the standing corn of your neighbour, then you may pluck the ears with your hand; but you will not move a sickle to your neighbour's standing corn.
+25 when you come into the standing corn of your neighbour, then you may pluck the ears with your hand; but you will not move a sickle to your neighbour's standing corn.
 
 ## Deuteronomy Chapter 24
 
@@ -1504,7 +1504,7 @@
 
 5 Blessed will be your basket and your store.
 
-6 Blessed will you be when you com in, and blessed will you be when you go out.
+6 Blessed will you be when you come in, and blessed will you be when you go out.
 
 7 The Lord will cause your enemies that rise up against you to be smitten before your face: they will come out against you one way, and flee before you seven ways.
 
@@ -1530,7 +1530,7 @@
 
 18 Cursed will be the fruit of your body, and the fruit of your land, the increase of your kine, and the flocks of your sheep.
 
-19 Cursed will you be when you com in, and cursed will you be when you go out.
+19 Cursed will you be when you come in, and cursed will you be when you go out.
 
 20 The Lord will send upon you cursing, vexation, and rebuke, in all that you sett your hand to for to do, until you be destroyed, and until you perish quickly; because of the wickedness of your doings, whereby you have forsaken me.
 

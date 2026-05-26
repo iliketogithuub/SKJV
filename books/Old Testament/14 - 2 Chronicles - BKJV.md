@@ -1518,7 +1518,7 @@
 
 12 And when he was in affliction, he urged the Lord his God, and humbled himself greatly before the God of his fathers,
 
-13 And prayed to him: and he was intreated of him, and heard his prayer, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
+13 And prayed to him: and he answered his prayer, and heard his prayer, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
 
 14 Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
 
@@ -1530,7 +1530,7 @@
 
 18 Now the rest of the acts of Manasseh, and his prayer to his God, and the words of the seers that spoke to him in the name of the Lord God of Israel, look, they are written in the book of the kings of Israel.
 
-19 His prayer also, and how God was intreated of him, and all his sins, and his trespass, and the places in which he built high places, and set up groves and graven images, before he was humbled: look, they are written among the sayings of the seers.
+19 His prayer also, and how God answered his prayer, and all his sins, and his trespass, and the places in which he built high places, and set up groves and graven images, before he was humbled: look, they are written among the sayings of the seers.
 
 20 So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead.
 

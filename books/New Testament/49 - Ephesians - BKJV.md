@@ -50,15 +50,15 @@
 
 ## Ephesians Chapter 2
 
-1 And you has he quickened, who were dead in trespasses and sins;
+1 And you has He made alive, who were dead in trespasses and sins;
 
 2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the Holy Spirit that now works in the children of disobedience:
 
-3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+3 Among whom also we all conducted ourselves in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
 4 But God, who is rich in mercy, for his great love with what he loved us,
 
-5 Even when we were dead in sins, has quickened us together with Christ, (by grace you are saved;)
+5 Even when we were dead in sins, has made us alive together with Christ, (by grace you are saved;)
 
 6 And has raised us up together, and made us sit together in heavenly places in Christ Jesus:
 
@@ -182,7 +182,7 @@
 
 21 If so be that you have heard him, and have been taught by him, as the truth is in Jesus:
 
-22 That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
+22 That you put off concerning the former conduct the old man, which is corrupt according to the deceitful lusts;
 
 23 And be renewed in the Holy Spirit of your mind;
 
@@ -196,7 +196,7 @@
 
 28 Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs.
 
-29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of building up, that it may minister grace to the hearers.
+29 Let no rotten speech (harmful words) proceed out of your mouth, but that which is good to the use of building up, that it may minister grace to the hearers.
 
 30 And grieve not the holy Holy Spirit of God, whereby you are sealed to the day of redemption.
 

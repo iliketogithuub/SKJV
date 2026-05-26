@@ -1086,7 +1086,7 @@
 
 2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spoke to you by the hand of Moses:
 
-3 That the slayer that kills any person unawares and unwittingly may flee there: and they will be your refuge from the one who brings justice of blood.
+3 That the slayer that kills any person accidentally and unwittingly may flee there: and they will be your refuge from the one who brings justice of blood.
 
 4 And when he that does flee to one of those cities will stand at the entering of the gate of the city, and will declare his cause in the ears of the elders of that city, they will take him into the city to them, and give him a place, that he may dwell among them.
 
@@ -1098,7 +1098,7 @@
 
 8 And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 
-9 These were the cities appointed for all the children of Israel, and for the stranger that sojourns among them, that whosoever kills any person at unawares might flee there, and not die by the hand of the one who brings justice of blood, until he stood before the congregation.
+9 These were the cities appointed for all the children of Israel, and for the stranger that sojourns among them, that whosoever kills any person accidentally might flee there, and not die by the hand of the one who brings justice of blood, until he stood before the congregation.
 
 ## Joshua Chapter 21
 

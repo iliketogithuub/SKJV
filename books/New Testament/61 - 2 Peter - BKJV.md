@@ -58,7 +58,7 @@
 
 6 And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an example to those that after should live ungodly;
 
-7 And delivered just Lot, vexed with the filthy conversation of the wicked:
+7 And delivered just Lot, vexed with the filthy conduct of the wicked:
 
 8 (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)
 
@@ -114,7 +114,7 @@
 
 10 But the day of the Lord will come as a thief in the night; in the which the heavens will pass away with a great noise, and the elements will melt with fervent heat, the earth also and the works that are in it will be burned up.
 
-11 Seeing then that all these things will be dissolved, what manner of persons ought you to be in all holy conversation and godliness,
+11 Seeing then that all these things will be dissolved, what manner of persons ought you to be in all holy conduct and godliness,
 
 12 Looking for and hasting to the coming of the day of God, in which the heavens being on fire will be dissolved, and the elements will melt with fervent heat?
 

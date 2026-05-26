@@ -32,7 +32,7 @@
 
 15 And she said, Look, your sister in law is gone back to her people, and to her gods: return you after your sister in law.
 
-16 And Ruth said, Intreat me not to leave you, or to return from following after you: for where you go, I will go; and where you lodg, I will lodge: your people will be my people, and your God my God:
+16 And Ruth said, urge me not to leave you, or to return from following after you: for where you go, I will go; and where you lodg, I will lodge: your people will be my people, and your God my God:
 
 17 Where you di, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part you and me.
 

@@ -32,7 +32,7 @@
 
 15 The Lord has trodden under foot all my mighty men in the midst of me: he has called an assembly against me to crush my young men: the Lord has trodden the virgin, the daughter of Judah, as in a winepress.
 
-16 For these things I weep; mine eye, mine eye runs down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
+16 For these things I weep; mine eye, mine eye runs down with water, because the Helper (Advocate) that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
 
 17 Zion spreads forth her hands, and there is none to comfort her: the Lord has commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.
 

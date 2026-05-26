@@ -92,7 +92,7 @@
 
 13 Which things also we speak, not in the words which man's wisdom teachs, but which the Holy Spirit teachs; comparing spiritual things with spiritual.
 
-14 But the natural man receives not the things of the Holy Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually recognized.
+14 But the soulish man receives not the things of the Holy Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually recognized.
 
 15 But he that is spiritual judges all things, yet he himself is judged of no man.
 
@@ -172,7 +172,7 @@
 
 12 And labour, working with our own hands: being insulted, we bless; being persecuted, we suffer it:
 
-13 Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things to this day.
+13 Being defamed, we plead: we are made as the filth of the world, and are the offscouring of all things to this day.
 
 14 I write not these things to shame you, but as my beloved sons I warn you.
 
@@ -566,7 +566,7 @@
 
 ## 1 Corinthians Chapter 12
 
-1 Now concerning spiritual gifts, brothers, I would not have you ignorant.
+1 Now concerning spiritual matters, brothers, I would not have you ignorant.
 
 2 you know that you were Gentiles, carried away to these dumb idols, even as you were led.
 
@@ -810,7 +810,7 @@
 
 35 But some man will say, How are the dead raised up? and with what body do they come?
 
-36 you fool, that which you sow is not quickened, except it die:
+36 you fool, that which you sow is not made alive, except it die:
 
 37 And that which you sow, you sow not that body that will be, but bare grain, it may chance of wheat, or of some other grain:
 

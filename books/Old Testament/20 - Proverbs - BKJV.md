@@ -1064,7 +1064,7 @@
 
 13 He that answers a matter before he hears it, it is folly and shame to him.
 
-14 The human spirit of a man will sustain his infirmity; but a wounded human spirit who can bear?
+14 The human spirit of an individual will sustain their sickness; but a wounded human spirit who can bear?
 
 15 The heart of the wise gets knowledge; and the ear of the wise seeks knowledge.
 
@@ -1082,7 +1082,7 @@
 
 22 Whoso finds a wife finds a good thing, and obtains favour of the Lord.
 
-23 The poor uses intreaties; but the rich answers roughly.
+23 The poor uses pleas; but the rich answers roughly.
 
 24 A man that has friends must show himself friendly: and there is a friend that sticks closer than a brother.
 
@@ -1098,7 +1098,7 @@
 
 5 A false witness will not be unpunished, and he that speaks lies will not escape.
 
-6 Many will intreat the favour of the prince: and every man is a friend to him that gives gifts.
+6 Many will seek the favor of the prince: and every man is a friend to him that gives gifts.
 
 7 All the brothers of the poor do hate him: how much more do his friends go far from him? he pursus them with words, yet they are wanting to him.
 
@@ -1346,7 +1346,7 @@
 
 6 Eat you not the bread of him that has an evil eye, neither desire you his dainty meats:
 
-7 For as he thinks in his heart, so is he: Eat and drink, says he to you; but his heart is not with you.
+7 For as a person thinks in their heart, so are they: Eat and drink, says he to you; but his heart is not with you.
 
 8 The morsel which you have eaten will you vomit up, and lose your sweet words.
 

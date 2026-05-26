@@ -40,7 +40,7 @@
 
 19 Because that which may be known of God is manifest in them; for God has showed it to them.
 
-20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
+20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Divine Nature; so that they are without excuse:
 
 21 Because that, when they knew God, they glorified him not as God, neither were thankful; but became empty in their imaginations, and their foolish heart was darkened.
 
@@ -224,7 +224,7 @@
 
 16 Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 
-17 (As it is written, I have made you a father of many nations,) before him whom he believed, even God, who quickens the dead, and calls those things which be not as though they were.
+17 (As it is written, I have made you a father of many nations,) before him whom he believed, even God, who gives life to the dead, and calls those things which be not as though they were.
 
 18 Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So will your seed be.
 
@@ -408,7 +408,7 @@
 
 10 And if Christ be in you, the body is dead because of sin; but the Holy Spirit is life because of righteousness.
 
-11 But if the Holy Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead will also quicken your mortal bodies by His Holy Spirit that dwells in you.
+11 But if the Holy Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead will also give life to your mortal bodies by His Holy Spirit that dwells in you.
 
 12 Therefore, brothers, we are debtors, not to the flesh, to live after the flesh.
 

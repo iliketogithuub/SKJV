@@ -2754,7 +2754,7 @@
 
 60 So Jeremiah wrote in a book all the evil that should come upon Babylon, even all these words that are written against Babylon.
 
-61 And Jeremiah said to Seraiah, When you com to Babylon, and will see, and will read all these words;
+61 And Jeremiah said to Seraiah, when you come to Babylon, and will see, and will read all these words;
 
 62 Then will you say, O Lord, you have spoken against this place, to cut it off, that none will remain in it, neither man nor beast, but that it will be desolate for ever.
 

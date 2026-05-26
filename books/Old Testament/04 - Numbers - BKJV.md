@@ -1270,7 +1270,7 @@
 
 29 If these men die the common death of all men, or if they be visited after the visitation of all men; then the Lord has not sent me.
 
-30 But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain to them, and they go down quick into the pit; then you will understand that these men have angered the Lord.
+30 But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain to them, and they go down alive into the pit; then you will understand that these men have angered the Lord.
 
 31 And it came to pass, as he had made an end of speaking all these words, that the ground split apart that was under them:
 
@@ -2572,7 +2572,7 @@
 
 10 Speak to the children of Israel, and say to them, When you be come over Jordan into the land of Canaan;
 
-11 Then you will appoint you cities to be cities of refuge for you; that the slayer may flee there, which kills any person at unawares.
+11 Then you will appoint you cities to be cities of refuge for you; that the slayer may flee there, which kills any person accidentally.
 
 12 And they will be to you cities for refuge from the one who brings justice; that the manslayer die not, until he stand before the congregation in judgment.
 
@@ -2580,7 +2580,7 @@
 
 14 you will give three cities on this side Jordan, and three cities will you give in the land of Canaan, which will be cities of refuge.
 
-15 These six cities will be a refuge, both for the children of Israel, and for the stranger, and for the foreigner among them: that every one that kills any person unawares may flee there.
+15 These six cities will be a refuge, both for the children of Israel, and for the stranger, and for the foreigner among them: that every one that kills any person accidentally may flee there.
 
 16 And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer will surely be put to death.
 

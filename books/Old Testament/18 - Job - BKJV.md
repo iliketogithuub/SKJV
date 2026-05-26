@@ -924,9 +924,9 @@
 
 15 They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.
 
-16 I called my servant, and he gave me no answer; I intreated him with my mouth.
+16 I called my servant, and he gave me no answer; I pleaded with him with my mouth.
 
-17 My breath is strange to my wife, though I intreated for the children's sake of mine own body.
+17 My breath is strange to my wife, though I pleaded for the children's sake of mine own body.
 
 18 Yea, young children despised me; I arose, and they spoke against me.
 
@@ -1222,7 +1222,7 @@
 
 20 The womb will forget him; the worm will feed sweetly on him; he will be no more remembered; and wickedness will be broken as a tree.
 
-21 He evil entreats the barren that bears not: and does not good to the widow.
+21 He mistreats the barren that bears not: and does not good to the widow.
 
 22 He draws also the mighty with his power: he riss up, and no man is sure of life.
 

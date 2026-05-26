@@ -778,7 +778,7 @@
 
 41 Not to all the people, but to witnesses chosen before God, even to us, who did eat and drink with him after he rose from the dead.
 
-42 And he commanded us to preach to the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.
+42 And he commanded us to preach to the people, and to testify that it is he which was ordained of God to be the Judge of the living and the dead.
 
 43 To him give all the prophets witness, that through his name whosoever believes in him will receive forgiveness of sins.
 
@@ -1294,7 +1294,7 @@
 
 28 For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 
-29 Since then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, graven by are and man's device.
+29 Since then as we are the offspring of God, we ought not to think that the Divine Nature is like to gold, or silver, or stone, graven by are and man's device.
 
 30 And the times of this ignorance God winked at; but now commands all men every where to repent:
 

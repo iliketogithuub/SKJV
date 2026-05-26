@@ -466,7 +466,7 @@
 
 1 And Elisha the prophet called one of the children of the prophets, and said to him, Gird up your loins, and take this box of oil in your hand, and go to Ramothgilead:
 
-2 And when you com there, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brothers, and carry him to an inner chamber;
+2 And when you come there, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brothers, and carry him to an inner chamber;
 
 3 Then take the box of oil, and pour it on his head, and say, Thus says the Lord, I have anointed you king over Israel. Then open the door, and flee, and tarry not.
 
