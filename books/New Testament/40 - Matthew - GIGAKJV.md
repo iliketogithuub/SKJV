@@ -52,53 +52,53 @@
 
 25 but did not know her intimately until she had given birth to her firstborn son; and he called his name Jesus.
 
-## Matthew Chapter 2
+### Matthew Chapter 2
 
-1 Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, look, there came wise men from the east to Jerusalem,
+1 After Jesus was born in Bethlehem of Judea during the reign of King Herod, look, wise men from the east arrived in Jerusalem,
 
-2 Saying, Where is the one who is born King of the Jews? for we have seen his star in the east, and have come to worship him.
+2 asking, Where is the one who has been born King of the Jews? For we saw his star in the east and have come to worship him.
 
-3 When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
+3 When King Herod heard these things, he was deeply troubled, and all of Jerusalem with him.
 
-4 And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.
+4 And when he had gathered all the chief priests and teachers of the law together, he inquired of them where the Christ was to be born.
 
-5 And they said to him, In Bethlehem of Judea: for thus it is written by the prophet,
+5 They answered him, In Bethlehem of Judea: for this is what was written by the prophet,
 
-6 And you Bethlehem, in the land of Judah, are not the least among the princes of Judah: for out of you will come a Governor, that will rule my people Israel.
+6 And you Bethlehem, in the land of Judah, are by no means the least among the rulers of Judah: for out of you will come a Ruler who will shepherd my people Israel.
 
-7 Then Herod, when he had secretly called the wise men, enquired of them diligently what time the star appeared.
+7 Then Herod, after secretly calling the wise men, determined from them the exact time the star had appeared.
 
-8 And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when you have found him, bring me word again, that I may come and worship him also.
+8 And he sent them to Bethlehem and said, Go and search carefully for the child; and when you have found him, report back to me, so that I may also come and worship him.
 
-9 When they had heard the king, they departed; and, look, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
+9 When they heard the king, they went on their way; and look, the star they had seen in the east went before them, until it came to a stop over the place where the child was.
 
-10 When they saw the star, they rejoiced with exceeding great joy.
+10 When they saw the star, they rejoiced with exceedingly great joy.
 
-11 And when they had come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented to him gifts; gold, and frankincense and myrrh.
+11 And when they entered the house, they saw the child with Mary his mother, and they bowed down and worshiped him. When they had opened their treasures, they presented to him gifts; gold, frankincense, and myrrh.
 
-12 And being warned by God in a dream that they should not return to Herod, they departed into their own country another way.
+12 And being warned by God in a dream not to return to Herod, they returned to their own country by another route.
 
-13 And when they had departed, look, the angel of the Lord appears to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be you there until I bring you word: for Herod will seek the young child to destroy him.
+13 After they had gone, look, an angel of the Lord appeared to Joseph in a dream, saying, Get up, take the child and his mother, flee to Egypt, and stay there until I tell you; for Herod is going to search for the child to destroy him.
 
-14 When he arose, he took the young child and his mother by night, and departed into Egypt:
+14 So Joseph got up, took the child and his mother by night, and departed into Egypt,
 
-15 And was there until the death of Herod: that it might be fulfilled which was spoken by the Lord by the prophet, saying, Out of Egypt have I called my son.
+15 and stayed there until the death of Herod, to fulfill what was spoken by the Lord through the prophet, saying, Out of Egypt I have called my son.
 
-16 Then Herod, when he saw that he was outwitted by the wise men, was exceeding furious, and sent forth, and killed all the children that were in Bethlehem, and in all the coasts of it, from two years old and under, according to the time which he had diligently inquired of the wise men.
+16 Then Herod, when he saw that he had been outwitted by the wise men, was exceedingly furious. He sent soldiers and killed all the male children in Bethlehem and its surrounding districts who were two years old and under, according to the exact time he had determined from the wise men.
 
-17 Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
+17 Then was fulfilled what was spoken through Jeremiah the prophet, saying,
 
-18 In Ramah was there a voice heard, mourning, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+18 A voice was heard in Ramah, mourning, weeping, and great lamentation, Rachel weeping for her children, refusing to be comforted, because they were no more.
 
-19 But when Herod was dead, look, an angel of the Lord appears in a dream to Joseph in Egypt,
+19 But when Herod was dead, look, an angel of the Lord appeared in a dream to Joseph in Egypt,
 
-20 Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.
+20 saying, Get up, take the child and his mother, and go into the land of Israel, for those who sought the child's life are dead.
 
-21 And he arose, and took the young child and his mother, and came into the land of Israel.
+21 So Joseph got up, took the child and his mother, and came into the land of Israel.
 
-22 But when he heard that Archelaus did reign in Judea in the room of his father Herod, he was afraid to go there: nevertheless, being warned by God in a dream, he turned aside into the parts of Galilee:
+22 But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Nevertheless, being warned by God in a dream, he withdrew to the region of Galilee,
 
-23 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He will be called a Nazarene.
+23 and he came and lived in a city called Nazareth, to fulfill what was spoken through the prophets: He will be called a Nazarene.
 
 ## Matthew Chapter 3
 
