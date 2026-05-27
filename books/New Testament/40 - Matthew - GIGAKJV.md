@@ -2,55 +2,55 @@
 
 ## Matthew Chapter 1
 
-1 The book of the generation of Jesus Christ, the son of David, the son of Abraham.
+1 The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
 
-2 Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judas and his brothers;
+2 Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judah and his brothers;
 
-3 And Judas fathered Phares and Zara of Thamar; and Phares fathered Esrom; and Esrom fathered Aram;
+3 And Judah fathered Perez and Zerah of Tamar; and Perez fathered Hezron; and Hezron fathered Ram;
 
-4 And Aram fathered Aminadab; and Aminadab fathered Naasson; and Naasson fathered Salmon;
+4 And Ram fathered Amminadab; and Amminadab fathered Nahshon; and Nahshon fathered Salmon;
 
-5 And Salmon fathered Booz of Rachab; and Booz fathered Obed of Ruth; and Obed fathered Jesse;
+5 And Salmon fathered Boaz of Rahab; and Boaz fathered Obed of Ruth; and Obed fathered Jesse;
 
-6 And Jesse fathered David the king; and David the king fathered Solomon of her that had been the wife of Urias;
+6 And Jesse fathered David the king; and David the king fathered Solomon by her who had been the wife of Uriah;
 
-7 And Solomon fathered Roboam; and Roboam fathered Abia; and Abia fathered Asa;
+7 And Solomon fathered Rehoboam; and Rehoboam fathered Abijah; and Abijah fathered Asa;
 
-8 And Asa fathered Josaphat; and Josaphat fathered Joram; and Joram fathered Ozias;
+8 And Asa fathered Jehoshaphat; and Jehoshaphat fathered Joram; and Joram fathered Uzziah;
 
-9 And Ozias fathered Joatham; and Joatham fathered Achaz; and Achaz fathered Ezekias;
+9 And Uzziah fathered Jotham; and Jotham fathered Ahaz; and Ahaz fathered Hezekiah;
 
-10 And Ezekias fathered Manasses; and Manasses fathered Amon; and Amon fathered Josias;
+10 And Hezekiah fathered Manasseh; and Manasseh fathered Amon; and Amon fathered Josiah;
 
-11 And Josias fathered Jechonias and his brothers, about the time they were carried away to Babylon:
+11 And Josiah fathered Jeconiah and his brothers, about the time they were carried away to Babylon:
 
-12 And after they were brought to Babylon, Jechonias fathered Salathiel; and Salathiel fathered Zorobabel;
+12 And after they were brought to Babylon, Jeconiah fathered Shealtiel; and Shealtiel fathered Zerubbabel;
 
-13 And Zorobabel fathered Abiud; and Abiud fathered Eliakim; and Eliakim fathered Azor;
+13 And Zerubbabel fathered Abihud; and Abihud fathered Eliakim; and Eliakim fathered Azor;
 
-14 And Azor fathered Sadoc; and Sadoc fathered Achim; and Achim fathered Eliud;
+14 And Azor fathered Zadok; and Zadok fathered Achim; and Achim fathered Eliud;
 
 15 And Eliud fathered Eleazar; and Eleazar fathered Matthan; and Matthan fathered Jacob;
 
 16 And Jacob fathered Joseph the husband of Mary, who gave birth to Jesus, who is called Christ.
 
-17 So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon to Christ are fourteen generations.
+17 So all the generations from Abraham to David are fourteen generations; and from David until the exile to Babylon are fourteen generations; and from the exile to Babylon to Christ are fourteen generations.
 
-18 Now the birth of Jesus Christ was on this wise: When as his mother Mary was engaged to Joseph, before they came together, she was found with child of the Holy Spirit.
+18 Now the birth of Jesus Christ happened this way: When his mother Mary was engaged to Joseph, before they came together, she was found to be with child through the Holy Spirit.
 
-19 Then Joseph her husband, being a just man, and not willing to make her a public example, was minded to put her away secretly.
+19 Then Joseph her husband, being a righteous man and not wanting to disgrace her publicly, planned to divorce her quietly.
 
-20 But while he thought on these things, look, the angel of the Lord appeared to him in a dream, saying, Joseph, you son of David, fear not to take to you Mary your wife: for that which is conceived in her is of the Holy Spirit.
+20 But while he considered these things, look, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, do not be afraid to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.
 
-21 And she will bring forth a son, and you will call his name Jesus: for he will save his people from their sins.
+21 And she will give birth to a son, and you will call his name Jesus, for he will save his people from their sins.
 
-22 Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
+22 Now all this took place to fulfill what was spoken by the Lord through the prophet, saying,
 
-23 Look, a virgin will be with child, and will bring forth a son, and they will call his name Emmanuel, which being interpreted is, God with us.
+23 Look, the virgin will be with child, and will give birth to a son, and they will call his name Immanuel, which translated means, God with us.
 
-24 Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took to him his wife:
+24 Then Joseph, waking up from sleep, did as the angel of the Lord commanded him, and took his wife,
 
-25 And knew her not till she had brought forth her firstborn son: and he called his name Jesus.
+25 but did not know her intimately until she had given birth to her firstborn son; and he called his name Jesus.
 
 ## Matthew Chapter 2
 
