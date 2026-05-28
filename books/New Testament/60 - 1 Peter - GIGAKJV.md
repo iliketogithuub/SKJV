@@ -14,7 +14,7 @@
 
 6 In which you greatly rejoice, though now for a season, if need be, you are in heaviness through manifold temptations:
 
-7 That the trial of your faith, being much more precious than of gold that perishs, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
+7 That the trial of your faith, being much more precious than of gold that perishes, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
 
 8 who having not seen, you love; in Him, though now you see Him not, yet believing, you rejoice with joy unspeakable and full of glory:
 
@@ -22,15 +22,15 @@
 
 10 Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come to you:
 
-11 Searching what, or what manner of time the Holy Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+11 Searching what, or what manner of time the Holy Spirit of Christ who was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
-12 to them it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
+12 to them it was revealed, that not to themselves, but to us they did minister the things, who are now reported to you by those who have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
 
 13 therefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Jesus Christ;
 
 14 As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
 
-15 But as he which has called you is holy, so be you holy in all your conduct;
+15 But as he who has called you is holy, so be you holy in all your conduct;
 
 16 Because it is written, Be you holy; for I am holy.
 
@@ -62,17 +62,17 @@
 
 4 Coming to Him, as to a living stone, disallowed indeed of men, but chosen of God, and precious,
 
-5 you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+5 You also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
-6 therefore also it is contained in the scripture, Look, I lay in Sion a chief corner stone, elect, precious: and he that believes on him will not be confounded.
+6 therefore also it is contained in the scripture, Look, I lay in Sion a chief corner stone, elect, precious: and the one who believes on him will not be confounded.
 
-7 to you therefore which believe he is precious: but to them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
+7 to you therefore which believe he is precious: but to them who be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 
-8 And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: to which also they were appointed.
+8 And a stone of stumbling, and a rock of offence, even to them who stumble at the word, being disobedient: to which also they were appointed.
 
 9 But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should show forth the praises of him who has called you out of darkness into his marvellous light;
 
-10 Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
+10 Which in time past were not a people, but are now the people of God: who had not obtained mercy, but now have obtained mercy.
 
 11 Dearly beloved, I urge you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
@@ -80,7 +80,7 @@
 
 13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
 
-14 Or to governors, as to them that are sent by him for the punishment of evildoers, and for the praise of them that do well.
+14 Or to governors, as to those who are sent by him for the punishment of evildoers, and for the praise of those who do well.
 
 15 For so is the will of God, that with well doing you may put to silence the ignorance of foolish men:
 
@@ -98,7 +98,7 @@
 
 22 Who did no sin, neither was guile found in his mouth:
 
-23 Who, when he was insulted, insulted not again; when he suffered, he threatened not; but committed himself to him that judges righteously:
+23 Who, when he was insulted, insulted not again; when he suffered, he threatened not; but committed himself to the one who judges righteously:
 
 24 He personally carried our sins in His own body on the cross, so that we, having died to sin, can live for righteousness—by His wounds you were healed.
 
@@ -114,7 +114,7 @@
 
 3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of clothing;
 
-4 But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet human spirit, which is in the sight of God of great price.
+4 But let it be the hidden man of the heart, in that who is not corruptible, even the ornament of a meek and quiet human spirit, who is in the sight of God of great price.
 
 5 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in submission to their own husbands:
 
@@ -126,13 +126,13 @@
 
 9 Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that you are thereunto called, that you should inherit a blessing.
 
-10 For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
+10 For the one who will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 
 11 Let him avoid evil, and do good; let him seek peace, and pursue it.
 
-12 For the eyes of the Lord are over the righteous, and his ears are open to their prayers: but the face of the Lord is against them that do evil.
+12 For the eyes of the Lord are over the righteous, and his ears are open to their prayers: but the face of the Lord is against those who do evil.
 
-13 And who is he that will harm you, if you be followers of that which is good?
+13 And who is the one who will harm you, if you be followers of that who is good?
 
 14 But and if you suffer for righteousness' sake, happy are you: and be not afraid of their terror, neither be troubled;
 
@@ -154,7 +154,7 @@
 
 ## 1 Peter Chapter 4
 
-1 Since then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
+1 Since then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for the one who has suffered in the flesh has ceased from sin;
 
 2 That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 
@@ -162,9 +162,9 @@
 
 4 In which they think it strange that you run not with them to the same excess of riot, speaking evil of you:
 
-5 Who will give account to him that is ready to judge the living and the dead.
+5 Who will give account to the one who is ready to judge the living and the dead.
 
-6 For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the Holy Spirit.
+6 For for this cause was the gospel preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the Holy Spirit.
 
 7 But the end of all things is at hand: be you therefore sober, and watch to prayer.
 
@@ -176,7 +176,7 @@
 
 11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to Him be praise and dominion for ever and ever. Amen.
 
-12 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened to you:
+12 Beloved, think it not strange concerning the fiery trial who is to try you, as though some strange thing happened to you:
 
 13 But rejoice, since as you are partakers of Christ's sufferings; that, when his glory will be revealed, you may be glad also with exceeding joy.
 
@@ -186,17 +186,17 @@
 
 16 Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
 
-17 For the time is come that judgment must begin at the house of God: and if it first begin at us, what will the end be of them that obey not the gospel of God?
+17 For the time is come that judgment must begin at the house of God: and if it first begin at us, what will the end be of those who obey not the gospel of God?
 
 18 And if the righteous scarcely be saved, where will the ungodly and the sinner appear?
 
-19 therefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as to a faithful Creator.
+19 therefore let those who suffer according to the will of God commit the keeping of their souls to him in well doing, as to a faithful Creator.
 
 ## 1 Peter Chapter 5
 
-1 The elders which are among you I encourage, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:
+1 The elders who are among you I encourage, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:
 
-2 Feed the flock of God which is among you, taking the oversight of it, not by constraint, but willingly; not for filthy money, but of a ready mind;
+2 Feed the flock of God who is among you, taking the oversight of it, not by constraint, but willingly; not for filthy money, but of a ready mind;
 
 3 Neither as being lords over God's heritage, but being examples to the flock.
 

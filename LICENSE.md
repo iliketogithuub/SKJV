@@ -19,4 +19,4 @@ To preserve the theological integrity and translation trail of the GIGAKJV:
 1. No modifications, alterations, or changes to the words, formatting (specifically bolded verbs and bracketed operational insights), or sentence structures of the GIGAKJV may be made without written approval.
 2. The name "Giga King James Version" and the abbreviation "GIGAKJV" are protected trademarks. Any derivative translation must not use these marks without written consent.
 
-For permissions, licensing queries, or translation feedback, please contact us at: [contact@supernaturalchuches.org](mailto:contact@supernaturalchuches.org).
+For permissions, licensing queries, or translation feedback, please contact us at: [contact@supernaturalchurches.org](mailto:contact@supernaturalchurches.org).

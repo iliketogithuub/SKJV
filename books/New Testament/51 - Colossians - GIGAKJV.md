@@ -2,15 +2,15 @@
 
 ## Colossians Chapter 1
 
-1 Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
+1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother,
 
-2 To the saints and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
+2 To the saints and faithful brothers in Christ who are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
 
 3 We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 
 4 Since we heard of your faith in Christ Jesus, and of the love which you have to all the saints,
 
-5 For the hope which is laid up for you in heaven, of which you heard before in the word of the truth of the gospel;
+5 For the hope who is laid up for you in heaven, of which you heard before in the word of the truth of the gospel;
 
 6 Which is come to you, as it is in all the world; and brings forth fruit, as it does also in you, since the day you heard of it, and knew the grace of God in truth:
 
@@ -24,7 +24,7 @@
 
 11 Strengthened with all might, according to his glorious power, to all patience and patience with joyfulness;
 
-12 Giving thanks to the Father, which has qualified us to be partakers of the inheritance of the saints in light:
+12 Giving thanks to the Father, who has qualified us to be partakers of the inheritance of the saints in light:
 
 13 Who has delivered us from the power of darkness, and has transferred us into the kingdom of his dear Son:
 
@@ -46,15 +46,15 @@
 
 22 In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
 
-23 If you continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which you have heard, and which was preached to every creature which is under heaven; of which I Paul am made a minister;
+23 If you continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which you have heard, and who was preached to every creature who is under heaven; of which I Paul am made a minister;
 
-24 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:
+24 Who now rejoice in my sufferings for you, and fill up that who is behind of the afflictions of Christ in my flesh for his body's sake, who is the church:
 
-25 of which I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
+25 of which I am made a minister, according to the administration of God who is given to me for you, to fulfil the word of God;
 
-26 Even the mystery which has been hid from ages and from generations, but now is made manifest to his saints:
+26 Even the mystery who has been hid from ages and from generations, but now is made manifest to his saints:
 
-27 To them God willed to make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+27 To them God willed to make known what is the riches of the glory of this mystery among the Gentiles; who is Christ in you, the hope of glory:
 
 28 who we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
 
@@ -80,7 +80,7 @@
 
 9 For in him dwells all the fullness of the Deity bodily.
 
-10 And you are complete in him, which is the head of all principality and power:
+10 And you are complete in him, who is the head of all principality and power:
 
 11 In Him also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
@@ -88,7 +88,7 @@
 
 13 And you, being dead in your sins and the uncircumcision of your flesh, has He made alive together with him, having forgiven you all trespasses;
 
-14 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
+14 Blotting out the handwriting of ordinances that was against us, who was contrary to us, and took it out of the way, nailing it to his cross;
 
 15 And having spoiled principalities and powers, he made a show of them openly, triumphing over them in it.
 
@@ -110,7 +110,7 @@
 
 ## Colossians Chapter 3
 
-1 If you then be risen with Christ, seek those things which are above, where Christ sits on the right hand of God.
+1 If you then be risen with Christ, seek those things who are above, where Christ sits on the right hand of God.
 
 2 Set your affection on things above, not on things on the earth.
 
@@ -118,17 +118,17 @@
 
 4 When Christ, who is our life, will appear, then will you also appear with him in glory.
 
-5 Mortify therefore your members which are upon the earth; sexual sin, uncleanness, inordinate affection, evil sinful desire, and greed, which is idolatry:
+5 Mortify therefore your members who are upon the earth; sexual sin, uncleanness, inordinate affection, evil sinful desire, and greed, who is idolatry:
 
 6 For which things' sake the wrath of God comes on the children of disobedience:
 
-7 In the which you also walked some time, when you lived in them.
+7 In which you also walked some time, when you lived in them.
 
 8 But now you also put off all these; anger, wrath, ill will, blasphemy, filthy communication out of your mouth.
 
 9 Lie not one to another, seeing that you have put off the old man with his deeds;
 
-10 And have put on the new man, which is renewed in knowledge after the image of him that created him:
+10 And have put on the new man, who is renewed in knowledge after the image of the one who created him:
 
 11 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
 
@@ -136,13 +136,13 @@
 
 13 Holding back one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do you.
 
-14 And above all these things put on love, which is the bond of perfectness.
+14 And above all these things put on love, who is the bond of perfectness.
 
-15 And let the peace of God rule in your hearts, to the which also you are called in one body; and be you thankful.
+15 And let the peace of God rule in your hearts, to which also you are called in one body; and be you thankful.
 
 16 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
-17 And whatsoever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
+17 And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
 
 18 Wives, submit yourselves to your own husbands, as it is fit in the Lord.
 
@@ -154,15 +154,15 @@
 
 22 Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God;
 
-23 And whatsoever you do, do it heartily, as to the Lord, and not to men;
+23 And whatever you do, do it heartily, as to the Lord, and not to men;
 
 24 Knowing that of the Lord you will receive the reward of the inheritance: for you serve the Lord Christ.
 
-25 But he that does wrong will receive for the wrong which he has done: and there is no respect of persons.
+25 But the one who does wrong will receive for the wrong which he has done: and there is no respect of persons.
 
 ## Colossians Chapter 4
 
-1 Masters, give to your servants that which is just and equal; knowing that you also have a Master in heaven.
+1 Masters, give to your servants that who is just and equal; knowing that you also have a Master in heaven.
 
 2 Continue in prayer, and watch in the same with thanksgiving;
 
@@ -170,7 +170,7 @@
 
 4 That I may make it manifest, as I ought to speak.
 
-5 Walk in wisdom toward them that are without, redeeming the time.
+5 Walk in wisdom toward those who are without, redeeming the time.
 
 6 Let your speech be always with grace, seasoned with salt, that you may know how you ought to answer every man.
 
@@ -178,19 +178,19 @@
 
 8 who I have sent to you for the same purpose, that he might know your estate, and comfort your hearts;
 
-9 With Onesimus, a faithful and beloved brother, who is one of you. They will make known to you all things which are done here.
+9 With Onesimus, a faithful and beloved brother, who is one of you. They will make known to you all things who are done here.
 
 10 Aristarchus my fellow prisoner saluts you, and Marcus, sister's son to Barnabas, (touching who you received commandments: if he come to you, receive him;)
 
-11 And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers to the kingdom of God, which have been a comfort to me.
+11 And Jesus, who is called Justus, who are of the circumcision. These only are my fellowworkers to the kingdom of God, who have been a comfort to me.
 
 12 Epaphras, who is one of you, a servant of Christ, saluts you, always labouring fervently for you in prayers, that you may stand perfect and complete in all the will of God.
 
-13 For I bear him record, that he has a great zeal for you, and them that are in Laodicea, and them in Hierapolis.
+13 For I bear him record, that he has a great zeal for you, and those who are in Laodicea, and them in Hierapolis.
 
 14 Luke, the beloved physician, and Demas, greet you.
 
-15 Greet the brothers which are in Laodicea, and Nymphas, and the church which is in his house.
+15 Greet the brothers who are in Laodicea, and Nymphas, and the church who is in his house.
 
 16 And when this letter is read among you, cause that it be read also in the church of the Laodiceans; and that you likewise read the letter from Laodicea.
 

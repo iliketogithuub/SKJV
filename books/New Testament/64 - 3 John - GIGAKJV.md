@@ -20,15 +20,15 @@
 
 9 I wrote to the church: but Diotrephes, who loves to have the preeminence among them, receives us not.
 
-10 Therefore, if I come, I will remember his deeds which he does, prating against us with full of ill will words: and not content with it, neither does he himself receive the brothers, and forbids them that would, and casts them out of the church.
+10 Therefore, if I come, I will remember his deeds which he does, prating against us with full of ill will words: and not content with it, neither does he himself receive the brothers, and forbids those who would, and casts them out of the church.
 
-11 Beloved, follow not that which is evil, but that which is good. He that does good is of God: but he that does evil has not seen God.
+11 Beloved, follow not that who is evil, but that who is good. He that does good is of God: but the one who does evil has not seen God.
 
 12 Demetrius has good report of all men, and of the truth itself: yea, and we also bear record; and you know that our record is true.
 
 13 I had many things to write, but I will not with ink and pen write to you:
 
-14 But I trust I shall shortly see you, and we shall speak face to face. Peace be to you. Our friends greet you. Greet the friends by name.
+14 But I trust I will shortly see you, and we will speak face to face. Peace be to you. Our friends greet you. Greet the friends by name.
 
 
 ## eof

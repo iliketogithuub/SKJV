@@ -6,7 +6,7 @@
 
 2 anchored in the absolute certainty of eternal life, which God—who is completely incapable of lying—promised before time even began;
 
-3 and has at the perfect strategic time revealed the spoken word through preaching, which was entrusted to me by the direct command of God our Savior;
+3 and has at the perfect strategic time revealed the spoken word through preaching, who was entrusted to me by the direct command of God our Savior;
 
 4 To Titus, a true child in our shared faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
 
@@ -82,13 +82,13 @@
 
 7 That being justified by his grace, we should be made heirs according to the hope of eternal life.
 
-8 This is a faithful saying, and these things I will that you affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable to men.
+8 This is a faithful saying, and these things I will that you affirm constantly, that they who have believed in God might be careful to maintain good works. These things are good and profitable to men.
 
 9 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and empty.
 
 10 A man that is an heretick after the first and second admonition reject;
 
-11 Knowing that he that is such is subverted, and sins, being condemned of himself.
+11 Knowing that the one who is such is subverted, and sins, being condemned of himself.
 
 12 When I will send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis: for I have determined there to winter.
 
@@ -96,7 +96,7 @@
 
 14 And let our's also learn to maintain good works for necessary uses, that they be not unfruitful.
 
-15 All that are with me greet you. Greet them that love us in the faith. Grace be with you all. Amen.
+15 All that are with me greet you. Greet those who love us in the faith. Grace be with you all. Amen.
 
 
 ## eof

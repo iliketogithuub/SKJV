@@ -2,7 +2,7 @@
 
 ## 2 Timothy Chapter 1
 
-1 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
+1 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life who is in Christ Jesus,
 
 2 To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
 
@@ -12,39 +12,39 @@
 
 5 When I call to remembrance the unfeigned faith that is in you, which dwelt first in your grandmother Lois, and your mother Eunice; and I am persuaded that in you also.
 
-6 therefore I put you in remembrance that you fan into flame the gift of God, which is in you by the putting on of my hands.
+6 therefore I put you in remembrance that you stir up the gift of God, who is in you by the putting on of my hands.
 
 7 For God has not given us a spirit of cowardice (timidity); but of supernatural power, of love, and of self-discipline (a sound mind).
 
 8 Be not you therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be you partaker of the afflictions of the gospel according to the power of God;
 
-9 Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
+9 Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, who was given us in Christ Jesus before the world began,
 
 10 But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
 
 11 to which I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
 
-12 For the which cause I also suffer these things: nevertheless I am not ashamed: for I know who I have believed, and am persuaded that he is able to keep that which I have committed to him against that day.
+12 For which cause I also suffer these things: nevertheless I am not ashamed: for I know who I have believed, and am persuaded that he is able to keep that which I have committed to him against that day.
 
-13 Hold fast the form of sound words, which you have heard of me, in faith and love which is in Christ Jesus.
+13 Hold fast the form of sound words, which you have heard of me, in faith and love who is in Christ Jesus.
 
-14 That good thing which was committed to you keep by the Holy Spirit which dwells in us.
+14 That good thing who was committed to you keep by the Holy Spirit which dwells in us.
 
-15 This you know, that all they which are in Asia be turned away from me; among them are Phygellus and Hermogenes.
+15 This you know, that all they who are in Asia be turned away from me; among them are Phygellus and Hermogenes.
 
 16 The Lord give mercy to the house of Onesiphorus; for he often refreshed me, and was not ashamed of my chain:
 
 17 But, when he was in Rome, he sought me out very diligently, and found me.
 
-18 The Lord grant to him that he may find mercy of the Lord in that day: and in how many things he ministered to me at Ephesus, you know very well.
+18 The Lord grant to the one who he may find mercy of the Lord in that day: and in how many things he ministered to me at Ephesus, you know very well.
 
 ## 2 Timothy Chapter 2
 
-1 you therefore, my son, be strong in the grace that is in Christ Jesus.
+1 You therefore, my son, be strong in the grace that is in Christ Jesus.
 
 2 And the things that you have heard of me among many witnesses, the same commit you to faithful men, who will be able to teach others also.
 
-3 you therefore endure hardness, as a good soldier of Jesus Christ.
+3 You therefore endure hardness, as a good soldier of Jesus Christ.
 
 4 No man that wars entangls himself with the affairs of this life; that he may please him who has chosen him to be a soldier.
 
@@ -58,7 +58,7 @@
 
 9 In which I suffer trouble, as an evil doer, even to bonds; but the word of God is not bound.
 
-10 Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.
+10 Therefore I endure all things for the elect's sakes, that they may also obtain the salvation who is in Christ Jesus with eternal glory.
 
 11 It is a faithful saying: For if we be dead with him, we will also live with him:
 
@@ -76,13 +76,13 @@
 
 18 Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
 
-19 Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, let every one that nams the name of Christ depart from wickedness.
+19 Nevertheless the foundation of God stands sure, having this seal, The Lord knows those who are his. And, let every one that nams the name of Christ depart from wickedness.
 
 20 But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
 
 21 If a man therefore purge himself from these, he will be a vessel to honour, sanctified, and meet for the master's use, and prepared to every good work.
 
-22 Flee also youthful lusts: but follow righteousness, faith, love, peace, with them that call on the Lord out of a pure heart.
+22 Flee also youthful lusts: but follow righteousness, faith, love, peace, with those who call on the Lord out of a pure heart.
 
 23 But foolish and unlearned questions avoid, knowing that they do gender strifes.
 
@@ -104,7 +104,7 @@
 
 5 Having a form of godliness, but denying the power of it: from such turn away.
 
-6 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with various lusts,
+6 For of this sort are they who creep into houses, and lead captive silly women laden with sins, led away with various lusts,
 
 7 Ever learning, and never able to come to the knowledge of the truth.
 
@@ -114,7 +114,7 @@
 
 10 But you have fully known my doctrine, manner of life, purpose, faith, patience, love, patience,
 
-11 Persecutions, afflictions, which came to me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.
+11 Persecutions, afflictions, who came to me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.
 
 12 Yea, and all that will live godly in Christ Jesus will suffer persecution.
 
@@ -122,7 +122,7 @@
 
 14 But continue you in the things which you have learned and have been assured of, knowing who you learned them from;
 
-15 And that from a child you have known the holy scriptures, which are able to make you wise to salvation through faith which is in Christ Jesus.
+15 And that from a child you have known the holy scriptures, who are able to make you wise to salvation through faith who is in Christ Jesus.
 
 16 All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
 

@@ -12,11 +12,11 @@
 
 5 Hearing of your love and faith, which you have toward the Lord Jesus, and toward all saints;
 
-6 That the communication of your faith may become effective by the acknowledging of every good thing which is in you in Christ Jesus.
+6 That the communication of your faith may become effective by the acknowledging of every good thing who is in you in Christ Jesus.
 
 7 For we have great joy and comfort in your love, because the deep affection of the saints are refreshed by you, brother.
 
-8 Therefore, though I might be much bold in Christ to require you that which is convenient,
+8 Therefore, though I might be much bold in Christ to require you that who is convenient,
 
 9 Yet for love's sake I rather urge you, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 
@@ -44,7 +44,7 @@
 
 21 Having confidence in your obedience I wrote to you, knowing that you will also do more than I say.
 
-22 But also prepare me also a lodging: for I trust that through your prayers I shall be given to you.
+22 But also prepare me also a lodging: for I trust that through your prayers I will be given to you.
 
 23 There greet you Epaphras, my fellow prisoner in Christ Jesus;
 

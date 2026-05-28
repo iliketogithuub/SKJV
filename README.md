@@ -86,7 +86,7 @@ This translation is produced under the theological oversight of **supernaturalch
 ## Version & Feedback
 
 - **Version**: 1.0
-- **Feedback**: We welcome corrections, suggestions, and translation feedback. Please email us at [contact@supernaturalchuches.org](mailto:contact@supernaturalchuches.org).
+- **Feedback**: We welcome corrections, suggestions, and translation feedback. Please email us at [contact@supernaturalchurches.org](mailto:contact@supernaturalchurches.org).
 
 ## License
 

@@ -2,19 +2,19 @@
 
 ## Jude Chapter 1
 
-1 Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
+1 Jude, the servant of Jesus Christ, and brother of James, to those who are sanctified by God the Father, and preserved in Jesus Christ, and called:
 
 2 Mercy to you, and peace, and love, be multiplied.
 
-3 Beloved, when I gave all diligence to write to you of the common salvation, it was needful for me to write to you, and encourage you that you should earnestly contend for the faith which was once delivered to the saints.
+3 Beloved, when I gave all diligence to write to you of the common salvation, it was needful for me to write to you, and encourage you that you should earnestly contend for the faith who was once delivered to the saints.
 
 4 For there are certain men crept in unnoticed, who were before of old ordained to this judgment, ungodly men, turning the grace of our God into sensuality, and denying the only Lord God, and our Lord Jesus Christ.
 
-5 I will therefore put you in remembrance, though you once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
+5 I will therefore put you in remembrance, though you once knew this, that the Lord, having saved the people out of the land of Egypt, afterward destroyed those who believed not.
 
-6 And the angels which kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness to the judgment of the great day.
+6 And the angels who kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness to the judgment of the great day.
 
-7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to sexual sin, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+7 Even as Sodom and Gomorrah, and the cities about them in like manner, giving themselves over to sexual sin, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
 8 Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
@@ -34,7 +34,7 @@
 
 16 These are murmurers, complainers, walking after their own lusts; and their mouth speaks great swelling words, having men's persons in admiration because of advantage.
 
-17 But, beloved, remember you the words which were spoken before of the apostles of our Lord Jesus Christ;
+17 But, beloved, remember you the words who were spoken before of the apostles of our Lord Jesus Christ;
 
 18 How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 
@@ -48,7 +48,7 @@
 
 23 And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
 
-24 Now to him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
+24 Now to the one who is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
 
 25 To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.
 

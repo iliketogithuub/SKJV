@@ -2,7 +2,7 @@
 
 ## Philippians Chapter 1
 
-1 Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
+1 Paul and Timothy, the servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the bishops and deacons:
 
 2 Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 
@@ -12,7 +12,7 @@
 
 5 For your fellowship in the gospel from the first day until now;
 
-6 Being confident of this very thing, that he which has begun a good work in you will perform it until the day of Jesus Christ:
+6 Being confident of this very thing, that he who has begun a good work in you will perform it until the day of Jesus Christ:
 
 7 Even as it is meet for me to think this of you all, because I have you in my heart; since as both in my bonds, and in the defence and confirmation of the gospel, you all are partakers of my grace.
 
@@ -22,7 +22,7 @@
 
 10 That you may approve things that are excellent; that you may be sincere and without offence till the day of Christ.
 
-11 Being filled with the fruits of righteousness, which are by Jesus Christ, to the glory and praise of God.
+11 Being filled with the fruits of righteousness, who are by Jesus Christ, to the glory and praise of God.
 
 12 But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the gospel;
 
@@ -46,7 +46,7 @@
 
 22 But if I live in the flesh, this is the fruit of my labour: yet what I will choose I know not.
 
-23 For I am in a strait between two, having a desire to depart, and to be with Christ; which is far better:
+23 For I am in a strait between two, having a desire to depart, and to be with Christ; who is far better:
 
 24 Nevertheless to abide in the flesh is more needful for you.
 
@@ -56,7 +56,7 @@
 
 27 Only let your conduct be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
 
-28 And in nothing terrified by your adversaries: which is to them an evident token of destruction, but to you of salvation, and that of God.
+28 And in nothing terrified by your adversaries: who is to them an evident token of destruction, but to you of salvation, and that of God.
 
 29 For to you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 
@@ -72,7 +72,7 @@
 
 4 Look not every man on his own things, but every man also on the things of others.
 
-5 Let this mind be in you, which was also in Christ Jesus:
+5 Let this mind be in you, who was also in Christ Jesus:
 
 6 Who, being in the form of God, thought it not robbery to be equal with God:
 
@@ -80,7 +80,7 @@
 
 8 And being found in fashion as a man, he humbled himself, and became obedient to death, even the death of the cross.
 
-9 therefore God also has highly exalted him, and given him a name which is above every name:
+9 therefore God also has highly exalted him, and given him a name who is above every name:
 
 10 That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;
 
@@ -100,11 +100,11 @@
 
 18 For the same cause also do you joy, and rejoice with me.
 
-19 But I trust in the Lord Jesus to send Timotheus shortly to you, that I also may be of good comfort, when I know your state.
+19 But I trust in the Lord Jesus to send Timothy shortly to you, that I also may be of good comfort, when I know your state.
 
 20 For I have no man likeminded, who will naturally care for your state.
 
-21 For all seek their own, not the things which are Jesus Christ's.
+21 For all seek their own, not the things who are Jesus Christ's.
 
 22 But you know the proof of him, that, as a son with the father, he has served with me in the gospel.
 
@@ -112,7 +112,7 @@
 
 24 But I trust in the Lord that I also myself will come shortly.
 
-25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellow soldier, but your messenger, and he that ministered to my wants.
+25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellow soldier, but your messenger, and the one who ministered to my wants.
 
 26 For he longed after you all, and was full of heaviness, because that you had heard that he had been sick.
 
@@ -136,13 +136,13 @@
 
 5 Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
 
-6 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.
+6 Concerning zeal, persecuting the church; touching the righteousness who is in the law, blameless.
 
 7 But what things were gain to me, those I counted looses for Christ.
 
-8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for whose sake I have suffered the loss of all things, and do count them but dung, that I may win Christ,
+8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for whose sake I have suffered the looses of all things, and do count them but dung, that I may win Christ,
 
-9 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+9 And be found in him, not having mine own righteousness, who is of the law, but that who is through the faith of Christ, the righteousness who is of God by faith:
 
 10 That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable to his death;
 
@@ -150,7 +150,7 @@
 
 12 Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
 
-13 Brothers, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth to those things which are before,
+13 Brothers, I count not myself to have apprehended: but this one thing I do, forgetting those things who are behind, and reaching forth to those things who are before,
 
 14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
 
@@ -158,7 +158,7 @@
 
 16 Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
 
-17 Brothers, be followers together of me, and mark them which walk so as you have us for an example.
+17 Brothers, be followers together of me, and mark them who walk so as you have us for an example.
 
 18 (For many walk, who I have told you of often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 
@@ -174,7 +174,7 @@
 
 2 I urge Euodias, and urge Syntyche, that they be of the same mind in the Lord.
 
-3 And I urge you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my co-workers, whose names are in the book of life.
+3 And I urge you also, true yokefellow, help those women who laboured with me in the gospel, with Clement also, and with other my co-workers, whose names are in the book of life.
 
 4 Rejoice in the Lord always: and again I say, Rejoice.
 
@@ -184,13 +184,13 @@
 
 7 And the peace of God, which passes all understanding, will keep your hearts and minds through Christ Jesus.
 
-8 Finally, brothers, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+8 Finally, brothers, whatever things are true, whatever things are honest, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 9 Those things, which you have both learned, and received, and heard, and seen in me, do: and the God of peace will be with you.
 
 10 But I rejoiced in the Lord greatly, that now at the last your care of me has flourished again; in which you were also careful, but you lacked opportunity.
 
-11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, with it to be content.
+11 Not that I speak in respect of want: for I have learned, in whatever state I am, with it to be content.
 
 12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 
@@ -204,15 +204,15 @@
 
 17 Not because I desire a gift: but I desire fruit that may abound to your account.
 
-18 But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.
+18 But I have all, and abound: I am full, having received of Epaphroditus the things who were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.
 
 19 But my God will supply all your need according to his riches in glory by Christ Jesus.
 
 20 Now to God and our Father be glory for ever and ever. Amen.
 
-21 Greet every saint in Christ Jesus. The brothers which are with me greet you.
+21 Greet every saint in Christ Jesus. The brothers who are with me greet you.
 
-22 All the saints greet you, chiefly they that are of Caesar's household.
+22 All the saints greet you, chiefly those who are of Caesar's household.
 
 23 The grace of our Lord Jesus Christ be with you all. Amen.
 

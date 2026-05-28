@@ -2,13 +2,13 @@
 
 ## 1 Timothy Chapter 1
 
-1 Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
+1 Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, who is our hope;
 
 2 to Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.
 
 3 As I urged you to abide still at Ephesus, when I went into Macedonia, that you might charge some that they teach no other doctrine,
 
-4 Neither give heed to fables and endless genealogies, which minister questions, rather than godly building up which is in faith: so do.
+4 Neither give heed to fables and endless genealogies, which minister questions, rather than godly building up who is in faith: so do.
 
 5 Now the end of the commandment is love out of a pure heart, and of a good conscience, and of faith unfeigned:
 
@@ -20,23 +20,23 @@
 
 9 Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and defile, for murderers of fathers and murderers of mothers, for manslayers,
 
-10 For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
+10 For whoremongers, for those who defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
 
-11 According to the glorious gospel of the blessed God, which was committed to my trust.
+11 According to the glorious gospel of the blessed God, who was committed to my trust.
 
 12 And I thank Christ Jesus our Lord, who has enabled me, for that he counted me faithful, putting me into the ministry;
 
 13 Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
 
-14 And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
+14 And the grace of our Lord was exceeding abundant with faith and love who is in Christ Jesus.
 
 15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; who I am chief of.
 
-16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all patience, for a pattern to them which should from now on believe on him to life everlasting.
+16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all patience, for a pattern to them who should from now on believe on him to life everlasting.
 
 17 Now to the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
 
-18 This charge I commit to you, son Timothy, according to the prophecies which went before on you, that you by them might war a good warfare;
+18 This charge I commit to you, son Timothy, according to the prophecies who went before on you, that you by them might war a good warfare;
 
 19 Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
@@ -88,7 +88,7 @@
 
 6 Not a novice, otherwise being lifted up with pride he fall into the judgment of the devil.
 
-7 Moreover he must have a good report of them which are without; otherwise he fall into disgrace and the snare of the devil.
+7 Moreover he must have a good report of them who are without; otherwise he fall into disgrace and the snare of the devil.
 
 8 Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy money;
 
@@ -100,13 +100,13 @@
 
 12 Let the deacons be the husbands of one wife, ruling their children and their own houses well.
 
-13 For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
+13 For those who have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith who is in Christ Jesus.
 
 14 These things write I to you, hoping to come to you shortly:
 
-15 But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+15 But if I tarry long, that you may know how you ought to behave yourself in the house of God, who is the church of the living God, the pillar and ground of the truth.
 
-16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Holy Spirit, seen by angels, preached to the Gentiles, believed on in the world, received up into glory.
 
 ## 1 Timothy Chapter 4
 
@@ -114,7 +114,7 @@
 
 2 Speaking lies in hypocrisy; having their conscience seared with a hot iron;
 
-3 Forbidding to marry, and commanding to abstain from meats, which God has created to be received with thanksgiving of them which believe and know the truth.
+3 Forbidding to marry, and commanding to abstain from meats, which God has created to be received with thanksgiving of them who believe and know the truth.
 
 4 For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:
 
@@ -124,7 +124,7 @@
 
 7 But refuse defile and old wives' fables, and exercise yourself rather to godliness.
 
-8 For bodily exercise profits little: but godliness is profitable to all things, having promise of the life that now is, and of that which is to come.
+8 For bodily exercise profits little: but godliness is profitable to all things, having promise of the life that now is, and of that who is to come.
 
 9 This is a faithful saying and worthy of all acceptation.
 
@@ -136,11 +136,11 @@
 
 13 Till I come, give attendance to reading, to encouragement, to doctrine.
 
-14 Neglect not the gift that is in you, which was given you by prophecy, with the laying on of the hands of the presbytery.
+14 Neglect not the gift that is in you, who was given you by prophecy, with the laying on of the hands of the presbytery.
 
 15 Meditate upon these things; give yourself wholly to them; that your profiting may appear to all.
 
-16 Take heed to yourself, and to the doctrine; continue in them: for in doing this you will both save yourself, and them that hear you.
+16 Take heed to yourself, and to the doctrine; continue in them: for in doing this you will both save yourself, and those who hear you.
 
 ## 1 Timothy Chapter 5
 
@@ -152,7 +152,7 @@
 
 4 But if any widow have children or nephews, let them learn first to show piety at home, and to repay their parents: for that is good and acceptable before God.
 
-5 Now she that is a widow indeed, and desolate, trusts in God, and continus in prayers and prayers night and day.
+5 Now she that is a widow indeed, and desolate, trusts in God, and continues in prayers and prayers night and day.
 
 6 But she that lives in pleasure is dead while she lives.
 
@@ -174,7 +174,7 @@
 
 15 For some are already turned aside after Satan.
 
-16 If any man or woman that believes have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.
+16 If any man or woman that believes have widows, let them relieve them, and let not the church be charged; that it may relieve those who are widows indeed.
 
 17 Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.
 
@@ -192,15 +192,15 @@
 
 24 Some men's sins are open beforehand, going before to judgment; and some men they follow after.
 
-25 Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.
+25 Likewise also the good works of some are manifest beforehand; and those who are otherwise cannot be hid.
 
 ## 1 Timothy Chapter 6
 
 1 Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
 
-2 And they that have believing masters, let them not despise them, because they are brothers; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and encourage.
+2 And those who have believing masters, let them not despise them, because they are brothers; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and encourage.
 
-3 If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+3 If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine who is according to godliness;
 
 4 He is proud, knowing nothing, but doting about questions and strifes of words, of which comes envy, strife, railings, evil surmisings,
 
@@ -212,7 +212,7 @@
 
 8 And having food and clothing let us be with it content.
 
-9 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and destruction.
+9 But those who will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and destruction.
 
 10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
@@ -228,13 +228,13 @@
 
 16 Who only has immortality, dwelling in the light which no man can approach to; who no man has seen, nor can see: to Him be honour and power everlasting. Amen.
 
-17 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
+17 Charge those who are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
 
 18 That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 
 19 Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
 
-20 O Timothy, keep that which is committed to your trust, avoiding defile and empty babblings, and oppositions of science falsely so called:
+20 O Timothy, keep that who is committed to your trust, avoiding defile and empty babblings, and oppositions of science falsely so called:
 
 21 Which some professing have erred concerning the faith. Grace be with you. Amen.
 

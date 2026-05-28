@@ -2,7 +2,7 @@
 
 ## 2 Thessalonians Chapter 1
 
-1 Paul, and Silvanus, and Timotheus, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+1 Paul, and Silvanus, and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
 2 Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 
@@ -12,15 +12,15 @@
 
 5 Which is a manifest token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
 
-6 Seeing it is a righteous thing with God to repay suffering to them that trouble you;
+6 Seeing it is a righteous thing with God to repay suffering to those who trouble you;
 
 7 And to you who are troubled rest with us, when the Lord Jesus will be revealed from heaven with his mighty angels,
 
-8 In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:
+8 In flaming fire taking vengeance on those who know not God, and that obey not the gospel of our Lord Jesus Christ:
 
 9 Who will be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
 
-10 When he will come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
+10 When he will come to be glorified in his saints, and to be admired in all those who believe (because our testimony among you was believed) in that day.
 
 11 therefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:
 
@@ -46,19 +46,19 @@
 
 9 Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
-10 And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
+10 And with all deceivableness of unrighteousness in those who perish; because they received not the love of the truth, that they might be saved.
 
 11 And for this cause God will send them strong delusion, that they should believe a lie:
 
 12 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through being made holy of the Holy Spirit and belief of the truth:
+13 But we are bound to give thanks alway to God for you, brothers beloved by the Lord, because God has from the beginning chosen you to salvation through being made holy of the Holy Spirit and belief of the truth:
 
 14 to which he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
 15 Therefore, brothers, stand fast, and hold the traditions which you have been taught, whether by word, or our letter.
 
-16 Now our Lord Jesus Christ himself, and God, even our Father, which has loved us, and has given us everlasting comfort and good hope through grace,
+16 Now our Lord Jesus Christ himself, and God, even our Father, who has loved us, and has given us everlasting comfort and good hope through grace,
 
 17 Comfort your hearts, and stablish you in every good word and work.
 
@@ -86,7 +86,7 @@
 
 11 For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
 
-12 Now them that are such we command and encourage by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
+12 Now those who are such we command and encourage by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
 13 But you, brothers, be not weary in well doing.
 
@@ -96,7 +96,7 @@
 
 16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 
-17 The greeting of Paul with mine own hand, which is the token in every letter: so I write.
+17 The greeting of Paul with mine own hand, who is the token in every letter: so I write.
 
 18 The grace of our Lord Jesus Christ be with you all. Amen.
 

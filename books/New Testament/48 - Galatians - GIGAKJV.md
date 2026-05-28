@@ -4,7 +4,7 @@
 
 1 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 
-2 And all the brothers which are with me, to the churches of Galatia:
+2 And all the brothers who are with me, to the churches of Galatia:
 
 3 Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 
@@ -12,7 +12,7 @@
 
 5 To Him be glory for ever and ever. Amen.
 
-6 I marvel that you are so soon removed from him that called you into the grace of Christ to another gospel:
+6 I marvel that you are so soon removed from the one who called you into the grace of Christ to another gospel:
 
 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
@@ -22,11 +22,11 @@
 
 10 For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
 
-11 But I certify you, brothers, that the gospel which was preached of me is not after man.
+11 But I certify you, brothers, that the gospel who was preached of me is not after man.
 
 12 For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
 
-13 For you have heard of my conduct in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
+13 For you have heard of my conduct in time past in the Jews' religion, that beyond measure I persecuted the church of God, and wasted it:
 
 14 And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
 
@@ -34,7 +34,7 @@
 
 16 To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
 
-17 Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again to Damascus.
+17 Neither went I up to Jerusalem to them who were apostles before me; but I went into Arabia, and returned again to Damascus.
 
 18 Then after three years I went up to Jerusalem to see Peter, and stayed with him fifteen days.
 
@@ -44,9 +44,9 @@
 
 21 Afterwards I came into the regions of Syria and Cilicia;
 
-22 And was unknown by face to the churches of Judaea which were in Christ:
+22 And was unknown by face to the churches of Judaea who were in Christ:
 
-23 But they had heard only, That he which persecuted us in times past now preachs the faith which once he destroyed.
+23 But they had heard only, That the one who persecuted us in times past now preachs the faith which once he destroyed.
 
 24 And they glorified God in me.
 
@@ -54,7 +54,7 @@
 
 1 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 
-2 And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to them which were of reputation, otherwise by any means I should run, or had run, for nothing.
+2 And I went up by revelation, and communicated to those who gospel which I preach among the Gentiles, but privately to them who were of reputation, otherwise by any means I should run, or had run, for nothing.
 
 3 But neither Titus, who was with me, being a Greek, was forced to be circumcised:
 
@@ -62,11 +62,11 @@
 
 5 To them we did not yield in submission, no, not for an hour; that the truth of the gospel might continue with you.
 
-6 But of these who seemed to be somewhat, (whatsoever they were, it makes no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
+6 But of these who seemed to be somewhat, (whatever they were, it makes no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
 
 7 But contrariwise, when they saw that the gospel of the uncircumcision was committed to me, as the gospel of the circumcision was to Peter;
 
-8 (For he that worked effectively in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+8 (For the one who worked effectively in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
 
 9 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given to me, they gave to me and Barnabas the right hands of fellowship; that we should go to the heathen, and they to the circumcision.
 
@@ -74,7 +74,7 @@
 
 11 But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
 
-12 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
+12 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them who were of the circumcision.
 
 13 And the other Jews dissembled likewise with him; so much so that Barnabas also was carried away with their hypocrisy.
 
@@ -108,13 +108,13 @@
 
 6 Even as Abraham believed God, and it was accounted to him for righteousness.
 
-7 Know you therefore that they which are of faith, the same are the children of Abraham.
+7 Know you therefore that they who are of faith, the same are the children of Abraham.
 
 8 And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel to Abraham, saying, In you will all nations be blessed.
 
-9 So then they which be of faith are blessed with faithful Abraham.
+9 So then they who be of faith are blessed with faithful Abraham.
 
-10 For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continus not in all things which are written in the book of the law to do them.
+10 For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things who are written in the book of the law to do them.
 
 11 But that no man is justified by the law in the sight of God, it is evident: for, The just will live by faith.
 
@@ -126,9 +126,9 @@
 
 15 Brothers, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannuls, or adds to it.
 
-16 Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ.
+16 Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, who is Christ.
 
-17 And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
+17 And this I say, that the covenant, that was confirmed before of God in Christ, the law, who was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 
 18 For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
 
@@ -138,7 +138,7 @@
 
 21 Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, truly righteousness should have been by the law.
 
-22 But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
+22 But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to those who believe.
 
 23 But before faith came, we were kept under the law, shut up to the faith which should afterwards be revealed.
 
@@ -164,25 +164,25 @@
 
 4 But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 
-5 To redeem them that were under the law, that we might receive the adoption of sons.
+5 To redeem those who were under the law, that we might receive the adoption of sons.
 
 6 And because you are sons, God has sent forth the Holy Spirit of his Son into your hearts, crying, Abba, Father.
 
 7 therefore you are no more a servant, but a son; and if a son, then an heir of God through Christ.
 
-8 However then, when you knew not God, you did service to them which by nature are no gods.
+8 However then, when you knew not God, you did service to them who by nature are no gods.
 
 9 But now, after that you have known God, or rather are known of God, how turn you again to the weak and beggarly elements, to which you desire again to be in bondage?
 
-10 you observe days, and months, and times, and years.
+10 You observe days, and months, and times, and years.
 
 11 I am afraid of you, otherwise I have bestowed upon you labour for nothing.
 
 12 Brothers, I urge you, be as I am; for I am as you are: you have not injured me at all.
 
-13 you know how through infirmity of the flesh I preached the gospel to you at the first.
+13 You know how through infirmity of the flesh I preached the gospel to you at the first.
 
-14 And my temptation which was in my flesh you despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
+14 And my temptation who was in my flesh you despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
 
 15 Where is then the blessedness you spoke of? for I bear you record, that, if it had been possible, you would have plucked out your own eyes, and have given them to me.
 
@@ -202,17 +202,17 @@
 
 23 But he who was of the female slave was born after the flesh; but he of the freewoman was by promise.
 
-24 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which genders to bondage, which is Agar.
+24 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which genders to bondage, who is Agar.
 
 25 For this Agar is mount Sinai in Arabia, and answers to Jerusalem which now is, and is in bondage with her children.
 
-26 But Jerusalem which is above is free, which is the mother of us all.
+26 But Jerusalem who is above is free, who is the mother of us all.
 
-27 For it is written, Rejoice, you barren that bear not; break forth and cry, you that labor not: for the desolate has many more children than she which has an husband.
+27 For it is written, Rejoice, you barren that bear not; break forth and cry, you that labor not: for the desolate has many more children than she who has an husband.
 
 28 Now we, brothers, as Isaac was, are the children of promise.
 
-29 But as then he that was born after the flesh persecuted him that was born after the Holy Spirit, even so it is now.
+29 But as then the one who was born after the flesh persecuted the one who was born after the Holy Spirit, even so it is now.
 
 30 Nevertheless what says the scripture? Cast out the female slave and her son: for the son of the female slave will not be heir with the son of the freewoman.
 
@@ -226,19 +226,19 @@
 
 3 For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
 
-4 Christ is become of no effect to you, whosoever of you are justified by the law; you are fallen from grace.
+4 Christ is become of no effect to you, whoever of you are justified by the law; you are fallen from grace.
 
 5 For we through the Holy Spirit wait for the hope of righteousness by faith.
 
 6 For in Jesus Christ neither circumcision avails any thing, nor uncircumcision; but faith which works by love.
 
-7 you did run well; who did hinder you that you should not obey the truth?
+7 You did run well; who did hinder you that you should not obey the truth?
 
-8 This persuasion comes not of him that calls you.
+8 This persuasion comes not of the one who calls you.
 
 9 A little leaven leavens the whole lump.
 
-10 I have confidence in you through the Lord, that you will be none otherwise minded: but he that troubles you will bear his judgment, whosoever he be.
+10 I have confidence in you through the Lord, that you will be none otherwise minded: but the one who troubles you will bear his judgment, whoever he be.
 
 11 And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
 
@@ -256,17 +256,17 @@
 
 18 But if you be led of the Holy Spirit, you are not under the law.
 
-19 Now the works of the flesh are manifest, which are these; Adultery, sexual sin, uncleanness, sensuality,
+19 Now the works of the flesh are manifest, who are these; Adultery, sexual sin, uncleanness, sensuality,
 
 20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, rebellions, heresies,
 
-21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things will not inherit the kingdom of God.
+21 Envyings, murders, drunkenness, revellings, and such like: of which I tell you before, as I have also told you in time past, that they who do such things will not inherit the kingdom of God.
 
 22 But the fruit of the Holy Spirit is love, joy, peace, patience, gentleness, goodness, faith,
 
 23 Meekness, self-control: against such there is no law.
 
-24 And they that are Christ's have crucified the flesh with the affections and lusts.
+24 And those who are Christ's have crucified the flesh with the affections and lusts.
 
 25 If we live in the Holy Spirit, let us also walk in the Holy Spirit.
 
@@ -274,27 +274,27 @@
 
 ## Galatians Chapter 6
 
-1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the Holy Spirit of meekness; considering yourself, otherwise you also be tempted.
+1 Brothers, if a man be overtaken in a fault, you who are spiritual, restore such an one in the Holy Spirit of meekness; considering yourself, otherwise you also be tempted.
 
 2 Bear you one another's burdens, and so fulfil the law of Christ.
 
-3 For if a man think himself to be something, when he is nothing, he deceivs himself.
+3 For if a man think himself to be something, when he is nothing, he deceives himself.
 
 4 But let every man prove his own work, and then will he have rejoicing in himself alone, and not in another.
 
 5 For every man will bear his own burden.
 
-6 Let him that is taught in the word communicate to him that teachs in all good things.
+6 Let the one who is taught in the word communicate to the one who teachs in all good things.
 
-7 Be not deceived; God is not mocked: for whatsoever a man sows, that will he also reap.
+7 Be not deceived; God is not mocked: for whatever a man sows, that will he also reap.
 
-8 For he that sows to his flesh will of the flesh reap corruption; but he that sows to the Holy Spirit will of the Holy Spirit reap life everlasting.
+8 For the one who sows to his flesh will of the flesh reap corruption; but the one who sows to the Holy Spirit will of the Holy Spirit reap life everlasting.
 
 9 And let us not be weary in well doing: for in due season we will reap, if we faint not.
 
 10 As we have therefore opportunity, let us do good to all men, especially to them who are of the household of faith.
 
-11 you see how large a letter I have written to you with mine own hand.
+11 You see how large a letter I have written to you with mine own hand.
 
 12 As many as desire to make a fair show in the flesh, they urge you to be circumcised; only otherwise they should suffer persecution for the cross of Christ.
 

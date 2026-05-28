@@ -2,7 +2,7 @@
 
 ## Ephesians Chapter 1
 
-1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
+1 Paul, an apostle of Jesus Christ by the will of God, to the saints who are at Ephesus, and to the faithful in Christ Jesus:
 
 2 Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 
@@ -20,7 +20,7 @@
 
 9 Having made known to us the mystery of his will, according to his good pleasure which he has purposed in himself:
 
-10 That in the administration of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+10 That in the administration of the fulness of times he might gather together in one all things in Christ, both who are in heaven, and who are on earth; even in him:
 
 11 In Him also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
 
@@ -42,15 +42,15 @@
 
 20 Which he worked in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
 
-21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
+21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that who is to come:
 
 22 And has put all things under his feet, and gave him to be the head over all things to the church,
 
-23 Which is his body, the fulness of him that fills all in all.
+23 Which is his body, the fulness of the one who fills all in all.
 
 ## Ephesians Chapter 2
 
-1 And you has He made alive, who were dead in trespasses and sins;
+1 And you have He made alive, who were dead in trespasses and sins;
 
 2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the Holy Spirit that now works in the children of disobedience:
 
@@ -70,7 +70,7 @@
 
 10 For we are His masterpiece, created in Christ Jesus to operate in good works, which God prepared ahead of time for us to walk in as our lifestyle.
 
-11 therefore remember, that you being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
+11 therefore remember, that you being in time past Gentiles in the flesh, who are called Uncircumcision by that who is called the Circumcision in the flesh made by hands;
 
 12 That at that time you were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 
@@ -82,7 +82,7 @@
 
 16 And that he might reconcile both to God in one body by the cross, having slain the enmity by that:
 
-17 And came and preached peace to you which were afar off, and to them that were near.
+17 And came and preached peace to you who were afar off, and to those who were near.
 
 18 For through him we both have access by one Holy Spirit to the Father.
 
@@ -98,7 +98,7 @@
 
 1 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 
-2 If you have heard of the administration of the grace of God which is given me to you-ward:
+2 If you have heard of the administration of the grace of God who is given me to you-ward:
 
 3 How that by revelation he made known to me the mystery; (as I wrote before in few words,
 
@@ -120,7 +120,7 @@
 
 12 In Him we have boldness and access with confidence by the faith of him.
 
-13 therefore I desire that you faint not at my sufferings for you, which is your glory.
+13 therefore I desire that you faint not at my sufferings for you, who is your glory.
 
 14 For this cause I bow my knees to the Father of our Lord Jesus Christ,
 
@@ -134,7 +134,7 @@
 
 19 And to know the love of Christ, which passes knowledge, that you might be filled with all the fulness of God.
 
-20 Now to him that is able to do exceeding abundantly above all that we ask or think, according to the power that works in us,
+20 Now to the one who is able to do exceeding abundantly above all that we ask or think, according to the power that works in us,
 
 21 to him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
 
@@ -168,7 +168,7 @@
 
 14 That we from now on be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, by which they lie in wait to deceive;
 
-15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
+15 But speaking the truth in love, may grow up into him in all things, who is the head, even Christ:
 
 16 From Him the whole body, fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
 
@@ -182,11 +182,11 @@
 
 21 If so be that you have heard him, and have been taught by him, as the truth is in Jesus:
 
-22 That you put off concerning the former conduct the old man, which is corrupt according to the deceitful lusts;
+22 That you put off concerning the former conduct the old man, who is corrupt according to the deceitful lusts;
 
 23 And be renewed in the Holy Spirit of your mind;
 
-24 And that you put on the new man, which after God is created in righteousness and true holiness.
+24 And that you put on the new man, who after God is created in righteousness and true holiness.
 
 25 therefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 
@@ -194,9 +194,9 @@
 
 27 Neither give place to the devil.
 
-28 Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs.
+28 Let the one who stole steal no more: but rather let him labour, working with his hands the thing who is good, that he may have to give to the one who needs.
 
-29 Let no rotten speech (harmful words) proceed out of your mouth, but that which is good to the use of building up, that it may minister grace to the hearers.
+29 Let no rotten speech (harmful words) proceed out of your mouth, but that who is good to the use of building up, that it may minister grace to the hearers.
 
 30 And grieve not the holy Holy Spirit of God, by which you are sealed to the day of redemption.
 
@@ -212,7 +212,7 @@
 
 3 But sexual sin, and all uncleanness, or greed, let it not be once named among you, as becomes saints;
 
-4 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
+4 Neither filthiness, nor foolish talking, nor jesting, who are not convenient: but rather giving of thanks.
 
 5 For this you know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God.
 
@@ -228,9 +228,9 @@
 
 11 And have no fellowship with the unfruitful works of darkness, but rather correct them.
 
-12 For it is a shame even to speak of those things which are done of them in secret.
+12 For it is a shame even to speak of those things who are done of them in secret.
 
-13 But all things that are corrected are made manifest by the light: for whatsoever does make manifest is light.
+13 But all things that are corrected are made manifest by the light: for whatever does make manifest is light.
 
 14 therefore he says, Awake you that sleep, and arise from the dead, and Christ will give you light.
 
@@ -240,7 +240,7 @@
 
 17 therefore be you not unwise, but understanding what the will of the Lord is.
 
-18 And be not drunk with wine, in which is excess; but be filled with the Holy Spirit;
+18 And be not drunk with wine, in who is excess; but be filled with the Holy Spirit;
 
 19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 
@@ -276,19 +276,19 @@
 
 1 Children, obey your parents in the Lord: for this is right.
 
-2 Honour your father and mother; which is the first commandment with promise;
+2 Honour your father and mother; who is the first commandment with promise;
 
 3 That it may be well with you, and you may live long on the earth.
 
 4 And, you fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
 
-5 Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as to Christ;
+5 Servants, be obedient to those who are your masters according to the flesh, with fear and trembling, in singleness of your heart, as to Christ;
 
 6 Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 
 7 With good will doing service, as to the Lord, and not to men:
 
-8 Knowing that whatsoever good thing any man does, the same will he receive of the Lord, whether he be bond or free.
+8 Knowing that whatever good thing any man does, the same will he receive of the Lord, whether he be bond or free.
 
 9 And, you masters, do the same things to them, holding back threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
@@ -306,7 +306,7 @@
 
 16 Above all, taking the shield of faith, with what you will be able to put out all the fiery darts of the wicked.
 
-17 And take the helmet of salvation, and the sword of the Holy Spirit, which is the word of God:
+17 And take the helmet of salvation, and the sword of the Holy Spirit, who is the word of God:
 
 18 Praying always with all prayer and prayer in the Holy Spirit, and watching thereunto with all perseverance and prayer for all saints;
 
@@ -320,7 +320,7 @@
 
 23 Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.
 
-24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
+24 Grace be with all those who love our Lord Jesus Christ in sincerity. Amen.
 
 
 ## eof

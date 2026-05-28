@@ -2,7 +2,7 @@
 
 ## 1 Thessalonians Chapter 1
 
-1 Paul, and Silvanus, and Timotheus, to the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be to you, and peace, from God our Father, and the Lord Jesus Christ.
+1 Paul, and Silvanus, and Timothy, to the church of the Thessalonians who is in God the Father and in the Lord Jesus Christ: Grace be to you, and peace, from God our Father, and the Lord Jesus Christ.
 
 2 We give thanks to God always for you all, making mention of you in our prayers;
 
@@ -42,7 +42,7 @@
 
 9 For you remember, brothers, our labor and hardship: for labouring night and day, because we would not be chargeable to any of you, we preached to you the gospel of God.
 
-10 you are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:
+10 You are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:
 
 11 As you know how we encouraged and comforted and charged every one of you, as a father does his children,
 
@@ -68,7 +68,7 @@
 
 1 therefore when we could no longer hold back, we thought it good to be left at Athens alone;
 
-2 And sent Timotheus, our brother, and minister of God, and our co-worker in the gospel of Christ, to establish you, and to comfort you concerning your faith:
+2 And sent Timothy, our brother, and minister of God, and our co-worker in the gospel of Christ, to establish you, and to comfort you concerning your faith:
 
 3 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
 
@@ -76,7 +76,7 @@
 
 5 For this cause, when I could no longer hold back, I sent to know your faith, otherwise by some means the tempter have tempted you, and our labour be for nothing.
 
-6 But now when Timotheus came from you to us, and brought us good tidings of your faith and love, and that you have good remembrance of us always, desiring greatly to see us, as we also to see you:
+6 But now when Timothy came from you to us, and brought us good tidings of your faith and love, and that you have good remembrance of us always, desiring greatly to see us, as we also to see you:
 
 7 Therefore, brothers, we were comforted over you in all our affliction and distress by your faith:
 
@@ -84,7 +84,7 @@
 
 9 For what thanks can we render to God again for you, for all the joy with what we joy for your sakes before our God;
 
-10 Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
+10 Night and day praying exceedingly that we might see your face, and might perfect that who is lacking in your faith?
 
 11 Now God himself and our Father, and our Lord Jesus Christ, direct our way to you.
 
@@ -108,25 +108,25 @@
 
 7 For God has not called us to uncleanness, but to holiness.
 
-8 He therefore that despiss, despiss not man, but God, who has also given to us his holy Spirit.
+8 He therefore that despises, despises not man, but God, who has also given to us his holy Spirit.
 
 9 But as touching brotherly love you need not that I write to you: for you yourselves are taught of God to love one another.
 
-10 And indeed you do it toward all the brothers which are in all Macedonia: but we urge you, brothers, that you increase more and more;
+10 And indeed you do it toward all the brothers who are in all Macedonia: but we urge you, brothers, that you increase more and more;
 
 11 And that you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 
-12 That you may walk honestly toward them that are without, and that you may have lack of nothing.
+12 That you may walk honestly toward those who are without, and that you may have lack of nothing.
 
-13 But I would not have you to be ignorant, brothers, concerning them which are asleep, that you sorrow not, even as others which have no hope.
+13 But I would not have you to be ignorant, brothers, concerning them who are asleep, that you sorrow not, even as others who have no hope.
 
 14 For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
 
-15 For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord will not prevent them which are asleep.
+15 For this we say to you by the word of the Lord, that we who are alive and remain to the coming of the Lord will not prevent them who are asleep.
 
 16 For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ will rise first:
 
-17 Then we which are alive and remain will be caught up together with them in the clouds, to meet the Lord in the air: and so will we ever be with the Lord.
+17 Then we who are alive and remain will be caught up together with them in the clouds, to meet the Lord in the air: and so will we ever be with the Lord.
 
 18 therefore comfort one another with these words.
 
@@ -140,11 +140,11 @@
 
 4 But you, brothers, are not in darkness, that that day should overtake you as a thief.
 
-5 you are all the children of light, and the children of the day: we are not of the night, nor of darkness.
+5 You are all the children of light, and the children of the day: we are not of the night, nor of darkness.
 
 6 Therefore let us not sleep, as do others; but let us watch and be sober.
 
-7 For they that sleep sleep in the night; and they that be drunken are drunken in the night.
+7 For those who sleep sleep in the night; and those who be drunken are drunken in the night.
 
 8 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
 
@@ -154,13 +154,13 @@
 
 11 therefore comfort yourselves together, and build up one another, even as also you do.
 
-12 And we urge you, brothers, to know them which labour among you, and are over you in the Lord, and admonish you;
+12 And we urge you, brothers, to know them who labour among you, and are over you in the Lord, and admonish you;
 
 13 And to esteem them very highly in love for their work's sake. And be at peace among yourselves.
 
-14 Now we encourage you, brothers, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.
+14 Now we encourage you, brothers, warn those who are unruly, comfort the feebleminded, support the weak, be patient toward all men.
 
-15 See that none render evil for evil to any man; but ever follow that which is good, both among yourselves, and to all men.
+15 See that none render evil for evil to any man; but ever follow that who is good, both among yourselves, and to all men.
 
 16 Rejoice evermore.
 
@@ -172,13 +172,13 @@
 
 20 Despise not prophesyings.
 
-21 Prove all things; hold fast that which is good.
+21 Prove all things; hold fast that who is good.
 
 22 Abstain from all appearance of evil.
 
 23 And the very God of peace sanctify you wholly; and I pray God your whole human spirit, soul, and body be preserved blameless to the coming of our Lord Jesus Christ.
 
-24 Faithful is he that calls you, who also will do it.
+24 Faithful is the one who calls you, who also will do it.
 
 25 Brothers, pray for us.
 
